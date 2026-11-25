@@ -1,0 +1,4 @@
+{
+  "_comment": "Patch or add cards missing from swu-db. Keys are SET_NNN (3-digit number). Fields: name, sub, type, front, back, landscape, arena, variant. Rebuild with: python tools/build_card_index.py",
+  "_example_DONOTUSE_000": { "name": "Example", "type": "Unit", "front": "https://example.com/card.png" }
+}

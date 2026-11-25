@@ -1,0 +1,446 @@
+{
+ "source": "https://api.swu-db.com",
+ "sets": [
+  {
+   "code": "ASH",
+   "name": "Ashes of the Empire",
+   "parent": null,
+   "mainSet": true,
+   "released": "7/17/26",
+   "cards": 646,
+   "file": "cards/ASH.json"
+  },
+  {
+   "code": "ASHOP",
+   "name": "Ashes of the Empire - OP Promo",
+   "parent": "ASH",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/ASHOP.json"
+  },
+  {
+   "code": "C24",
+   "name": "2024 Conventions Exclusives",
+   "parent": null,
+   "mainSet": false,
+   "released": "7/25/24",
+   "cards": 6,
+   "file": "cards/C24.json"
+  },
+  {
+   "code": "C25",
+   "name": "2025 Conventions Exclusives",
+   "parent": null,
+   "mainSet": false,
+   "released": "7/25/25",
+   "cards": 6,
+   "file": "cards/C25.json"
+  },
+  {
+   "code": "C26",
+   "name": "2026 Conventions Exclusives",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 6,
+   "file": "cards/C26.json"
+  },
+  {
+   "code": "CST",
+   "name": "Costco Exclusive",
+   "parent": null,
+   "mainSet": false,
+   "released": "9/15/26",
+   "cards": 2,
+   "file": "cards/CST.json"
+  },
+  {
+   "code": "ESHD",
+   "name": "Shadows of the Galaxy - Event Exclusive",
+   "parent": "SHD",
+   "mainSet": false,
+   "released": null,
+   "cards": 1,
+   "file": "cards/ESHD.json"
+  },
+  {
+   "code": "ESOR",
+   "name": "Spark of Rebellion - Event Exclusives",
+   "parent": "SOR",
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/ESOR.json"
+  },
+  {
+   "code": "G25",
+   "name": "2025 Gift Box",
+   "parent": null,
+   "mainSet": false,
+   "released": "12/5/25",
+   "cards": 3,
+   "file": "cards/G25.json"
+  },
+  {
+   "code": "HMW",
+   "name": "Homeworlds",
+   "parent": null,
+   "mainSet": true,
+   "released": "10/9/26",
+   "cards": 668,
+   "file": "cards/HMW.json"
+  },
+  {
+   "code": "HMWP",
+   "name": "Homeworlds - OP Promo",
+   "parent": "HMW",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/HMWP.json"
+  },
+  {
+   "code": "IBH",
+   "name": "Intro Battle: Hoth",
+   "parent": null,
+   "mainSet": true,
+   "released": "10/3/25",
+   "cards": 104,
+   "file": "cards/IBH.json"
+  },
+  {
+   "code": "IC27",
+   "name": "Icons 2027",
+   "parent": null,
+   "mainSet": true,
+   "released": "11/20/26",
+   "cards": 390,
+   "file": "cards/IC27.json"
+  },
+  {
+   "code": "J24",
+   "name": "2024 Judge Promos",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 6,
+   "file": "cards/J24.json"
+  },
+  {
+   "code": "J25",
+   "name": "2025 Judge Promos",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 19,
+   "file": "cards/J25.json"
+  },
+  {
+   "code": "JTL",
+   "name": "Jump To Lightspeed",
+   "parent": null,
+   "mainSet": true,
+   "released": "3/14/25",
+   "cards": 622,
+   "file": "cards/JTL.json"
+  },
+  {
+   "code": "JTLOP",
+   "name": "Jump to Lightspeed - OP Promo",
+   "parent": "JTL",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/JTLOP.json"
+  },
+  {
+   "code": "LAW",
+   "name": "A Lawless Time",
+   "parent": null,
+   "mainSet": true,
+   "released": "3/13/26",
+   "cards": 630,
+   "file": "cards/LAW.json"
+  },
+  {
+   "code": "LAWP",
+   "name": "A Lawless Time - OP Promo",
+   "parent": "LAW",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/LAWP.json"
+  },
+  {
+   "code": "LOF",
+   "name": "Legends of the Force",
+   "parent": null,
+   "mainSet": true,
+   "released": "7/11/25",
+   "cards": 644,
+   "file": "cards/LOF.json"
+  },
+  {
+   "code": "LOFOP",
+   "name": "Legends of the Force - OP Promo",
+   "parent": "LOF",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/LOFOP.json"
+  },
+  {
+   "code": "MV26",
+   "name": "The Mandalorian and Grogu Movie Promo",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/MV26.json"
+  },
+  {
+   "code": "P25",
+   "name": "2025 Promos",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 178,
+   "file": "cards/P25.json"
+  },
+  {
+   "code": "P26",
+   "name": "2026 Promos",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 212,
+   "file": "cards/P26.json"
+  },
+  {
+   "code": "PSHD",
+   "name": "Shadows of the Galaxy - Prerelease Promos",
+   "parent": "SHD",
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/PSHD.json"
+  },
+  {
+   "code": "PSHDJ",
+   "name": "Shadows of the Galaxy - Prerelease Promos (Judge)",
+   "parent": "SHD",
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/PSHDJ.json"
+  },
+  {
+   "code": "PSOR",
+   "name": "Spark of Rebellion - Prerelease Promos",
+   "parent": "SOR",
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/PSOR.json"
+  },
+  {
+   "code": "PSORJ",
+   "name": "Spark of Rebellion - Prerelease Judge Promos",
+   "parent": "SOR",
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/PSORJ.json"
+  },
+  {
+   "code": "PTWI",
+   "name": "Twilight of the Republic - Prerelease Promos",
+   "parent": "TWI",
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/PTWI.json"
+  },
+  {
+   "code": "PTWIJ",
+   "name": "Twilight of the Republic - Prerelease Promos (Judge)",
+   "parent": "TWI",
+   "mainSet": false,
+   "released": null,
+   "cards": 2,
+   "file": "cards/PTWIJ.json"
+  },
+  {
+   "code": "SEC",
+   "name": "Secrets of Power",
+   "parent": null,
+   "mainSet": true,
+   "released": "11/7/25",
+   "cards": 636,
+   "file": "cards/SEC.json"
+  },
+  {
+   "code": "SECOP",
+   "name": "Secrets of Power - OP Promo",
+   "parent": "SEC",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/SECOP.json"
+  },
+  {
+   "code": "SHD",
+   "name": "Shadows of the Galaxy",
+   "parent": null,
+   "mainSet": true,
+   "released": "7/12/24",
+   "cards": 526,
+   "file": "cards/SHD.json"
+  },
+  {
+   "code": "SHDOP",
+   "name": "Shadows of the Galaxy - OP Promo",
+   "parent": "SHD",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/SHDOP.json"
+  },
+  {
+   "code": "SHDPQ",
+   "name": "Shadows of the Galaxy - Planetary Qualifier",
+   "parent": "SHD",
+   "mainSet": false,
+   "released": null,
+   "cards": 6,
+   "file": "cards/SHDPQ.json"
+  },
+  {
+   "code": "SHDPQJ",
+   "name": "Shadows of the Galaxy - Planetary Qualifier (Judge)",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 1,
+   "file": "cards/SHDPQJ.json"
+  },
+  {
+   "code": "SOR",
+   "name": "Spark of Rebellion",
+   "parent": null,
+   "mainSet": true,
+   "released": "3/8/24",
+   "cards": 514,
+   "file": "cards/SOR.json"
+  },
+  {
+   "code": "SOROP",
+   "name": "Spark of Rebellion - OP Promo",
+   "parent": "SOR",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/SOROP.json"
+  },
+  {
+   "code": "SS1",
+   "name": "Store Showdown - 1",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 5,
+   "file": "cards/SS1.json"
+  },
+  {
+   "code": "SS1J",
+   "name": "Store Showdown - 1 (Judge)",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 1,
+   "file": "cards/SS1J.json"
+  },
+  {
+   "code": "SS2",
+   "name": "Store Showdown - 2",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 5,
+   "file": "cards/SS2.json"
+  },
+  {
+   "code": "SS2J",
+   "name": "Store Showdown - 2 (Judge)",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 1,
+   "file": "cards/SS2J.json"
+  },
+  {
+   "code": "TS26",
+   "name": "Twin Suns 2026",
+   "parent": null,
+   "mainSet": true,
+   "released": "5/8/26",
+   "cards": 88,
+   "file": "cards/TS26.json"
+  },
+  {
+   "code": "TWI",
+   "name": "Twilight of the Republic",
+   "parent": null,
+   "mainSet": true,
+   "released": "11/8/24",
+   "cards": 521,
+   "file": "cards/TWI.json"
+  },
+  {
+   "code": "TWIOP",
+   "name": "Twilight of the Republic - OP Promo",
+   "parent": "TWI",
+   "mainSet": false,
+   "released": null,
+   "cards": 20,
+   "file": "cards/TWIOP.json"
+  },
+  {
+   "code": "TWIPQ",
+   "name": "Twilight of the Republic - Planetary Qualifier",
+   "parent": "TWI",
+   "mainSet": false,
+   "released": null,
+   "cards": 6,
+   "file": "cards/TWIPQ.json"
+  },
+  {
+   "code": "TWIPQJ",
+   "name": "Twilight of the Republic - Planetary Qualifier (Judge)",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 1,
+   "file": "cards/TWIPQJ.json"
+  },
+  {
+   "code": "TWISS",
+   "name": "Store Showdown - 3",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 5,
+   "file": "cards/TWISS.json"
+  },
+  {
+   "code": "TWISSJ",
+   "name": "Store Showdown - 3 (Judge)",
+   "parent": null,
+   "mainSet": false,
+   "released": null,
+   "cards": 1,
+   "file": "cards/TWISSJ.json"
+  }
+ ]
+}
