@@ -1,0 +1,527 @@
+#id	name	sub	type	arena	flags	variant	front	back
+SHD_001	Gar Saxon	Viceroy of Mandalore	Leader	Ground	L			=
+SHD_002	Qi'ra	I Alone Survived	Leader	Ground	L			=
+SHD_003	Finn	This is a Rescue	Leader	Ground	L			=
+SHD_004	Rey	More Than a Scavenger	Leader	Ground	L			=
+SHD_005	Hondo Ohnaka	That's Good Business	Leader	Ground	L			=
+SHD_006	Jabba the Hutt	His High Exaltdeness	Leader	Ground	L			=
+SHD_007	Moff Gideon	Formidable Commander	Leader	Ground	L			=
+SHD_008	Boba Fett	Daimyo	Leader	Ground	L			=
+SHD_009	Hunter	Outcast Sergeant	Leader	Ground	L			=
+SHD_010	Bossk	Hunting His Prey	Leader	Ground	L			=
+SHD_011	Kylo Ren	Rash and Deadly	Leader	Ground	L			=
+SHD_012	Bo-Katan Kryze	Princess in Exile	Leader	Ground	L			=
+SHD_013	Han Solo	Worth the Risk	Leader	Ground	L			=
+SHD_014	Cad Bane	He Who Needs No Introduction	Leader	Ground	L			=
+SHD_015	Doctor Aphra	Rapacious Archaeologist	Leader	Ground	L			=
+SHD_016	Fennec Shand	Honoring the Deal	Leader	Ground	L			=
+SHD_017	Lando Calrissian	With Impeccable Taste	Leader	Ground	L			=
+SHD_018	The Mandalorian	Sworn to the Creed	Leader	Ground	L			=
+SHD_019	Remnant Science Facility	Nevarro	Base		L			
+SHD_020	Remote Village	Sorgan	Base		L			
+SHD_021	Maz Kanata's Castle	Takodana	Base		L			
+SHD_022	Nevarro City	Nevarro	Base		L			
+SHD_023	Death Watch Hideout	Concordia	Base		L			
+SHD_024	Spice Mines	Kessel	Base		L			
+SHD_025	Coronet City	Corellia	Base		L			
+SHD_026	Jabba's Palace	Tatooine	Base		L			
+SHD_027	Hylobon Enforcer		Unit	Ground				
+SHD_028	Doctor Pershing	Experimenting With Life	Unit	Ground				
+SHD_029	Pyke Sentinel		Unit	Ground				
+SHD_030	Death Trooper		Unit	Ground				
+SHD_031	The Client	Dictated by Discretion	Unit	Ground				
+SHD_032	Lom Pyke	Dealer in Truths	Unit	Ground				
+SHD_033	Synara San	Loyal to Kragan	Unit	Ground				
+SHD_034	Supercommando Squad		Unit	Ground				
+SHD_035	Clan Saxon Gauntlet		Unit	Space				
+SHD_036	First Light	Headquarters of the Crimson Dawn	Unit	Space				
+SHD_037	Supreme Leader Snoke	Shadow Ruler	Unit	Ground				
+SHD_038	Brutal Traditions		Upgrade					
+SHD_039	Calculated Lethality		Event					
+SHD_040	Clan Wren Rescuer		Unit	Ground				
+SHD_041	Kuiil	I Have Spoken	Unit	Ground				
+SHD_042	Concord Dawn Interceptors		Unit	Space				
+SHD_043	Village Protectors		Unit	Ground				
+SHD_044	Razor Crest	Reliable Gunship	Unit	Space				
+SHD_045	Rose Tico	Dedicated to the Cause	Unit	Ground				
+SHD_046	Rey	Keeping the Past	Unit	Ground				
+SHD_047	The Armorer	Survival Is Strength	Unit	Ground				
+SHD_048	Gentle Giant		Unit	Ground				
+SHD_049	The Mandalorian	Wherever I Go, He Goes	Unit	Ground				
+SHD_050	Chewbacca	Pykesbane	Unit	Ground				
+SHD_051	Mystic Reflection		Event					
+SHD_052	Sugi	Hired Guardian	Unit	Ground				
+SHD_053	Second Chance		Upgrade					
+SHD_054	Midnight Repairs		Event					
+SHD_055	Moisture Farmer		Unit	Ground				
+SHD_056	Follower of The Way		Unit	Ground				
+SHD_057	Rickety Quadjumper		Unit	Space				
+SHD_058	Val	Loyal to the End	Unit	Ground				
+SHD_059	Embo	Stoic and Resolute	Unit	Ground				
+SHD_060	HWK-290 Freighter		Unit	Space				
+SHD_061	Wroshyr Tree Tender		Unit	Ground				
+SHD_062	Niima Outpost Constables		Unit	Ground				
+SHD_063	System Patrol Craft		Unit	Space				
+SHD_064	Survivors' Gauntlet		Unit	Space				
+SHD_065	Vigilant Pursuit Craft		Unit	Space				
+SHD_066	Cargo Juggernaut		Unit	Ground				
+SHD_067	Fenn Rau	Protector of Concord Dawn	Unit	Ground				
+SHD_068	Public Enemy		Upgrade					
+SHD_069	Foundling		Upgrade					
+SHD_070	Resilient		Upgrade					
+SHD_071	Top Target		Upgrade					
+SHD_072	Imprisoned		Upgrade					
+SHD_073	Mandalorian Armor		Upgrade					
+SHD_074	Vambrace Grappleshot		Upgrade					
+SHD_075	Covert Strength		Event					
+SHD_076	Unexpected Escape		Event					
+SHD_077	Evidence of the Crime		Event					
+SHD_078	Fell the Dragon		Event					
+SHD_079	Rival's Fall		Event					
+SHD_080	Salacious Crumb	Obnoxious Pet	Unit	Ground				
+SHD_081	General Tagge	Concerned Commander	Unit	Ground				
+SHD_082	Outland TIE Vanguard		Unit	Space				
+SHD_083	Seasoned Shoretrooper		Unit	Ground				
+SHD_084	Phase-III Dark Trooper		Unit	Ground				
+SHD_085	Superlaser Technician		Unit	Ground				
+SHD_086	Warbird Stowaway		Unit	Ground				
+SHD_087	Crosshair	Following Orders	Unit	Ground				
+SHD_088	Ephant Mon	Head of Security	Unit	Ground				
+SHD_089	Pirate Battle Tank		Unit	Ground				
+SHD_090	Maul	Shadow Collective Visionary	Unit	Ground				
+SHD_091	Jabba's Rancor	Pateesa	Unit	Ground				
+SHD_092	Finalizer	Might of the First Order	Unit	Space				
+SHD_093	Remnant Reserves		Event					
+SHD_094	Palpatine's Return		Event					
+SHD_095	Clone Deserter		Unit	Ground				
+SHD_096	Maz Kanata	Pirate Queen	Unit	Ground				
+SHD_097	Freetown Backup		Unit	Ground				
+SHD_098	Sundari Peacekeeper		Unit	Ground				
+SHD_099	Echo	Restored	Unit	Ground				
+SHD_100	Modded Cohort		Unit	Ground				
+SHD_101	Adelphi Patrol Wing		Unit	Space				
+SHD_102	The Marauder	Shuttling the Bad Batch	Unit	Space				
+SHD_103	General Rieekan	Defensive Strategist	Unit	Ground				
+SHD_104	Inspiring Mentor		Upgrade					
+SHD_105	Spark of Hope		Event					
+SHD_106	Rule with Respect		Event					
+SHD_107	Enterprising Lackeys		Unit	Ground				
+SHD_108	Enforced Loyalty		Event					
+SHD_109	Endless Legions		Event					
+SHD_110	Warzone Lieutenant		Unit	Ground				
+SHD_111	Collections Starhopper		Unit	Space				
+SHD_112	Gamorrean Retainer		Unit	Ground				
+SHD_113	Privateer Crew		Unit	Ground				
+SHD_114	Scanning Officer		Unit	Ground				
+SHD_115	Cobb Vanth	The Marshal	Unit	Ground				
+SHD_116	Outlaw Corona		Unit	Space				
+SHD_117	Reputable Hunter		Unit	Ground				
+SHD_118	Kihrazx Heavy Fighter		Unit	Space				
+SHD_119	Weequay Pirate Gang		Unit	Ground				
+SHD_120	Discerning Veteran		Unit	Ground				
+SHD_121	Mercenary Company		Unit	Ground				
+SHD_122	Arquitens Assault Cruiser		Unit	Space				
+SHD_123	Bounty Hunter's Quarry		Upgrade					
+SHD_124	Legal Authority		Upgrade					
+SHD_125	Price on Your Head		Upgrade					
+SHD_126	The Darksaber		Upgrade					
+SHD_127	Commission		Event					
+SHD_128	Outflank		Event					
+SHD_129	Timely Intervention		Event					
+SHD_130	Moment of Glory		Event					
+SHD_131	Take Captive		Event					
+SHD_132	Choose Sides		Event					
+SHD_133	Dengar	The Demolisher	Unit	Ground				
+SHD_134	Guavian Antagonizer		Unit	Ground				
+SHD_135	Kylo's TIE Silencer	Ruthlessly Efficient	Unit	Space				
+SHD_136	Death Watch Loyalist		Unit	Ground				
+SHD_137	Punishing One	Dengar's Jumpmaster	Unit	Space				
+SHD_138	Jango Fett	Renowned Bounty Hunter	Unit	Ground				
+SHD_139	Krrsantan	Muscle for Hire	Unit	Ground				
+SHD_140	Trandoshan Hunters		Unit	Ground				
+SHD_141	Kylo Ren	Killing the Past	Unit	Ground				
+SHD_142	Pre Vizsla	Power Hungry	Unit	Ground				
+SHD_143	Ruthlessness		Upgrade					
+SHD_144	Give In to Your Anger		Event					
+SHD_145	Headhunting		Event					
+SHD_146	Heroic Renegade		Unit	Ground				
+SHD_147	Ketsu Onyo	Old Friend	Unit	Ground				
+SHD_148	Cassian Andor	Rebellions Are Built On Hope	Unit	Ground				
+SHD_149	Nite Owl Skirmisher		Unit	Ground				
+SHD_150	Koska Reeves	Loyal Nite Owl	Unit	Ground				
+SHD_151	Valiant Assault Ship		Unit	Space				
+SHD_152	Desperado Freighter		Unit	Space				
+SHD_153	Poe Dameron	Quick to Improvise	Unit	Ground				
+SHD_154	Wrecker	Boom!	Unit	Ground				
+SHD_155	Heroic Resolve		Upgrade					
+SHD_156	Cripple Authority		Event					
+SHD_157	Bo-Katan Kryze	Fighting For Mandalore	Unit	Ground				
+SHD_158	Wild Rancor		Unit	Ground				
+SHD_159	The Chaos of War		Event					
+SHD_160	Reckless Gunslinger		Unit	Ground				
+SHD_161	Stolen Landspeeder		Unit	Ground				
+SHD_162	House Kast Soldier		Unit	Ground				
+SHD_163	Migs Mayfeld	Triggerman	Unit	Ground				
+SHD_164	Rhokai Gunship		Unit	Space				
+SHD_165	Unlicensed Headhunter		Unit	Space				
+SHD_166	Disabling Fang Fighter		Unit	Space				
+SHD_167	Wanted Insurgents		Unit	Ground				
+SHD_168	Hunting Nexu		Unit	Ground				
+SHD_169	Clan Challengers		Unit	Ground				
+SHD_170	IG-11	I Cannot Be Captured	Unit	Ground				
+SHD_171	Covetous Rivals		Unit	Ground				
+SHD_172	Krayt Dragon		Unit	Ground				
+SHD_173	Guild Target		Upgrade					
+SHD_174	Hotshot DL-44 Blaster		Upgrade					
+SHD_175	Armed to the Teeth		Upgrade					
+SHD_176	Death Mark		Upgrade					
+SHD_177	Vambrace Flamethrower		Upgrade					
+SHD_178	Daring Raid		Event					
+SHD_179	Desperate Attack		Event					
+SHD_180	Detention Block Rescue		Event					
+SHD_181	Pillage		Event					
+SHD_182	Bravado		Event					
+SHD_183	Kintan Intimidator		Unit	Ground				
+SHD_184	Bazine Netal	Spy for the First Order	Unit	Ground				
+SHD_185	Doctor Evazan	Wanted on Twelve Systems	Unit	Ground				
+SHD_186	Hunter of the Haxion Brood		Unit	Ground				
+SHD_187	Lurking TIE Phantom		Unit	Space				
+SHD_188	4-LOM	Bounty Hunter for Hire	Unit	Ground				
+SHD_189	Slaver's Freighter		Unit	Space				
+SHD_190	Zuckuss	Bounty Hunter for Hire	Unit	Ground				
+SHD_191	Xanadu Blood	Cad Bane's Reward	Unit	Space				
+SHD_192	Dryden Vos	Offering No Escape	Unit	Ground				
+SHD_193	Frozen in Carbonite		Upgrade					
+SHD_194	Triple Dark Raid		Event					
+SHD_195	Cartel Turncoat		Unit	Space				
+SHD_196	Grogu	Irresistible	Unit	Ground				
+SHD_197	L3-37	Droid Revolutionary	Unit	Ground				
+SHD_198	Omega	Part of the Squad	Unit	Ground				
+SHD_199	Coruscant Dissident		Unit	Ground				
+SHD_200	Liberated Slaves		Unit	Ground				
+SHD_201	Principled Outlaw		Unit	Ground				
+SHD_202	Qi'ra	Playing Her Part	Unit	Ground				
+SHD_203	Zorii Bliss	Valiant Smuggler	Unit	Ground				
+SHD_204	Millennium Falcon	Lando's Pride	Unit	Space				
+SHD_205	Let the Wookiee Win		Event					
+SHD_206	Spare the Target		Event					
+SHD_207	A New Adventure		Event					
+SHD_208	Final Showdown		Event					
+SHD_209	Criminal Muscle		Unit	Ground				
+SHD_210	Cloud-Rider		Unit	Ground				
+SHD_211	Fugitive Wookiee		Unit	Ground				
+SHD_212	Privateer Scyk		Unit	Space				
+SHD_213	DJ	Blatant Thief	Unit	Ground				
+SHD_214	Frontier Trader		Unit	Ground				
+SHD_215	Smuggler's Starfighter		Unit	Space				
+SHD_216	Chain Code Collector		Unit	Ground				
+SHD_217	Tobias Beckett	I Trust No One	Unit	Ground				
+SHD_218	Resourceful Pursuers		Unit	Ground				
+SHD_219	Enfys Nest	Marauder	Unit	Ground				
+SHD_220	Fennec Shand	Loyal Sharpshooter	Unit	Ground				
+SHD_221	Wanted		Upgrade					
+SHD_222	Enticing Reward		Upgrade					
+SHD_223	Snapshot Reflexes		Upgrade					
+SHD_224	Boba Fett's Armor		Upgrade					
+SHD_225	Jetpack		Upgrade					
+SHD_226	Unrefusable Offer		Upgrade					
+SHD_227	Look the Other Way		Event					
+SHD_228	Bounty Posting		Event					
+SHD_229	Ma Klounkee		Event					
+SHD_230	Swoop Down		Event					
+SHD_231	Surprise Strike		Event					
+SHD_232	Relentless Pursuit		Event					
+SHD_233	Evacuate		Event					
+SHD_234	Incinerator Trooper		Unit	Ground				
+SHD_235	Ruthless Assassin		Unit	Ground				
+SHD_236	Snowtrooper Lieutenant		Unit	Ground				
+SHD_237	Black Sun Starfighter		Unit	Space				
+SHD_238	Cell Block Guard		Unit	Ground				
+SHD_239	Toro Calican	Ambitious Upstart	Unit	Ground				
+SHD_240	Hutt's Henchmen		Unit	Ground				
+SHD_241	Kragan Gorr	Warbird Captain	Unit	Ground				
+SHD_242	Gideon's Light Cruiser	Dark Troopers' Station	Unit	Space				
+SHD_243	Altering the Deal		Event					
+SHD_244	No Bargain		Event					
+SHD_245	Greef Karga	Affable Commissioner	Unit	Ground				
+SHD_246	Grey Squadron Y-Wing		Unit	Space				
+SHD_247	Protector of the Throne		Unit	Ground				
+SHD_248	Tech	Source of Insight	Unit	Ground				
+SHD_249	Wookiee Warrior		Unit	Ground				
+SHD_250	Tarfful	Kashyyyk Chieftan	Unit	Ground				
+SHD_251	The Mandalorian's Rifle		Upgrade					
+SHD_252	Smuggler's Aid		Event					
+SHD_253	This Is The Way		Event					
+SHD_254	Bounty Guild Initiate		Unit	Ground				
+SHD_255	Lady Proxima	White Worm Matriarch	Unit	Ground				
+SHD_256	Mercenary Gunship		Unit	Space				
+SHD_257	Underworld Thug		Unit	Ground				
+SHD_258	Mandalorian Warrior		Unit	Ground				
+SHD_259	Twin Pod Cloud Car		Unit	Space				
+SHD_260	Street Gang Recruiter		Unit	Ground				
+SHD_261	Rich Reward		Upgrade					
+SHD_262	Confiscate		Event					
+SHD_263	Gar Saxon	Viceroy of Mandalore	Leader	Ground	L	Showcase		=
+SHD_264	Qi'ra	I Alone Survived	Leader	Ground	L	Showcase		=
+SHD_265	Finn	This is a Rescue	Leader	Ground	L	Showcase		=
+SHD_266	Rey	More Than a Scavenger	Leader	Ground	L	Showcase		=
+SHD_267	Hondo Ohnaka	That's Good Business	Leader	Ground	L	Showcase		=
+SHD_268	Jabba the Hutt	His High Exaltdeness	Leader	Ground	L	Showcase		=
+SHD_269	Moff Gideon	Formidable Commander	Leader	Ground	L	Showcase		=
+SHD_270	Boba Fett	Daimyo	Leader	Ground	L	Showcase		=
+SHD_271	Hunter	Outcast Sergeant	Leader	Ground	L	Showcase		=
+SHD_272	Bossk	Hunting His Prey	Leader	Ground	L	Showcase		=
+SHD_273	Kylo Ren	Rash and Deadly	Leader	Ground	L	Showcase		=
+SHD_274	Bo-Katan Kryze	Princess in Exile	Leader	Ground	L	Showcase		=
+SHD_275	Han Solo	Worth the Risk	Leader	Ground	L	Showcase		=
+SHD_276	Cad Bane	He Who Needs No Introduction	Leader	Ground	L	Showcase		=
+SHD_277	Doctor Aphra	Rapacious Archaeologist	Leader	Ground	L	Showcase		=
+SHD_278	Fennec Shand	Honoring the Deal	Leader	Ground	L	Showcase		=
+SHD_279	Lando Calrissian	With Impeccable Taste	Leader	Ground	L	Showcase		=
+SHD_280	The Mandalorian	Sworn to the Creed	Leader	Ground	L	Showcase		=
+SHD_281	Gar Saxon	Viceroy of Mandalore	Leader	Ground	L	Hyperspace		=
+SHD_282	Qi'ra	I Alone Survived	Leader	Ground	L	Hyperspace		=
+SHD_283	Finn	This is a Rescue	Leader	Ground	L	Hyperspace		=
+SHD_284	Rey	More Than a Scavenger	Leader	Ground	L	Hyperspace		=
+SHD_285	Hondo Ohnaka	That's Good Business	Leader	Ground	L	Hyperspace		=
+SHD_286	Jabba the Hutt	His High Exaltdeness	Leader	Ground	L	Hyperspace		=
+SHD_287	Boba Fett	Daimyo	Leader	Ground	L	Hyperspace		=
+SHD_288	Hunter	Outcast Sergeant	Leader	Ground	L	Hyperspace		=
+SHD_289	Bossk	Hunting His Prey	Leader	Ground	L	Hyperspace		=
+SHD_290	Kylo Ren	Rash and Deadly	Leader	Ground	L	Hyperspace		=
+SHD_291	Bo-Katan Kryze	Princess in Exile	Leader	Ground	L	Hyperspace		=
+SHD_292	Han Solo	Worth the Risk	Leader	Ground	L	Hyperspace		=
+SHD_293	Cad Bane	He Who Needs No Introduction	Leader	Ground	L	Hyperspace		=
+SHD_294	Doctor Aphra	Rapacious Archaeologist	Leader	Ground	L	Hyperspace		=
+SHD_295	Fennec Shand	Honoring the Deal	Leader	Ground	L	Hyperspace		=
+SHD_296	Lando Calrissian	With Impeccable Taste	Leader	Ground	L	Hyperspace		=
+SHD_297	Remnant Science Facility	Nevarro	Base		L	Hyperspace		
+SHD_298	Remote Village	Sorgan	Base		L	Hyperspace		
+SHD_299	Maz Kanata's Castle	Takodana	Base		L	Hyperspace		
+SHD_300	Nevarro City	Nevarro	Base		L	Hyperspace		
+SHD_301	Death Watch Hideout	Concordia	Base		L	Hyperspace		
+SHD_302	Spice Mines	Kessel	Base		L	Hyperspace		
+SHD_303	Coronet City	Corellia	Base		L	Hyperspace		
+SHD_304	Jabba's Palace	Tatooine	Base		L	Hyperspace		
+SHD_305	Hylobon Enforcer		Unit	Ground		Hyperspace		
+SHD_306	Doctor Pershing	Experimenting With Life	Unit	Ground		Hyperspace		
+SHD_307	Pyke Sentinel		Unit	Ground		Hyperspace		
+SHD_308	The Client	Dictated by Discretion	Unit	Ground		Hyperspace		
+SHD_309	Lom Pyke	Dealer in Truths	Unit	Ground		Hyperspace		
+SHD_310	Synara San	Loyal to Kragan	Unit	Ground		Hyperspace		
+SHD_311	Supercommando Squad		Unit	Ground		Hyperspace		
+SHD_312	Clan Saxon Gauntlet		Unit	Space		Hyperspace		
+SHD_313	First Light	Headquarters of the Crimson Dawn	Unit	Space		Hyperspace		
+SHD_314	Supreme Leader Snoke	Shadow Ruler	Unit	Ground		Hyperspace		
+SHD_315	Brutal Traditions		Upgrade			Hyperspace		
+SHD_316	Clan Wren Rescuer		Unit	Ground		Hyperspace		
+SHD_317	Kuiil	I Have Spoken	Unit	Ground		Hyperspace		
+SHD_318	Concord Dawn Interceptors		Unit	Space		Hyperspace		
+SHD_319	Village Protectors		Unit	Ground		Hyperspace		
+SHD_320	Rose Tico	Dedicated to the Cause	Unit	Ground		Hyperspace		
+SHD_321	Rey	Keeping the Past	Unit	Ground		Hyperspace		
+SHD_322	The Armorer	Survival Is Strength	Unit	Ground		Hyperspace		
+SHD_323	Gentle Giant		Unit	Ground		Hyperspace		
+SHD_324	The Mandalorian	Wherever I Go, He Goes	Unit	Ground		Hyperspace		
+SHD_325	Chewbacca	Pykesbane	Unit	Ground		Hyperspace		
+SHD_326	Mystic Reflection		Event			Hyperspace		
+SHD_327	Sugi	Hired Guardian	Unit	Ground		Hyperspace		
+SHD_328	Second Chance		Upgrade			Hyperspace		
+SHD_329	Midnight Repairs		Event			Hyperspace		
+SHD_330	Moisture Farmer		Unit	Ground		Hyperspace		
+SHD_331	Follower of The Way		Unit	Ground		Hyperspace		
+SHD_332	Rickety Quadjumper		Unit	Space		Hyperspace		
+SHD_333	Val	Loyal to the End	Unit	Ground		Hyperspace		
+SHD_334	Embo	Stoic and Resolute	Unit	Ground		Hyperspace		
+SHD_335	HWK-290 Freighter		Unit	Space		Hyperspace		
+SHD_336	Wroshyr Tree Tender		Unit	Ground		Hyperspace		
+SHD_337	Niima Outpost Constables		Unit	Ground		Hyperspace		
+SHD_338	Survivors' Gauntlet		Unit	Space		Hyperspace		
+SHD_339	Vigilant Pursuit Craft		Unit	Space		Hyperspace		
+SHD_340	Cargo Juggernaut		Unit	Ground		Hyperspace		
+SHD_341	Fenn Rau	Protector of Concord Dawn	Unit	Ground		Hyperspace		
+SHD_342	Public Enemy		Upgrade			Hyperspace		
+SHD_343	Foundling		Upgrade			Hyperspace		
+SHD_344	Top Target		Upgrade			Hyperspace		
+SHD_345	Imprisoned		Upgrade			Hyperspace		
+SHD_346	Mandalorian Armor		Upgrade			Hyperspace		
+SHD_347	Vambrace Grappleshot		Upgrade			Hyperspace		
+SHD_348	Covert Strength		Event			Hyperspace		
+SHD_349	Unexpected Escape		Event			Hyperspace		
+SHD_350	Evidence of the Crime		Event			Hyperspace		
+SHD_351	Fell the Dragon		Event			Hyperspace		
+SHD_352	Rival's Fall		Event			Hyperspace		
+SHD_353	Salacious Crumb	Obnoxious Pet	Unit	Ground		Hyperspace		
+SHD_354	Outland TIE Vanguard		Unit	Space		Hyperspace		
+SHD_355	Warbird Stowaway		Unit	Ground		Hyperspace		
+SHD_356	Crosshair	Following Orders	Unit	Ground		Hyperspace		
+SHD_357	Ephant Mon	Head of Security	Unit	Ground		Hyperspace		
+SHD_358	Pirate Battle Tank		Unit	Ground		Hyperspace		
+SHD_359	Maul	Shadow Collective Visionary	Unit	Ground		Hyperspace		
+SHD_360	Jabba's Rancor	Pateesa	Unit	Ground		Hyperspace		
+SHD_361	Finalizer	Might of the First Order	Unit	Space		Hyperspace		
+SHD_362	Remnant Reserves		Event			Hyperspace		
+SHD_363	Palpatine's Return		Event			Hyperspace		
+SHD_364	Clone Deserter		Unit	Ground		Hyperspace		
+SHD_365	Maz Kanata	Pirate Queen	Unit	Ground		Hyperspace		
+SHD_366	Freetown Backup		Unit	Ground		Hyperspace		
+SHD_367	Sundari Peacekeeper		Unit	Ground		Hyperspace		
+SHD_368	Echo	Restored	Unit	Ground		Hyperspace		
+SHD_369	Modded Cohort		Unit	Ground		Hyperspace		
+SHD_370	Adelphi Patrol Wing		Unit	Space		Hyperspace		
+SHD_371	The Marauder	Shuttling the Bad Batch	Unit	Space		Hyperspace		
+SHD_372	General Rieekan	Defensive Strategist	Unit	Ground		Hyperspace		
+SHD_373	Inspiring Mentor		Upgrade			Hyperspace		
+SHD_374	Spark of Hope		Event			Hyperspace		
+SHD_375	Rule with Respect		Event			Hyperspace		
+SHD_376	Enterprising Lackeys		Unit	Ground		Hyperspace		
+SHD_377	Enforced Loyalty		Event			Hyperspace		
+SHD_378	Endless Legions		Event			Hyperspace		
+SHD_379	Warzone Lieutenant		Unit	Ground		Hyperspace		
+SHD_380	Collections Starhopper		Unit	Space		Hyperspace		
+SHD_381	Gamorrean Retainer		Unit	Ground		Hyperspace		
+SHD_382	Privateer Crew		Unit	Ground		Hyperspace		
+SHD_383	Scanning Officer		Unit	Ground		Hyperspace		
+SHD_384	Cobb Vanth	The Marshal	Unit	Ground		Hyperspace		
+SHD_385	Outlaw Corona		Unit	Space		Hyperspace		
+SHD_386	Reputable Hunter		Unit	Ground		Hyperspace		
+SHD_387	Kihrazx Heavy Fighter		Unit	Space		Hyperspace		
+SHD_388	Weequay Pirate Gang		Unit	Ground		Hyperspace		
+SHD_389	Discerning Veteran		Unit	Ground		Hyperspace		
+SHD_390	Mercenary Company		Unit	Ground		Hyperspace		
+SHD_391	Arquitens Assault Cruiser		Unit	Space		Hyperspace		
+SHD_392	Bounty Hunter's Quarry		Upgrade			Hyperspace		
+SHD_393	Legal Authority		Upgrade			Hyperspace		
+SHD_394	Price on Your Head		Upgrade			Hyperspace		
+SHD_395	The Darksaber		Upgrade			Hyperspace		
+SHD_396	Commission		Event			Hyperspace		
+SHD_397	Outflank		Event			Hyperspace		
+SHD_398	Timely Intervention		Event			Hyperspace		
+SHD_399	Moment of Glory		Event			Hyperspace		
+SHD_400	Take Captive		Event			Hyperspace		
+SHD_401	Choose Sides		Event			Hyperspace		
+SHD_402	Dengar	The Demolisher	Unit	Ground		Hyperspace		
+SHD_403	Guavian Antagonizer		Unit	Ground		Hyperspace		
+SHD_404	Kylo's TIE Silencer	Ruthlessly Efficient	Unit	Space		Hyperspace		
+SHD_405	Death Watch Loyalist		Unit	Ground		Hyperspace		
+SHD_406	Punishing One	Dengar's Jumpmaster	Unit	Space		Hyperspace		
+SHD_407	Jango Fett	Renowned Bounty Hunter	Unit	Ground		Hyperspace		
+SHD_408	Krrsantan	Muscle for Hire	Unit	Ground		Hyperspace		
+SHD_409	Trandoshan Hunters		Unit	Ground		Hyperspace		
+SHD_410	Kylo Ren	Killing the Past	Unit	Ground		Hyperspace		
+SHD_411	Pre Vizsla	Power Hungry	Unit	Ground		Hyperspace		
+SHD_412	Ruthlessness		Upgrade			Hyperspace		
+SHD_413	Give In to Your Anger		Event			Hyperspace		
+SHD_414	Headhunting		Event			Hyperspace		
+SHD_415	Heroic Renegade		Unit	Ground		Hyperspace		
+SHD_416	Ketsu Onyo	Old Friend	Unit	Ground		Hyperspace		
+SHD_417	Cassian Andor	Rebellions Are Built On Hope	Unit	Ground		Hyperspace		
+SHD_418	Nite Owl Skirmisher		Unit	Ground		Hyperspace		
+SHD_419	Koska Reeves	Loyal Nite Owl	Unit	Ground		Hyperspace		
+SHD_420	Valiant Assault Ship		Unit	Space		Hyperspace		
+SHD_421	Desperado Freighter		Unit	Space		Hyperspace		
+SHD_422	Poe Dameron	Quick to Improvise	Unit	Ground		Hyperspace		
+SHD_423	Wrecker	Boom!	Unit	Ground		Hyperspace		
+SHD_424	Heroic Resolve		Upgrade			Hyperspace		
+SHD_425	Cripple Authority		Event			Hyperspace		
+SHD_426	Bo-Katan Kryze	Fighting For Mandalore	Unit	Ground		Hyperspace		
+SHD_427	Wild Rancor		Unit	Ground		Hyperspace		
+SHD_428	The Chaos of War		Event			Hyperspace		
+SHD_429	Reckless Gunslinger		Unit	Ground		Hyperspace		
+SHD_430	Stolen Landspeeder		Unit	Ground		Hyperspace		
+SHD_431	House Kast Soldier		Unit	Ground		Hyperspace		
+SHD_432	Migs Mayfeld	Triggerman	Unit	Ground		Hyperspace		
+SHD_433	Rhokai Gunship		Unit	Space		Hyperspace		
+SHD_434	Unlicensed Headhunter		Unit	Space		Hyperspace		
+SHD_435	Disabling Fang Fighter		Unit	Space		Hyperspace		
+SHD_436	Wanted Insurgents		Unit	Ground		Hyperspace		
+SHD_437	Hunting Nexu		Unit	Ground		Hyperspace		
+SHD_438	Clan Challengers		Unit	Ground		Hyperspace		
+SHD_439	IG-11	I Cannot Be Captured	Unit	Ground		Hyperspace		
+SHD_440	Covetous Rivals		Unit	Ground		Hyperspace		
+SHD_441	Krayt Dragon		Unit	Ground		Hyperspace		
+SHD_442	Guild Target		Upgrade			Hyperspace		
+SHD_443	Hotshot DL-44 Blaster		Upgrade			Hyperspace		
+SHD_444	Armed to the Teeth		Upgrade			Hyperspace		
+SHD_445	Death Mark		Upgrade			Hyperspace		
+SHD_446	Vambrace Flamethrower		Upgrade			Hyperspace		
+SHD_447	Daring Raid		Event			Hyperspace		
+SHD_448	Desperate Attack		Event			Hyperspace		
+SHD_449	Detention Block Rescue		Event			Hyperspace		
+SHD_450	Pillage		Event			Hyperspace		
+SHD_451	Bravado		Event			Hyperspace		
+SHD_452	Kintan Intimidator		Unit	Ground		Hyperspace		
+SHD_453	Bazine Netal	Spy for the First Order	Unit	Ground		Hyperspace		
+SHD_454	Doctor Evazan	Wanted on Twelve Systems	Unit	Ground		Hyperspace		
+SHD_455	Hunter of the Haxion Brood		Unit	Ground		Hyperspace		
+SHD_456	Lurking TIE Phantom		Unit	Space		Hyperspace		
+SHD_457	4-LOM	Bounty Hunter for Hire	Unit	Ground		Hyperspace		
+SHD_458	Slaver's Freighter		Unit	Space		Hyperspace		
+SHD_459	Zuckuss	Bounty Hunter for Hire	Unit	Ground		Hyperspace		
+SHD_460	Xanadu Blood	Cad Bane's Reward	Unit	Space		Hyperspace		
+SHD_461	Dryden Vos	Offering No Escape	Unit	Ground		Hyperspace		
+SHD_462	Frozen in Carbonite		Upgrade			Hyperspace		
+SHD_463	Triple Dark Raid		Event			Hyperspace		
+SHD_464	Cartel Turncoat		Unit	Space		Hyperspace		
+SHD_465	L3-37	Droid Revolutionary	Unit	Ground		Hyperspace		
+SHD_466	Omega	Part of the Squad	Unit	Ground		Hyperspace		
+SHD_467	Coruscant Dissident		Unit	Ground		Hyperspace		
+SHD_468	Liberated Slaves		Unit	Ground		Hyperspace		
+SHD_469	Principled Outlaw		Unit	Ground		Hyperspace		
+SHD_470	Qi'ra	Playing Her Part	Unit	Ground		Hyperspace		
+SHD_471	Zorii Bliss	Valiant Smuggler	Unit	Ground		Hyperspace		
+SHD_472	Millennium Falcon	Lando's Pride	Unit	Space		Hyperspace		
+SHD_473	Let the Wookiee Win		Event			Hyperspace		
+SHD_474	Spare the Target		Event			Hyperspace		
+SHD_475	A New Adventure		Event			Hyperspace		
+SHD_476	Final Showdown		Event			Hyperspace		
+SHD_477	Criminal Muscle		Unit	Ground		Hyperspace		
+SHD_478	Cloud-Rider		Unit	Ground		Hyperspace		
+SHD_479	Fugitive Wookiee		Unit	Ground		Hyperspace		
+SHD_480	Privateer Scyk		Unit	Space		Hyperspace		
+SHD_481	DJ	Blatant Thief	Unit	Ground		Hyperspace		
+SHD_482	Frontier Trader		Unit	Ground		Hyperspace		
+SHD_483	Smuggler's Starfighter		Unit	Space		Hyperspace		
+SHD_484	Chain Code Collector		Unit	Ground		Hyperspace		
+SHD_485	Tobias Beckett	I Trust No One	Unit	Ground		Hyperspace		
+SHD_486	Resourceful Pursuers		Unit	Ground		Hyperspace		
+SHD_487	Enfys Nest	Marauder	Unit	Ground		Hyperspace		
+SHD_488	Fennec Shand	Loyal Sharpshooter	Unit	Ground		Hyperspace		
+SHD_489	Wanted		Upgrade			Hyperspace		
+SHD_490	Enticing Reward		Upgrade			Hyperspace		
+SHD_491	Boba Fett's Armor		Upgrade			Hyperspace		
+SHD_492	Jetpack		Upgrade			Hyperspace		
+SHD_493	Unrefusable Offer		Upgrade			Hyperspace		
+SHD_494	Look the Other Way		Event			Hyperspace		
+SHD_495	Bounty Posting		Event			Hyperspace		
+SHD_496	Ma Klounkee		Event			Hyperspace		
+SHD_497	Swoop Down		Event			Hyperspace		
+SHD_498	Surprise Strike		Event			Hyperspace		
+SHD_499	Relentless Pursuit		Event			Hyperspace		
+SHD_500	Evacuate		Event			Hyperspace		
+SHD_501	Ruthless Assassin		Unit	Ground		Hyperspace		
+SHD_502	Black Sun Starfighter		Unit	Space		Hyperspace		
+SHD_503	Toro Calican	Ambitious Upstart	Unit	Ground		Hyperspace		
+SHD_504	Hutt's Henchmen		Unit	Ground		Hyperspace		
+SHD_505	Kragan Gorr	Warbird Captain	Unit	Ground		Hyperspace		
+SHD_506	Altering the Deal		Event			Hyperspace		
+SHD_507	No Bargain		Event			Hyperspace		
+SHD_508	Grey Squadron Y-Wing		Unit	Space		Hyperspace		
+SHD_509	Protector of the Throne		Unit	Ground		Hyperspace		
+SHD_510	Tech	Source of Insight	Unit	Ground		Hyperspace		
+SHD_511	Wookiee Warrior		Unit	Ground		Hyperspace		
+SHD_512	Tarfful	Kashyyyk Chieftan	Unit	Ground		Hyperspace		
+SHD_513	Smuggler's Aid		Event			Hyperspace		
+SHD_514	This Is The Way		Event			Hyperspace		
+SHD_515	Bounty Guild Initiate		Unit	Ground		Hyperspace		
+SHD_516	Lady Proxima	White Worm Matriarch	Unit	Ground		Hyperspace		
+SHD_517	Mercenary Gunship		Unit	Space		Hyperspace		
+SHD_518	Underworld Thug		Unit	Ground		Hyperspace		
+SHD_519	Mandalorian Warrior		Unit	Ground		Hyperspace		
+SHD_520	Twin Pod Cloud Car		Unit	Space		Hyperspace		
+SHD_521	Street Gang Recruiter		Unit	Ground		Hyperspace		
+SHD_522	Rich Reward		Upgrade			Hyperspace		
+SHD_T01	Experience		Token Upgrade					
+SHD_T02	Shield		Token Upgrade					
+SHD_T03	Experience		Token Upgrade			Hyperspace		
+SHD_T04	Shield		Token Upgrade			Hyperspace		

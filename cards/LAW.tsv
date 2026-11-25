@@ -1,0 +1,631 @@
+#id	name	sub	type	arena	flags	variant	front	back
+LAW_001	Saw Gerrera	Bring Down the Empire	Leader	Ground	L			=
+LAW_002	Tobias Beckett	People are Predictable	Leader	Ground	L			=
+LAW_003	Agent Kallus	Reconsider Your Allegiance	Leader	Ground	L			=
+LAW_004	Aurra Sing	Assassin	Leader	Ground	L			=
+LAW_005	Jyn Erso	Time to Fight	Leader	Ground	L			=
+LAW_006	Vel Sartha	Aldhani Insurgent	Leader	Ground	L			=
+LAW_007	Boba Fett	Krayt's Claw Commander	Leader	Ground	L			=
+LAW_008	Director Krennic	Amidst My Achievement	Leader	Ground	L			=
+LAW_009	Hera Syndulla	Not Fighting Alone	Leader	Ground	L			=
+LAW_010	Leia Organa	Someone Who Loves You	Leader	Ground	L			=
+LAW_011	Darth Vader	Unstoppable	Leader	Ground	L			=
+LAW_012	Sebulba	Especially Dangerous Dug	Leader	Ground	L			=
+LAW_013	Chewbacca	Hero of Kessel	Leader	Ground	L			=
+LAW_014	Enfy Nest	Until We Can Go No Higher	Leader	Ground	L			=
+LAW_015	Jabba the Hutt	Crime Boss	Leader	Ground	L			=
+LAW_016	The Client	Please Lower Your Blaster	Leader	Ground	L			=
+LAW_017	Han Solo	I Got a Really Good Feeling	Leader	Ground	L			=
+LAW_018	Lando Calrissian	Full Sabacc	Leader	Ground	L			=
+LAW_019	Alliance Outpost	Lowick	Base		L			
+LAW_020	Daimyo's Palace	Tatooine	Base		L			
+LAW_021	Coaxium Mine	Kessel	Base		L			
+LAW_022	Aldhani Garrison	Aldhani	Base		L			
+LAW_023	Great Pit of Carkoon	Tatooine	Base		L			
+LAW_024	Imperial Command Complex	Lothal	Base		L			
+LAW_025	Contested Caverns	Quarzite	Base		L			
+LAW_026	Shipbreaking Yard	Bracca	Base		L			
+LAW_027	Stygeon Spire	Stygeon Prime	Base		L			
+LAW_028	Canto Bight	Cantonica	Base		L			
+LAW_029	Citadel Research Center	Scarif	Base		L			
+LAW_030	Partisan Hideout	Segra Milo	Base		L			
+LAW_031	Bossk	Join Our Merry Band	Unit	Ground				
+LAW_032	Cad Bane	Now it's My Turn	Unit	Ground				
+LAW_033	Hound's Tooth	Hunters' Approach	Unit	Space				
+LAW_034	Chewbacca	Mighty Rescuer	Unit	Ground				
+LAW_035	Ezra Bridger	Spectre Six	Unit	Ground				
+LAW_036	Obi-Wan Kenobi	Protector of Felucia	Unit	Ground				
+LAW_037	Han Solo	Hibernation Sick	Unit	Ground				
+LAW_038	Lepi Lookout		Unit	Ground				
+LAW_039	Latts Razzi	Deadly Whipmaster	Unit	Ground				
+LAW_040	Taramyn Barcona	Eyes Front!	Unit	Ground				
+LAW_041	Nothing Left to Fear		Event					
+LAW_042	IG-88	Programmed to Kill	Unit	Ground				
+LAW_043	Shadow Cloaking		Event					
+LAW_044	Single Reactor Ignition		Event					
+LAW_045	Zeb Orellios	Spectre Four	Unit	Ground				
+LAW_046	Chirrut Îmwe	I Don't Need Luck	Unit	Ground				
+LAW_047	Baze Malbus	Good Luck	Unit	Ground				
+LAW_048	Chio Fain	Four-Armed Slicer	Unit	Ground				
+LAW_049	Bith Brute		Unit	Ground				
+LAW_050	Honnah	Oink! Squee!	Unit	Ground				
+LAW_051	Beilert Valance	Target: Vader	Unit	Ground				
+LAW_052	The Mandalorian	Let's See the Puck	Unit	Ground				
+LAW_053	Dengar	Take Your Shot	Unit	Ground				
+LAW_054	Maul	Master of the Shadow Collective	Unit	Ground				
+LAW_055	Chopper	Spectre Three	Unit	Ground				
+LAW_056	Cassian Andor	Everything for the Rebellion	Unit	Ground				
+LAW_057	Benthic "Two Tubes"	The War Has Just Begun	Unit	Ground				
+LAW_058	Honor-Bound Partisan		Unit	Ground				
+LAW_059	Highsinger	Deadly Droid	Unit	Ground				
+LAW_060	Quarren Contractor		Unit	Ground				
+LAW_061	Asajj Ventress	Reluctant Hunter	Unit	Ground				
+LAW_062	Defiant Hammerhead		Unit	Space				
+LAW_063	L3-37	Radical Instigator	Unit	Ground				
+LAW_064	Zuckuss	Dangerous	Unit	Ground				
+LAW_065	4-LOM	Devious	Unit	Ground				
+LAW_066	Tear This Ship Apart		Event					
+LAW_067	Jyn Erso	Take the Next Chance	Unit	Ground				
+LAW_068	Millennium Falcon	Dodging Patrols	Unit	Space				
+LAW_069	The Ghost	Home of the Spectres	Unit	Space				
+LAW_070	Devaronian Doorbuster		Unit	Ground				
+LAW_071	The Max Rebo Band	Jatz-Wailers	Unit	Ground				
+LAW_072	Max Rebo	Encore!	Unit	Ground				
+LAW_073	Patient Hunter		Unit	Ground				
+LAW_074	Maz Kanata	Where's My Boyfriend?	Unit	Ground				
+LAW_075	Interrogation Droid		Unit	Ground				
+LAW_076	Vult Skerris's Defender	Secret Project	Unit	Space				
+LAW_077	Shadow of Stygeon Prime		Upgrade					
+LAW_078	Sabine Wren	Spectre Five	Unit	Ground				
+LAW_079	K-2S0	Locking the Vault	Unit	Ground				
+LAW_080	Luke Skywalker	Profit or be Destroyed	Unit	Ground				
+LAW_081	Sullustan Sapper		Unit	Ground				
+LAW_082	Urrr'k	Elite Sharpshooter	Unit	Ground				
+LAW_083	Broken Horn	Vizago's Pride	Unit	Space				
+LAW_084	Krrsantan	Hit and Run	Unit	Ground				
+LAW_085	You Hold This		Event					
+LAW_086	The Stranger	No Survivors	Unit	Ground				
+LAW_087	Jango Fett	Wily Mercenary	Unit	Ground				
+LAW_088	Anakin Skywalker	Prescient Podracer	Unit	Ground				
+LAW_089	Kanan Jarrus	Spectre One	Unit	Ground				
+LAW_090	Toydarian Technician		Unit	Ground				
+LAW_091	Val	It's Been a Ride, Babe	Unit	Ground				
+LAW_092	Two-Faced Troig		Unit	Ground				
+LAW_093	Rio Durant	Beckett's Right Hands	Unit	Ground				
+LAW_094	Hondo Ohnaka	Plays By His Own Rules	Unit	Ground				
+LAW_095	Finn	Looking Closer	Unit	Ground				
+LAW_096	Rhydonium Detonation		Event					
+LAW_097	Imperial Door Technician		Unit	Ground				
+LAW_098	Vandor Range Troopers		Unit	Ground				
+LAW_099	Governor's Shuttle		Unit	Space				
+LAW_100	IGV-55 Listener		Unit	Space				
+LAW_101	Lawbringer	Shadow Over Lothal	Unit	Space				
+LAW_102	Choke on Aspirations		Event					
+LAW_103	Display Piece		Event					
+LAW_104	Bodhi Rook	Creating a Diversion	Unit	Ground				
+LAW_105	Cinta Kaz	Stone Cold and Fearless	Unit	Ground				
+LAW_106	Defiant Scrapper		Unit	Ground				
+LAW_107	Swoop Bike Marauder		Unit	Ground				
+LAW_108	Lando Calrissian	Eyes Open	Unit	Ground				
+LAW_109	Tantive IV	Carrying Hope	Unit	Space				
+LAW_110	Phoenix Squadron Fighters		Unit	Space				
+LAW_111	Leia's Disguise		Upgrade					
+LAW_112	Boonta Eve Flagbearer		Unit	Ground				
+LAW_113	Shield Drive Outfitter		Unit	Ground				
+LAW_114	Alkenzi Patroller		Unit	Space				
+LAW_115	Rickety Quadjumper		Unit	Space				
+LAW_116	Rodian Bondsman		Unit	Ground				
+LAW_117	Conveyex Security Captain		Unit	Ground				
+LAW_118	Droid Laser Turret		Unit	Ground				
+LAW_119	Rogue One	At Any Cost	Unit	Space				
+LAW_120	Vigilant Scouts		Unit	Ground				
+LAW_121	Canto Bight Security		Unit	Ground				
+LAW_122	Shielded Hauler		Unit	Space				
+LAW_123	Syndicate Security		Unit	Ground				
+LAW_124	Industrious Team		Unit	Ground				
+LAW_125	Watchful		Upgrade					
+LAW_126	Adventurer Sniper Rifle		Upgrade					
+LAW_127	Kill Switch		Upgrade					
+LAW_128	Veiled Strength		Upgrade					
+LAW_129	Mastery		Upgrade					
+LAW_130	Betrayed Trust		Event					
+LAW_131	Incapacitate		Event					
+LAW_132	The Tree Remembers		Event					
+LAW_133	Lost and Forgotten		Event					
+LAW_134	Bib Fortuna	Die Wanna Wanga?	Unit	Ground				
+LAW_135	Pirate Snub Fighter		Unit	Space				
+LAW_136	Syndicate Spice Runner		Unit	Ground				
+LAW_137	Ruthless Duo		Unit	Ground				
+LAW_138	Undercity Hunting Team		Unit	Ground				
+LAW_139	Admiral Motti	Chain of Command	Unit	Ground				
+LAW_140	Intimidator	Citadel Overwatch	Unit	Space				
+LAW_141	Targeted For Removal		Upgrade					
+LAW_142	Scarif Lieutenant		Unit	Ground				
+LAW_143	Liberated Wookiee		Unit	Ground				
+LAW_144	Phantom	Spectre Shuttle	Unit	Space				
+LAW_145	R2-D2	Part of the Plan	Unit	Ground				
+LAW_146	Massassi Group Marines		Unit	Ground				
+LAW_147	Jaunty Light Freighter		Unit	Space				
+LAW_148	Smuggler's YT-2400		Unit	Space				
+LAW_149	Rey	Skywalker	Unit	Ground				
+LAW_150	Fulcrum		Upgrade					
+LAW_151	Profiteering Hunter		Unit	Ground				
+LAW_152	C-3P0	Translation Protocol	Unit	Ground				
+LAW_153	Follower of the Code		Unit	Ground				
+LAW_154	Partisan Infantry		Unit	Ground				
+LAW_155	Getaway Freighter		Unit	Space				
+LAW_156	Hunter For Hire		Unit	Ground				
+LAW_157	Target Tagger		Unit	Ground				
+LAW_158	Khetanna	Upon the Dune Sea	Unit	Ground				
+LAW_159	Expendable Mercenary		Unit	Ground				
+LAW_160	Hidden Hunters		Unit	Ground				
+LAW_161	Partisan U-Wing		Unit	Space				
+LAW_162	Beach Patrol AT-ACT		Unit	Ground				
+LAW_163	The Sarlacc of Carkoon	Horror of the Dune Sea	Unit	Ground				
+LAW_164	Mercenary Fleet		Unit	Space				
+LAW_165	Combat Exercise		Event					
+LAW_166	Putting a Team Together		Event					
+LAW_167	Common Cause		Event					
+LAW_168	Haymaker		Event					
+LAW_169	Payroll Heist		Event					
+LAW_170	Double-Cross		Event					
+LAW_171	Stockpile		Event					
+LAW_172	Storm Raider		Unit	Ground				
+LAW_173	BT-1	Blastomech	Unit	Ground				
+LAW_174	0-0-0	Translation and Torture	Unit	Ground				
+LAW_175	Prototype TIE Advanced		Unit	Space				
+LAW_176	Sebulba's Podracer	Taking the Lead	Unit	Ground				
+LAW_177	Son-tuul Berserkers		Unit	Ground				
+LAW_178	Persecutor	Fire Over Scarif	Unit	Space				
+LAW_179	Fear and Dead Men		Event					
+LAW_180	Inspired Recruit		Unit	Ground				
+LAW_181	Cloud-Rider Veteran		Unit	Ground				
+LAW_182	Weazel	Fighting Back	Unit	Ground				
+LAW_183	B-Wing Skirmisher		Unit	Space				
+LAW_184	Aerie	Cloud-Rider Dropship	Unit	Space				
+LAW_185	Ben Solo	Facing the Light	Unit	Ground				
+LAW_186	Enfys Nest's Helmet		Upgrade					
+LAW_187	"Staccato Lightning" Repeater		Upgrade					
+LAW_188	Savareen Survivor		Unit	Ground				
+LAW_189	Cavern Angels X-Wing		Unit	Space				
+LAW_190	Haxion Aggressor		Unit	Ground				
+LAW_191	Arvel Skeen	Win and Walk Away	Unit	Ground				
+LAW_192	Bracca Shipbreaker		Unit	Ground				
+LAW_193	Mid Rim Sharpshooter		Unit	Ground				
+LAW_194	Doctor Aphra	Digging For Answers	Unit	Ground				
+LAW_195	Overcharged Transport		Unit	Space				
+LAW_196	Relentless Hunters		Unit	Ground				
+LAW_197	Shifty Suspects		Unit	Ground				
+LAW_198	Dogged Pursuers		Unit	Ground				
+LAW_199	Ohnaka Gang Bandits		Unit	Ground				
+LAW_200	Salvaged Blaster		Upgrade					
+LAW_201	Thermal Detonator		Upgrade					
+LAW_202	Commence the Festivities		Event					
+LAW_203	Daring Delve		Event					
+LAW_204	Every Day, More Lies		Event					
+LAW_205	Flash the Vents		Event					
+LAW_206	That's a Rock		Event					
+LAW_207	Attack From All Sides		Event					
+LAW_208	Collateral Damage		Event					
+LAW_209	Nihil Stormsower		Unit	Ground				
+LAW_210	Salacious Crumb	Cackling Companion	Unit	Ground				
+LAW_211	Black Sun Patroller		Unit	Space				
+LAW_212	Malakili	Keeper of the Menagerie	Unit	Ground				
+LAW_213	Cutthroat Podracer		Unit	Ground				
+LAW_214	Boba Fett	For a Price	Unit	Ground				
+LAW_215	Vermillion	Qi'ra's Auction House	Unit	Space				
+LAW_216	Jabba's Rancor	Snack Time!	Unit	Ground				
+LAW_217	Hold For Questioning		Event					
+LAW_218	Artful Pickpocket		Unit	Ground				
+LAW_219	Anakin's Podracer	So Wizard!	Unit	Ground				
+LAW_220	Wookiee Guerilla		Unit	Ground				
+LAW_221	Lieutenant Gorn	I Deserve Worse	Unit	Ground				
+LAW_222	Rebel Blockade Runner		Unit	Space				
+LAW_223	Rose Tico	Now it's Worth It	Unit	Ground				
+LAW_224	Liberty	Draw Their Fire!	Unit	Space				
+LAW_225	Han's Golden Dice		Upgrade					
+LAW_226	Secret Battle of Pretend		Event					
+LAW_227	Rookie Rocket-jumper		Unit	Ground				
+LAW_228	Canyon Frontrunner		Unit	Ground				
+LAW_229	The Master Codebreaker	High Stakes	Unit	Ground				
+LAW_230	Ohnaka Gang Starhopper		Unit	Space				
+LAW_231	Weequay Pirate		Unit	Ground				
+LAW_232	Champion's KT9 Podracer		Unit	Ground				
+LAW_233	Galen Erso	Destroying His Creation	Unit	Ground				
+LAW_234	Kage Elite		Unit	Ground				
+LAW_235	Lady Proxima	Where's the Money?	Unit	Ground				
+LAW_236	Bix Caleen	Selling Scrap	Unit	Ground				
+LAW_237	Qui-Gon Jinn	Influencing Chance	Unit	Ground				
+LAW_238	Scavenging Sandcrawler		Unit	Ground				
+LAW_239	Guild Ambush Team		Unit	Ground				
+LAW_240	Milodon Rider		Unit	Ground				
+LAW_241	The Blade Wing	The Secret of Shantipole	Unit	Space				
+LAW_242	Improvise		Event					
+LAW_243	Transmission Jamming		Event					
+LAW_244	Unmarked Credits		Event					
+LAW_245	Salvaged Materials		Event					
+LAW_246	The Axe Forgets		Event					
+LAW_247	Backed by the Hutts		Event					
+LAW_248	Windfall		Event					
+LAW_249	Black Sun Cabalist		Unit	Ground				
+LAW_250	Callous Bounty Hunter		Unit	Ground				
+LAW_251	Night Wind Assailants		Unit	Ground				
+LAW_252	Fett's Firespray	In Pursuit	Unit	Space				
+LAW_253	Alliance X-Wing		Unit	Space				
+LAW_254	Stalwart Fleet Trooper		Unit	Ground				
+LAW_255	Circuit Challenger		Unit	Ground				
+LAW_256	Fire Across the Galaxy		Event					
+LAW_257	Hidden Hand Supplier		Unit	Ground				
+LAW_258	Criminal Contact		Unit	Ground				
+LAW_259	Cartel Heavy Fighter		Unit	Space				
+LAW_260	Seasoned Tracker		Unit	Ground				
+LAW_261	Street Gang Recruiter		Unit	Ground				
+LAW_262	Bank Job Fugitives		Unit	Ground				
+LAW_263	Kessel Hulk		Unit	Space				
+LAW_264	From a Certain Point of View		Event					
+LAW_265	Saw Gerrera	Bring Down the Empire	Leader	Ground	L	Hyperspace		=
+LAW_266	Tobias Beckett	People are Predictable	Leader	Ground	L	Hyperspace		=
+LAW_267	Agent Kallus	Reconsider Your Allegiance	Leader	Ground	L	Hyperspace		=
+LAW_268	Aurra Sing	Assassin	Leader	Ground	L	Hyperspace		=
+LAW_269	Jyn Erso	Time to Fight	Leader	Ground	L	Hyperspace		=
+LAW_270	Vel Sartha	Aldhani Insurgent	Leader	Ground	L	Hyperspace		=
+LAW_271	Boba Fett	Krayt's Claw Commander	Leader	Ground	L	Hyperspace		=
+LAW_272	Director Krennic	Amidst My Achievement	Leader	Ground	L	Hyperspace		=
+LAW_273	Hera Syndulla	Not Fighting Alone	Leader	Ground	L	Hyperspace		=
+LAW_274	Leia Organa	Someone Who Loves You	Leader	Ground	L	Hyperspace		=
+LAW_275	Darth Vader	Unstoppable	Leader	Ground	L	Hyperspace		=
+LAW_276	Sebulba	Especially Dangerous Dug	Leader	Ground	L	Hyperspace		=
+LAW_277	Chewbacca	Hero of Kessel	Leader	Ground	L	Hyperspace		=
+LAW_278	Enfy Nest	Until We Can Go No Higher	Leader	Ground	L	Hyperspace		=
+LAW_279	Jabba the Hutt	Crime Boss	Leader	Ground	L	Hyperspace		=
+LAW_280	The Client	Please Lower Your Blaster	Leader	Ground	L	Hyperspace		=
+LAW_281	Han Solo	I Got a Really Good Feeling	Leader	Ground	L	Hyperspace		=
+LAW_282	Lando Calrissian	Full Sabacc	Leader	Ground	L	Hyperspace		=
+LAW_283	Alliance Outpost	Lowick	Base		L	Hyperspace		
+LAW_284	Daimyo's Palace	Tatooine	Base		L	Hyperspace		
+LAW_285	Coaxium Mine	Kessel	Base		L	Hyperspace		
+LAW_286	Aldhani Garrison	Aldhani	Base		L	Hyperspace		
+LAW_287	Great Pit of Carkoon	Tatooine	Base		L	Hyperspace		
+LAW_288	Imperial Command Complex	Lothal	Base		L	Hyperspace		
+LAW_289	Contested Caverns	Quarzite	Base		L	Hyperspace		
+LAW_290	Shipbreaking Yard	Bracca	Base		L	Hyperspace		
+LAW_291	Stygeon Spire	Stygeon Prime	Base		L	Hyperspace		
+LAW_292	Canto Bight	Cantonica	Base		L	Hyperspace		
+LAW_293	Citadel Research Center	Scarif	Base		L	Hyperspace		
+LAW_294	Partisan Hideout	Segra Milo	Base		L	Hyperspace		
+LAW_295	Bossk	Join Our Merry Band	Unit	Ground		Hyperspace		
+LAW_296	Cad Bane	Now it's My Turn	Unit	Ground		Hyperspace		
+LAW_297	Hound's Tooth	Hunters' Approach	Unit	Space		Hyperspace		
+LAW_298	Chewbacca	Mighty Rescuer	Unit	Ground		Hyperspace		
+LAW_299	Ezra Bridger	Spectre Six	Unit	Ground		Hyperspace		
+LAW_300	Obi-Wan Kenobi	Protector of Felucia	Unit	Ground		Hyperspace		
+LAW_301	Han Solo	Hibernation Sick	Unit	Ground		Hyperspace		
+LAW_302	Lepi Lookout		Unit	Ground		Hyperspace		
+LAW_303	Latts Razzi	Deadly Whipmaster	Unit	Ground		Hyperspace		
+LAW_304	Taramyn Barcona	Eyes Front!	Unit	Ground		Hyperspace		
+LAW_305	Nothing Left to Fear		Event			Hyperspace		
+LAW_306	IG-88	Programmed to Kill	Unit	Ground		Hyperspace		
+LAW_307	Shadow Cloaking		Event			Hyperspace		
+LAW_308	Single Reactor Ignition		Event			Hyperspace		
+LAW_309	Zeb Orellios	Spectre Four	Unit	Ground		Hyperspace		
+LAW_310	Chirrut Îmwe	I Don't Need Luck	Unit	Ground		Hyperspace		
+LAW_311	Baze Malbus	Good Luck	Unit	Ground		Hyperspace		
+LAW_312	Chio Fain	Four-Armed Slicer	Unit	Ground		Hyperspace		
+LAW_313	Bith Brute		Unit	Ground		Hyperspace		
+LAW_314	Honnah	Oink! Squee!	Unit	Ground		Hyperspace		
+LAW_315	Beilert Valance	Target: Vader	Unit	Ground		Hyperspace		
+LAW_316	The Mandalorian	Let's See the Puck	Unit	Ground		Hyperspace		
+LAW_317	Dengar	Take Your Shot	Unit	Ground		Hyperspace		
+LAW_318	Maul	Master of the Shadow Collective	Unit	Ground		Hyperspace		
+LAW_319	Chopper	Spectre Three	Unit	Ground		Hyperspace		
+LAW_320	Cassian Andor	Everything for the Rebellion	Unit	Ground		Hyperspace		
+LAW_321	Benthic "Two Tubes"	The War Has Just Begun	Unit	Ground		Hyperspace		
+LAW_322	Honor-Bound Partisan		Unit	Ground		Hyperspace		
+LAW_323	Highsinger	Deadly Droid	Unit	Ground		Hyperspace		
+LAW_324	Quarren Contractor		Unit	Ground		Hyperspace		
+LAW_325	Asajj Ventress	Reluctant Hunter	Unit	Ground		Hyperspace		
+LAW_326	Defiant Hammerhead		Unit	Space		Hyperspace		
+LAW_327	L3-37	Radical Instigator	Unit	Ground		Hyperspace		
+LAW_328	Zuckuss	Dangerous	Unit	Ground		Hyperspace		
+LAW_329	4-LOM	Devious	Unit	Ground		Hyperspace		
+LAW_330	Tear This Ship Apart		Event			Hyperspace		
+LAW_331	Jyn Erso	Take the Next Chance	Unit	Ground		Hyperspace		
+LAW_332	Millennium Falcon	Dodging Patrols	Unit	Space		Hyperspace		
+LAW_333	The Ghost	Home of the Spectres	Unit	Space		Hyperspace		
+LAW_334	Devaronian Doorbuster		Unit	Ground		Hyperspace		
+LAW_335	The Max Rebo Band	Jatz-Wailers	Unit	Ground		Hyperspace		
+LAW_336	Max Rebo	Encore!	Unit	Ground		Hyperspace		
+LAW_337	Patient Hunter		Unit	Ground		Hyperspace		
+LAW_338	Maz Kanata	Where's My Boyfriend?	Unit	Ground		Hyperspace		
+LAW_339	Interrogation Droid		Unit	Ground		Hyperspace		
+LAW_340	Vult Skerris's Defender	Secret Project	Unit	Space		Hyperspace		
+LAW_341	Shadow of Stygeon Prime		Upgrade			Hyperspace		
+LAW_342	Sabine Wren	Spectre Five	Unit	Ground		Hyperspace		
+LAW_343	K-2S0	Locking the Vault	Unit	Ground		Hyperspace		
+LAW_344	Luke Skywalker	Profit or be Destroyed	Unit	Ground		Hyperspace		
+LAW_345	Sullustan Sapper		Unit	Ground		Hyperspace		
+LAW_346	Urrr'k	Elite Sharpshooter	Unit	Ground		Hyperspace		
+LAW_347	Broken Horn	Vizago's Pride	Unit	Space		Hyperspace		
+LAW_348	Krrsantan	Hit and Run	Unit	Ground		Hyperspace		
+LAW_349	You Hold This		Event			Hyperspace		
+LAW_350	The Stranger	No Survivors	Unit	Ground		Hyperspace		
+LAW_351	Jango Fett	Wily Mercenary	Unit	Ground		Hyperspace		
+LAW_352	Anakin Skywalker	Prescient Podracer	Unit	Ground		Hyperspace		
+LAW_353	Kanan Jarrus	Spectre One	Unit	Ground		Hyperspace		
+LAW_354	Toydarian Technician		Unit	Ground		Hyperspace		
+LAW_355	Val	It's Been a Ride, Babe	Unit	Ground		Hyperspace		
+LAW_356	Two-Faced Troig		Unit	Ground		Hyperspace		
+LAW_357	Rio Durant	Beckett's Right Hands	Unit	Ground		Hyperspace		
+LAW_358	Hondo Ohnaka	Plays By His Own Rules	Unit	Ground		Hyperspace		
+LAW_359	Finn	Looking Closer	Unit	Ground		Hyperspace		
+LAW_360	Rhydonium Detonation		Event			Hyperspace		
+LAW_361	Imperial Door Technician		Unit	Ground		Hyperspace		
+LAW_362	Vandor Range Troopers		Unit	Ground		Hyperspace		
+LAW_363	Governor's Shuttle		Unit	Space		Hyperspace		
+LAW_364	IGV-55 Listener		Unit	Space		Hyperspace		
+LAW_365	Lawbringer	Shadow Over Lothal	Unit	Space		Hyperspace		
+LAW_366	Choke on Aspirations		Event			Hyperspace		
+LAW_367	Display Piece		Event			Hyperspace		
+LAW_368	Bodhi Rook	Creating a Diversion	Unit	Ground		Hyperspace		
+LAW_369	Cinta Kaz	Stone Cold and Fearless	Unit	Ground		Hyperspace		
+LAW_370	Defiant Scrapper		Unit	Ground		Hyperspace		
+LAW_371	Swoop Bike Marauder		Unit	Ground		Hyperspace		
+LAW_372	Lando Calrissian	Eyes Open	Unit	Ground		Hyperspace		
+LAW_373	Tantive IV	Carrying Hope	Unit	Space		Hyperspace		
+LAW_374	Phoenix Squadron Fighters		Unit	Space		Hyperspace		
+LAW_375	Leia's Disguise		Upgrade			Hyperspace		
+LAW_376	Boonta Eve Flagbearer		Unit	Ground		Hyperspace		
+LAW_377	Shield Drive Outfitter		Unit	Ground		Hyperspace		
+LAW_378	Alkenzi Patroller		Unit	Space		Hyperspace		
+LAW_379	Rickety Quadjumper		Unit	Space		Hyperspace		
+LAW_380	Rodian Bondsman		Unit	Ground		Hyperspace		
+LAW_381	Conveyex Security Captain		Unit	Ground		Hyperspace		
+LAW_382	Droid Laser Turret		Unit	Ground		Hyperspace		
+LAW_383	Rogue One	At Any Cost	Unit	Space		Hyperspace		
+LAW_384	Vigilant Scouts		Unit	Ground		Hyperspace		
+LAW_385	Canto Bight Security		Unit	Ground		Hyperspace		
+LAW_386	Shielded Hauler		Unit	Space		Hyperspace		
+LAW_387	Syndicate Security		Unit	Ground		Hyperspace		
+LAW_388	Industrious Team		Unit	Ground		Hyperspace		
+LAW_389	Watchful		Upgrade			Hyperspace		
+LAW_390	Adventurer Sniper Rifle		Upgrade			Hyperspace		
+LAW_391	Kill Switch		Upgrade			Hyperspace		
+LAW_392	Veiled Strength		Upgrade			Hyperspace		
+LAW_393	Mastery		Upgrade			Hyperspace		
+LAW_394	Betrayed Trust		Event			Hyperspace		
+LAW_395	Incapacitate		Event			Hyperspace		
+LAW_396	The Tree Remembers		Event			Hyperspace		
+LAW_397	Lost and Forgotten		Event			Hyperspace		
+LAW_398	Bib Fortuna	Die Wanna Wanga?	Unit	Ground		Hyperspace		
+LAW_399	Pirate Snub Fighter		Unit	Space		Hyperspace		
+LAW_400	Syndicate Spice Runner		Unit	Ground		Hyperspace		
+LAW_401	Ruthless Duo		Unit	Ground		Hyperspace		
+LAW_402	Undercity Hunting Team		Unit	Ground		Hyperspace		
+LAW_403	Admiral Motti	Chain of Command	Unit	Ground		Hyperspace		
+LAW_404	Intimidator	Citadel Overwatch	Unit	Space		Hyperspace		
+LAW_405	Targeted For Removal		Upgrade			Hyperspace		
+LAW_406	Scarif Lieutenant		Unit	Ground		Hyperspace		
+LAW_407	Liberated Wookiee		Unit	Ground		Hyperspace		
+LAW_408	Phantom	Spectre Shuttle	Unit	Space		Hyperspace		
+LAW_409	R2-D2	Part of the Plan	Unit	Ground		Hyperspace		
+LAW_410	Massassi Group Marines		Unit	Ground		Hyperspace		
+LAW_411	Jaunty Light Freighter		Unit	Space		Hyperspace		
+LAW_412	Smuggler's YT-2400		Unit	Space		Hyperspace		
+LAW_413	Rey	Skywalker	Unit	Ground		Hyperspace		
+LAW_414	Fulcrum		Upgrade			Hyperspace		
+LAW_415	Profiteering Hunter		Unit	Ground		Hyperspace		
+LAW_416	C-3P0	Translation Protocol	Unit	Ground		Hyperspace		
+LAW_417	Follower of the Code		Unit	Ground		Hyperspace		
+LAW_418	Partisan Infantry		Unit	Ground		Hyperspace		
+LAW_419	Getaway Freighter		Unit	Space		Hyperspace		
+LAW_420	Hunter For Hire		Unit	Ground		Hyperspace		
+LAW_421	Target Tagger		Unit	Ground		Hyperspace		
+LAW_422	Khetanna	Upon the Dune Sea	Unit	Ground		Hyperspace		
+LAW_423	Expendable Mercenary		Unit	Ground		Hyperspace		
+LAW_424	Hidden Hunters		Unit	Ground		Hyperspace		
+LAW_425	Partisan U-Wing		Unit	Space		Hyperspace		
+LAW_426	Beach Patrol AT-ACT		Unit	Ground		Hyperspace		
+LAW_427	The Sarlacc of Carkoon	Horror of the Dune Sea	Unit	Ground		Hyperspace		
+LAW_428	Mercenary Fleet		Unit	Space		Hyperspace		
+LAW_429	Combat Exercise		Event			Hyperspace		
+LAW_430	Putting a Team Together		Event			Hyperspace		
+LAW_431	Common Cause		Event			Hyperspace		
+LAW_432	Haymaker		Event			Hyperspace		
+LAW_433	Payroll Heist		Event			Hyperspace		
+LAW_434	Double-Cross		Event			Hyperspace		
+LAW_435	Stockpile		Event			Hyperspace		
+LAW_436	Storm Raider		Unit	Ground		Hyperspace		
+LAW_437	BT-1	Blastomech	Unit	Ground		Hyperspace		
+LAW_438	0-0-0	Translation and Torture	Unit	Ground		Hyperspace		
+LAW_439	Prototype TIE Advanced		Unit	Space		Hyperspace		
+LAW_440	Sebulba's Podracer	Taking the Lead	Unit	Ground		Hyperspace		
+LAW_441	Son-tuul Berserkers		Unit	Ground		Hyperspace		
+LAW_442	Persecutor	Fire Over Scarif	Unit	Space		Hyperspace		
+LAW_443	Fear and Dead Men		Event			Hyperspace		
+LAW_444	Inspired Recruit		Unit	Ground		Hyperspace		
+LAW_445	Cloud-Rider Veteran		Unit	Ground		Hyperspace		
+LAW_446	Weazel	Fighting Back	Unit	Ground		Hyperspace		
+LAW_447	B-Wing Skirmisher		Unit	Space		Hyperspace		
+LAW_448	Aerie	Cloud-Rider Dropship	Unit	Space		Hyperspace		
+LAW_449	Ben Solo	Facing the Light	Unit	Ground		Hyperspace		
+LAW_450	Enfys Nest's Helmet		Upgrade			Hyperspace		
+LAW_451	"Staccato Lightning" Repeater		Upgrade			Hyperspace		
+LAW_452	Savareen Survivor		Unit	Ground		Hyperspace		
+LAW_453	Cavern Angels X-Wing		Unit	Space		Hyperspace		
+LAW_454	Haxion Aggressor		Unit	Ground		Hyperspace		
+LAW_455	Arvel Skeen	Win and Walk Away	Unit	Ground		Hyperspace		
+LAW_456	Bracca Shipbreaker		Unit	Ground		Hyperspace		
+LAW_457	Mid Rim Sharpshooter		Unit	Ground		Hyperspace		
+LAW_458	Doctor Aphra	Digging For Answers	Unit	Ground		Hyperspace		
+LAW_459	Overcharged Transport		Unit	Space		Hyperspace		
+LAW_460	Relentless Hunters		Unit	Ground		Hyperspace		
+LAW_461	Shifty Suspects		Unit	Ground		Hyperspace		
+LAW_462	Dogged Pursuers		Unit	Ground		Hyperspace		
+LAW_463	Ohnaka Gang Bandits		Unit	Ground		Hyperspace		
+LAW_464	Salvaged Blaster		Upgrade			Hyperspace		
+LAW_465	Thermal Detonator		Upgrade			Hyperspace		
+LAW_466	Commence the Festivities		Event			Hyperspace		
+LAW_467	Daring Delve		Event			Hyperspace		
+LAW_468	Every Day, More Lies		Event			Hyperspace		
+LAW_469	Flash the Vents		Event			Hyperspace		
+LAW_470	That's a Rock		Event			Hyperspace		
+LAW_471	Attack From All Sides		Event			Hyperspace		
+LAW_472	Collateral Damage		Event			Hyperspace		
+LAW_473	Nihil Stormsower		Unit	Ground		Hyperspace		
+LAW_474	Salacious Crumb	Cackling Companion	Unit	Ground		Hyperspace		
+LAW_475	Black Sun Patroller		Unit	Space		Hyperspace		
+LAW_476	Malakili	Keeper of the Menagerie	Unit	Ground		Hyperspace		
+LAW_477	Cutthroat Podracer		Unit	Ground		Hyperspace		
+LAW_478	Boba Fett	For a Price	Unit	Ground		Hyperspace		
+LAW_479	Vermillion	Qi'ra's Auction House	Unit	Space		Hyperspace		
+LAW_480	Jabba's Rancor	Snack Time!	Unit	Ground		Hyperspace		
+LAW_481	Hold For Questioning		Event			Hyperspace		
+LAW_482	Artful Pickpocket		Unit	Ground		Hyperspace		
+LAW_483	Anakin's Podracer	So Wizard!	Unit	Ground		Hyperspace		
+LAW_484	Wookiee Guerilla		Unit	Ground		Hyperspace		
+LAW_485	Lieutenant Gorn	I Deserve Worse	Unit	Ground		Hyperspace		
+LAW_486	Rebel Blockade Runner		Unit	Space		Hyperspace		
+LAW_487	Rose Tico	Now it's Worth It	Unit	Ground		Hyperspace		
+LAW_488	Liberty	Draw Their Fire!	Unit	Space		Hyperspace		
+LAW_489	Han's Golden Dice		Upgrade			Hyperspace		
+LAW_490	Secret Battle of Pretend		Event			Hyperspace		
+LAW_491	Rookie Rocket-jumper		Unit	Ground		Hyperspace		
+LAW_492	Canyon Frontrunner		Unit	Ground		Hyperspace		
+LAW_493	The Master Codebreaker	High Stakes	Unit	Ground		Hyperspace		
+LAW_494	Ohnaka Gang Starhopper		Unit	Space		Hyperspace		
+LAW_495	Weequay Pirate		Unit	Ground		Hyperspace		
+LAW_496	Champion's KT9 Podracer		Unit	Ground		Hyperspace		
+LAW_497	Galen Erso	Destroying His Creation	Unit	Ground		Hyperspace		
+LAW_498	Kage Elite		Unit	Ground		Hyperspace		
+LAW_499	Lady Proxima	Where's the Money?	Unit	Ground		Hyperspace		
+LAW_500	Bix Caleen	Selling Scrap	Unit	Ground		Hyperspace		
+LAW_501	Qui-Gon Jinn	Influencing Chance	Unit	Ground		Hyperspace		
+LAW_502	Scavenging Sandcrawler		Unit	Ground		Hyperspace		
+LAW_503	Guild Ambush Team		Unit	Ground		Hyperspace		
+LAW_504	Milodon Rider		Unit	Ground		Hyperspace		
+LAW_505	The Blade Wing	The Secret of Shantipole	Unit	Space		Hyperspace		
+LAW_506	Improvise		Event			Hyperspace		
+LAW_507	Transmission Jamming		Event			Hyperspace		
+LAW_508	Unmarked Credits		Event			Hyperspace		
+LAW_509	Salvaged Materials		Event			Hyperspace		
+LAW_510	The Axe Forgets		Event			Hyperspace		
+LAW_511	Backed by the Hutts		Event			Hyperspace		
+LAW_512	Windfall		Event			Hyperspace		
+LAW_513	Black Sun Cabalist		Unit	Ground		Hyperspace		
+LAW_514	Callous Bounty Hunter		Unit	Ground		Hyperspace		
+LAW_515	Night Wind Assailants		Unit	Ground		Hyperspace		
+LAW_516	Fett's Firespray	In Pursuit	Unit	Space		Hyperspace		
+LAW_517	Alliance X-Wing		Unit	Space		Hyperspace		
+LAW_518	Stalwart Fleet Trooper		Unit	Ground		Hyperspace		
+LAW_519	Circuit Challenger		Unit	Ground		Hyperspace		
+LAW_520	Fire Across the Galaxy		Event			Hyperspace		
+LAW_521	Hidden Hand Supplier		Unit	Ground		Hyperspace		
+LAW_522	Criminal Contact		Unit	Ground		Hyperspace		
+LAW_523	Cartel Heavy Fighter		Unit	Space		Hyperspace		
+LAW_524	Seasoned Tracker		Unit	Ground		Hyperspace		
+LAW_525	Street Gang Recruiter		Unit	Ground		Hyperspace		
+LAW_526	Bank Job Fugitives		Unit	Ground		Hyperspace		
+LAW_527	Kessel Hulk		Unit	Space		Hyperspace		
+LAW_528	From a Certain Point of View		Event			Hyperspace		
+LAW_767	Saw Gerrera	Bring Down the Empire	Leader	Ground	L	Showcase		=
+LAW_768	Tobias Beckett	People are Predictable	Leader	Ground	L	Showcase		=
+LAW_769	Agent Kallus	Reconsider Your Allegiance	Leader	Ground	L	Showcase		=
+LAW_770	Aurra Sing	Assassin	Leader	Ground	L	Showcase		=
+LAW_771	Jyn Erso	Time to Fight	Leader	Ground	L	Showcase		=
+LAW_772	Vel Sartha	Aldhani Insurgent	Leader	Ground	L	Showcase		=
+LAW_773	Boba Fett	Krayt's Claw Commander	Leader	Ground	L	Showcase		=
+LAW_774	Director Krennic	Amidst My Achievement	Leader	Ground	L	Showcase		=
+LAW_775	Hera Syndulla	Not Fighting Alone	Leader	Ground	L	Showcase		=
+LAW_776	Leia Organa	Someone Who Loves You	Leader	Ground	L	Showcase		=
+LAW_777	Darth Vader	Unstoppable	Leader	Ground	L	Showcase		=
+LAW_778	Sebulba	Especially Dangerous Dug	Leader	Ground	L	Showcase		=
+LAW_779	Chewbacca	Hero of Kessel	Leader	Ground	L	Showcase		=
+LAW_780	Enfy Nest	Until We Can Go No Higher	Leader	Ground	L	Showcase		=
+LAW_781	Jabba the Hutt	Crime Boss	Leader	Ground	L	Showcase		=
+LAW_782	The Client	Please Lower Your Blaster	Leader	Ground	L	Showcase		=
+LAW_783	Han Solo	I Got a Really Good Feeling	Leader	Ground	L	Showcase		=
+LAW_784	Lando Calrissian	Full Sabacc	Leader	Ground	L	Showcase		=
+LAW_785	Asajj Ventress	Reluctant Hunter	Unit	Ground		Prestige		
+LAW_786	Bossk	Join Our Merry Band	Unit	Ground		Prestige		
+LAW_787	Highsinger	Deadly Droid	Unit	Ground		Prestige		
+LAW_788	Hound's Tooth	Hunters' Approach	Unit	Space		Prestige		
+LAW_789	Latts Razzi	Deadly Whipmaster	Unit	Ground		Prestige		
+LAW_790	L3-37	Radical Instigator	Unit	Ground		Prestige		
+LAW_791	Val	It's Been a Ride, Babe	Unit	Ground		Prestige		
+LAW_792	Rio Durant	Beckett's Right Hands	Unit	Ground		Prestige		
+LAW_793	Ezra Bridger	Spectre Six	Unit	Ground		Prestige		
+LAW_794	Kanan Jarrus	Spectre One	Unit	Ground		Prestige		
+LAW_795	Chopper	Spectre Three	Unit	Ground		Prestige		
+LAW_796	Sabine Wren	Spectre Five	Unit	Ground		Prestige		
+LAW_797	Zeb Orellios	Spectre Four	Unit	Ground		Prestige		
+LAW_798	The Ghost	Home of the Spectres	Unit	Space		Prestige		
+LAW_799	Phantom	Spectre Shuttle	Unit	Space		Prestige		
+LAW_800	Jyn Erso	Take the Next Chance	Unit	Ground		Prestige		
+LAW_801	Cassian Andor	Everything for the Rebellion	Unit	Ground		Prestige		
+LAW_802	K-2S0	Locking the Vault	Unit	Ground		Prestige		
+LAW_803	Chirrut Îmwe	I Don't Need Luck	Unit	Ground		Prestige		
+LAW_804	Baze Malbus	Good Luck	Unit	Ground		Prestige		
+LAW_805	Bodhi Rook	Creating a Diversion	Unit	Ground		Prestige		
+LAW_806	Luke Skywalker	Profit or be Destroyed	Unit	Ground		Prestige		
+LAW_807	C-3P0	Translation Protocol	Unit	Ground		Prestige		
+LAW_808	R2-D2	Part of the Plan	Unit	Ground		Prestige		
+LAW_809	Lando Calrissian	Eyes Open	Unit	Ground		Prestige		
+LAW_810	Chewbacca	Mighty Rescuer	Unit	Ground		Prestige		
+LAW_811	Han Solo	Hibernation Sick	Unit	Ground		Prestige		
+LAW_812	Millennium Falcon	Dodging Patrols	Unit	Space		Prestige		
+LAW_813	Boba Fett	For a Price	Unit	Ground		Prestige		
+LAW_814	Fett's Firespray	In Pursuit	Unit	Space		Prestige		
+LAW_815	Maul	Master of the Shadow Collective	Unit	Ground		Prestige		
+LAW_816	The Mandalorian	Let's See the Puck	Unit	Ground		Prestige		
+LAW_817	Jango Fett	Wily Mercenary	Unit	Ground		Prestige		
+LAW_818	Cad Bane	Now it's My Turn	Unit	Ground		Prestige		
+LAW_819	Hondo Ohnaka	Plays By His Own Rules	Unit	Ground		Prestige		
+LAW_820	Maz Kanata	Where's My Boyfriend?	Unit	Ground		Prestige		
+LAW_821	IG-88	Programmed to Kill	Unit	Ground		Prestige		
+LAW_822	Jabba's Rancor	Snack Time!	Unit	Ground		Prestige		
+LAW_823	Salacious Crumb	Cackling Companion	Unit	Ground		Prestige		
+LAW_863	Asajj Ventress	Reluctant Hunter	Unit	Ground		Prestige Serialized		
+LAW_864	Bossk	Join Our Merry Band	Unit	Ground		Prestige Serialized		
+LAW_865	Highsinger	Deadly Droid	Unit	Ground		Prestige Serialized		
+LAW_866	Hound's Tooth	Hunters' Approach	Unit	Space		Prestige Serialized		
+LAW_867	Latts Razzi	Deadly Whipmaster	Unit	Ground		Prestige Serialized		
+LAW_868	L3-37	Radical Instigator	Unit	Ground		Prestige Serialized		
+LAW_869	Val	It's Been a Ride, Babe	Unit	Ground		Prestige Serialized		
+LAW_870	Rio Durant	Beckett's Right Hands	Unit	Ground		Prestige Serialized		
+LAW_871	Ezra Bridger	Spectre Six	Unit	Ground		Prestige Serialized		
+LAW_872	Kanan Jarrus	Spectre One	Unit	Ground		Prestige Serialized		
+LAW_873	Chopper	Spectre Three	Unit	Ground		Prestige Serialized		
+LAW_874	Sabine Wren	Spectre Five	Unit	Ground		Prestige Serialized		
+LAW_875	Zeb Orellios	Spectre Four	Unit	Ground		Prestige Serialized		
+LAW_876	The Ghost	Home of the Spectres	Unit	Space		Prestige Serialized		
+LAW_877	Phantom	Spectre Shuttle	Unit	Space		Prestige Serialized		
+LAW_878	Jyn Erso	Take the Next Chance	Unit	Ground		Prestige Serialized		
+LAW_879	Cassian Andor	Everything for the Rebellion	Unit	Ground		Prestige Serialized		
+LAW_880	K-2S0	Locking the Vault	Unit	Ground		Prestige Serialized		
+LAW_881	Chirrut Îmwe	I Don't Need Luck	Unit	Ground		Prestige Serialized		
+LAW_882	Baze Malbus	Good Luck	Unit	Ground		Prestige Serialized		
+LAW_883	Bodhi Rook	Creating a Diversion	Unit	Ground		Prestige Serialized		
+LAW_884	Luke Skywalker	Profit or be Destroyed	Unit	Ground		Prestige Serialized		
+LAW_885	C-3P0	Translation Protocol	Unit	Ground		Prestige Serialized		
+LAW_886	R2-D2	Part of the Plan	Unit	Ground		Prestige Serialized		
+LAW_887	Lando Calrissian	Eyes Open	Unit	Ground		Prestige Serialized		
+LAW_888	Chewbacca	Mighty Rescuer	Unit	Ground		Prestige Serialized		
+LAW_889	Han Solo	Hibernation Sick	Unit	Ground		Prestige Serialized		
+LAW_890	Millennium Falcon	Dodging Patrols	Unit	Space		Prestige Serialized		
+LAW_891	Boba Fett	For a Price	Unit	Ground		Prestige Serialized		
+LAW_892	Fett's Firespray	In Pursuit	Unit	Space		Prestige Serialized		
+LAW_893	Maul	Master of the Shadow Collective	Unit	Ground		Prestige Serialized		
+LAW_894	The Mandalorian	Let's See the Puck	Unit	Ground		Prestige Serialized		
+LAW_895	Jango Fett	Wily Mercenary	Unit	Ground		Prestige Serialized		
+LAW_896	Cad Bane	Now it's My Turn	Unit	Ground		Prestige Serialized		
+LAW_897	Hondo Ohnaka	Plays By His Own Rules	Unit	Ground		Prestige Serialized		
+LAW_898	Maz Kanata	Where's My Boyfriend?	Unit	Ground		Prestige Serialized		
+LAW_899	IG-88	Programmed to Kill	Unit	Ground		Prestige Serialized		
+LAW_900	Jabba's Rancor	Snack Time!	Unit	Ground		Prestige Serialized		
+LAW_901	Salacious Crumb	Cackling Companion	Unit	Ground		Prestige Serialized		
+LAW_T01	Credit		Credit Token					
+LAW_T02	Experience		Token Upgrade					
+LAW_T03	Shield		Token Upgrade					
+LAW_T04	Credit		Credit Token			Hyperspace		
+LAW_T05	Experience		Token Upgrade			Hyperspace		
+LAW_T06	Shield		Token Upgrade			Hyperspace		

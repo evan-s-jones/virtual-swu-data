@@ -1,0 +1,669 @@
+#id	name	sub	type	arena	flags	variant	front	back
+HMW_001	Asajj Ventress	No Time for Regret	Leader	Ground	L			=
+HMW_002	Maz Kanata	Eclectic Pirate Queen	Leader	Ground	L			=
+HMW_003	Doctor Hemlock	Emotion Has No Place Here	Leader	Ground	L			=
+HMW_004	Grand Moff Tarkin // The Death Star	Tyrant of the Outer Rim // Icon of Tyranny	Leader	Space	L			=
+HMW_005	Jar Jar Binks	Bombad General	Leader	Ground	L			=
+HMW_006	Omega	Close Your Eyes and Focus	Leader	Ground	L			=
+HMW_007	Darth Vader	Might of the Empire	Leader	Ground	L			=
+HMW_008	General Grievous	Separatist Warlord	Leader	Ground	L			=
+HMW_009	Chewbacca	Relentless Rebel	Leader	Ground	L			=
+HMW_010	Tarfful	Fighting From the Shadowlands	Leader	Ground	L			=
+HMW_011	Darth Sidious	There is no Mercy	Leader	Ground	L			=
+HMW_012	Poggle the Lesser	Let the Executions Begin	Leader	Ground	L			=
+HMW_013	Cham Syndulla	Hammer of Ryloth	Leader	Ground	L			=
+HMW_014	Wicket	Few Greater Battles to Fight	Leader	Ground	L			=
+HMW_015	Bossk	Cruel Hunter	Leader	Ground	L			=
+HMW_016	Maul	Old Master	Leader	Ground	L			=
+HMW_017	Osha	Haunted by Her Past	Leader	Ground	L			=
+HMW_018	The Warrior	Deft Duelist	Leader	Ground	L			=
+HMW_019	Dune Sea	Tatooine	Base		L			
+HMW_020	Great Grass Plains	Naboo	Base		L			
+HMW_021	Kachirho	Kashyyyk	Base		L			
+HMW_022	Shield Generator Complex	Endor	Base		L			
+HMW_023	Bright Tree Village	Endor	Base		L			
+HMW_024	Origin Tree	Kashyyyk	Base		L			
+HMW_025	Theed Palace	Naboo	Base		L			
+HMW_026	Tusken Camp	Tatooine	Base		L			
+HMW_027	Bioweapons Lab	Naboo	Base		L			
+HMW_028	Jundland Wastes	Tatooine	Base		L			
+HMW_029	Dendroid Wilds	Endor	Base		L			
+HMW_030	Shadowlands	Kashyyyk	Base		L			
+HMW_031	Kyyyalstaad Swamp	Kashyyyk	Base		L			
+HMW_032	Mos Eisley	Tatooine	Base		L			
+HMW_033	Otoh Gunga	Naboo	Base		L			
+HMW_034	Research Station 9	Endor	Base		L			
+HMW_035	Hunter	Everyone Get to Cover!	Unit	Ground				
+HMW_036	Kelnacca	Solitary Master	Unit	Ground				
+HMW_037	Bacta Tank		Upgrade					
+HMW_038	Bestial Bond		Upgrade					
+HMW_039	Mother Talzin	Pledged to the Sisterhood	Unit	Ground				
+HMW_040	Talzin's Shuttle	Mysterious Arrival	Unit	Space				
+HMW_041	Keeper of Skara Nal	Awoken	Unit	Ground				
+HMW_042	Dooku	Corruption Must Be Eradicated	Unit	Ground				
+HMW_043	Darth Vader	Any Methods Necessary	Unit	Ground				
+HMW_044	Ima-Gun Di	Holding out for Resupply	Unit	Ground				
+HMW_045	Logray	Bright Tree Shaman	Unit	Ground				
+HMW_046	Krrsantan	Santo	Unit	Ground				
+HMW_047	Eravana	Hauling Rathtars	Unit	Space				
+HMW_048	Vernestra Rwoh	We Should Handle This Ourselves	Unit	Ground				
+HMW_049	Greater Sarlacc		Unit	Ground				
+HMW_050	Low Altitude Combat		Event					
+HMW_051	Third Sister	Cycle of Vengeance	Unit	Ground				
+HMW_052	A'Koba	Restless Raider	Unit	Ground				
+HMW_053	Fett's Firespray	Settling the Score	Unit	Space				
+HMW_054	Seismic Detonation		Event					
+HMW_055	Mae	Kill the Dream	Unit	Ground				
+HMW_056	Yoda	Trickster in Exile	Unit	Ground				
+HMW_057	Boss Lyonie	Hypnotized	Unit	Ground				
+HMW_058	Mysterious Disappearance		Event					
+HMW_059	Clone X Assassin		Unit	Ground				
+HMW_060	Vice Admiral Rampart	A New Era of Safety	Unit	Ground				
+HMW_061	Director Krennic	The Work has Stalled	Unit	Ground				
+HMW_062	Nuvo Vindi	Blue Shadow Perfected	Unit	Ground				
+HMW_063	Rho Medical Shuttle		Unit	Space				
+HMW_064	Scorch	Imperial Commando	Unit	Ground				
+HMW_065	Clone of the Zillo Beast	Emperor's Experiment	Unit	Ground				
+HMW_066	Carrion Spike	Harbinger of Tyranny	Unit	Space				
+HMW_067	The Great Progenitor	First of the Drengir	Unit	Ground				
+HMW_068	Imperial Commandos		Unit	Ground				
+HMW_069	Imperial Venator		Unit	Space				
+HMW_070	Dark Sanctum		Upgrade					
+HMW_071	Ravage		Event					
+HMW_072	Grand Army Marine		Unit	Ground				
+HMW_073	Peppi Bow	Shaak Herder	Unit	Ground				
+HMW_074	Yord Fandar	Devoutly Disciplined	Unit	Ground				
+HMW_075	Wookiee Protector		Unit	Ground				
+HMW_076	Yanna	Sanctuary Elder	Unit	Ground				
+HMW_077	Boss Nass	Otoh Gunga Boss	Unit	Ground				
+HMW_078	Qui-Gon Jinn	We'll Handle This	Unit	Ground				
+HMW_079	Radiant VII	Negotiating for Naboo	Unit	Space				
+HMW_080	Fambaa Shield Team		Unit	Ground				
+HMW_081	Alliance Shield Generator		Upgrade					
+HMW_082	Nala Se	Silent Survivor	Unit	Ground				
+HMW_083	Batcher	Loyal Hound	Unit	Ground				
+HMW_084	Gunga City Guard		Unit	Ground				
+HMW_085	Remote Scout		Unit	Ground				
+HMW_086	N-1 Patroller		Unit	Space				
+HMW_087	Venomous Wyyyshokk		Unit	Ground				
+HMW_088	Numa	Still Fighting	Unit	Ground				
+HMW_089	Territorial Mudhorn		Unit	Ground				
+HMW_090	Opee Sea Killer		Unit	Ground				
+HMW_091	Pelta Relief Frigate		Unit	Space				
+HMW_092	Starlit Purrgil		Unit	Space				
+HMW_093	Coastal Catamarans		Unit	Ground				
+HMW_094	Sando Aqua Monster		Unit	Ground				
+HMW_095	Carbonite Chamber		Upgrade					
+HMW_096	Devotion		Upgrade					
+HMW_097	Dire Prowess		Upgrade					
+HMW_098	Resonate		Event					
+HMW_099	Always a Bigger Fish		Event					
+HMW_100	Torrent		Event					
+HMW_101	Trust Yourself		Event					
+HMW_102	Dragon's Might		Event					
+HMW_103	Disposable B1		Unit	Ground				
+HMW_104	Garnac	Let the Hunt Begin!	Unit	Ground				
+HMW_105	Nute Gunray	Perfectly Legal	Unit	Ground				
+HMW_106	Secessionist Convert		Unit	Ground				
+HMW_107	Stormtrooper Patrol		Unit	Ground				
+HMW_108	The First Legion	Vader's Fist	Unit	Ground				
+HMW_109	Tireless Magnaguard		Unit	Ground				
+HMW_110	Emperor Palpatine	Consolidating Power	Unit	Ground				
+HMW_111	Invasion Lander		Unit	Space				
+HMW_112	Military Academy		Upgrade					
+HMW_113	Sinister War Memorial		Upgrade					
+HMW_114	Breach		Event					
+HMW_115	Leia Organa	These are My Friends	Unit	Ground				
+HMW_116	Ewok Brigade		Unit	Ground				
+HMW_117	Chewbacca	Resourceful Wookiee	Unit	Ground				
+HMW_118	Ryyk Blademaster		Unit	Ground				
+HMW_119	Saw Gerrera	Shadowlands Insurgent	Unit	Ground				
+HMW_120	Auzituck Avenger		Unit	Space				
+HMW_121	Hijacked AT-ST		Unit	Ground				
+HMW_122	Boga	Loyal Varactyl	Unit	Ground				
+HMW_123	King Grakchawwaa	King of Kashyyyk	Unit	Ground				
+HMW_124	Luminara Unduli	Besieged General	Unit	Ground				
+HMW_125	The Marauder	A New Home	Unit	Space				
+HMW_126	Verdant Fortress		Upgrade					
+HMW_127	Chewbacca's Bowcaster	Handcrafted Tradition	Upgrade					
+HMW_128	Mace Windu	Austere Centrist	Unit	Ground				
+HMW_129	Child of Dathomir		Unit	Ground				
+HMW_130	Emerie Karr	For Your Own Good	Unit	Ground				
+HMW_131	Soaring Can-Cell		Unit	Ground				
+HMW_132	Tibidee Mate		Unit	Space				
+HMW_133	Wroshyr Rebel		Unit	Ground				
+HMW_134	Zam Wesell	Not What She Seems	Unit	Ground				
+HMW_135	Arena Reek	Fixture of Ceremony	Unit	Ground				
+HMW_136	Lifetree Caravan		Unit	Ground				
+HMW_137	V-19 Skirmisher		Unit	Space				
+HMW_138	Commander Gree	Of the 41st Elite Corps	Unit	Ground				
+HMW_139	Flock of Mynocks		Unit	Space				
+HMW_140	Assault Frigate		Unit	Space				
+HMW_141	Rex	Outserved His Purpose	Unit	Ground				
+HMW_142	Wookiee Rangers		Unit	Ground				
+HMW_143	Banking Clan Warship		Unit	Space				
+HMW_144	Howler Pack		Unit	Ground				
+HMW_145	Origin Tree Shyyyo		Unit	Ground				
+HMW_146	Outer Rim Garrison		Unit	Ground				
+HMW_147	Beast Lair		Upgrade					
+HMW_148	Local Support		Upgrade					
+HMW_149	Log Trap		Event					
+HMW_150	Migrate		Event					
+HMW_151	Overgrowth		Event					
+HMW_152	Babwa Venomor	Burning Kashyyyk	Unit	Ground				
+HMW_153	Poacher's Starfighter		Unit	Space				
+HMW_154	Dooku's Solar Sailer	Droid Army Portent	Unit	Space				
+HMW_155	Filthy Dianoga		Unit	Ground				
+HMW_156	Arena Acklay	Screaming Predator	Unit	Ground				
+HMW_157	Corpo Thugs		Unit	Ground				
+HMW_158	Battle-Scarred Destroyer		Unit	Space				
+HMW_159	General Grievous	Scourge of Dathomir	Unit	Ground				
+HMW_160	Noxious Refinery		Upgrade					
+HMW_161	Raze to Ruin		Event					
+HMW_162	Teebo	Striped Hunter	Unit	Ground				
+HMW_163	Champions of Endor		Unit	Ground				
+HMW_164	Chief Chirpa	Defiant Elder	Unit	Ground				
+HMW_165	Commandeered Tour Shuttle		Unit	Space				
+HMW_166	Gungi	Fighting for Kashyyyk	Unit	Ground				
+HMW_167	Dune Sea Nomads		Unit	Ground				
+HMW_168	Ezra Bridger	What are you Afraid Of?	Unit	Ground				
+HMW_169	Crosshair	I've Changed	Unit	Ground				
+HMW_170	Han Solo	My Team's Ready	Unit	Ground				
+HMW_171	Trap Field		Upgrade					
+HMW_172	Heavy Ion Cannon		Upgrade					
+HMW_173	Rebel Operation		Event					
+HMW_174	Maul	Only Revenge Remains	Unit	Ground				
+HMW_175	Fennec Shand	A Ship for a Life	Unit	Ground				
+HMW_176	Village Troublemaker		Unit	Ground				
+HMW_177	Adamant Ewoks		Unit	Ground				
+HMW_178	Desperate Nantex		Unit	Space				
+HMW_179	Feisty Blurrg		Unit	Ground				
+HMW_180	Stormchaser		Unit	Ground				
+HMW_181	Tusken Bantha Rider		Unit	Ground				
+HMW_182	Arena Nexu	Starved for Prey	Unit	Ground				
+HMW_183	Nightsister Prodigy		Unit	Ground				
+HMW_184	Aggrocrab		Unit	Ground				
+HMW_185	Ty Yorrick	Monster Hunter	Unit	Ground				
+HMW_186	Mining Guild Trespasser		Unit	Space				
+HMW_187	Dathomiri Rancor		Unit	Ground				
+HMW_188	Giant Gorax		Unit	Ground				
+HMW_189	Neebray Manta		Unit	Space				
+HMW_190	Enraged		Upgrade					
+HMW_191	Hunter's Instinct		Upgrade					
+HMW_192	Volley Fire		Event					
+HMW_193	Nightfall		Event					
+HMW_194	Run Amok		Event					
+HMW_195	Catch the Scent		Event					
+HMW_196	Qimir	Everyone Has a Weakness	Unit	Ground				
+HMW_197	Cid Scaleback	Can't Be Trusted	Unit	Ground				
+HMW_198	Treacherous Pyke		Unit	Ground				
+HMW_199	Geonosian Picador		Unit	Ground				
+HMW_200	Rish Loo	Traitorous Minister	Unit	Ground				
+HMW_201	Sandtrooper Squad		Unit	Ground				
+HMW_202	Inferno Squad	We can Grieve Later	Unit	Ground				
+HMW_203	Victor Squadron	In Attack Formation	Unit	Space				
+HMW_204	Nightbrother	Maul's Gauntlet	Unit	Space				
+HMW_205	Intelligence Agency		Upgrade					
+HMW_206	The Tarkin Doctrine	Protect and Punish	Upgrade					
+HMW_207	Maim		Event					
+HMW_208	Luke Skywalker	Dreaming Farmboy	Unit	Ground				
+HMW_209	Corona Squadron X-Wing		Unit	Space				
+HMW_210	Sol	Compassionate Guardian	Unit	Ground				
+HMW_211	Tech	I Thought it Was Obvious	Unit	Ground				
+HMW_212	The Chieftain	Here Since the Oceans Dried	Unit	Ground				
+HMW_213	Tribubble Bongo Sub		Unit	Ground				
+HMW_214	Phee Genoa	Liberator of Ancient Wonders	Unit	Ground				
+HMW_215	L3-37	We're Programmed to Learn	Unit	Ground				
+HMW_216	Insurgent Camp		Upgrade					
+HMW_217	Don't Touch Anything		Event					
+HMW_218	New Tactics		Event					
+HMW_219	Jaxxon	I Can Hear You Breathing!	Unit	Ground				
+HMW_220	Clever Trapper		Unit	Ground				
+HMW_221	Teeka	You're in Luck	Unit	Ground				
+HMW_222	Sandcrawler Sales Team		Unit	Ground				
+HMW_223	Therm Scissorpunch	Boastful Gambler	Unit	Ground				
+HMW_224	Tusken Raider		Unit	Ground				
+HMW_225	Boba Fett	Family Found	Unit	Ground				
+HMW_226	Gungan Battle Wagon		Unit	Ground				
+HMW_227	Horizon Chaser		Unit	Space				
+HMW_228	Lakeside Shaaks		Unit	Ground				
+HMW_229	Lurking Wampa		Unit	Ground				
+HMW_230	Raiding Party		Unit	Ground				
+HMW_231	Dragonboat Freighter		Unit	Space				
+HMW_232	Mon Cal Cruiser		Unit	Space				
+HMW_233	Awakened Exogorth		Unit	Space				
+HMW_234	Ritual Dragon		Unit	Ground				
+HMW_235	Gaderffii Stick		Upgrade					
+HMW_236	Booma Ball		Upgrade					
+HMW_237	Easy Prey		Event					
+HMW_238	Exploit Confidence		Event					
+HMW_239	Pounce		Event					
+HMW_240	Sandstorm		Event					
+HMW_241	Howl		Event					
+HMW_242	Occupation Officer		Unit	Ground				
+HMW_243	Sun Fac	Poggle's Second	Unit	Ground				
+HMW_244	Separatist Harbinger		Unit	Space				
+HMW_245	Trandoshan Collaborator		Unit	Ground				
+HMW_246	Pyke Sarisa		Unit	Space				
+HMW_247	Surveillance Cruiser		Unit	Space				
+HMW_248	Defoliator Tank		Unit	Ground				
+HMW_249	Frenzied Tri-Fighters		Unit	Space				
+HMW_250	Imperial Cavalry		Unit	Ground				
+HMW_251	Blockade Ship		Unit	Space				
+HMW_252	Villainous Ambition		Upgrade					
+HMW_253	Forced Pacification		Event					
+HMW_254	Captain Tarpals	Grand Army Captain	Unit	Ground				
+HMW_255	C-3P0	Captivating Storyteller	Unit	Ground				
+HMW_256	Jedi Interceptor		Unit	Space				
+HMW_257	Ewok Archers		Unit	Ground				
+HMW_258	Ryloth Revolutionary Rider		Unit	Ground				
+HMW_259	Pack Guardian		Unit	Ground				
+HMW_260	Queen Amidala	Retaking Theed	Unit	Ground				
+HMW_261	Ben Kenobi	Don't Be Afraid	Unit	Ground				
+HMW_262	Mylaya Rider		Unit	Ground				
+HMW_263	Wrecker	Wrecking the Empire	Unit	Ground				
+HMW_264	Heroic Bravery		Upgrade					
+HMW_265	Twi'lek Kalikori		Upgrade					
+HMW_266	Familiar Strategem		Event					
+HMW_267	Renew		Event					
+HMW_268	Offworld Jawa		Unit	Ground				
+HMW_269	Friendly Eopie		Unit	Ground				
+HMW_270	Wild Space Wanderer		Unit	Space				
+HMW_271	Landing Pad		Upgrade					
+HMW_272	Growth		Event					
+HMW_273	Asajj Ventress	No Time for Regret	Leader	Ground	L	Hyperspace		=
+HMW_274	Maz Kanata	Eclectic Pirate Queen	Leader	Ground	L	Hyperspace		=
+HMW_275	Doctor Hemlock	Emotion Has No Place Here	Leader	Ground	L	Hyperspace		=
+HMW_276	Grand Moff Tarkin // The Death Star	Tyrant of the Outer Rim // Icon of Tyranny	Leader	Space	L	Hyperspace		=
+HMW_277	Jar Jar Binks	Bombad General	Leader	Ground	L	Hyperspace		=
+HMW_278	Omega	Close Your Eyes and Focus	Leader	Ground	L	Hyperspace		=
+HMW_279	Darth Vader	Might of the Empire	Leader	Ground	L	Hyperspace		=
+HMW_280	General Grievous	Separatist Warlord	Leader	Ground	L	Hyperspace		=
+HMW_281	Chewbacca	Relentless Rebel	Leader	Ground	L	Hyperspace		=
+HMW_282	Tarfful	Fighting From the Shadowlands	Leader	Ground	L	Hyperspace		=
+HMW_283	Darth Sidious	There is no Mercy	Leader	Ground	L	Hyperspace		=
+HMW_284	Poggle the Lesser	Let the Executions Begin	Leader	Ground	L	Hyperspace		=
+HMW_285	Cham Syndulla	Hammer of Ryloth	Leader	Ground	L	Hyperspace		=
+HMW_286	Wicket	Few Greater Battles to Fight	Leader	Ground	L	Hyperspace		=
+HMW_287	Bossk	Cruel Hunter	Leader	Ground	L	Hyperspace		=
+HMW_288	Maul	Old Master	Leader	Ground	L	Hyperspace		=
+HMW_289	Osha	Haunted by Her Past	Leader	Ground	L	Hyperspace		=
+HMW_290	The Warrior	Deft Duelist	Leader	Ground	L	Hyperspace		=
+HMW_291	Dune Sea	Tatooine	Base		L	Hyperspace		
+HMW_292	Great Grass Plains	Naboo	Base		L	Hyperspace		
+HMW_293	Kachirho	Kashyyyk	Base		L	Hyperspace		
+HMW_294	Shield Generator Complex	Endor	Base		L	Hyperspace		
+HMW_295	Bright Tree Village	Endor	Base		L	Hyperspace		
+HMW_296	Origin Tree	Kashyyyk	Base		L	Hyperspace		
+HMW_297	Theed Palace	Naboo	Base		L	Hyperspace		
+HMW_298	Tusken Camp	Tatooine	Base		L	Hyperspace		
+HMW_299	Bioweapons Lab	Naboo	Base		L	Hyperspace		
+HMW_300	Jundland Wastes	Tatooine	Base		L	Hyperspace		
+HMW_301	Dendroid Wilds	Endor	Base		L	Hyperspace		
+HMW_302	Shadowlands	Kashyyyk	Base		L	Hyperspace		
+HMW_303	Kyyyalstaad Swamp	Kashyyyk	Base		L	Hyperspace		
+HMW_304	Mos Eisley	Tatooine	Base		L	Hyperspace		
+HMW_305	Otoh Gunga	Naboo	Base		L	Hyperspace		
+HMW_306	Research Station 9	Endor	Base		L	Hyperspace		
+HMW_307	Hunter	Everyone Get to Cover!	Unit	Ground		Hyperspace		
+HMW_308	Kelnacca	Solitary Master	Unit	Ground		Hyperspace		
+HMW_309	Bacta Tank		Upgrade			Hyperspace		
+HMW_310	Bestial Bond		Upgrade			Hyperspace		
+HMW_311	Mother Talzin	Pledged to the Sisterhood	Unit	Ground		Hyperspace		
+HMW_312	Talzin's Shuttle	Mysterious Arrival	Unit	Space		Hyperspace		
+HMW_313	Keeper of Skara Nal	Awoken	Unit	Ground		Hyperspace		
+HMW_314	Dooku	Corruption Must Be Eradicated	Unit	Ground		Hyperspace		
+HMW_315	Darth Vader	Any Methods Necessary	Unit	Ground		Hyperspace		
+HMW_316	Ima-Gun Di	Holding out for Resupply	Unit	Ground		Hyperspace		
+HMW_317	Logray	Bright Tree Shaman	Unit	Ground		Hyperspace		
+HMW_318	Krrsantan	Santo	Unit	Ground		Hyperspace		
+HMW_319	Eravana	Hauling Rathtars	Unit	Space		Hyperspace		
+HMW_320	Vernestra Rwoh	We Should Handle This Ourselves	Unit	Ground		Hyperspace		
+HMW_321	Greater Sarlacc		Unit	Ground		Hyperspace		
+HMW_322	Low Altitude Combat		Event			Hyperspace		
+HMW_323	Third Sister	Cycle of Vengeance	Unit	Ground		Hyperspace		
+HMW_324	A'Koba	Restless Raider	Unit	Ground		Hyperspace		
+HMW_325	Fett's Firespray	Settling the Score	Unit	Space		Hyperspace		
+HMW_326	Seismic Detonation		Event			Hyperspace		
+HMW_327	Mae	Kill the Dream	Unit	Ground		Hyperspace		
+HMW_328	Yoda	Trickster in Exile	Unit	Ground		Hyperspace		
+HMW_329	Boss Lyonie	Hypnotized	Unit	Ground		Hyperspace		
+HMW_330	Mysterious Disappearance		Event			Hyperspace		
+HMW_331	Clone X Assassin		Unit	Ground		Hyperspace		
+HMW_332	Vice Admiral Rampart	A New Era of Safety	Unit	Ground		Hyperspace		
+HMW_333	Director Krennic	The Work has Stalled	Unit	Ground		Hyperspace		
+HMW_334	Nuvo Vindi	Blue Shadow Perfected	Unit	Ground		Hyperspace		
+HMW_335	Rho Medical Shuttle		Unit	Space		Hyperspace		
+HMW_336	Scorch	Imperial Commando	Unit	Ground		Hyperspace		
+HMW_337	Clone of the Zillo Beast	Emperor's Experiment	Unit	Ground		Hyperspace		
+HMW_338	Carrion Spike	Harbinger of Tyranny	Unit	Space		Hyperspace		
+HMW_339	The Great Progenitor	First of the Drengir	Unit	Ground		Hyperspace		
+HMW_340	Imperial Commandos		Unit	Ground		Hyperspace		
+HMW_341	Imperial Venator		Unit	Space		Hyperspace		
+HMW_342	Dark Sanctum		Upgrade			Hyperspace		
+HMW_343	Ravage		Event			Hyperspace		
+HMW_344	Grand Army Marine		Unit	Ground		Hyperspace		
+HMW_345	Peppi Bow	Shaak Herder	Unit	Ground		Hyperspace		
+HMW_346	Yord Fandar	Devoutly Disciplined	Unit	Ground		Hyperspace		
+HMW_347	Wookiee Protector		Unit	Ground		Hyperspace		
+HMW_348	Yanna	Sanctuary Elder	Unit	Ground		Hyperspace		
+HMW_349	Boss Nass	Otoh Gunga Boss	Unit	Ground		Hyperspace		
+HMW_350	Qui-Gon Jinn	We'll Handle This	Unit	Ground		Hyperspace		
+HMW_351	Radiant VII	Negotiating for Naboo	Unit	Space		Hyperspace		
+HMW_352	Fambaa Shield Team		Unit	Ground		Hyperspace		
+HMW_353	Alliance Shield Generator		Upgrade			Hyperspace		
+HMW_354	Nala Se	Silent Survivor	Unit	Ground		Hyperspace		
+HMW_355	Batcher	Loyal Hound	Unit	Ground		Hyperspace		
+HMW_356	Gunga City Guard		Unit	Ground		Hyperspace		
+HMW_357	Remote Scout		Unit	Ground		Hyperspace		
+HMW_358	N-1 Patroller		Unit	Space		Hyperspace		
+HMW_359	Venomous Wyyyshokk		Unit	Ground		Hyperspace		
+HMW_360	Numa	Still Fighting	Unit	Ground		Hyperspace		
+HMW_361	Territorial Mudhorn		Unit	Ground		Hyperspace		
+HMW_362	Opee Sea Killer		Unit	Ground		Hyperspace		
+HMW_363	Pelta Relief Frigate		Unit	Space		Hyperspace		
+HMW_364	Starlit Purrgil		Unit	Space		Hyperspace		
+HMW_365	Coastal Catamarans		Unit	Ground		Hyperspace		
+HMW_366	Sando Aqua Monster		Unit	Ground		Hyperspace		
+HMW_367	Carbonite Chamber		Upgrade			Hyperspace		
+HMW_368	Devotion		Upgrade			Hyperspace		
+HMW_369	Dire Prowess		Upgrade			Hyperspace		
+HMW_370	Resonate		Event			Hyperspace		
+HMW_371	Always a Bigger Fish		Event			Hyperspace		
+HMW_372	Torrent		Event			Hyperspace		
+HMW_373	Trust Yourself		Event			Hyperspace		
+HMW_374	Dragon's Might		Event			Hyperspace		
+HMW_375	Disposable B1		Unit	Ground		Hyperspace		
+HMW_376	Garnac	Let the Hunt Begin!	Unit	Ground		Hyperspace		
+HMW_377	Nute Gunray	Perfectly Legal	Unit	Ground		Hyperspace		
+HMW_378	Secessionist Convert		Unit	Ground		Hyperspace		
+HMW_379	Stormtrooper Patrol		Unit	Ground		Hyperspace		
+HMW_380	The First Legion	Vader's Fist	Unit	Ground		Hyperspace		
+HMW_381	Tireless Magnaguard		Unit	Ground		Hyperspace		
+HMW_382	Emperor Palpatine	Consolidating Power	Unit	Ground		Hyperspace		
+HMW_383	Invasion Lander		Unit	Space		Hyperspace		
+HMW_384	Military Academy		Upgrade			Hyperspace		
+HMW_385	Sinister War Memorial		Upgrade			Hyperspace		
+HMW_386	Breach		Event			Hyperspace		
+HMW_387	Leia Organa	These are My Friends	Unit	Ground		Hyperspace		
+HMW_388	Ewok Brigade		Unit	Ground		Hyperspace		
+HMW_389	Chewbacca	Resourceful Wookiee	Unit	Ground		Hyperspace		
+HMW_390	Ryyk Blademaster		Unit	Ground		Hyperspace		
+HMW_391	Saw Gerrera	Shadowlands Insurgent	Unit	Ground		Hyperspace		
+HMW_392	Auzituck Avenger		Unit	Space		Hyperspace		
+HMW_393	Hijacked AT-ST		Unit	Ground		Hyperspace		
+HMW_394	Boga	Loyal Varactyl	Unit	Ground		Hyperspace		
+HMW_395	King Grakchawwaa	King of Kashyyyk	Unit	Ground		Hyperspace		
+HMW_396	Luminara Unduli	Besieged General	Unit	Ground		Hyperspace		
+HMW_397	The Marauder	A New Home	Unit	Space		Hyperspace		
+HMW_398	Verdant Fortress		Upgrade			Hyperspace		
+HMW_399	Chewbacca's Bowcaster	Handcrafted Tradition	Upgrade			Hyperspace		
+HMW_400	Mace Windu	Austere Centrist	Unit	Ground		Hyperspace		
+HMW_401	Child of Dathomir		Unit	Ground		Hyperspace		
+HMW_402	Emerie Karr	For Your Own Good	Unit	Ground		Hyperspace		
+HMW_403	Soaring Can-Cell		Unit	Ground		Hyperspace		
+HMW_404	Tibidee Mate		Unit	Space		Hyperspace		
+HMW_405	Wroshyr Rebel		Unit	Ground		Hyperspace		
+HMW_406	Zam Wesell	Not What She Seems	Unit	Ground		Hyperspace		
+HMW_407	Arena Reek	Fixture of Ceremony	Unit	Ground		Hyperspace		
+HMW_408	Lifetree Caravan		Unit	Ground		Hyperspace		
+HMW_409	V-19 Skirmisher		Unit	Space		Hyperspace		
+HMW_410	Commander Gree	Of the 41st Elite Corps	Unit	Ground		Hyperspace		
+HMW_411	Flock of Mynocks		Unit	Space		Hyperspace		
+HMW_412	Assault Frigate		Unit	Space		Hyperspace		
+HMW_413	Rex	Outserved His Purpose	Unit	Ground		Hyperspace		
+HMW_414	Wookiee Rangers		Unit	Ground		Hyperspace		
+HMW_415	Banking Clan Warship		Unit	Space		Hyperspace		
+HMW_416	Howler Pack		Unit	Ground		Hyperspace		
+HMW_417	Origin Tree Shyyyo		Unit	Ground		Hyperspace		
+HMW_418	Outer Rim Garrison		Unit	Ground		Hyperspace		
+HMW_419	Beast Lair		Upgrade			Hyperspace		
+HMW_420	Local Support		Upgrade			Hyperspace		
+HMW_421	Log Trap		Event			Hyperspace		
+HMW_422	Migrate		Event			Hyperspace		
+HMW_423	Overgrowth		Event			Hyperspace		
+HMW_424	Babwa Venomor	Burning Kashyyyk	Unit	Ground		Hyperspace		
+HMW_425	Poacher's Starfighter		Unit	Space		Hyperspace		
+HMW_426	Dooku's Solar Sailer	Droid Army Portent	Unit	Space		Hyperspace		
+HMW_427	Filthy Dianoga		Unit	Ground		Hyperspace		
+HMW_428	Arena Acklay	Screaming Predator	Unit	Ground		Hyperspace		
+HMW_429	Corpo Thugs		Unit	Ground		Hyperspace		
+HMW_430	Battle-Scarred Destroyer		Unit	Space		Hyperspace		
+HMW_431	General Grievous	Scourge of Dathomir	Unit	Ground		Hyperspace		
+HMW_432	Noxious Refinery		Upgrade			Hyperspace		
+HMW_433	Raze to Ruin		Event			Hyperspace		
+HMW_434	Teebo	Striped Hunter	Unit	Ground		Hyperspace		
+HMW_435	Champions of Endor		Unit	Ground		Hyperspace		
+HMW_436	Chief Chirpa	Defiant Elder	Unit	Ground		Hyperspace		
+HMW_437	Commandeered Tour Shuttle		Unit	Space		Hyperspace		
+HMW_438	Gungi	Fighting for Kashyyyk	Unit	Ground		Hyperspace		
+HMW_439	Dune Sea Nomads		Unit	Ground		Hyperspace		
+HMW_440	Ezra Bridger	What are you Afraid Of?	Unit	Ground		Hyperspace		
+HMW_441	Crosshair	I've Changed	Unit	Ground		Hyperspace		
+HMW_442	Han Solo	My Team's Ready	Unit	Ground		Hyperspace		
+HMW_443	Trap Field		Upgrade			Hyperspace		
+HMW_444	Heavy Ion Cannon		Upgrade			Hyperspace		
+HMW_445	Rebel Operation		Event			Hyperspace		
+HMW_446	Maul	Only Revenge Remains	Unit	Ground		Hyperspace		
+HMW_447	Fennec Shand	A Ship for a Life	Unit	Ground		Hyperspace		
+HMW_448	Village Troublemaker		Unit	Ground		Hyperspace		
+HMW_449	Adamant Ewoks		Unit	Ground		Hyperspace		
+HMW_450	Desperate Nantex		Unit	Space		Hyperspace		
+HMW_451	Feisty Blurrg		Unit	Ground		Hyperspace		
+HMW_452	Stormchaser		Unit	Ground		Hyperspace		
+HMW_453	Tusken Bantha Rider		Unit	Ground		Hyperspace		
+HMW_454	Arena Nexu	Starved for Prey	Unit	Ground		Hyperspace		
+HMW_455	Nightsister Prodigy		Unit	Ground		Hyperspace		
+HMW_456	Aggrocrab		Unit	Ground		Hyperspace		
+HMW_457	Ty Yorrick	Monster Hunter	Unit	Ground		Hyperspace		
+HMW_458	Mining Guild Trespasser		Unit	Space		Hyperspace		
+HMW_459	Dathomiri Rancor		Unit	Ground		Hyperspace		
+HMW_460	Giant Gorax		Unit	Ground		Hyperspace		
+HMW_461	Neebray Manta		Unit	Space		Hyperspace		
+HMW_462	Enraged		Upgrade			Hyperspace		
+HMW_463	Hunter's Instinct		Upgrade			Hyperspace		
+HMW_464	Volley Fire		Event			Hyperspace		
+HMW_465	Nightfall		Event			Hyperspace		
+HMW_466	Run Amok		Event			Hyperspace		
+HMW_467	Catch the Scent		Event			Hyperspace		
+HMW_468	Qimir	Everyone Has a Weakness	Unit	Ground		Hyperspace		
+HMW_469	Cid Scaleback	Can't Be Trusted	Unit	Ground		Hyperspace		
+HMW_470	Treacherous Pyke		Unit	Ground		Hyperspace		
+HMW_471	Geonosian Picador		Unit	Ground		Hyperspace		
+HMW_472	Rish Loo	Traitorous Minister	Unit	Ground		Hyperspace		
+HMW_473	Sandtrooper Squad		Unit	Ground		Hyperspace		
+HMW_474	Inferno Squad	We can Grieve Later	Unit	Ground		Hyperspace		
+HMW_475	Victor Squadron	In Attack Formation	Unit	Space		Hyperspace		
+HMW_476	Nightbrother	Maul's Gauntlet	Unit	Space		Hyperspace		
+HMW_477	Intelligence Agency		Upgrade			Hyperspace		
+HMW_478	The Tarkin Doctrine	Protect and Punish	Upgrade			Hyperspace		
+HMW_479	Maim		Event			Hyperspace		
+HMW_480	Luke Skywalker	Dreaming Farmboy	Unit	Ground		Hyperspace		
+HMW_481	Corona Squadron X-Wing		Unit	Space		Hyperspace		
+HMW_482	Sol	Compassionate Guardian	Unit	Ground		Hyperspace		
+HMW_483	Tech	I Thought it Was Obvious	Unit	Ground		Hyperspace		
+HMW_484	The Chieftain	Here Since the Oceans Dried	Unit	Ground		Hyperspace		
+HMW_485	Tribubble Bongo Sub		Unit	Ground		Hyperspace		
+HMW_486	Phee Genoa	Liberator of Ancient Wonders	Unit	Ground		Hyperspace		
+HMW_487	L3-37	We're Programmed to Learn	Unit	Ground		Hyperspace		
+HMW_488	Insurgent Camp		Upgrade			Hyperspace		
+HMW_489	Don't Touch Anything		Event			Hyperspace		
+HMW_490	New Tactics		Event			Hyperspace		
+HMW_491	Jaxxon	I Can Hear You Breathing!	Unit	Ground		Hyperspace		
+HMW_492	Clever Trapper		Unit	Ground		Hyperspace		
+HMW_493	Teeka	You're in Luck	Unit	Ground		Hyperspace		
+HMW_494	Sandcrawler Sales Team		Unit	Ground		Hyperspace		
+HMW_495	Therm Scissorpunch	Boastful Gambler	Unit	Ground		Hyperspace		
+HMW_496	Tusken Raider		Unit	Ground		Hyperspace		
+HMW_497	Boba Fett	Family Found	Unit	Ground		Hyperspace		
+HMW_498	Gungan Battle Wagon		Unit	Ground		Hyperspace		
+HMW_499	Horizon Chaser		Unit	Space		Hyperspace		
+HMW_500	Lakeside Shaaks		Unit	Ground		Hyperspace		
+HMW_501	Lurking Wampa		Unit	Ground		Hyperspace		
+HMW_502	Raiding Party		Unit	Ground		Hyperspace		
+HMW_503	Dragonboat Freighter		Unit	Space		Hyperspace		
+HMW_504	Mon Cal Cruiser		Unit	Space		Hyperspace		
+HMW_505	Awakened Exogorth		Unit	Space		Hyperspace		
+HMW_506	Ritual Dragon		Unit	Ground		Hyperspace		
+HMW_507	Gaderffii Stick		Upgrade			Hyperspace		
+HMW_508	Booma Ball		Upgrade			Hyperspace		
+HMW_509	Easy Prey		Event			Hyperspace		
+HMW_510	Exploit Confidence		Event			Hyperspace		
+HMW_511	Pounce		Event			Hyperspace		
+HMW_512	Sandstorm		Event			Hyperspace		
+HMW_513	Howl		Event			Hyperspace		
+HMW_514	Occupation Officer		Unit	Ground		Hyperspace		
+HMW_515	Sun Fac	Poggle's Second	Unit	Ground		Hyperspace		
+HMW_516	Separatist Harbinger		Unit	Space		Hyperspace		
+HMW_517	Trandoshan Collaborator		Unit	Ground		Hyperspace		
+HMW_518	Pyke Sarisa		Unit	Space		Hyperspace		
+HMW_519	Surveillance Cruiser		Unit	Space		Hyperspace		
+HMW_520	Defoliator Tank		Unit	Ground		Hyperspace		
+HMW_521	Frenzied Tri-Fighters		Unit	Space		Hyperspace		
+HMW_522	Imperial Cavalry		Unit	Ground		Hyperspace		
+HMW_523	Blockade Ship		Unit	Space		Hyperspace		
+HMW_524	Villainous Ambition		Upgrade			Hyperspace		
+HMW_525	Forced Pacification		Event			Hyperspace		
+HMW_526	Captain Tarpals	Grand Army Captain	Unit	Ground		Hyperspace		
+HMW_527	C-3P0	Captivating Storyteller	Unit	Ground		Hyperspace		
+HMW_528	Jedi Interceptor		Unit	Space		Hyperspace		
+HMW_529	Ewok Archers		Unit	Ground		Hyperspace		
+HMW_530	Ryloth Revolutionary Rider		Unit	Ground		Hyperspace		
+HMW_531	Pack Guardian		Unit	Ground		Hyperspace		
+HMW_532	Queen Amidala	Retaking Theed	Unit	Ground		Hyperspace		
+HMW_533	Ben Kenobi	Don't Be Afraid	Unit	Ground		Hyperspace		
+HMW_534	Mylaya Rider		Unit	Ground		Hyperspace		
+HMW_535	Wrecker	Wrecking the Empire	Unit	Ground		Hyperspace		
+HMW_536	Heroic Bravery		Upgrade			Hyperspace		
+HMW_537	Twi'lek Kalikori		Upgrade			Hyperspace		
+HMW_538	Familiar Strategem		Event			Hyperspace		
+HMW_539	Renew		Event			Hyperspace		
+HMW_540	Offworld Jawa		Unit	Ground		Hyperspace		
+HMW_541	Friendly Eopie		Unit	Ground		Hyperspace		
+HMW_542	Wild Space Wanderer		Unit	Space		Hyperspace		
+HMW_543	Landing Pad		Upgrade			Hyperspace		
+HMW_544	Growth		Event			Hyperspace		
+HMW_783	Asajj Ventress	No Time for Regret	Leader	Ground	L	Showcase		=
+HMW_784	Maz Kanata	Eclectic Pirate Queen	Leader	Ground	L	Showcase		=
+HMW_785	Doctor Hemlock	Emotion Has No Place Here	Leader	Ground	L	Showcase		=
+HMW_786	Grand Moff Tarkin // The Death Star	Tyrant of the Outer Rim // Icon of Tyranny	Leader	Space	L	Showcase		=
+HMW_787	Jar Jar Binks	Bombad General	Leader	Ground	L	Showcase		=
+HMW_788	Omega	Close Your Eyes and Focus	Leader	Ground	L	Showcase		=
+HMW_789	Darth Vader	Might of the Empire	Leader	Ground	L	Showcase		=
+HMW_790	General Grievous	Separatist Warlord	Leader	Ground	L	Showcase		=
+HMW_791	Chewbacca	Relentless Rebel	Leader	Ground	L	Showcase		=
+HMW_792	Tarfful	Fighting From the Shadowlands	Leader	Ground	L	Showcase		=
+HMW_793	Darth Sidious	There is no Mercy	Leader	Ground	L	Showcase		=
+HMW_794	Poggle the Lesser	Let the Executions Begin	Leader	Ground	L	Showcase		=
+HMW_795	Cham Syndulla	Hammer of Ryloth	Leader	Ground	L	Showcase		=
+HMW_796	Wicket	Few Greater Battles to Fight	Leader	Ground	L	Showcase		=
+HMW_797	Bossk	Cruel Hunter	Leader	Ground	L	Showcase		=
+HMW_798	Maul	Old Master	Leader	Ground	L	Showcase		=
+HMW_799	Osha	Haunted by Her Past	Leader	Ground	L	Showcase		=
+HMW_800	The Warrior	Deft Duelist	Leader	Ground	L	Showcase		=
+HMW_801	Logray	Bright Tree Shaman	Unit	Ground		Prestige		
+HMW_802	Krrsantan	Santo	Unit	Ground		Prestige		
+HMW_803	A'Koba	Restless Raider	Unit	Ground		Prestige		
+HMW_804	Scorch	Imperial Commando	Unit	Ground		Prestige		
+HMW_805	Peppi Bow	Shaak Herder	Unit	Ground		Prestige		
+HMW_806	Yanna	Sanctuary Elder	Unit	Ground		Prestige		
+HMW_807	Boss Nass	Otoh Gunga Boss	Unit	Ground		Prestige		
+HMW_808	Fambaa Shield Team		Unit	Ground		Prestige		
+HMW_809	Garnac	Let the Hunt Begin!	Unit	Ground		Prestige		
+HMW_810	The First Legion	Vader's Fist	Unit	Ground		Prestige		
+HMW_811	Chewbacca	Resourceful Wookiee	Unit	Ground		Prestige		
+HMW_812	Boga	Loyal Varactyl	Unit	Ground		Prestige		
+HMW_813	King Grakchawwaa	King of Kashyyyk	Unit	Ground		Prestige		
+HMW_814	Babwa Venomor	Burning Kashyyyk	Unit	Ground		Prestige		
+HMW_815	Arena Acklay	Screaming Predator	Unit	Ground		Prestige		
+HMW_816	General Grievous	Scourge of Dathomir	Unit	Ground		Prestige		
+HMW_817	Teebo	Striped Hunter	Unit	Ground		Prestige		
+HMW_818	Chief Chirpa	Defiant Elder	Unit	Ground		Prestige		
+HMW_819	Gungi	Fighting for Kashyyyk	Unit	Ground		Prestige		
+HMW_820	The Chieftain	Here Since the Oceans Dried	Unit	Ground		Prestige		
+HMW_821	Captain Tarpals	Grand Army Captain	Unit	Ground		Prestige		
+HMW_822	Keeper of Skara Nal	Awoken	Unit	Ground		Prestige		
+HMW_823	Greater Sarlacc		Unit	Ground		Prestige		
+HMW_824	Clone of the Zillo Beast	Emperor's Experiment	Unit	Ground		Prestige		
+HMW_825	The Great Progenitor	First of the Drengir	Unit	Ground		Prestige		
+HMW_826	Sando Aqua Monster		Unit	Ground		Prestige		
+HMW_827	Invasion Lander		Unit	Space		Prestige		
+HMW_828	Origin Tree Shyyyo		Unit	Ground		Prestige		
+HMW_829	Battle-Scarred Destroyer		Unit	Space		Prestige		
+HMW_830	Dathomiri Rancor		Unit	Ground		Prestige		
+HMW_831	Giant Gorax		Unit	Ground		Prestige		
+HMW_832	Awakened Exogorth		Unit	Space		Prestige		
+HMW_833	Ritual Dragon		Unit	Ground		Prestige		
+HMW_834	Third Sister	Cycle of Vengeance	Unit	Ground		Prestige		
+HMW_835	Mae	Kill the Dream	Unit	Ground		Prestige		
+HMW_836	Emperor Palpatine	Consolidating Power	Unit	Ground		Prestige		
+HMW_837	Qui-Gon Jinn	We'll Handle This	Unit	Ground		Prestige		
+HMW_838	Luminara Unduli	Besieged General	Unit	Ground		Prestige		
+HMW_839	Sol	Compassionate Guardian	Unit	Ground		Prestige		
+HMW_840	Mother Talzin	Pledged to the Sisterhood	Unit	Ground		Prestige		
+HMW_841	Vernestra Rwoh	We Should Handle This Ourselves	Unit	Ground		Prestige		
+HMW_842	Maul	Only Revenge Remains	Unit	Ground		Prestige		
+HMW_843	Fett's Firespray	Settling the Score	Unit	Space		Prestige		
+HMW_844	Yord Fandar	Devoutly Disciplined	Unit	Ground		Prestige		
+HMW_845	Saw Gerrera	Shadowlands Insurgent	Unit	Ground		Prestige		
+HMW_846	Qimir	Everyone Has a Weakness	Unit	Ground		Prestige		
+HMW_847	Luke Skywalker	Dreaming Farmboy	Unit	Ground		Prestige		
+HMW_848	Queen Amidala	Retaking Theed	Unit	Ground		Prestige		
+HMW_897	Logray	Bright Tree Shaman	Unit	Ground		Serialized		
+HMW_898	Krrsantan	Santo	Unit	Ground		Serialized		
+HMW_899	A'Koba	Restless Raider	Unit	Ground		Serialized		
+HMW_900	Scorch	Imperial Commando	Unit	Ground		Serialized		
+HMW_901	Peppi Bow	Shaak Herder	Unit	Ground		Serialized		
+HMW_902	Yanna	Sanctuary Elder	Unit	Ground		Serialized		
+HMW_903	Boss Nass	Otoh Gunga Boss	Unit	Ground		Serialized		
+HMW_904	Fambaa Shield Team		Unit	Ground		Serialized		
+HMW_905	Garnac	Let the Hunt Begin!	Unit	Ground		Serialized		
+HMW_906	The First Legion	Vader's Fist	Unit	Ground		Serialized		
+HMW_907	Chewbacca	Resourceful Wookiee	Unit	Ground		Serialized		
+HMW_908	Boga	Loyal Varactyl	Unit	Ground		Serialized		
+HMW_909	King Grakchawwaa	King of Kashyyyk	Unit	Ground		Serialized		
+HMW_910	Babwa Venomor	Burning Kashyyyk	Unit	Ground		Serialized		
+HMW_911	Arena Acklay	Screaming Predator	Unit	Ground		Serialized		
+HMW_912	General Grievous	Scourge of Dathomir	Unit	Ground		Serialized		
+HMW_913	Teebo	Striped Hunter	Unit	Ground		Serialized		
+HMW_914	Chief Chirpa	Defiant Elder	Unit	Ground		Serialized		
+HMW_915	Gungi	Fighting for Kashyyyk	Unit	Ground		Serialized		
+HMW_916	The Chieftain	Here Since the Oceans Dried	Unit	Ground		Serialized		
+HMW_917	Captain Tarpals	Grand Army Captain	Unit	Ground		Serialized		
+HMW_918	Keeper of Skara Nal	Awoken	Unit	Ground		Serialized		
+HMW_919	Greater Sarlacc		Unit	Ground		Serialized		
+HMW_920	Clone of the Zillo Beast	Emperor's Experiment	Unit	Ground		Serialized		
+HMW_921	The Great Progenitor	First of the Drengir	Unit	Ground		Serialized		
+HMW_922	Sando Aqua Monster		Unit	Ground		Serialized		
+HMW_923	Invasion Lander		Unit	Space		Serialized		
+HMW_924	Origin Tree Shyyyo		Unit	Ground		Serialized		
+HMW_925	Battle-Scarred Destroyer		Unit	Space		Serialized		
+HMW_926	Dathomiri Rancor		Unit	Ground		Serialized		
+HMW_927	Giant Gorax		Unit	Ground		Serialized		
+HMW_928	Awakened Exogorth		Unit	Space		Serialized		
+HMW_929	Ritual Dragon		Unit	Ground		Serialized		
+HMW_930	Third Sister	Cycle of Vengeance	Unit	Ground		Serialized		
+HMW_931	Mae	Kill the Dream	Unit	Ground		Serialized		
+HMW_932	Emperor Palpatine	Consolidating Power	Unit	Ground		Serialized		
+HMW_933	Qui-Gon Jinn	We'll Handle This	Unit	Ground		Serialized		
+HMW_934	Luminara Unduli	Besieged General	Unit	Ground		Serialized		
+HMW_935	Sol	Compassionate Guardian	Unit	Ground		Serialized		
+HMW_936	Mother Talzin	Pledged to the Sisterhood	Unit	Ground		Serialized		
+HMW_937	Vernestra Rwoh	We Should Handle This Ourselves	Unit	Ground		Serialized		
+HMW_938	Maul	Only Revenge Remains	Unit	Ground		Serialized		
+HMW_939	Fett's Firespray	Settling the Score	Unit	Space		Serialized		
+HMW_940	Yord Fandar	Devoutly Disciplined	Unit	Ground		Serialized		
+HMW_941	Saw Gerrera	Shadowlands Insurgent	Unit	Ground		Serialized		
+HMW_942	Qimir	Everyone Has a Weakness	Unit	Ground		Serialized		
+HMW_943	Luke Skywalker	Dreaming Farmboy	Unit	Ground		Serialized		
+HMW_944	Queen Amidala	Retaking Theed	Unit	Ground		Serialized		
+HMW_T01	Shield		Token Upgrade					
+HMW_T02	Weakness		Token Upgrade					
+HMW_T03	Beast		Token Unit					
+HMW_T04	Beast		Token Unit					
+HMW_T05	Beast		Token Unit					
+HMW_T06	Shield		Token Upgrade			Hyperspace		
+HMW_T07	Weakness		Token Upgrade			Hyperspace		
+HMW_T08	Beast		Token Unit			Hyperspace		
+HMW_T09	Beast		Token Unit			Hyperspace		
+HMW_T10	Beast		Token Unit			Hyperspace		

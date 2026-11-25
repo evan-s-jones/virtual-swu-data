@@ -1,0 +1,391 @@
+#id	name	sub	type	arena	flags	variant	front	back
+IC27_001	Darth Vader	No One to Stop Us	Leader	Ground	L			=
+IC27_002	Rey	In Balance	Leader	Ground	L			=
+IC27_003	Kylo Ren	Supreme Leader	Leader	Ground	L			=
+IC27_004	Mace Windu	Here With Backup	Leader	Ground	L			=
+IC27_005	Darth Maul	Mechanism of Menace	Leader	Ground	L			=
+IC27_006	Luke Skywalker	I Have to Face Him	Leader	Ground	L			=
+IC27_007	Asajj Ventress	Bald and Beautiful	Leader	Ground	L			=
+IC27_008	Princess Leia	On a Diplomatic Mission	Leader	Ground	L			=
+IC27_009	City in the Clouds	Cloud City	Base		L			
+IC27_010	Echo Base	Hoth	Base		L			
+IC27_011	KCM Mining Facility	Mustafar	Base		L			
+IC27_012	Mos Eisley	Tatooine	Base		L			
+IC27_013	Nute Gunray	Ring Ring, Space Calling	Unit	Ground				
+IC27_014	Dryden Vos	Thumb-Spiking the Scale	Unit	Ground				
+IC27_015	Onyx Squadron Brute		Unit	Space				
+IC27_016	Rune Haako	Scheming Second	Unit	Ground				
+IC27_017	Death Trooper		Unit	Ground				
+IC27_018	Magistrate's Scout		Unit	Ground				
+IC27_019	Soulless One	Soulless Fun	Unit	Space				
+IC27_020	Admiral Piett	In Command Now	Unit	Ground				
+IC27_021	General Grievous	Four-Armed Menace	Unit	Ground				
+IC27_022	Moff Gideon	Cold Calling	Unit	Ground				
+IC27_023	Grand Moff Tarkin	Cracking Down on Lothal	Unit	Ground				
+IC27_024	Grand Admiral Thrawn	Listen to Me Carefully	Unit	Ground				
+IC27_025	Blizzard One	Veers at the Helm	Unit	Ground				
+IC27_026	Darth Sidious	Move Against the Jedi	Unit	Ground				
+IC27_027	AT-AT Suppressor		Unit	Ground				
+IC27_028	Avenger	Hunting the Rebels	Unit	Space				
+IC27_029	Chimaera	Grand Admiral's Might	Unit	Space				
+IC27_030	Lethal Crackdown		Event					
+IC27_031	BB-8	Frazzled Friend	Unit	Ground				
+IC27_032	Kaydel Connix	Keep Going!	Unit	Ground				
+IC27_033	Clan Wren Rescuer		Unit	Ground				
+IC27_034	Obi-Wan's Interceptor	Nothing Too Fancy	Unit	Space				
+IC27_035	Yoda	A Disturbing Puzzle	Unit	Ground				
+IC27_036	Concord Dawn Interceptors		Unit	Space				
+IC27_037	Finn	Stand and Fight	Unit	Ground				
+IC27_038	Admiral Holdo	We Are the Spark	Unit	Ground				
+IC27_039	Ahsoka Tano	Not on My Death Watch	Unit	Ground				
+IC27_040	Rose Tico	In the Fight	Unit	Ground				
+IC27_041	Captain Rex	Unwavering Belief	Unit	Ground				
+IC27_042	Obi-Wan Kenobi	I Sense a Trap	Unit	Ground				
+IC27_043	Raddus	Hope of the Resistance	Unit	Space				
+IC27_044	Hello There		Event					
+IC27_045	Qi'ra	Survivor	Unit	Ground				
+IC27_046	Vigilant Defense		Event					
+IC27_047	Moisture Farmer		Unit	Ground				
+IC27_048	Desperate Commando		Unit	Ground				
+IC27_049	Dexter Jettster	OBI-WANNNN!!!	Unit	Ground				
+IC27_050	Rotunda Senate Guards		Unit	Ground				
+IC27_051	Munificent Frigate		Unit	Space				
+IC27_052	Resilient		Upgrade					
+IC27_053	Disciples' Devotion		Upgrade					
+IC27_054	Moment of Peace		Event					
+IC27_055	Betrayed Trust		Event					
+IC27_056	Allegiant General Pryde	Heartless Efficiency	Unit	Ground				
+IC27_057	Director Krennic	Architect of Annihilation	Unit	Ground				
+IC27_058	General Veers	Prepared	Unit	Ground				
+IC27_059	Exegol Patroller		Unit	Space				
+IC27_060	Jabba the Hutt	Bounties Left and Right	Unit	Ground				
+IC27_061	Knight of Ren		Unit	Ground				
+IC27_062	Admiral Motti	Conan in Command	Unit	Ground				
+IC27_063	Kylo's TIE Silencer	Follow My Lead	Unit	Space				
+IC27_064	Captain Phasma	On My Command	Unit	Ground				
+IC27_065	Darth Maul	Mindful Apprentice	Unit	Ground				
+IC27_066	Mother Talzin	The Time Has Come	Unit	Ground				
+IC27_067	Darth Vader	Useless to Resist	Unit	Ground				
+IC27_068	Devastator	Lord Vader's Flagship	Unit	Space				
+IC27_069	Apology Accepted		Event					
+IC27_070	C-3PO	Impulse Buy	Unit	Ground				
+IC27_071	Avar Kriss	For Light and Life	Unit	Ground				
+IC27_072	Lor San Tekka	Secret Keeper	Unit	Ground				
+IC27_073	Phoenix Squadron A-Wing		Unit	Space				
+IC27_074	Advanced Recon Commando		Unit	Ground				
+IC27_075	Red Leader	Wait For My Signal	Unit	Space				
+IC27_076	Clone Commander Cody	Loyal to the Republic	Unit	Ground				
+IC27_077	Mon Mothma	Truth is an Abyss	Unit	Ground				
+IC27_078	Anakin Skywalker	Destined for Darkness	Unit	Ground				
+IC27_079	Qui-Gon Jinn	Unwavering Belief	Unit	Ground				
+IC27_080	Bright Hope	Narrow Escape	Unit	Space				
+IC27_081	Mace Windu	Dropping By	Unit	Ground				
+IC27_082	Luke Skywalker	Do You Read Me?	Unit	Ground				
+IC27_083	Padmé Amidala	With Great Pleasure	Unit	Ground				
+IC27_084	Negotiator	Prepare the Troops	Unit	Space				
+IC27_085	Inspiring Mentor		Upgrade					
+IC27_086	Enfys Nest	No More!	Unit	Ground				
+IC27_087	Issue a Command		Event					
+IC27_088	Senator's Aide		Unit	Ground				
+IC27_089	Maz Kanata	It Calls to You	Unit	Ground				
+IC27_090	Homestead Militia		Unit	Ground				
+IC27_091	Defenders of the Forest		Unit	Ground				
+IC27_092	Resupply Carrier		Unit	Space				
+IC27_093	Academy Training		Upgrade					
+IC27_094	Dogfight		Event					
+IC27_095	Tandem Assault		Event					
+IC27_096	Moment of Glory		Event					
+IC27_097	Death Star Stormtrooper		Unit	Ground				
+IC27_098	Commander Pyre	Golden Menace	Unit	Ground				
+IC27_099	Eighth Brother	Ill-Fated Escape	Unit	Ground				
+IC27_100	Special Forces TIE Fighter		Unit	Space				
+IC27_101	General Hux	Fire Ventral Cannons!	Unit	Ground				
+IC27_102	Third Sister	Reckless	Unit	Ground				
+IC27_103	Grand Inquisitor	How the Mighty Will Fall	Unit	Ground				
+IC27_104	The Inquisitor's TIE	Would Rather Win	Unit	Space				
+IC27_105	General Veers	Leading the Assault	Unit	Ground				
+IC27_106	Kylo Ren	Relentless	Unit	Ground				
+IC27_107	Aurra Sing	Getting Even	Unit	Ground				
+IC27_108	Savage Opress	Monster	Unit	Ground				
+IC27_109	Supreme Leader Snoke	Darkness Rising	Unit	Ground				
+IC27_110	Supremacy	Destroy the Resistance	Unit	Space				
+IC27_111	Battle Fury		Upgrade					
+IC27_112	Rebellious Functionary		Unit	Ground				
+IC27_113	Ezra Bridger	Down With the Freedom	Unit	Ground				
+IC27_114	Cassian Andor	Blending In	Unit	Ground				
+IC27_115	Poe Dameron	Hero of the Resistance	Unit	Ground				
+IC27_116	Black One	Draw Fire, Twice	Unit	Space				
+IC27_117	Hera Syndulla	Against the Odds	Unit	Ground				
+IC27_118	Jedi Knight		Unit	Ground				
+IC27_119	Sabine Wren	Liberator of Krownest	Unit	Ground				
+IC27_120	Rey	Embracing Destiny	Unit	Ground				
+IC27_121	Kanan Jarrus	Sometimes I Hate Being Right	Unit	Ground				
+IC27_122	The Ghost	Whale Watching	Unit	Space				
+IC27_123	Jyn Erso	Her Father's Revenge	Unit	Ground				
+IC27_124	K-2SO	Evacuate the Vault Door	Unit	Ground				
+IC27_125	Bold Resistance		Event					
+IC27_126	Saw Gerrera	For the Cause	Unit	Ground				
+IC27_127	Act of Aggression		Event					
+IC27_128	Reckless Rebel		Unit	Ground				
+IC27_129	DRK-1 Probe Droid		Unit	Ground				
+IC27_130	Cartel Interceptor		Unit	Space				
+IC27_131	Cham Syndulla	Rallying Ryloth	Unit	Ground				
+IC27_132	Insurgent Saboteurs		Unit	Ground				
+IC27_133	Infiltrator's Skill		Upgrade					
+IC27_134	Desperate Attack		Event					
+IC27_135	Power Failure		Event					
+IC27_136	Open Fire		Event					
+IC27_137	Kintan Intimidator		Unit	Ground				
+IC27_138	Banshee	Scream Machine	Unit	Space				
+IC27_139	Bib Fortuna	Jabba's Majordomo	Unit	Ground				
+IC27_140	Separatist Commando		Unit	Ground				
+IC27_141	Banking Clan Shuttle		Unit	Space				
+IC27_142	Greedo	Big-Timer	Unit	Ground				
+IC27_143	Wat Tambor	Warped Warbling	Unit	Ground				
+IC27_144	Jango Fett	Straight Shooter	Unit	Ground				
+IC27_145	Poggle the Lesser	Secret Designs	Unit	Ground				
+IC27_146	Boba Fett	Compensated if He Dies	Unit	Ground				
+IC27_147	Asajj Ventress	Death From Above	Unit	Ground				
+IC27_148	Count Dooku	Silver-Tongued	Unit	Ground				
+IC27_149	The Invisible Hand	Confederate Might	Unit	Space				
+IC27_150	Frozen in Carbonite		Upgrade					
+IC27_151	R2-D2	The First Protagonist	Unit	Ground				
+IC27_152	Bravo Squadron Fighter		Unit	Space				
+IC27_153	Greef Karga	I Celebrate Your Success	Unit	Ground				
+IC27_154	Grogu	Irresistible	Unit	Ground				
+IC27_155	Han Solo	Gamblin' Man	Unit	Ground				
+IC27_156	J-Type Nubian Starship		Unit	Space				
+IC27_157	The Mandalorian	From the Shadows	Unit	Ground				
+IC27_158	Millennium Falcon	Ya-Hoo!	Unit	Space				
+IC27_159	Princess Leia	Calculated Distraction	Unit	Ground				
+IC27_160	Tantive IV	For Alderaan	Unit	Space				
+IC27_161	Han Solo	Scruffy-Looking Nerf Herder	Unit	Ground				
+IC27_162	Chewbacca	Cool Backpack	Unit	Ground				
+IC27_163	Bo-Katan Kryze	Right Place, Right Time	Unit	Ground				
+IC27_164	Millennium Falcon	Bucket of Bolts	Unit	Space				
+IC27_165	Luke Skywalker	Overplaying His Hand	Unit	Ground				
+IC27_166	I've Got A Bad Feeling		Event					
+IC27_167	Lando Calrissian	Check This Out	Unit	Ground				
+IC27_168	Cunning Ploy		Event					
+IC27_169	A-Wing		Unit	Space				
+IC27_170	B1 Security Team		Unit	Ground				
+IC27_171	Swoop Racer		Unit	Ground				
+IC27_172	Razor Crest	Stay Off the Ice	Unit	Space				
+IC27_173	Hidden Sharpshooter		Unit	Ground				
+IC27_174	Preparation		Upgrade					
+IC27_175	Shoot First		Event					
+IC27_176	Breaking In		Event					
+IC27_177	Force Illusion		Event					
+IC27_178	TIE/ln Fighter		Unit	Space				
+IC27_179	Morgan Elsbeth	Tales Based on Truths	Unit	Ground				
+IC27_180	Super Battle Droid		Unit	Ground				
+IC27_181	Rogue-class Starfighter		Unit	Space				
+IC27_182	HK-87 Assassin Droid		Unit	Ground				
+IC27_183	AT-ST		Unit	Ground				
+IC27_184	Consumed by the Dark Side		Event					
+IC27_185	I Am Your Father		Event					
+IC27_186	R2-D2	Ignoring Protocol	Unit	Ground				
+IC27_187	Jar Jar Binks	Bumbling Representative	Unit	Ground				
+IC27_188	C-3P0	Protocol Droid	Unit	Ground				
+IC27_189	Phase I Clone Trooper		Unit	Ground				
+IC27_190	Dilapidated Ski Speeder		Unit	Ground				
+IC27_191	Medical Frigate		Unit	Space				
+IC27_192	Eta-2 Light Interceptor		Unit	Space				
+IC27_193	Coordinated Front		Event					
+IC27_194	You're My Only Hope		Event					
+IC27_195	Darth Vader	No One to Stop Us	Leader	Ground	L	Hyperspace		=
+IC27_196	Rey	In Balance	Leader	Ground	L	Hyperspace		=
+IC27_197	Kylo Ren	Supreme Leader	Leader	Ground	L	Hyperspace		=
+IC27_198	Mace Windu	Here With Backup	Leader	Ground	L	Hyperspace		=
+IC27_199	Darth Maul	Mechanism of Menace	Leader	Ground	L	Hyperspace		=
+IC27_200	Luke Skywalker	I Have to Face Him	Leader	Ground	L	Hyperspace		=
+IC27_201	Asajj Ventress	Bald and Beautiful	Leader	Ground	L	Hyperspace		=
+IC27_202	Princess Leia	On a Diplomatic Mission	Leader	Ground	L	Hyperspace		=
+IC27_203	Nute Gunray	Ring Ring, Space Calling	Unit	Ground		Hyperspace		
+IC27_204	Dryden Vos	Thumb-Spiking the Scale	Unit	Ground		Hyperspace		
+IC27_205	Onyx Squadron Brute		Unit	Space		Hyperspace		
+IC27_206	Rune Haako	Scheming Second	Unit	Ground		Hyperspace		
+IC27_207	Magistrate's Scout		Unit	Ground		Hyperspace		
+IC27_208	Soulless One	Soulless Fun	Unit	Space		Hyperspace		
+IC27_209	Admiral Piett	In Command Now	Unit	Ground		Hyperspace		
+IC27_210	General Grievous	Four-Armed Menace	Unit	Ground		Hyperspace		
+IC27_211	Moff Gideon	Cold Calling	Unit	Ground		Hyperspace		
+IC27_212	Grand Moff Tarkin	Cracking Down on Lothal	Unit	Ground		Hyperspace		
+IC27_213	Grand Admiral Thrawn	Listen to Me Carefully	Unit	Ground		Hyperspace		
+IC27_214	Blizzard One	Veers at the Helm	Unit	Ground		Hyperspace		
+IC27_215	Darth Sidious	Move Against the Jedi	Unit	Ground		Hyperspace		
+IC27_216	AT-AT Suppressor		Unit	Ground		Hyperspace		
+IC27_217	Avenger	Hunting the Rebels	Unit	Space		Hyperspace		
+IC27_218	Chimaera	Grand Admiral's Might	Unit	Space		Hyperspace		
+IC27_219	Lethal Crackdown		Event			Hyperspace		
+IC27_220	BB-8	Frazzled Friend	Unit	Ground		Hyperspace		
+IC27_221	Kaydel Connix	Keep Going!	Unit	Ground		Hyperspace		
+IC27_222	Clan Wren Rescuer		Unit	Ground		Hyperspace		
+IC27_223	Obi-Wan's Interceptor	Nothing Too Fancy	Unit	Space		Hyperspace		
+IC27_224	Yoda	A Disturbing Puzzle	Unit	Ground		Hyperspace		
+IC27_225	Concord Dawn Interceptors		Unit	Space		Hyperspace		
+IC27_226	Finn	Stand and Fight	Unit	Ground		Hyperspace		
+IC27_227	Admiral Holdo	We Are the Spark	Unit	Ground		Hyperspace		
+IC27_228	Ahsoka Tano	Not on My Death Watch	Unit	Ground		Hyperspace		
+IC27_229	Rose Tico	In the Fight	Unit	Ground		Hyperspace		
+IC27_230	Captain Rex	Unwavering Belief	Unit	Ground		Hyperspace		
+IC27_231	Obi-Wan Kenobi	I Sense a Trap	Unit	Ground		Hyperspace		
+IC27_232	Raddus	Hope of the Resistance	Unit	Space		Hyperspace		
+IC27_233	Hello There		Event			Hyperspace		
+IC27_234	Qi'ra	Survivor	Unit	Ground		Hyperspace		
+IC27_235	Vigilant Defense		Event			Hyperspace		
+IC27_236	Moisture Farmer		Unit	Ground		Hyperspace		
+IC27_237	Desperate Commando		Unit	Ground		Hyperspace		
+IC27_238	Dexter Jettster	OBI-WANNNN!!!	Unit	Ground		Hyperspace		
+IC27_239	Rotunda Senate Guards		Unit	Ground		Hyperspace		
+IC27_240	Munificent Frigate		Unit	Space		Hyperspace		
+IC27_241	Resilient		Upgrade			Hyperspace		
+IC27_242	Disciples' Devotion		Upgrade			Hyperspace		
+IC27_243	Moment of Peace		Event			Hyperspace		
+IC27_244	Betrayed Trust		Event			Hyperspace		
+IC27_245	Allegiant General Pryde	Heartless Efficiency	Unit	Ground		Hyperspace		
+IC27_246	Director Krennic	Architect of Annihilation	Unit	Ground		Hyperspace		
+IC27_247	General Veers	Prepared	Unit	Ground		Hyperspace		
+IC27_248	Exegol Patroller		Unit	Space		Hyperspace		
+IC27_249	Jabba the Hutt	Bounties Left and Right	Unit	Ground		Hyperspace		
+IC27_250	Knight of Ren		Unit	Ground		Hyperspace		
+IC27_251	Admiral Motti	Conan in Command	Unit	Ground		Hyperspace		
+IC27_252	Kylo's TIE Silencer	Follow My Lead	Unit	Space		Hyperspace		
+IC27_253	Captain Phasma	On My Command	Unit	Ground		Hyperspace		
+IC27_254	Darth Maul	Mindful Apprentice	Unit	Ground		Hyperspace		
+IC27_255	Mother Talzin	The Time Has Come	Unit	Ground		Hyperspace		
+IC27_256	Darth Vader	Useless to Resist	Unit	Ground		Hyperspace		
+IC27_257	Devastator	Lord Vader's Flagship	Unit	Space		Hyperspace		
+IC27_258	Apology Accepted		Event			Hyperspace		
+IC27_259	C-3PO	Impulse Buy	Unit	Ground		Hyperspace		
+IC27_260	Avar Kriss	For Light and Life	Unit	Ground		Hyperspace		
+IC27_261	Lor San Tekka	Secret Keeper	Unit	Ground		Hyperspace		
+IC27_262	Phoenix Squadron A-Wing		Unit	Space		Hyperspace		
+IC27_263	Advanced Recon Commando		Unit	Ground		Hyperspace		
+IC27_264	Red Leader	Wait For My Signal	Unit	Space		Hyperspace		
+IC27_265	Clone Commander Cody	Loyal to the Republic	Unit	Ground		Hyperspace		
+IC27_266	Mon Mothma	Truth is an Abyss	Unit	Ground		Hyperspace		
+IC27_267	Anakin Skywalker	Destined for Darkness	Unit	Ground		Hyperspace		
+IC27_268	Qui-Gon Jinn	Unwavering Belief	Unit	Ground		Hyperspace		
+IC27_269	Bright Hope	Narrow Escape	Unit	Space		Hyperspace		
+IC27_270	Mace Windu	Dropping By	Unit	Ground		Hyperspace		
+IC27_271	Luke Skywalker	Do You Read Me?	Unit	Ground		Hyperspace		
+IC27_272	Padmé Amidala	With Great Pleasure	Unit	Ground		Hyperspace		
+IC27_273	Negotiator	Prepare the Troops	Unit	Space		Hyperspace		
+IC27_274	Inspiring Mentor		Upgrade			Hyperspace		
+IC27_275	Enfys Nest	No More!	Unit	Ground		Hyperspace		
+IC27_276	Issue a Command		Event			Hyperspace		
+IC27_277	Senator's Aide		Unit	Ground		Hyperspace		
+IC27_278	Maz Kanata	It Calls to You	Unit	Ground		Hyperspace		
+IC27_279	Homestead Militia		Unit	Ground		Hyperspace		
+IC27_280	Defenders of the Forest		Unit	Ground		Hyperspace		
+IC27_281	Resupply Carrier		Unit	Space		Hyperspace		
+IC27_282	Academy Training		Upgrade			Hyperspace		
+IC27_283	Dogfight		Event			Hyperspace		
+IC27_284	Tandem Assault		Event			Hyperspace		
+IC27_285	Moment of Glory		Event			Hyperspace		
+IC27_286	Death Star Stormtrooper		Unit	Ground		Hyperspace		
+IC27_287	Commander Pyre	Golden Menace	Unit	Ground		Hyperspace		
+IC27_288	Eighth Brother	Ill-Fated Escape	Unit	Ground		Hyperspace		
+IC27_289	Special Forces TIE Fighter		Unit	Space		Hyperspace		
+IC27_290	General Hux	Fire Ventral Cannons!	Unit	Ground		Hyperspace		
+IC27_291	Third Sister	Reckless	Unit	Ground		Hyperspace		
+IC27_292	Grand Inquisitor	How the Mighty Will Fall	Unit	Ground		Hyperspace		
+IC27_293	The Inquisitor's TIE	Would Rather Win	Unit	Space		Hyperspace		
+IC27_294	General Veers	Leading the Assault	Unit	Ground		Hyperspace		
+IC27_295	Kylo Ren	Relentless	Unit	Ground		Hyperspace		
+IC27_296	Aurra Sing	Getting Even	Unit	Ground		Hyperspace		
+IC27_297	Savage Opress	Monster	Unit	Ground		Hyperspace		
+IC27_298	Supreme Leader Snoke	Darkness Rising	Unit	Ground		Hyperspace		
+IC27_299	Supremacy	Destroy the Resistance	Unit	Space		Hyperspace		
+IC27_300	Battle Fury		Upgrade			Hyperspace		
+IC27_301	Rebellious Functionary		Unit	Ground		Hyperspace		
+IC27_302	Ezra Bridger	Down With the Freedom	Unit	Ground		Hyperspace		
+IC27_303	Cassian Andor	Blending In	Unit	Ground		Hyperspace		
+IC27_304	Poe Dameron	Hero of the Resistance	Unit	Ground		Hyperspace		
+IC27_305	Black One	Draw Fire, Twice	Unit	Space		Hyperspace		
+IC27_306	Hera Syndulla	Against the Odds	Unit	Ground		Hyperspace		
+IC27_307	Jedi Knight		Unit	Ground		Hyperspace		
+IC27_308	Sabine Wren	Liberator of Krownest	Unit	Ground		Hyperspace		
+IC27_309	Rey	Embracing Destiny	Unit	Ground		Hyperspace		
+IC27_310	Kanan Jarrus	Sometimes I Hate Being Right	Unit	Ground		Hyperspace		
+IC27_311	The Ghost	Whale Watching	Unit	Space		Hyperspace		
+IC27_312	Jyn Erso	Her Father's Revenge	Unit	Ground		Hyperspace		
+IC27_313	K-2SO	Evacuate the Vault Door	Unit	Ground		Hyperspace		
+IC27_314	Bold Resistance		Event			Hyperspace		
+IC27_315	Saw Gerrera	For the Cause	Unit	Ground		Hyperspace		
+IC27_316	Act of Aggression		Event			Hyperspace		
+IC27_317	Reckless Rebel		Unit	Ground		Hyperspace		
+IC27_318	DRK-1 Probe Droid		Unit	Ground		Hyperspace		
+IC27_319	Cartel Interceptor		Unit	Space		Hyperspace		
+IC27_320	Cham Syndulla	Rallying Ryloth	Unit	Ground		Hyperspace		
+IC27_321	Insurgent Saboteurs		Unit	Ground		Hyperspace		
+IC27_322	Infiltrator's Skill		Upgrade			Hyperspace		
+IC27_323	Desperate Attack		Event			Hyperspace		
+IC27_324	Power Failure		Event			Hyperspace		
+IC27_325	Open Fire		Event			Hyperspace		
+IC27_326	Kintan Intimidator		Unit	Ground		Hyperspace		
+IC27_327	Banshee	Scream Machine	Unit	Space		Hyperspace		
+IC27_328	Bib Fortuna	Jabba's Majordomo	Unit	Ground		Hyperspace		
+IC27_329	Separatist Commando		Unit	Ground		Hyperspace		
+IC27_330	Banking Clan Shuttle		Unit	Space		Hyperspace		
+IC27_331	Greedo	Big-Timer	Unit	Ground		Hyperspace		
+IC27_332	Wat Tambor	Warped Warbling	Unit	Ground		Hyperspace		
+IC27_333	Jango Fett	Straight Shooter	Unit	Ground		Hyperspace		
+IC27_334	Poggle the Lesser	Secret Designs	Unit	Ground		Hyperspace		
+IC27_335	Boba Fett	Compensated if He Dies	Unit	Ground		Hyperspace		
+IC27_336	Asajj Ventress	Death From Above	Unit	Ground		Hyperspace		
+IC27_337	Count Dooku	Silver-Tongued	Unit	Ground		Hyperspace		
+IC27_338	The Invisible Hand	Confederate Might	Unit	Space		Hyperspace		
+IC27_339	Frozen in Carbonite		Upgrade			Hyperspace		
+IC27_340	R2-D2	The First Protagonist	Unit	Ground		Hyperspace		
+IC27_341	Bravo Squadron Fighter		Unit	Space		Hyperspace		
+IC27_342	Greef Karga	I Celebrate Your Success	Unit	Ground		Hyperspace		
+IC27_343	Grogu	Irresistible	Unit	Ground		Hyperspace		
+IC27_344	Han Solo	Gamblin' Man	Unit	Ground		Hyperspace		
+IC27_345	J-Type Nubian Starship		Unit	Space		Hyperspace		
+IC27_346	The Mandalorian	From the Shadows	Unit	Ground		Hyperspace		
+IC27_347	Millennium Falcon	Ya-Hoo!	Unit	Space		Hyperspace		
+IC27_348	Princess Leia	Calculated Distraction	Unit	Ground		Hyperspace		
+IC27_349	Tantive IV	For Alderaan	Unit	Space		Hyperspace		
+IC27_350	Han Solo	Scruffy-Looking Nerf Herder	Unit	Ground		Hyperspace		
+IC27_351	Chewbacca	Cool Backpack	Unit	Ground		Hyperspace		
+IC27_352	Bo-Katan Kryze	Right Place, Right Time	Unit	Ground		Hyperspace		
+IC27_353	Millennium Falcon	Bucket of Bolts	Unit	Space		Hyperspace		
+IC27_354	Luke Skywalker	Overplaying His Hand	Unit	Ground		Hyperspace		
+IC27_355	I've Got A Bad Feeling		Event			Hyperspace		
+IC27_356	Lando Calrissian	Check This Out	Unit	Ground		Hyperspace		
+IC27_357	Cunning Ploy		Event			Hyperspace		
+IC27_358	A-Wing		Unit	Space		Hyperspace		
+IC27_359	B1 Security Team		Unit	Ground		Hyperspace		
+IC27_360	Swoop Racer		Unit	Ground		Hyperspace		
+IC27_361	Razor Crest	Stay Off the Ice	Unit	Space		Hyperspace		
+IC27_362	Hidden Sharpshooter		Unit	Ground		Hyperspace		
+IC27_363	Preparation		Upgrade			Hyperspace		
+IC27_364	Shoot First		Event			Hyperspace		
+IC27_365	Breaking In		Event			Hyperspace		
+IC27_366	Force Illusion		Event			Hyperspace		
+IC27_367	TIE/ln Fighter		Unit	Space		Hyperspace		
+IC27_368	Morgan Elsbeth	Tales Based on Truths	Unit	Ground		Hyperspace		
+IC27_369	Super Battle Droid		Unit	Ground		Hyperspace		
+IC27_370	Rogue-class Starfighter		Unit	Space		Hyperspace		
+IC27_371	AT-ST		Unit	Ground		Hyperspace		
+IC27_372	Consumed by the Dark Side		Event			Hyperspace		
+IC27_373	I Am Your Father		Event			Hyperspace		
+IC27_374	Jar Jar Binks	Bumbling Representative	Unit	Ground		Hyperspace		
+IC27_375	Phase I Clone Trooper		Unit	Ground		Hyperspace		
+IC27_376	Dilapidated Ski Speeder		Unit	Ground		Hyperspace		
+IC27_377	Medical Frigate		Unit	Space		Hyperspace		
+IC27_378	Eta-2 Light Interceptor		Unit	Space		Hyperspace		
+IC27_379	Coordinated Front		Event			Hyperspace		
+IC27_380	You're My Only Hope		Event			Hyperspace		
+IC27_559	Darth Vader	No One to Stop Us	Leader	Ground	L	Showcase		=
+IC27_560	Rey	In Balance	Leader	Ground	L	Showcase		=
+IC27_561	Kylo Ren	Supreme Leader	Leader	Ground	L	Showcase		=
+IC27_562	Mace Windu	Here With Backup	Leader	Ground	L	Showcase		=
+IC27_563	Darth Maul	Mechanism of Menace	Leader	Ground	L	Showcase		=
+IC27_564	Luke Skywalker	I Have to Face Him	Leader	Ground	L	Showcase		=
+IC27_565	Asajj Ventress	Bald and Beautiful	Leader	Ground	L	Showcase		=
+IC27_566	Princess Leia	On a Diplomatic Mission	Leader	Ground	L	Showcase		=
+IC27_T01	Experience		Token Upgrade					
+IC27_T02	Shield		Token Upgrade					

@@ -1,0 +1,21 @@
+#id	name	sub	type	arena	flags	variant	front	back
+SOROP_001	Battlefield Marine		Unit	Ground		OP Promo		
+SOROP_002	Green Squadron A-Wing		Unit	Space		OP Promo		
+SOROP_003	Waylay		Event			OP Promo		
+SOROP_004	Vader's Lightsaber		Upgrade			OP Promo		
+SOROP_005	I Am Your Father		Event			OP Promo		
+SOROP_006	Grand Moff Tarkin	Death Star Overseer	Unit	Ground		OP Promo		
+SOROP_007	Admiral Motti	Brazen and Scornful	Unit	Ground		OP Promo		
+SOROP_008	Luke's Lightsaber		Upgrade			OP Promo		
+SOROP_009	C-3P0	Protocol Droid	Unit	Ground		OP Promo		
+SOROP_010	R2-D2	Ignoring Protocol	Unit	Ground		OP Promo		
+SOROP_011	Leia Organa	Defiant Princess	Unit	Ground		OP Promo		
+SOROP_012	Resupply		Event			OP Promo		
+SOROP_013	Death Star Stormtrooper		Unit	Ground		OP Promo		
+SOROP_014	Death Trooper		Unit	Ground		OP Promo		
+SOROP_015	Bossk	Deadly Stalker	Unit	Ground		OP Promo		
+SOROP_016	Yoda	Old Master	Unit	Ground		OP Promo		
+SOROP_017	Sabine Wren	Explosives Artist	Unit	Ground		OP Promo		
+SOROP_018	Greedo	Slow on the Draw	Unit	Ground		OP Promo		
+SOROP_019	General Dodonna	Massassi Group Commander	Unit	Ground		OP Promo		
+SOROP_020	General Veers	Blizzard Force Commander	Unit	Ground		OP Promo		

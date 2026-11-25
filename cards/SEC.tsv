@@ -1,0 +1,637 @@
+#id	name	sub	type	arena	flags	variant	front	back
+SEC_001	Chancellor Palpatine	How Liberty Dies	Leader	Ground	L			=
+SEC_002	Jabba the Hutt	Wonderful Human Being	Leader	Ground	L			=
+SEC_003	Lama Su	We Modified Their Genetics	Leader	Ground	L			=
+SEC_004	Leia Organa	Of A Secret Bloodline	Leader	Ground	L			=
+SEC_005	Satine Kryze	Standing on Principles	Leader	Ground	L			=
+SEC_006	Colonel Yularen	This is Why We Plan	Leader	Ground	L			=
+SEC_007	Dryden Vos	I Never Ask Twice	Leader	Ground	L			=
+SEC_008	Bail Organa	Doing Everything He Can	Leader	Ground	L			=
+SEC_009	Mon Mothma	Forming a Coalition	Leader	Ground	L			=
+SEC_010	Dedra Meero	Not Wasting Time	Leader	Ground	L			=
+SEC_011	Governor Pryce	Tyrant of Lothal	Leader	Ground	L			=
+SEC_012	Cassian Andor	Climb!	Leader	Ground	L			=
+SEC_013	Luthen Rael	Don't You Want to Fight For Real?	Leader	Ground	L			=
+SEC_014	Sly Moore	Cipher in the Dark	Leader	Ground	L			=
+SEC_015	C-3P0	Human-Cyborg Relations	Leader	Ground	L			=
+SEC_016	Padmé Amidala	What Do You Have to Hide?	Leader	Ground	L			=
+SEC_017	Sabé	Queen's Shadow	Leader	Ground	L			=
+SEC_018	DJ	Need a Lift?	Leader	Ground	L			=
+SEC_019	Rix Road	Ferrix	Base		L			
+SEC_020	Uscru Entertainment District	Coruscant	Base		L			
+SEC_021	Republic City	Hosnian Prime	Base		L			
+SEC_022	Senate Rotunda	Coruscant	Base		L			
+SEC_023	Imperial Prison Complex	Narkina 5	Base		L			
+SEC_024	Naval Intelligence HQ	Coruscant	Base		L			
+SEC_025	Amnesty Housing	Coruscant	Base		L			
+SEC_026	Mount Tantiss	Wayland	Base		L			
+SEC_027	The Chancellor's Shuttle	Grim Harbinger	Unit	Space				
+SEC_028	Trayus Acolyte		Unit	Ground				
+SEC_029	Zam Wesell	Inconspicuous Assassin	Unit	Ground				
+SEC_030	Death Trooper		Unit	Ground				
+SEC_031	Nute Gunray	Escaping Justice	Unit	Ground				
+SEC_032	Kylo Ren's Command Shuttle	Icon of Authority	Unit	Space				
+SEC_033	Sly Moore	Witness to Power	Unit	Ground				
+SEC_034	Cad Bane	Impressed Now?	Unit	Ground				
+SEC_035	Darth Sion	Lord of Pain	Unit	Ground				
+SEC_036	Dogmatic Shock Squad		Unit	Ground				
+SEC_037	Cantwell Arrestor Cruiser		Unit	Space				
+SEC_038	Condemn		Upgrade					
+SEC_039	Creditor's Claim		Upgrade					
+SEC_040	Emergency Powers		Event					
+SEC_041	Populist Advisor		Unit	Ground				
+SEC_042	Cassian Andor	Lay Low	Unit	Ground				
+SEC_043	Chandrilan Sponsor		Unit	Ground				
+SEC_044	Populist Champion		Unit	Ground				
+SEC_045	Senator Chuchi	Voice for the Voiceless	Unit	Ground				
+SEC_046	Galen Erso	You'll Never Win	Unit	Ground				
+SEC_047	Coronet	Stately Vessel	Unit	Space				
+SEC_048	Captain Rex	Into the Firefight	Unit	Ground				
+SEC_049	Jade Squadron Patrol		Unit	Space				
+SEC_050	Vigil	Securing the Future	Unit	Space				
+SEC_051	Bo-Katan Kryze	Alone	Unit	Ground				
+SEC_052	Diplomatic Immunity		Upgrade					
+SEC_053	One in a Million		Event					
+SEC_054	Exiled from the Force		Upgrade					
+SEC_055	Dhani Pilgrim		Unit	Ground				
+SEC_056	Escape Pod		Unit	Space				
+SEC_057	Lobot	Cloud City Coordinator	Unit	Ground				
+SEC_058	Lost Jedi		Unit	Ground				
+SEC_059	Senate Warden		Unit	Ground				
+SEC_060	Defense Fleet X-Wing		Unit	Space				
+SEC_061	Willrow Hood	On the Run	Unit	Ground				
+SEC_062	Bardottan Ornithopter		Unit	Space				
+SEC_063	Rotunda Senate Guards		Unit	Ground				
+SEC_064	Congress of Malastare		Unit	Ground				
+SEC_065	Nala Se	Chief Medical Scientist	Unit	Ground				
+SEC_066	Alderaanian Envoys		Unit	Ground				
+SEC_067	Umbaran Mobile Cannon		Unit	Ground				
+SEC_068	Lando Calrissian	Trust Me	Unit	Ground				
+SEC_069	Nimble Prowess		Upgrade					
+SEC_070	Armor of Fortune		Upgrade					
+SEC_071	Disciples' Devotion		Upgrade					
+SEC_072	Scour the Archives		Event					
+SEC_073	The Eye of Aldhani		Event					
+SEC_074	Relief Request		Event					
+SEC_075	Knowledge and Defense		Event					
+SEC_076	Charged with Murder		Event					
+SEC_077	Retaliation		Event					
+SEC_078	Hyperspace Disaster		Event					
+SEC_079	Corrupt Politician		Unit	Ground				
+SEC_080	Imperial Dark Trooper		Unit	Ground				
+SEC_081	Major Partagaz	Healthcare Provider	Unit	Ground				
+SEC_082	Chancellor Palpatine	I Am the Senate	Unit	Ground				
+SEC_083	ISB Shuttle		Unit	Space				
+SEC_084	Mas Amedda	Accomplice to Power	Unit	Ground				
+SEC_085	Vice Admiral Rampart	On Schedule	Unit	Ground				
+SEC_086	Cruel Commandos		Unit	Ground				
+SEC_087	Dedra Meero	With Verifiable Data	Unit	Ground				
+SEC_088	First Light	Threatening Elegance	Unit	Space				
+SEC_089	PreMor Personnel Carrier		Unit	Space				
+SEC_090	Director Krennic	I Lose Nothing But Time	Unit	Ground				
+SEC_091	Corporate Warmongering		Event					
+SEC_092	I Am the Senate		Event					
+SEC_093	C-3P0	Anything I Might Do?	Unit	Ground				
+SEC_094	Mina Bonteri	Stop This War	Unit	Ground				
+SEC_095	Theed Security		Unit	Ground				
+SEC_096	Ahsoka Tano	I Learned it From You	Unit	Ground				
+SEC_097	Beloved Orator		Unit	Ground				
+SEC_098	Captain Typho	All Necessary Precautions	Unit	Ground				
+SEC_099	Naboo Royal Starship	Fit For A Queen	Unit	Space				
+SEC_100	Dressellian Commandos		Unit	Ground				
+SEC_101	Queen Amidala	Championing Her People	Unit	Ground				
+SEC_102	Renowned Dignitaries		Unit	Ground				
+SEC_1021	Chancellor Palpatine	How Liberty Dies	Leader	Ground	L	Showcase		=
+SEC_1022	Jabba the Hutt	Wonderful Human Being	Leader	Ground	L	Showcase		=
+SEC_1023	Lama Su	We Modified Their Genetics	Leader	Ground	L	Showcase		=
+SEC_1024	Leia Organa	Of A Secret Bloodline	Leader	Ground	L	Showcase		=
+SEC_1025	Satine Kryze	Standing on Principles	Leader	Ground	L	Showcase		=
+SEC_1026	Colonel Yularen	This is Why We Plan	Leader	Ground	L	Showcase		=
+SEC_1027	Dryden Vos	I Never Ask Twice	Leader	Ground	L	Showcase		=
+SEC_1028	Bail Organa	Doing Everything He Can	Leader	Ground	L	Showcase		=
+SEC_1029	Mon Mothma	Forming a Coalition	Leader	Ground	L	Showcase		=
+SEC_103	Mon Mothma	Clinging to Hope	Unit	Ground				
+SEC_1030	Dedra Meero	Not Wasting Time	Leader	Ground	L	Showcase		=
+SEC_1031	Governor Pryce	Tyrant of Lothal	Leader	Ground	L	Showcase		=
+SEC_1032	Cassian Andor	Climb!	Leader	Ground	L	Showcase		=
+SEC_1033	Luthen Rael	Don't You Want to Fight For Real?	Leader	Ground	L	Showcase		=
+SEC_1034	Sly Moore	Cipher in the Dark	Leader	Ground	L	Showcase		=
+SEC_1035	C-3P0	Human-Cyborg Relations	Leader	Ground	L	Showcase		=
+SEC_1036	Padmé Amidala	What Do You Have to Hide?	Leader	Ground	L	Showcase		=
+SEC_1037	Sabé	Queen's Shadow	Leader	Ground	L	Showcase		=
+SEC_1038	DJ	Need a Lift?	Leader	Ground	L	Showcase		=
+SEC_1039	Senator Chuchi	Voice for the Voiceless	Unit	Ground		Prestige		
+SEC_104	Figure of Unity		Upgrade					
+SEC_1040	Mina Bonteri	Stop This War	Unit	Ground		Prestige		
+SEC_1041	Queen Amidala	Championing Her People	Unit	Ground		Prestige		
+SEC_1042	Mon Mothma	Clinging to Hope	Unit	Ground		Prestige		
+SEC_1043	Bail Organa	Responding to Catastrophe	Unit	Ground		Prestige		
+SEC_1044	Nute Gunray	Escaping Justice	Unit	Ground		Prestige		
+SEC_1045	Sly Moore	Witness to Power	Unit	Ground		Prestige		
+SEC_1046	Major Partagaz	Healthcare Provider	Unit	Ground		Prestige		
+SEC_1047	Vice Admiral Rampart	On Schedule	Unit	Ground		Prestige		
+SEC_1048	Mas Amedda	Accomplice to Power	Unit	Ground		Prestige		
+SEC_1049	Dedra Meero	With Verifiable Data	Unit	Ground		Prestige		
+SEC_105	Renewed Friendship		Event					
+SEC_1050	Director Krennic	I Lose Nothing But Time	Unit	Ground		Prestige		
+SEC_1051	Syril Karn	Where is He?	Unit	Ground		Prestige		
+SEC_1052	General Grievous	Scuttling to Safety	Unit	Ground		Prestige		
+SEC_1053	Grand Moff Tarkin	Taking Krennic's Achievement	Unit	Ground		Prestige		
+SEC_1054	Grand Admiral Thrawn	Grand Schemer	Unit	Ground		Prestige		
+SEC_1055	Lando Calrissian	Trust Me	Unit	Ground		Prestige		
+SEC_1056	Chancellor Valorum	Civil Servant	Unit	Ground		Prestige		
+SEC_1057	Jar Jar Binks	Mesa Propose	Unit	Ground		Prestige		
+SEC_1058	Orn Free Taa	Political Power Broker	Unit	Ground		Prestige		
+SEC_1059	Chairman Papanoida	Undaunted Diplomat	Unit	Ground		Prestige		
+SEC_106	Dismantle the Conspiracy		Event					
+SEC_1060	Cassian Andor	Lay Low	Unit	Ground		Prestige		
+SEC_1061	Chopper	War Hero	Unit	Ground		Prestige		
+SEC_1062	Karis Nemik	Freedom is a Pure Idea	Unit	Ground		Prestige		
+SEC_1063	Luthen's Haulcraft	Countermeasures Armed	Unit	Space		Prestige		
+SEC_1064	Alexsandr Kallus	With New Purpose	Unit	Ground		Prestige		
+SEC_1065	Tala Durith	I Can Get You Inside	Unit	Ground		Prestige		
+SEC_1066	Lightmaker	I Have An Idea	Unit	Space		Prestige		
+SEC_1067	B2EM0	That's Two Lies	Unit	Ground		Prestige		
+SEC_1068	Maarva Andor	We've Been Sleeping	Unit	Ground		Prestige		
+SEC_1069	Zam Wesell	Inconspicuous Assassin	Unit	Ground		Prestige		
+SEC_107	Chancellor Valorum	Civil Servant	Unit	Ground				
+SEC_1070	Cad Bane	Impressed Now?	Unit	Ground		Prestige		
+SEC_1071	First Light	Threatening Elegance	Unit	Space		Prestige		
+SEC_1072	Dryden Vos	I Get All Worked Up	Unit	Ground		Prestige		
+SEC_1073	The Galleon	Marauding Pirate Ship	Unit	Space		Prestige		
+SEC_1074	Garindan	Information Broker	Unit	Ground		Prestige		
+SEC_1075	Kino Loy	You Answer to Me	Unit	Ground		Prestige		
+SEC_1076	Ziton Moj	Black Sun Bully	Unit	Ground		Prestige		
+SEC_1077	Cinta Kaz	The Struggle Comes First	Unit	Ground		Prestige		
+SEC_1078	Saw Gerrera's U-Wing	Breaking the Rules	Unit	Space		Prestige		
+SEC_1079	Libertine	Under New Ownership	Unit	Space		Prestige		
+SEC_108	Senator's Aide		Unit	Ground				
+SEC_1080	Vel Sartha	One Path, One Choice	Unit	Ground		Prestige		
+SEC_1081	Synara San	Harboring a Secret	Unit	Ground		Prestige		
+SEC_109	Diplomatic Envoy		Unit	Space				
+SEC_110	GNK Power Droid		Unit	Ground				
+SEC_111	Jar Jar Binks	Mesa Propose	Unit	Ground				
+SEC_112	Orn Free Taa	Political Power Broker	Unit	Ground				
+SEC_1125	Senator Chuchi	Voice for the Voiceless	Unit	Ground		Prestige Serialized		
+SEC_1126	Mina Bonteri	Stop This War	Unit	Ground		Prestige Serialized		
+SEC_1127	Queen Amidala	Championing Her People	Unit	Ground		Prestige Serialized		
+SEC_1128	Mon Mothma	Clinging to Hope	Unit	Ground		Prestige Serialized		
+SEC_1129	Bail Organa	Responding to Catastrophe	Unit	Ground		Prestige Serialized		
+SEC_113	Daro Commando		Unit	Ground				
+SEC_1130	Nute Gunray	Escaping Justice	Unit	Ground		Prestige Serialized		
+SEC_1131	Sly Moore	Witness to Power	Unit	Ground		Prestige Serialized		
+SEC_1132	Major Partagaz	Healthcare Provider	Unit	Ground		Prestige Serialized		
+SEC_1133	Vice Admiral Rampart	On Schedule	Unit	Ground		Prestige Serialized		
+SEC_1134	Mas Amedda	Accomplice to Power	Unit	Ground		Prestige Serialized		
+SEC_1135	Dedra Meero	With Verifiable Data	Unit	Ground		Prestige Serialized		
+SEC_1136	Director Krennic	I Lose Nothing But Time	Unit	Ground		Prestige Serialized		
+SEC_1137	Syril Karn	Where is He?	Unit	Ground		Prestige Serialized		
+SEC_1138	General Grievous	Scuttling to Safety	Unit	Ground		Prestige Serialized		
+SEC_1139	Grand Moff Tarkin	Taking Krennic's Achievement	Unit	Ground		Prestige Serialized		
+SEC_114	Kino Loy	You Answer to Me	Unit	Ground				
+SEC_1140	Grand Admiral Thrawn	Grand Schemer	Unit	Ground		Prestige Serialized		
+SEC_1141	Lando Calrissian	Trust Me	Unit	Ground		Prestige Serialized		
+SEC_1142	Chancellor Valorum	Civil Servant	Unit	Ground		Prestige Serialized		
+SEC_1143	Jar Jar Binks	Mesa Propose	Unit	Ground		Prestige Serialized		
+SEC_1144	Orn Free Taa	Political Power Broker	Unit	Ground		Prestige Serialized		
+SEC_1145	Chairman Papanoida	Undaunted Diplomat	Unit	Ground		Prestige Serialized		
+SEC_1146	Cassian Andor	Lay Low	Unit	Ground		Prestige Serialized		
+SEC_1147	Chopper	War Hero	Unit	Ground		Prestige Serialized		
+SEC_1148	Karis Nemik	Freedom is a Pure Idea	Unit	Ground		Prestige Serialized		
+SEC_1149	Luthen's Haulcraft	Countermeasures Armed	Unit	Space		Prestige Serialized		
+SEC_115	Taylander Shuttle		Unit	Space				
+SEC_1150	Alexsandr Kallus	With New Purpose	Unit	Ground		Prestige Serialized		
+SEC_1151	Tala Durith	I Can Get You Inside	Unit	Ground		Prestige Serialized		
+SEC_1152	Lightmaker	I Have An Idea	Unit	Space		Prestige Serialized		
+SEC_1153	B2EM0	That's Two Lies	Unit	Ground		Prestige Serialized		
+SEC_1154	Maarva Andor	We've Been Sleeping	Unit	Ground		Prestige Serialized		
+SEC_1155	Zam Wesell	Inconspicuous Assassin	Unit	Ground		Prestige Serialized		
+SEC_1156	Cad Bane	Impressed Now?	Unit	Ground		Prestige Serialized		
+SEC_1157	First Light	Threatening Elegance	Unit	Space		Prestige Serialized		
+SEC_1158	Dryden Vos	I Get All Worked Up	Unit	Ground		Prestige Serialized		
+SEC_1159	The Galleon	Marauding Pirate Ship	Unit	Space		Prestige Serialized		
+SEC_116	Nubian Star Skiff		Unit	Space				
+SEC_1160	Garindan	Information Broker	Unit	Ground		Prestige Serialized		
+SEC_1161	Kino Loy	You Answer to Me	Unit	Ground		Prestige Serialized		
+SEC_1162	Ziton Moj	Black Sun Bully	Unit	Ground		Prestige Serialized		
+SEC_1163	Cinta Kaz	The Struggle Comes First	Unit	Ground		Prestige Serialized		
+SEC_1164	Saw Gerrera's U-Wing	Breaking the Rules	Unit	Space		Prestige Serialized		
+SEC_1165	Libertine	Under New Ownership	Unit	Space		Prestige Serialized		
+SEC_1166	Vel Sartha	One Path, One Choice	Unit	Ground		Prestige Serialized		
+SEC_1167	Synara San	Harboring a Secret	Unit	Ground		Prestige Serialized		
+SEC_117	Consular's Cruiser		Unit	Space				
+SEC_118	Raxian Assembly		Unit	Ground				
+SEC_119	Crucible	Centuries of Wisdom	Unit	Space				
+SEC_120	Naboo Security Force		Unit	Ground				
+SEC_121	Shadow Crawler		Unit	Ground				
+SEC_122	Vuutun Palaa	Droid Control Ship	Unit	Space				
+SEC_123	Unveiled Might		Upgrade					
+SEC_124	Budget Scheming		Event					
+SEC_125	Reconnaissance		Event					
+SEC_126	Trade Route Taxation		Event					
+SEC_127	Charged with Corruption		Event					
+SEC_128	Convene the Senate		Event					
+SEC_129	With Thunderous Applause		Event					
+SEC_130	Ferrix Uprising		Event					
+SEC_131	Let's Talk		Event					
+SEC_132	Imperial Occupier		Unit	Ground				
+SEC_133	Syril Karn	Where is He?	Unit	Ground				
+SEC_134	Hunting Assassin Droid		Unit	Ground				
+SEC_135	Muckraker Crab Droid		Unit	Ground				
+SEC_136	Arihnda Pryce	On the Road to Power	Unit	Ground				
+SEC_137	Dryden Vos	I Get All Worked Up	Unit	Ground				
+SEC_138	Enforcer Squadron		Unit	Space				
+SEC_139	Miraj Scintel	The Weak Deserve to Kneel	Unit	Ground				
+SEC_140	Hondo Ohnaka	You Better Hurry	Unit	Ground				
+SEC_141	The Galleon	Marauding Pirate Ship	Unit	Space				
+SEC_142	Fulminatrix	Fleet Killer	Unit	Space				
+SEC_143	The Elite Squad	Neutralizing Insurgents	Unit	Ground				
+SEC_144	Tempest Assault		Event					
+SEC_145	Confidence in Victory		Event					
+SEC_146	Rebellious Functionary		Unit	Ground				
+SEC_147	Chopper	War Hero	Unit	Ground				
+SEC_148	Karis Nemik	Freedom is a Pure Idea	Unit	Ground				
+SEC_149	Kaydel Connix	For Our Survival	Unit	Ground				
+SEC_150	Valiant Commando		Unit	Ground				
+SEC_151	Kazuda Xiono	I'm Not A Spy	Unit	Ground				
+SEC_152	Strike Force X-Wing		Unit	Space				
+SEC_153	Luthen's Haulcraft	Countermeasures Armed	Unit	Space				
+SEC_154	Inner Rim Coalition		Unit	Ground				
+SEC_155	Alexsandr Kallus	With New Purpose	Unit	Ground				
+SEC_156	Nemik's Manifesto		Upgrade					
+SEC_157	One Way Out		Event					
+SEC_158	Oppression Breeds Rebellion		Event					
+SEC_159	Chairman Papanoida	Undaunted Diplomat	Unit	Ground				
+SEC_160	Reckless Rebel		Unit	Ground				
+SEC_161	Contraband Starhopper		Unit	Space				
+SEC_162	Crosshair	Filled With Doubt	Unit	Ground				
+SEC_163	Outer Rim Constable		Unit	Ground				
+SEC_164	Warrior of Clan Ordo		Unit	Ground				
+SEC_165	Academy Disciplinarian		Unit	Ground				
+SEC_166	Republic Aurek Starfighter		Unit	Space				
+SEC_167	Coruscant Undercity Police		Unit	Ground				
+SEC_168	Ziton Moj	Black Sun Bully	Unit	Ground				
+SEC_169	AAT Incinerator		Unit	Ground				
+SEC_170	Corellian Hounds		Unit	Ground				
+SEC_171	Punishing One	Takes No Prisoners	Unit	Space				
+SEC_172	Cinta Kaz	The Struggle Comes First	Unit	Ground				
+SEC_173	Republic War Walker		Unit	Ground				
+SEC_174	Saw Gerrera's U-Wing	Breaking the Rules	Unit	Space				
+SEC_175	Ambition's Reward		Upgrade					
+SEC_176	Sudden Ferocity		Upgrade					
+SEC_177	It's Not Over Yet		Event					
+SEC_178	Pursue the Lead		Event					
+SEC_179	Aggressive Negotiations		Event					
+SEC_180	Let's Call It War		Event					
+SEC_181	Unauthorized Investigation		Event					
+SEC_182	Charged with Treason		Event					
+SEC_183	Topple the Summit		Event					
+SEC_184	ISB Agent		Unit	Ground				
+SEC_185	Screeching TIE Fighter		Unit	Space				
+SEC_186	Garindan	Information Broker	Unit	Ground				
+SEC_187	General Grievous	Scuttling to Safety	Unit	Ground				
+SEC_188	Darth Traya	Lord of Betrayal	Unit	Ground				
+SEC_189	Lurking Snub Fighter		Unit	Space				
+SEC_190	Soulless One	Swift and Agile	Unit	Space				
+SEC_191	Trade Federation Delegates		Unit	Ground				
+SEC_192	Grand Moff Tarkin	Taking Krennic's Achievement	Unit	Ground				
+SEC_193	Grand Admiral Thrawn	Grand Schemer	Unit	Ground				
+SEC_194	Fully Armed and Operational		Event					
+SEC_195	Arrest		Event					
+SEC_196	No One Ever Knew		Event					
+SEC_197	Furtive Handmaiden		Unit	Ground				
+SEC_198	Bail Organa	Responding to Catastrophe	Unit	Ground				
+SEC_199	Bravo Squadron Fighter		Unit	Space				
+SEC_200	Junior Senator		Unit	Ground				
+SEC_201	Anakin Skywalker	Secret Husband	Unit	Ground				
+SEC_202	Rebel Propagandist		Unit	Ground				
+SEC_203	Tala Durith	I Can Get You Inside	Unit	Ground				
+SEC_204	Blue Ace	Colorful Racer	Unit	Space				
+SEC_205	Obi-Wan Kenobi	Finding What Doesn't Exist	Unit	Ground				
+SEC_206	Emissaries from Ryloth		Unit	Ground				
+SEC_207	Lightmaker	I Have An Idea	Unit	Space				
+SEC_208	Hunter	Extraordinary Tracker	Unit	Ground				
+SEC_209	The Mandalorian	Cleaning Up Nevarro	Unit	Ground				
+SEC_210	Stolen Starpath Unit		Upgrade					
+SEC_211	Faith in Your Friends		Event					
+SEC_212	Libertine	Under New Ownership	Unit	Space				
+SEC_213	A-Wing		Unit	Space				
+SEC_214	Skyhopper Canyon Runner		Unit	Ground				
+SEC_215	Emissary's Sheathipede		Unit	Space				
+SEC_216	Regulations Bureaucrat		Unit	Ground				
+SEC_217	Zenuas Shadow Fighter		Unit	Space				
+SEC_218	Cikatro Vizago	Business is What Matters	Unit	Ground				
+SEC_219	Ebon Hawk	Cause and Effect	Unit	Space				
+SEC_220	Hired Slicer		Unit	Ground				
+SEC_221	Unruly Astromech		Unit	Ground				
+SEC_222	Loan Shark		Unit	Ground				
+SEC_223	Duchess's Investigators		Unit	Ground				
+SEC_224	Vel Sartha	One Path, One Choice	Unit	Ground				
+SEC_225	Synara San	Harboring a Secret	Unit	Ground				
+SEC_226	Sneaking Suspicion		Upgrade					
+SEC_227	Special Modifications		Upgrade					
+SEC_228	Accelerate Our Plans		Event					
+SEC_229	Catch Unawares		Event					
+SEC_230	Charged with Espionage		Event					
+SEC_231	Implicate		Event					
+SEC_232	Kreia's Whispers		Event					
+SEC_233	Beguile		Event					
+SEC_234	Bog Down in Procedure		Event					
+SEC_235	The Wrong Ride		Event					
+SEC_236	Undercover Operation		Event					
+SEC_237	Supreme Council Aide		Unit	Ground				
+SEC_238	Sith Assassin		Unit	Ground				
+SEC_239	Viper Probe Droid		Unit	Ground				
+SEC_240	Hutt Cartel Starfighter		Unit	Space				
+SEC_241	Political Bully		Unit	Ground				
+SEC_242	Elia Kane	False Convert	Unit	Ground				
+SEC_243	FN Trooper Corps		Unit	Ground				
+SEC_244	Darth Nihilus	Lord of Hunger	Unit	Ground				
+SEC_245	When Has Become Now		Event					
+SEC_246	Contempt for Culture		Event					
+SEC_247	Evil is Everywhere		Event					
+SEC_248	B2EM0	That's Two Lies	Unit	Ground				
+SEC_249	High Command Councilor		Unit	Ground				
+SEC_250	Rebel Pathfinder		Unit	Ground				
+SEC_251	Crait Veteran		Unit	Ground				
+SEC_252	Maarva Andor	We've Been Sleeping	Unit	Ground				
+SEC_253	Covert Operative		Unit	Ground				
+SEC_254	Heroic ARC-170		Unit	Space				
+SEC_255	Remote Escort Tank		Unit	Ground				
+SEC_256	Moral Authority		Upgrade					
+SEC_257	Restore Freedom		Event					
+SEC_258	Grassroots Resistance		Event					
+SEC_259	ASP Laborer		Unit	Ground				
+SEC_260	Inspector's Shuttle		Unit	Space				
+SEC_261	Inspiring Senator		Unit	Ground				
+SEC_262	Ando Commission		Unit	Ground				
+SEC_263	Assassin Probe		Unit	Ground				
+SEC_264	Clandestine Connections		Upgrade					
+SEC_265	Chancellor Palpatine	How Liberty Dies	Leader	Ground	L	Hyperspace		=
+SEC_266	Jabba the Hutt	Wonderful Human Being	Leader	Ground	L	Hyperspace		=
+SEC_267	Lama Su	We Modified Their Genetics	Leader	Ground	L	Hyperspace		=
+SEC_268	Leia Organa	Of A Secret Bloodline	Leader	Ground	L	Hyperspace		=
+SEC_269	Satine Kryze	Standing on Principles	Leader	Ground	L	Hyperspace		=
+SEC_270	Colonel Yularen	This is Why We Plan	Leader	Ground	L	Hyperspace		=
+SEC_271	Dryden Vos	I Never Ask Twice	Leader	Ground	L	Hyperspace		=
+SEC_272	Bail Organa	Doing Everything He Can	Leader	Ground	L	Hyperspace		=
+SEC_273	Mon Mothma	Forming a Coalition	Leader	Ground	L	Hyperspace		=
+SEC_274	Dedra Meero	Not Wasting Time	Leader	Ground	L	Hyperspace		=
+SEC_275	Governor Pryce	Tyrant of Lothal	Leader	Ground	L	Hyperspace		=
+SEC_276	Cassian Andor	Climb!	Leader	Ground	L	Hyperspace		=
+SEC_277	Luthen Rael	Don't You Want to Fight For Real?	Leader	Ground	L	Hyperspace		=
+SEC_278	Sly Moore	Cipher in the Dark	Leader	Ground	L	Hyperspace		=
+SEC_279	C-3P0	Human-Cyborg Relations	Leader	Ground	L	Hyperspace		=
+SEC_280	Padmé Amidala	What Do You Have to Hide?	Leader	Ground	L	Hyperspace		=
+SEC_281	Sabé	Queen's Shadow	Leader	Ground	L	Hyperspace		=
+SEC_282	DJ	Need a Lift?	Leader	Ground	L	Hyperspace		=
+SEC_283	Rix Road	Ferrix	Base		L	Hyperspace		
+SEC_284	Uscru Entertainment District	Coruscant	Base		L	Hyperspace		
+SEC_285	Republic City	Hosnian Prime	Base		L	Hyperspace		
+SEC_286	Senate Rotunda	Coruscant	Base		L	Hyperspace		
+SEC_287	Imperial Prison Complex	Narkina 5	Base		L	Hyperspace		
+SEC_288	Naval Intelligence HQ	Coruscant	Base		L	Hyperspace		
+SEC_289	Amnesty Housing	Coruscant	Base		L	Hyperspace		
+SEC_290	Mount Tantiss	Wayland	Base		L	Hyperspace		
+SEC_291	The Chancellor's Shuttle	Grim Harbinger	Unit	Space		Hyperspace		
+SEC_292	Trayus Acolyte		Unit	Ground		Hyperspace		
+SEC_293	Zam Wesell	Inconspicuous Assassin	Unit	Ground		Hyperspace		
+SEC_294	Death Trooper		Unit	Ground		Hyperspace		
+SEC_295	Nute Gunray	Escaping Justice	Unit	Ground		Hyperspace		
+SEC_296	Kylo Ren's Command Shuttle	Icon of Authority	Unit	Space		Hyperspace		
+SEC_297	Sly Moore	Witness to Power	Unit	Ground		Hyperspace		
+SEC_298	Cad Bane	Impressed Now?	Unit	Ground		Hyperspace		
+SEC_299	Darth Sion	Lord of Pain	Unit	Ground		Hyperspace		
+SEC_300	Dogmatic Shock Squad		Unit	Ground		Hyperspace		
+SEC_301	Cantwell Arrestor Cruiser		Unit	Space		Hyperspace		
+SEC_302	Condemn		Upgrade			Hyperspace		
+SEC_303	Creditor's Claim		Upgrade			Hyperspace		
+SEC_304	Emergency Powers		Event			Hyperspace		
+SEC_305	Populist Advisor		Unit	Ground		Hyperspace		
+SEC_306	Cassian Andor	Lay Low	Unit	Ground		Hyperspace		
+SEC_307	Chandrilan Sponsor		Unit	Ground		Hyperspace		
+SEC_308	Populist Champion		Unit	Ground		Hyperspace		
+SEC_309	Senator Chuchi	Voice for the Voiceless	Unit	Ground		Hyperspace		
+SEC_310	Galen Erso	You'll Never Win	Unit	Ground		Hyperspace		
+SEC_311	Coronet	Stately Vessel	Unit	Space		Hyperspace		
+SEC_312	Captain Rex	Into the Firefight	Unit	Ground		Hyperspace		
+SEC_313	Jade Squadron Patrol		Unit	Space		Hyperspace		
+SEC_314	Vigil	Securing the Future	Unit	Space		Hyperspace		
+SEC_315	Bo-Katan Kryze	Alone	Unit	Ground		Hyperspace		
+SEC_316	Diplomatic Immunity		Upgrade			Hyperspace		
+SEC_317	One in a Million		Event			Hyperspace		
+SEC_318	Exiled from the Force		Upgrade			Hyperspace		
+SEC_319	Dhani Pilgrim		Unit	Ground		Hyperspace		
+SEC_320	Escape Pod		Unit	Space		Hyperspace		
+SEC_321	Lobot	Cloud City Coordinator	Unit	Ground		Hyperspace		
+SEC_322	Lost Jedi		Unit	Ground		Hyperspace		
+SEC_323	Senate Warden		Unit	Ground		Hyperspace		
+SEC_324	Defense Fleet X-Wing		Unit	Space		Hyperspace		
+SEC_325	Willrow Hood	On the Run	Unit	Ground		Hyperspace		
+SEC_326	Bardottan Ornithopter		Unit	Space		Hyperspace		
+SEC_327	Rotunda Senate Guards		Unit	Ground		Hyperspace		
+SEC_328	Congress of Malastare		Unit	Ground		Hyperspace		
+SEC_329	Nala Se	Chief Medical Scientist	Unit	Ground		Hyperspace		
+SEC_330	Alderaanian Envoys		Unit	Ground		Hyperspace		
+SEC_331	Umbaran Mobile Cannon		Unit	Ground		Hyperspace		
+SEC_332	Lando Calrissian	Trust Me	Unit	Ground		Hyperspace		
+SEC_333	Nimble Prowess		Upgrade			Hyperspace		
+SEC_334	Armor of Fortune		Upgrade			Hyperspace		
+SEC_335	Disciples' Devotion		Upgrade			Hyperspace		
+SEC_336	Scour the Archives		Event			Hyperspace		
+SEC_337	The Eye of Aldhani		Event			Hyperspace		
+SEC_338	Relief Request		Event			Hyperspace		
+SEC_339	Knowledge and Defense		Event			Hyperspace		
+SEC_340	Charged with Murder		Event			Hyperspace		
+SEC_341	Retaliation		Event			Hyperspace		
+SEC_342	Hyperspace Disaster		Event			Hyperspace		
+SEC_343	Corrupt Politician		Unit	Ground		Hyperspace		
+SEC_344	Imperial Dark Trooper		Unit	Ground		Hyperspace		
+SEC_345	Major Partagaz	Healthcare Provider	Unit	Ground		Hyperspace		
+SEC_346	Chancellor Palpatine	I Am the Senate	Unit	Ground		Hyperspace		
+SEC_347	ISB Shuttle		Unit	Space		Hyperspace		
+SEC_348	Mas Amedda	Accomplice to Power	Unit	Ground		Hyperspace		
+SEC_349	Vice Admiral Rampart	On Schedule	Unit	Ground		Hyperspace		
+SEC_350	Cruel Commandos		Unit	Ground		Hyperspace		
+SEC_351	Dedra Meero	With Verifiable Data	Unit	Ground		Hyperspace		
+SEC_352	First Light	Threatening Elegance	Unit	Space		Hyperspace		
+SEC_353	PreMor Personnel Carrier		Unit	Space		Hyperspace		
+SEC_354	Director Krennic	I Lose Nothing But Time	Unit	Ground		Hyperspace		
+SEC_355	Corporate Warmongering		Event			Hyperspace		
+SEC_356	I Am the Senate		Event			Hyperspace		
+SEC_357	C-3P0	Anything I Might Do?	Unit	Ground		Hyperspace		
+SEC_358	Mina Bonteri	Stop This War	Unit	Ground		Hyperspace		
+SEC_359	Theed Security		Unit	Ground		Hyperspace		
+SEC_360	Ahsoka Tano	I Learned it From You	Unit	Ground		Hyperspace		
+SEC_361	Beloved Orator		Unit	Ground		Hyperspace		
+SEC_362	Captain Typho	All Necessary Precautions	Unit	Ground		Hyperspace		
+SEC_363	Naboo Royal Starship	Fit For A Queen	Unit	Space		Hyperspace		
+SEC_364	Dressellian Commandos		Unit	Ground		Hyperspace		
+SEC_365	Queen Amidala	Championing Her People	Unit	Ground		Hyperspace		
+SEC_366	Renowned Dignitaries		Unit	Ground		Hyperspace		
+SEC_367	Mon Mothma	Clinging to Hope	Unit	Ground		Hyperspace		
+SEC_368	Figure of Unity		Upgrade			Hyperspace		
+SEC_369	Renewed Friendship		Event			Hyperspace		
+SEC_370	Dismantle the Conspiracy		Event			Hyperspace		
+SEC_371	Chancellor Valorum	Civil Servant	Unit	Ground		Hyperspace		
+SEC_372	Senator's Aide		Unit	Ground		Hyperspace		
+SEC_373	Diplomatic Envoy		Unit	Space		Hyperspace		
+SEC_374	GNK Power Droid		Unit	Ground		Hyperspace		
+SEC_375	Jar Jar Binks	Mesa Propose	Unit	Ground		Hyperspace		
+SEC_376	Orn Free Taa	Political Power Broker	Unit	Ground		Hyperspace		
+SEC_377	Daro Commando		Unit	Ground		Hyperspace		
+SEC_378	Kino Loy	You Answer to Me	Unit	Ground		Hyperspace		
+SEC_379	Taylander Shuttle		Unit	Space		Hyperspace		
+SEC_380	Nubian Star Skiff		Unit	Space		Hyperspace		
+SEC_381	Consular's Cruiser		Unit	Space		Hyperspace		
+SEC_382	Raxian Assembly		Unit	Ground		Hyperspace		
+SEC_383	Crucible	Centuries of Wisdom	Unit	Space		Hyperspace		
+SEC_384	Naboo Security Force		Unit	Ground		Hyperspace		
+SEC_385	Shadow Crawler		Unit	Ground		Hyperspace		
+SEC_386	Vuutun Palaa	Droid Control Ship	Unit	Space		Hyperspace		
+SEC_387	Unveiled Might		Upgrade			Hyperspace		
+SEC_388	Budget Scheming		Event			Hyperspace		
+SEC_389	Reconnaissance		Event			Hyperspace		
+SEC_390	Trade Route Taxation		Event			Hyperspace		
+SEC_391	Charged with Corruption		Event			Hyperspace		
+SEC_392	Convene the Senate		Event			Hyperspace		
+SEC_393	With Thunderous Applause		Event			Hyperspace		
+SEC_394	Ferrix Uprising		Event			Hyperspace		
+SEC_395	Let's Talk		Event			Hyperspace		
+SEC_396	Imperial Occupier		Unit	Ground		Hyperspace		
+SEC_397	Syril Karn	Where is He?	Unit	Ground		Hyperspace		
+SEC_398	Hunting Assassin Droid		Unit	Ground		Hyperspace		
+SEC_399	Muckraker Crab Droid		Unit	Ground		Hyperspace		
+SEC_400	Arihnda Pryce	On the Road to Power	Unit	Ground		Hyperspace		
+SEC_401	Dryden Vos	I Get All Worked Up	Unit	Ground		Hyperspace		
+SEC_402	Enforcer Squadron		Unit	Space		Hyperspace		
+SEC_403	Miraj Scintel	The Weak Deserve to Kneel	Unit	Ground		Hyperspace		
+SEC_404	Hondo Ohnaka	You Better Hurry	Unit	Ground		Hyperspace		
+SEC_405	The Galleon	Marauding Pirate Ship	Unit	Space		Hyperspace		
+SEC_406	Fulminatrix	Fleet Killer	Unit	Space		Hyperspace		
+SEC_407	The Elite Squad	Neutralizing Insurgents	Unit	Ground		Hyperspace		
+SEC_408	Tempest Assault		Event			Hyperspace		
+SEC_409	Confidence in Victory		Event			Hyperspace		
+SEC_410	Rebellious Functionary		Unit	Ground		Hyperspace		
+SEC_411	Chopper	War Hero	Unit	Ground		Hyperspace		
+SEC_412	Karis Nemik	Freedom is a Pure Idea	Unit	Ground		Hyperspace		
+SEC_413	Kaydel Connix	For Our Survival	Unit	Ground		Hyperspace		
+SEC_414	Valiant Commando		Unit	Ground		Hyperspace		
+SEC_415	Kazuda Xiono	I'm Not A Spy	Unit	Ground		Hyperspace		
+SEC_416	Strike Force X-Wing		Unit	Space		Hyperspace		
+SEC_417	Luthen's Haulcraft	Countermeasures Armed	Unit	Space		Hyperspace		
+SEC_418	Inner Rim Coalition		Unit	Ground		Hyperspace		
+SEC_419	Alexsandr Kallus	With New Purpose	Unit	Ground		Hyperspace		
+SEC_420	Nemik's Manifesto		Upgrade			Hyperspace		
+SEC_421	One Way Out		Event			Hyperspace		
+SEC_422	Oppression Breeds Rebellion		Event			Hyperspace		
+SEC_423	Chairman Papanoida	Undaunted Diplomat	Unit	Ground		Hyperspace		
+SEC_424	Reckless Rebel		Unit	Ground		Hyperspace		
+SEC_425	Contraband Starhopper		Unit	Space		Hyperspace		
+SEC_426	Crosshair	Filled With Doubt	Unit	Ground		Hyperspace		
+SEC_427	Outer Rim Constable		Unit	Ground		Hyperspace		
+SEC_428	Warrior of Clan Ordo		Unit	Ground		Hyperspace		
+SEC_429	Academy Disciplinarian		Unit	Ground		Hyperspace		
+SEC_430	Republic Aurek Starfighter		Unit	Space		Hyperspace		
+SEC_431	Coruscant Undercity Police		Unit	Ground		Hyperspace		
+SEC_432	Ziton Moj	Black Sun Bully	Unit	Ground		Hyperspace		
+SEC_433	AAT Incinerator		Unit	Ground		Hyperspace		
+SEC_434	Corellian Hounds		Unit	Ground		Hyperspace		
+SEC_435	Punishing One	Takes No Prisoners	Unit	Space		Hyperspace		
+SEC_436	Cinta Kaz	The Struggle Comes First	Unit	Ground		Hyperspace		
+SEC_437	Republic War Walker		Unit	Ground		Hyperspace		
+SEC_438	Saw Gerrera's U-Wing	Breaking the Rules	Unit	Space		Hyperspace		
+SEC_439	Ambition's Reward		Upgrade			Hyperspace		
+SEC_440	Sudden Ferocity		Upgrade			Hyperspace		
+SEC_441	It's Not Over Yet		Event			Hyperspace		
+SEC_442	Pursue the Lead		Event			Hyperspace		
+SEC_443	Aggressive Negotiations		Event			Hyperspace		
+SEC_444	Let's Call It War		Event			Hyperspace		
+SEC_445	Unauthorized Investigation		Event			Hyperspace		
+SEC_446	Charged with Treason		Event			Hyperspace		
+SEC_447	Topple the Summit		Event			Hyperspace		
+SEC_448	ISB Agent		Unit	Ground		Hyperspace		
+SEC_449	Screeching TIE Fighter		Unit	Space		Hyperspace		
+SEC_450	Garindan	Information Broker	Unit	Ground		Hyperspace		
+SEC_451	General Grievous	Scuttling to Safety	Unit	Ground		Hyperspace		
+SEC_452	Darth Traya	Lord of Betrayal	Unit	Ground		Hyperspace		
+SEC_453	Lurking Snub Fighter		Unit	Space		Hyperspace		
+SEC_454	Soulless One	Swift and Agile	Unit	Space		Hyperspace		
+SEC_455	Trade Federation Delegates		Unit	Ground		Hyperspace		
+SEC_456	Grand Moff Tarkin	Taking Krennic's Achievement	Unit	Ground		Hyperspace		
+SEC_457	Grand Admiral Thrawn	Grand Schemer	Unit	Ground		Hyperspace		
+SEC_458	Fully Armed and Operational		Event			Hyperspace		
+SEC_459	Arrest		Event			Hyperspace		
+SEC_460	No One Ever Knew		Event			Hyperspace		
+SEC_461	Furtive Handmaiden		Unit	Ground		Hyperspace		
+SEC_462	Bail Organa	Responding to Catastrophe	Unit	Ground		Hyperspace		
+SEC_463	Bravo Squadron Fighter		Unit	Space		Hyperspace		
+SEC_464	Junior Senator		Unit	Ground		Hyperspace		
+SEC_465	Anakin Skywalker	Secret Husband	Unit	Ground		Hyperspace		
+SEC_466	Rebel Propagandist		Unit	Ground		Hyperspace		
+SEC_467	Tala Durith	I Can Get You Inside	Unit	Ground		Hyperspace		
+SEC_468	Blue Ace	Colorful Racer	Unit	Space		Hyperspace		
+SEC_469	Obi-Wan Kenobi	Finding What Doesn't Exist	Unit	Ground		Hyperspace		
+SEC_470	Emissaries from Ryloth		Unit	Ground		Hyperspace		
+SEC_471	Lightmaker	I Have An Idea	Unit	Space		Hyperspace		
+SEC_472	Hunter	Extraordinary Tracker	Unit	Ground		Hyperspace		
+SEC_473	The Mandalorian	Cleaning Up Nevarro	Unit	Ground		Hyperspace		
+SEC_474	Stolen Starpath Unit		Upgrade			Hyperspace		
+SEC_475	Faith in Your Friends		Event			Hyperspace		
+SEC_476	Libertine	Under New Ownership	Unit	Space		Hyperspace		
+SEC_477	A-Wing		Unit	Space		Hyperspace		
+SEC_478	Skyhopper Canyon Runner		Unit	Ground		Hyperspace		
+SEC_479	Emissary's Sheathipede		Unit	Space		Hyperspace		
+SEC_480	Regulations Bureaucrat		Unit	Ground		Hyperspace		
+SEC_481	Zenuas Shadow Fighter		Unit	Space		Hyperspace		
+SEC_482	Cikatro Vizago	Business is What Matters	Unit	Ground		Hyperspace		
+SEC_483	Ebon Hawk	Cause and Effect	Unit	Space		Hyperspace		
+SEC_484	Hired Slicer		Unit	Ground		Hyperspace		
+SEC_485	Unruly Astromech		Unit	Ground		Hyperspace		
+SEC_486	Loan Shark		Unit	Ground		Hyperspace		
+SEC_487	Duchess's Investigators		Unit	Ground		Hyperspace		
+SEC_488	Vel Sartha	One Path, One Choice	Unit	Ground		Hyperspace		
+SEC_489	Synara San	Harboring a Secret	Unit	Ground		Hyperspace		
+SEC_490	Sneaking Suspicion		Upgrade			Hyperspace		
+SEC_491	Special Modifications		Upgrade			Hyperspace		
+SEC_492	Accelerate Our Plans		Event			Hyperspace		
+SEC_493	Catch Unawares		Event			Hyperspace		
+SEC_494	Charged with Espionage		Event			Hyperspace		
+SEC_495	Implicate		Event			Hyperspace		
+SEC_496	Kreia's Whispers		Event			Hyperspace		
+SEC_497	Beguile		Event			Hyperspace		
+SEC_498	Bog Down in Procedure		Event			Hyperspace		
+SEC_499	The Wrong Ride		Event			Hyperspace		
+SEC_500	Undercover Operation		Event			Hyperspace		
+SEC_501	Supreme Council Aide		Unit	Ground		Hyperspace		
+SEC_502	Sith Assassin		Unit	Ground		Hyperspace		
+SEC_503	Viper Probe Droid		Unit	Ground		Hyperspace		
+SEC_504	Hutt Cartel Starfighter		Unit	Space		Hyperspace		
+SEC_505	Political Bully		Unit	Ground		Hyperspace		
+SEC_506	Elia Kane	False Convert	Unit	Ground		Hyperspace		
+SEC_507	FN Trooper Corps		Unit	Ground		Hyperspace		
+SEC_508	Darth Nihilus	Lord of Hunger	Unit	Ground		Hyperspace		
+SEC_509	When Has Become Now		Event			Hyperspace		
+SEC_510	Contempt for Culture		Event			Hyperspace		
+SEC_511	Evil is Everywhere		Event			Hyperspace		
+SEC_512	B2EM0	That's Two Lies	Unit	Ground		Hyperspace		
+SEC_513	High Command Councilor		Unit	Ground		Hyperspace		
+SEC_514	Rebel Pathfinder		Unit	Ground		Hyperspace		
+SEC_515	Crait Veteran		Unit	Ground		Hyperspace		
+SEC_516	Maarva Andor	We've Been Sleeping	Unit	Ground		Hyperspace		
+SEC_517	Covert Operative		Unit	Ground		Hyperspace		
+SEC_518	Heroic ARC-170		Unit	Space		Hyperspace		
+SEC_519	Remote Escort Tank		Unit	Ground		Hyperspace		
+SEC_520	Moral Authority		Upgrade			Hyperspace		
+SEC_521	Restore Freedom		Event			Hyperspace		
+SEC_522	Grassroots Resistance		Event			Hyperspace		
+SEC_523	ASP Laborer		Unit	Ground		Hyperspace		
+SEC_524	Inspector's Shuttle		Unit	Space		Hyperspace		
+SEC_525	Inspiring Senator		Unit	Ground		Hyperspace		
+SEC_526	Ando Commission		Unit	Ground		Hyperspace		
+SEC_527	Assassin Probe		Unit	Ground		Hyperspace		
+SEC_528	Clandestine Connections		Upgrade			Hyperspace		
+SEC_T01	Spy		Token Unit	Ground				
+SEC_T02	Experience		Token Upgrade					
+SEC_T03	Spy		Token Unit	Ground		Hyperspace		
+SEC_T04	Experience		Token Upgrade			Hyperspace		

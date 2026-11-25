@@ -1,0 +1,105 @@
+#id	name	sub	type	arena	flags	variant	front	back
+IBH_001	Leia Organa	Get to Your Transports!	Leader	Ground	L		https://cdn.swu-db.com/images/cards/IBH/1.png	https://cdn.swu-db.com/images/cards/IBH/1-b.png
+IBH_002	Echo Caverns	Hoth	Base		L		https://cdn.swu-db.com/images/cards/IBH/2.png	
+IBH_003	Chewbacca	Rrruuuurrr	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/3.png	
+IBH_004	Rogue Squadron Speeder		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/4.png	
+IBH_005	I'll Cover For You		Event				https://cdn.swu-db.com/images/cards/IBH/5.png	
+IBH_006	Rebellion Y-Wing		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/6.png	
+IBH_007	Echo Coordinator		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/7.png	
+IBH_008	Trench Defender		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/8.png	
+IBH_009	I've Found Them		Event				https://cdn.swu-db.com/images/cards/IBH/9.png	
+IBH_010	Han Solo	Scruffy-Looking Nerf Herder	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/10.png	
+IBH_011	R2-D2	Known to Make Mistakes	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/11.png	
+IBH_012	Evacuation Escort		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/12.png	
+IBH_013	Recovery		Event				https://cdn.swu-db.com/images/cards/IBH/13.png	
+IBH_014	Bright Hope	Narrow Escape	Unit	Space			https://cdn.swu-db.com/images/cards/IBH/14.png	
+IBH_015	Tauntaun Mount		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/15.png	
+IBH_016	Ion Cannon		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/16.png	
+IBH_017	Rogue Squadron Speeder		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/17.png	
+IBH_018	Go for the Legs		Event				https://cdn.swu-db.com/images/cards/IBH/18.png	
+IBH_019	C-3P0	Oh Dear, Oh Dear	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/19.png	
+IBH_020	Luke Skywalker	Do You Read Me?	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/20.png	
+IBH_021	Improvised Detonation		Event				https://cdn.swu-db.com/images/cards/IBH/21.png	
+IBH_022	GR-75 Medium Transport		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/22.png	
+IBH_023	General Rieekan	Stalwart Tactician	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/23.png	
+IBH_024	Rebellion Y-Wing		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/24.png	
+IBH_025	I've Found Them		Event				https://cdn.swu-db.com/images/cards/IBH/25.png	
+IBH_026	Bright Hope	Narrow Escape	Unit	Space			https://cdn.swu-db.com/images/cards/IBH/26.png	
+IBH_027	Ion Cannon		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/27.png	
+IBH_028	Tauntaun Mount		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/28.png	
+IBH_029	Trench Defender		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/29.png	
+IBH_030	Improvised Detonation		Event				https://cdn.swu-db.com/images/cards/IBH/30.png	
+IBH_031	Millennium Falcon	Bucket of Bolts	Unit	Space			https://cdn.swu-db.com/images/cards/IBH/31.png	
+IBH_032	Rebellion Y-Wing		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/32.png	
+IBH_033	GR-75 Medium Transport		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/33.png	
+IBH_034	Rogue Squadron Speeder		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/34.png	
+IBH_035	Evacuation Escort		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/35.png	
+IBH_036	General Rieekan	Stalwart Tactician	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/36.png	
+IBH_037	Hoth Trooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/37.png	
+IBH_038	Hoth Trooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/38.png	
+IBH_039	I'll Cover For You		Event				https://cdn.swu-db.com/images/cards/IBH/39.png	
+IBH_040	GR-75 Medium Transport		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/40.png	
+IBH_041	C-3P0	Oh Dear, Oh Dear	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/41.png	
+IBH_042	Han Solo	Scruffy-Looking Nerf Herder	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/42.png	
+IBH_043	Echo Coordinator		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/43.png	
+IBH_044	Evacuation Escort		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/44.png	
+IBH_045	Go for the Legs		Event				https://cdn.swu-db.com/images/cards/IBH/45.png	
+IBH_046	Chewbacca	Rrruuuurrr	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/46.png	
+IBH_047	Echo Coordinator		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/47.png	
+IBH_048	Hoth Trooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/48.png	
+IBH_049	R2-D2	Known to Make Mistakes	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/49.png	
+IBH_050	Trench Defender		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/50.png	
+IBH_051	Tauntaun Mount		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/51.png	
+IBH_052	Watch This		Event				https://cdn.swu-db.com/images/cards/IBH/52.png	
+IBH_053	Darth Vader	Don't Fail Me Again	Leader	Ground	L		https://cdn.swu-db.com/images/cards/IBH/53.png	https://cdn.swu-db.com/images/cards/IBH/53-b.png
+IBH_054	Forward Command Post	Hoth	Base		L		https://cdn.swu-db.com/images/cards/IBH/54.png	
+IBH_055	First Legion Trooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/55.png	
+IBH_056	Ground Assault AT-AT		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/56.png	
+IBH_057	Snowtrooper Vanguard		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/57.png	
+IBH_058	Lambda Shuttle		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/58.png	
+IBH_059	Target the Main Generator		Event				https://cdn.swu-db.com/images/cards/IBH/59.png	
+IBH_060	Admiral Piett	In Command Now	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/60.png	
+IBH_061	We're In Trouble		Event				https://cdn.swu-db.com/images/cards/IBH/61.png	
+IBH_062	Imperial Deck Officer		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/62.png	
+IBH_063	Snowtrooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/63.png	
+IBH_064	Hoth Lieutenant		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/64.png	
+IBH_065	Admiral Piett	In Command Now	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/65.png	
+IBH_066	Too Strong for Blasters		Event				https://cdn.swu-db.com/images/cards/IBH/66.png	
+IBH_067	Ground Assault AT-AT		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/67.png	
+IBH_068	General Veers	Leading the Assault	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/68.png	
+IBH_069	E-Web Gunner		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/69.png	
+IBH_070	Blizzard Force AT-ST		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/70.png	
+IBH_071	Target the Main Generator		Event				https://cdn.swu-db.com/images/cards/IBH/71.png	
+IBH_072	Avenger	Hunting the Rebels	Unit	Space			https://cdn.swu-db.com/images/cards/IBH/72.png	
+IBH_073	First Legion Trooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/73.png	
+IBH_074	I Want Proof, Not Leads		Event				https://cdn.swu-db.com/images/cards/IBH/74.png	
+IBH_075	Scouting TIE Fighter		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/75.png	
+IBH_076	Rampaging Wampa		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/76.png	
+IBH_077	Snowtrooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/77.png	
+IBH_078	Surface Assault Bomber		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/78.png	
+IBH_079	Death Squadron Star Destroyer		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/79.png	
+IBH_080	Snowtrooper Vanguard		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/80.png	
+IBH_081	Scouting TIE Fighter		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/81.png	
+IBH_082	Admiral Ozzel	As Clumsy as He Is Stupid	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/82.png	
+IBH_083	E-Web Gunner		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/83.png	
+IBH_084	Lambda Shuttle		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/84.png	
+IBH_085	Admiral Ozzel	As Clumsy as He Is Stupid	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/85.png	
+IBH_086	We're In Trouble		Event				https://cdn.swu-db.com/images/cards/IBH/86.png	
+IBH_087	Snowtrooper		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/87.png	
+IBH_088	General Veers	Leading the Assault	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/88.png	
+IBH_089	Blizzard Force AT-ST		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/89.png	
+IBH_090	Lambda Shuttle		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/90.png	
+IBH_091	Too Strong for Blasters		Event				https://cdn.swu-db.com/images/cards/IBH/91.png	
+IBH_092	Hoth Lieutenant		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/92.png	
+IBH_093	Surface Assault Bomber		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/93.png	
+IBH_094	Surface Assault Bomber		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/94.png	
+IBH_095	You Have Failed Me		Event				https://cdn.swu-db.com/images/cards/IBH/95.png	
+IBH_096	Snowtrooper Vanguard		Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/96.png	
+IBH_097	Scouting TIE Fighter		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/97.png	
+IBH_098	Death Squadron Star Destroyer		Unit	Space			https://cdn.swu-db.com/images/cards/IBH/98.png	
+IBH_099	Blizzard One	Veers at the Helm	Unit	Ground			https://cdn.swu-db.com/images/cards/IBH/99.png	
+IBH_100	Imperial Deck Officer		Unit	Ground				
+IBH_101	First Legion Trooper		Unit	Ground				
+IBH_102	I Want Proof, Not Leads		Event					
+IBH_103	Blizzard Force AT-ST		Unit	Ground				
+IBH_104	The Desolation of Hoth		Event					

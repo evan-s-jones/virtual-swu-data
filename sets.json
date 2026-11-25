@@ -8,7 +8,8 @@
    "mainSet": true,
    "released": "7/17/26",
    "cards": 646,
-   "file": "cards/ASH.json"
+   "file": "cards/ASH.json",
+   "tsv": "cards/ASH.tsv"
   },
   {
    "code": "ASHOP",
@@ -17,7 +18,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/ASHOP.json"
+   "file": "cards/ASHOP.json",
+   "tsv": "cards/ASHOP.tsv"
   },
   {
    "code": "C24",
@@ -26,7 +28,8 @@
    "mainSet": false,
    "released": "7/25/24",
    "cards": 6,
-   "file": "cards/C24.json"
+   "file": "cards/C24.json",
+   "tsv": "cards/C24.tsv"
   },
   {
    "code": "C25",
@@ -35,7 +38,8 @@
    "mainSet": false,
    "released": "7/25/25",
    "cards": 6,
-   "file": "cards/C25.json"
+   "file": "cards/C25.json",
+   "tsv": "cards/C25.tsv"
   },
   {
    "code": "C26",
@@ -44,7 +48,8 @@
    "mainSet": false,
    "released": null,
    "cards": 6,
-   "file": "cards/C26.json"
+   "file": "cards/C26.json",
+   "tsv": "cards/C26.tsv"
   },
   {
    "code": "CST",
@@ -53,7 +58,8 @@
    "mainSet": false,
    "released": "9/15/26",
    "cards": 2,
-   "file": "cards/CST.json"
+   "file": "cards/CST.json",
+   "tsv": "cards/CST.tsv"
   },
   {
    "code": "ESHD",
@@ -62,7 +68,8 @@
    "mainSet": false,
    "released": null,
    "cards": 1,
-   "file": "cards/ESHD.json"
+   "file": "cards/ESHD.json",
+   "tsv": "cards/ESHD.tsv"
   },
   {
    "code": "ESOR",
@@ -71,7 +78,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/ESOR.json"
+   "file": "cards/ESOR.json",
+   "tsv": "cards/ESOR.tsv"
   },
   {
    "code": "G25",
@@ -80,7 +88,8 @@
    "mainSet": false,
    "released": "12/5/25",
    "cards": 3,
-   "file": "cards/G25.json"
+   "file": "cards/G25.json",
+   "tsv": "cards/G25.tsv"
   },
   {
    "code": "HMW",
@@ -89,7 +98,8 @@
    "mainSet": true,
    "released": "10/9/26",
    "cards": 668,
-   "file": "cards/HMW.json"
+   "file": "cards/HMW.json",
+   "tsv": "cards/HMW.tsv"
   },
   {
    "code": "HMWP",
@@ -98,7 +108,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/HMWP.json"
+   "file": "cards/HMWP.json",
+   "tsv": "cards/HMWP.tsv"
   },
   {
    "code": "IBH",
@@ -107,7 +118,8 @@
    "mainSet": true,
    "released": "10/3/25",
    "cards": 104,
-   "file": "cards/IBH.json"
+   "file": "cards/IBH.json",
+   "tsv": "cards/IBH.tsv"
   },
   {
    "code": "IC27",
@@ -116,7 +128,8 @@
    "mainSet": true,
    "released": "11/20/26",
    "cards": 390,
-   "file": "cards/IC27.json"
+   "file": "cards/IC27.json",
+   "tsv": "cards/IC27.tsv"
   },
   {
    "code": "J24",
@@ -125,7 +138,8 @@
    "mainSet": false,
    "released": null,
    "cards": 6,
-   "file": "cards/J24.json"
+   "file": "cards/J24.json",
+   "tsv": "cards/J24.tsv"
   },
   {
    "code": "J25",
@@ -134,7 +148,8 @@
    "mainSet": false,
    "released": null,
    "cards": 19,
-   "file": "cards/J25.json"
+   "file": "cards/J25.json",
+   "tsv": "cards/J25.tsv"
   },
   {
    "code": "JTL",
@@ -143,7 +158,8 @@
    "mainSet": true,
    "released": "3/14/25",
    "cards": 622,
-   "file": "cards/JTL.json"
+   "file": "cards/JTL.json",
+   "tsv": "cards/JTL.tsv"
   },
   {
    "code": "JTLOP",
@@ -152,7 +168,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/JTLOP.json"
+   "file": "cards/JTLOP.json",
+   "tsv": "cards/JTLOP.tsv"
   },
   {
    "code": "LAW",
@@ -161,7 +178,8 @@
    "mainSet": true,
    "released": "3/13/26",
    "cards": 630,
-   "file": "cards/LAW.json"
+   "file": "cards/LAW.json",
+   "tsv": "cards/LAW.tsv"
   },
   {
    "code": "LAWP",
@@ -170,7 +188,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/LAWP.json"
+   "file": "cards/LAWP.json",
+   "tsv": "cards/LAWP.tsv"
   },
   {
    "code": "LOF",
@@ -179,7 +198,8 @@
    "mainSet": true,
    "released": "7/11/25",
    "cards": 644,
-   "file": "cards/LOF.json"
+   "file": "cards/LOF.json",
+   "tsv": "cards/LOF.tsv"
   },
   {
    "code": "LOFOP",
@@ -188,7 +208,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/LOFOP.json"
+   "file": "cards/LOFOP.json",
+   "tsv": "cards/LOFOP.tsv"
   },
   {
    "code": "MV26",
@@ -197,7 +218,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/MV26.json"
+   "file": "cards/MV26.json",
+   "tsv": "cards/MV26.tsv"
   },
   {
    "code": "P25",
@@ -206,7 +228,8 @@
    "mainSet": false,
    "released": null,
    "cards": 178,
-   "file": "cards/P25.json"
+   "file": "cards/P25.json",
+   "tsv": "cards/P25.tsv"
   },
   {
    "code": "P26",
@@ -215,7 +238,8 @@
    "mainSet": false,
    "released": null,
    "cards": 212,
-   "file": "cards/P26.json"
+   "file": "cards/P26.json",
+   "tsv": "cards/P26.tsv"
   },
   {
    "code": "PSHD",
@@ -224,7 +248,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/PSHD.json"
+   "file": "cards/PSHD.json",
+   "tsv": "cards/PSHD.tsv"
   },
   {
    "code": "PSHDJ",
@@ -233,7 +258,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/PSHDJ.json"
+   "file": "cards/PSHDJ.json",
+   "tsv": "cards/PSHDJ.tsv"
   },
   {
    "code": "PSOR",
@@ -242,7 +268,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/PSOR.json"
+   "file": "cards/PSOR.json",
+   "tsv": "cards/PSOR.tsv"
   },
   {
    "code": "PSORJ",
@@ -251,7 +278,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/PSORJ.json"
+   "file": "cards/PSORJ.json",
+   "tsv": "cards/PSORJ.tsv"
   },
   {
    "code": "PTWI",
@@ -260,7 +288,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/PTWI.json"
+   "file": "cards/PTWI.json",
+   "tsv": "cards/PTWI.tsv"
   },
   {
    "code": "PTWIJ",
@@ -269,7 +298,8 @@
    "mainSet": false,
    "released": null,
    "cards": 2,
-   "file": "cards/PTWIJ.json"
+   "file": "cards/PTWIJ.json",
+   "tsv": "cards/PTWIJ.tsv"
   },
   {
    "code": "SEC",
@@ -278,7 +308,8 @@
    "mainSet": true,
    "released": "11/7/25",
    "cards": 636,
-   "file": "cards/SEC.json"
+   "file": "cards/SEC.json",
+   "tsv": "cards/SEC.tsv"
   },
   {
    "code": "SECOP",
@@ -287,7 +318,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/SECOP.json"
+   "file": "cards/SECOP.json",
+   "tsv": "cards/SECOP.tsv"
   },
   {
    "code": "SHD",
@@ -296,7 +328,8 @@
    "mainSet": true,
    "released": "7/12/24",
    "cards": 526,
-   "file": "cards/SHD.json"
+   "file": "cards/SHD.json",
+   "tsv": "cards/SHD.tsv"
   },
   {
    "code": "SHDOP",
@@ -305,7 +338,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/SHDOP.json"
+   "file": "cards/SHDOP.json",
+   "tsv": "cards/SHDOP.tsv"
   },
   {
    "code": "SHDPQ",
@@ -314,7 +348,8 @@
    "mainSet": false,
    "released": null,
    "cards": 6,
-   "file": "cards/SHDPQ.json"
+   "file": "cards/SHDPQ.json",
+   "tsv": "cards/SHDPQ.tsv"
   },
   {
    "code": "SHDPQJ",
@@ -323,7 +358,8 @@
    "mainSet": false,
    "released": null,
    "cards": 1,
-   "file": "cards/SHDPQJ.json"
+   "file": "cards/SHDPQJ.json",
+   "tsv": "cards/SHDPQJ.tsv"
   },
   {
    "code": "SOR",
@@ -332,7 +368,8 @@
    "mainSet": true,
    "released": "3/8/24",
    "cards": 514,
-   "file": "cards/SOR.json"
+   "file": "cards/SOR.json",
+   "tsv": "cards/SOR.tsv"
   },
   {
    "code": "SOROP",
@@ -341,7 +378,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/SOROP.json"
+   "file": "cards/SOROP.json",
+   "tsv": "cards/SOROP.tsv"
   },
   {
    "code": "SS1",
@@ -350,7 +388,8 @@
    "mainSet": false,
    "released": null,
    "cards": 5,
-   "file": "cards/SS1.json"
+   "file": "cards/SS1.json",
+   "tsv": "cards/SS1.tsv"
   },
   {
    "code": "SS1J",
@@ -359,7 +398,8 @@
    "mainSet": false,
    "released": null,
    "cards": 1,
-   "file": "cards/SS1J.json"
+   "file": "cards/SS1J.json",
+   "tsv": "cards/SS1J.tsv"
   },
   {
    "code": "SS2",
@@ -368,7 +408,8 @@
    "mainSet": false,
    "released": null,
    "cards": 5,
-   "file": "cards/SS2.json"
+   "file": "cards/SS2.json",
+   "tsv": "cards/SS2.tsv"
   },
   {
    "code": "SS2J",
@@ -377,7 +418,8 @@
    "mainSet": false,
    "released": null,
    "cards": 1,
-   "file": "cards/SS2J.json"
+   "file": "cards/SS2J.json",
+   "tsv": "cards/SS2J.tsv"
   },
   {
    "code": "TS26",
@@ -386,7 +428,8 @@
    "mainSet": true,
    "released": "5/8/26",
    "cards": 88,
-   "file": "cards/TS26.json"
+   "file": "cards/TS26.json",
+   "tsv": "cards/TS26.tsv"
   },
   {
    "code": "TWI",
@@ -395,7 +438,8 @@
    "mainSet": true,
    "released": "11/8/24",
    "cards": 521,
-   "file": "cards/TWI.json"
+   "file": "cards/TWI.json",
+   "tsv": "cards/TWI.tsv"
   },
   {
    "code": "TWIOP",
@@ -404,7 +448,8 @@
    "mainSet": false,
    "released": null,
    "cards": 20,
-   "file": "cards/TWIOP.json"
+   "file": "cards/TWIOP.json",
+   "tsv": "cards/TWIOP.tsv"
   },
   {
    "code": "TWIPQ",
@@ -413,7 +458,8 @@
    "mainSet": false,
    "released": null,
    "cards": 6,
-   "file": "cards/TWIPQ.json"
+   "file": "cards/TWIPQ.json",
+   "tsv": "cards/TWIPQ.tsv"
   },
   {
    "code": "TWIPQJ",
@@ -422,7 +468,8 @@
    "mainSet": false,
    "released": null,
    "cards": 1,
-   "file": "cards/TWIPQJ.json"
+   "file": "cards/TWIPQJ.json",
+   "tsv": "cards/TWIPQJ.tsv"
   },
   {
    "code": "TWISS",
@@ -431,7 +478,8 @@
    "mainSet": false,
    "released": null,
    "cards": 5,
-   "file": "cards/TWISS.json"
+   "file": "cards/TWISS.json",
+   "tsv": "cards/TWISS.tsv"
   },
   {
    "code": "TWISSJ",
@@ -440,7 +488,8 @@
    "mainSet": false,
    "released": null,
    "cards": 1,
-   "file": "cards/TWISSJ.json"
+   "file": "cards/TWISSJ.json",
+   "tsv": "cards/TWISSJ.tsv"
   }
  ]
 }

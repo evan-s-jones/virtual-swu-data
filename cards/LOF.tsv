@@ -1,0 +1,645 @@
+#id	name	sub	type	arena	flags	variant	front	back
+LOF_001	Kylo Ren	We're Not Done Yet	Leader	Ground	L			=
+LOF_002	Mother Talzin	Power Through Magick	Leader	Ground	L			=
+LOF_003	Ahsoka Tano	Fighting For Peace	Leader	Ground	L			=
+LOF_004	Kanan Jarrus	Help Us Survive	Leader	Ground	L			=
+LOF_005	Morgan Elsbeth	Following the Call	Leader	Ground	L			=
+LOF_006	Supreme Leader Snoke	In the Seat of Power	Leader	Ground	L			=
+LOF_007	Avar Kriss	Marshal of Starlight	Leader	Ground	L			=
+LOF_008	Obi-Wan Kenobi	Courage Makes Heroes	Leader	Ground	L			=
+LOF_009	Darth Maul	Sith Revealed	Leader	Ground	L			=
+LOF_010	Third Sister	Seething With Ambition	Leader	Ground	L			=
+LOF_011	Kit Fisto	Focused Jedi Master	Leader	Ground	L			=
+LOF_012	Rey	Nobody	Leader	Ground	L			=
+LOF_013	Barriss Offee	We Have Become Villains	Leader	Ground	L			=
+LOF_014	Grand Inquisitor	Stories Travel Quickly	Leader	Ground	L			=
+LOF_015	Cal Kestis	I Can't Keep Hiding	Leader	Ground	L			=
+LOF_016	Qui-Gon Jinn	Student of the Living Force	Leader	Ground	L			=
+LOF_017	Darth Revan	Scourge of the Old Republic	Leader	Ground	L			=
+LOF_018	Anakin Skywalker	Tempted by the Dark Side	Leader	Ground	L			=
+LOF_019	Vergence Temple	Lothal	Base		L			
+LOF_020	Nightsister Lair	Dathomir	Base		L			
+LOF_021	Shadowed Undercity	Coruscant	Base		L			
+LOF_022	Mystic Monastery	Mortis	Base		L			
+LOF_023	Jedi Temple	Coruscant	Base		L			
+LOF_024	Starlight Temple	Starlight Beacon	Base		L			
+LOF_025	Temple of Destruction	Malachor	Base		L			
+LOF_026	Fortress Vader	Mustafar	Base		L			
+LOF_027	Strangled Cliffs	Dathomir	Base		L			
+LOF_028	Tomb of Eilram	Zeffo	Base		L			
+LOF_029	Crystal Caves	Ilum	Base		L			
+LOF_030	The Holy City	Jedha	Base		L			
+LOF_031	Karis	We Don't Like Strangers	Unit	Ground				
+LOF_032	Magistrate's Scout		Unit	Ground				
+LOF_033	Nameless Terror		Unit	Ground				
+LOF_034	Supremacy TIE/sf		Unit	Space				
+LOF_035	Talzin's Assassin		Unit	Ground				
+LOF_036	Old Daka	Oldest and Wisest	Unit	Ground				
+LOF_037	Darth Vader	Twilight of the Apprentice	Unit	Ground				
+LOF_038	Pong Krell	It's Treason, Then	Unit	Ground				
+LOF_039	Darth Sidious	The Phantom Menace	Unit	Ground				
+LOF_040	Kylo Ren's Lightsaber		Upgrade					
+LOF_041	Drain Essence		Event					
+LOF_042	Always Two		Event					
+LOF_043	The Tragedy of Plagueis		Event					
+LOF_044	Loth-Wolf		Unit	Ground				
+LOF_045	Yaddle	A Chance to Make Things Right	Unit	Ground				
+LOF_046	Ezra Bridger	Attuned With Life	Unit	Ground				
+LOF_047	T-6 Shuttle 1974	Stay Close	Unit	Space				
+LOF_048	Itinerant Warrior		Unit	Ground				
+LOF_049	Jedi Guardian		Unit	Ground				
+LOF_050	Plo Koon	I Don't Believe in Chance	Unit	Ground				
+LOF_051	Jedi Holocron		Upgrade					
+LOF_052	Jedi Trials		Upgrade					
+LOF_053	Heirloom Lightsaber		Upgrade					
+LOF_054	Calm in the Storm		Event					
+LOF_055	Dume	Redeem the Future	Unit	Ground				
+LOF_056	Size Matters Not		Upgrade					
+LOF_057	Owen Lars	Devoted Uncle	Unit	Ground				
+LOF_058	Guardian of the Whills		Unit	Ground				
+LOF_059	Nightsister Warrior		Unit	Ground				
+LOF_060	Padawan Starfighter		Unit	Space				
+LOF_061	Secretive Sage		Unit	Ground				
+LOF_062	Axe Woves	Accomplished Warrior	Unit	Ground				
+LOF_063	Oggdo Bogdo	Bogano Brute	Unit	Ground				
+LOF_064	Tauntaun		Unit	Ground				
+LOF_065	Watto		Unit	Ground				
+LOF_066	Awakened Specters		Unit	Ground				
+LOF_067	Chirrut Îmwe	Blind, but not Deaf	Unit	Ground				
+LOF_068	Luthen Rael	Masquerading Antiquarian	Unit	Ground				
+LOF_069	Graceful Purrgil		Unit	Space				
+LOF_070	Anakin Skywalker	Champion of Mortis	Unit	Ground				
+LOF_071	Grappling Guardian		Unit	Space				
+LOF_072	Priestesses of the Force	Eternal	Unit	Ground				
+LOF_073	Mythosaur	Folklore Awakened	Unit	Ground				
+LOF_074	Bolstered Endurance		Upgrade					
+LOF_075	Cure Wounds		Event					
+LOF_076	Soresu Stance		Event					
+LOF_077	Crushing Blow		Event					
+LOF_078	Whirlwind of Power		Event					
+LOF_079	Shatterpoint		Event					
+LOF_080	Exegol Patroller		Unit	Space				
+LOF_081	Sith Legionnaire		Unit	Ground				
+LOF_082	Vaneé	I Live to Serve	Unit	Ground				
+LOF_083	Captain Enoch	Captain of the Guard	Unit	Ground				
+LOF_084	Knight of Ren		Unit	Ground				
+LOF_085	Praetorian Guard		Unit	Ground				
+LOF_086	Drengir Spawn		Unit	Ground				
+LOF_087	Eighth Brother	Hunt Together	Unit	Ground				
+LOF_088	Eye of Sion	To Peridea	Unit	Space				
+LOF_089	Supremacy	Of Unimaginable Size	Unit	Space				
+LOF_090	Inquisitor's Lightsaber		Upgrade					
+LOF_091	Craving Power		Upgrade					
+LOF_092	Point Rain Reclaimer		Unit	Ground				
+LOF_093	Gungi	Finding Himself	Unit	Ground				
+LOF_094	Jedi Consular		Unit	Ground				
+LOF_095	Lor San Tekka	Secret Keeper	Unit	Ground				
+LOF_096	Obi-Wan Kenobi	Protective Padawan	Unit	Ground				
+LOF_097	Eeth Koth	Spiritual Warrior	Unit	Ground				
+LOF_098	Leia Organa	Extraordinary	Unit	Space				
+LOF_099	Paladin Training Corvette		Unit	Space				
+LOF_100	Kelleran Beq	The Sabered Hand	Unit	Ground				
+LOF_1005	Kylo Ren	We're Not Done Yet	Leader	Ground	L	Showcase		=
+LOF_1006	Mother Talzin	Power Through Magick	Leader	Ground	L	Showcase		=
+LOF_1007	Ahsoka Tano	Fighting For Peace	Leader	Ground	L	Showcase		=
+LOF_1008	Kanan Jarrus	Help Us Survive	Leader	Ground	L	Showcase		=
+LOF_1009	Morgan Elsbeth	Following the Call	Leader	Ground	L	Showcase		=
+LOF_101	Yoda	My Ally is the Force	Unit	Ground				
+LOF_1010	Supreme Leader Snoke	In the Seat of Power	Leader	Ground	L	Showcase		=
+LOF_1011	Avar Kriss	Marshal of Starlight	Leader	Ground	L	Showcase		=
+LOF_1012	Obi-Wan Kenobi	Courage Makes Heroes	Leader	Ground	L	Showcase		=
+LOF_1013	Darth Maul	Sith Revealed	Leader	Ground	L	Showcase		=
+LOF_1014	Third Sister	Seething With Ambition	Leader	Ground	L	Showcase		=
+LOF_1015	Kit Fisto	Focused Jedi Master	Leader	Ground	L	Showcase		=
+LOF_1016	Rey	Nobody	Leader	Ground	L	Showcase		=
+LOF_1017	Barriss Offee	We Have Become Villains	Leader	Ground	L	Showcase		=
+LOF_1018	Grand Inquisitor	Stories Travel Quickly	Leader	Ground	L	Showcase		=
+LOF_1019	Cal Kestis	I Can't Keep Hiding	Leader	Ground	L	Showcase		=
+LOF_102	Yoda's Lightsaber		Upgrade					
+LOF_1020	Qui-Gon Jinn	Student of the Living Force	Leader	Ground	L	Showcase		=
+LOF_1021	Darth Revan	Scourge of the Old Republic	Leader	Ground	L	Showcase		=
+LOF_1022	Anakin Skywalker	Tempted by the Dark Side	Leader	Ground	L	Showcase		=
+LOF_1023	Second Sister	Seeking the Holocron	Unit	Ground		Prestige		
+LOF_1024	Darth Vader	Twilight of the Apprentice	Unit	Ground		Prestige		
+LOF_1025	Eighth Brother	Hunt Together	Unit	Ground		Prestige		
+LOF_1026	Old Daka	Oldest and Wisest	Unit	Ground		Prestige		
+LOF_1027	Savage Opress	Imbued With Hate	Unit	Ground		Prestige		
+LOF_1028	Pong Krell	It's Treason, Then	Unit	Ground		Prestige		
+LOF_1029	Karis	We Don't Like Strangers	Unit	Ground		Prestige		
+LOF_103	Following the Path		Event					
+LOF_1030	Kylo Ren	I Know Your Story	Unit	Ground		Prestige		
+LOF_1031	Grand Inquisitor	You're Right to Be Afraid	Unit	Ground		Prestige		
+LOF_1032	Ezra Bridger	Attuned With Life	Unit	Ground		Prestige		
+LOF_1033	Luke Skywalker	A Hero's Beginning	Unit	Ground		Prestige		
+LOF_1034	Plo Koon	I Don't Believe in Chance	Unit	Ground		Prestige		
+LOF_1035	Vernestra Rwoh	Precocious Knight	Unit	Ground		Prestige		
+LOF_1036	Leia Organa	Extraordinary	Unit	Space		Prestige		
+LOF_1037	Gungi	Finding Himself	Unit	Ground		Prestige		
+LOF_1038	Jocasta Nu	The Gift of Knowledge	Unit	Ground		Prestige		
+LOF_1039	Grogu	Mysterious Child	Unit	Ground		Prestige		
+LOF_104	Luminous Beings		Event					
+LOF_1040	Kelleran Beq	The Sabered Hand	Unit	Ground		Prestige		
+LOF_1041	Priestesses of the Force	Eternal	Unit	Ground		Prestige		
+LOF_1042	Dume	Redeem the Future	Unit	Ground		Prestige		
+LOF_1043	Dooku	It is Too Late	Unit	Ground		Prestige		
+LOF_1044	Saesee Tiin	Courageous Warrior	Unit	Ground		Prestige		
+LOF_1045	Bendu	Do You Fear the Storm?	Unit	Ground		Prestige		
+LOF_1046	Chirrut Îmwe	Blind, but not Deaf	Unit	Ground		Prestige		
+LOF_1047	Zuckuss	The Findsman	Unit	Ground		Prestige		
+LOF_1048	Merrin	Alone with the Dead	Unit	Ground		Prestige		
+LOF_1049	Sifo-Dyas		Unit	Ground		Prestige		
+LOF_105	Oppo Rancisis	Ancient Councilor	Unit	Ground				
+LOF_1050	Obi-Wan Kenobi	Protective Padawan	Unit	Ground		Prestige		
+LOF_1051	Qui-Gon Jinn	The Negotiations will be Short	Unit	Ground		Prestige		
+LOF_1052	Anakin Skywalker	Force Prodigy	Unit	Ground		Prestige		
+LOF_1053	Oppo Rancisis	Ancient Councilor	Unit	Ground		Prestige		
+LOF_1054	Eeth Koth	Spiritual Warrior	Unit	Ground		Prestige		
+LOF_1055	Yaddle	A Chance to Make Things Right	Unit	Ground		Prestige		
+LOF_1056	Mace Windu	Leaping into Action	Unit	Ground		Prestige		
+LOF_1057	Yoda	My Ally is the Force	Unit	Ground		Prestige		
+LOF_1058	Ki-Adi-Mundi	We Must Push On	Unit	Ground		Prestige		
+LOF_1059	Cin Drallig	Esteemed Blademaster	Unit	Ground		Prestige		
+LOF_106	Acclamator Assault Ship		Unit	Space				
+LOF_1060	Adi Gallia	Stern and Focused	Unit	Ground		Prestige		
+LOF_1061	Depa Billaba	A Higher Purpose	Unit	Ground		Prestige		
+LOF_1062	The Daughter	Embodiment of Light	Unit	Ground		Prestige		
+LOF_1063	The Father	Maintaining Balance	Unit	Ground		Prestige		
+LOF_1064	The Son	Embodiment of Darkness	Unit	Ground		Prestige		
+LOF_1065	Baylan Skoll	Enigmatic Master	Unit	Ground		Prestige		
+LOF_1066	Shin Hati	Overeager Apprentice	Unit	Ground		Prestige		
+LOF_1067	Anakin Skywalker	Champion of Mortis	Unit	Ground		Prestige		
+LOF_1068	Darth Malak	Covetous Apprentice	Unit	Ground		Prestige		
+LOF_107	Village Tender		Unit	Ground				
+LOF_108	Malakili	Loving Rancor Keeper	Unit	Ground				
+LOF_109	Mynock		Unit	Space				
+LOF_110	Hive Defense Wing		Unit	Space				
+LOF_111	Maz Kanata	The Light Guides	Unit	Ground				
+LOF_1115	Second Sister	Seeking the Holocron	Unit	Ground		Prestige Serialized		
+LOF_1116	Darth Vader	Twilight of the Apprentice	Unit	Ground		Prestige Serialized		
+LOF_1117	Eighth Brother	Hunt Together	Unit	Ground		Prestige Serialized		
+LOF_1118	Old Daka	Oldest and Wisest	Unit	Ground		Prestige Serialized		
+LOF_1119	Savage Opress	Imbued With Hate	Unit	Ground		Prestige Serialized		
+LOF_112	Outer Rim Mystic		Unit	Ground				
+LOF_1120	Pong Krell	It's Treason, Then	Unit	Ground		Prestige Serialized		
+LOF_1121	Karis	We Don't Like Strangers	Unit	Ground		Prestige Serialized		
+LOF_1122	Kylo Ren	I Know Your Story	Unit	Ground		Prestige Serialized		
+LOF_1123	Grand Inquisitor	You're Right to Be Afraid	Unit	Ground		Prestige Serialized		
+LOF_1124	Ezra Bridger	Attuned With Life	Unit	Ground		Prestige Serialized		
+LOF_1125	Luke Skywalker	A Hero's Beginning	Unit	Ground		Prestige Serialized		
+LOF_1126	Plo Koon	I Don't Believe in Chance	Unit	Ground		Prestige Serialized		
+LOF_1127	Vernestra Rwoh	Precocious Knight	Unit	Ground		Prestige Serialized		
+LOF_1128	Leia Organa	Extraordinary	Unit	Space		Prestige Serialized		
+LOF_1129	Gungi	Finding Himself	Unit	Ground		Prestige Serialized		
+LOF_113	Jedi Temple Guards		Unit	Ground				
+LOF_1130	Jocasta Nu	The Gift of Knowledge	Unit	Ground		Prestige Serialized		
+LOF_1131	Grogu	Mysterious Child	Unit	Ground		Prestige Serialized		
+LOF_1132	Kelleran Beq	The Sabered Hand	Unit	Ground		Prestige Serialized		
+LOF_1133	Priestesses of the Force	Eternal	Unit	Ground		Prestige Serialized		
+LOF_1134	Dume	Redeem the Future	Unit	Ground		Prestige Serialized		
+LOF_1135	Dooku	It is Too Late	Unit	Ground		Prestige Serialized		
+LOF_1136	Saesee Tiin	Courageous Warrior	Unit	Ground		Prestige Serialized		
+LOF_1137	Bendu	Do You Fear the Storm?	Unit	Ground		Prestige Serialized		
+LOF_1138	Chirrut Îmwe	Blind, but not Deaf	Unit	Ground		Prestige Serialized		
+LOF_1139	Zuckuss	The Findsman	Unit	Ground		Prestige Serialized		
+LOF_114	Kaadu		Unit	Ground				
+LOF_1140	Merrin	Alone with the Dead	Unit	Ground		Prestige Serialized		
+LOF_1141	Sifo-Dyas		Unit	Ground		Prestige Serialized		
+LOF_1142	Obi-Wan Kenobi	Protective Padawan	Unit	Ground		Prestige Serialized		
+LOF_1143	Qui-Gon Jinn	The Negotiations will be Short	Unit	Ground		Prestige Serialized		
+LOF_1144	Anakin Skywalker	Force Prodigy	Unit	Ground		Prestige Serialized		
+LOF_1145	Oppo Rancisis	Ancient Councilor	Unit	Ground		Prestige Serialized		
+LOF_1146	Eeth Koth	Spiritual Warrior	Unit	Ground		Prestige Serialized		
+LOF_1147	Yaddle	A Chance to Make Things Right	Unit	Ground		Prestige Serialized		
+LOF_1148	Mace Windu	Leaping into Action	Unit	Ground		Prestige Serialized		
+LOF_1149	Yoda	My Ally is the Force	Unit	Ground		Prestige Serialized		
+LOF_115	Dagoyan Master		Unit	Ground				
+LOF_1150	Ki-Adi-Mundi	We Must Push On	Unit	Ground		Prestige Serialized		
+LOF_1151	Cin Drallig	Esteemed Blademaster	Unit	Ground		Prestige Serialized		
+LOF_1152	Adi Gallia	Stern and Focused	Unit	Ground		Prestige Serialized		
+LOF_1153	Depa Billaba	A Higher Purpose	Unit	Ground		Prestige Serialized		
+LOF_1154	The Daughter	Embodiment of Light	Unit	Ground		Prestige Serialized		
+LOF_1155	The Father	Maintaining Balance	Unit	Ground		Prestige Serialized		
+LOF_1156	The Son	Embodiment of Darkness	Unit	Ground		Prestige Serialized		
+LOF_1157	Baylan Skoll	Enigmatic Master	Unit	Ground		Prestige Serialized		
+LOF_1158	Shin Hati	Overeager Apprentice	Unit	Ground		Prestige Serialized		
+LOF_1159	Anakin Skywalker	Champion of Mortis	Unit	Ground		Prestige Serialized		
+LOF_116	Relic Scavenger		Unit	Ground				
+LOF_1160	Darth Malak	Covetous Apprentice	Unit	Ground		Prestige Serialized		
+LOF_117	Sifo-Dyas		Unit	Ground				
+LOF_118	Terentatek		Unit	Ground				
+LOF_119	Hyperspace Wayfarer		Unit	Space				
+LOF_120	Trident Assault Ship		Unit	Space				
+LOF_121	The Purrgil King	Leading the Journey	Unit	Space				
+LOF_122	Pillio Star Compass		Upgrade					
+LOF_123	Directed by the Force		Event					
+LOF_124	Niman Strike		Event					
+LOF_125	The Burden of Masters		Event					
+LOF_126	Overpower		Event					
+LOF_127	Rampage		Event					
+LOF_128	Protect the Pod		Event					
+LOF_129	Acolyte of the Beyond		Unit	Ground				
+LOF_130	HK-47	Exclamation: Die, Meatbag!	Unit	Ground				
+LOF_131	Strikeship		Unit	Space				
+LOF_132	Grand Inquisitor	You're Right to Be Afraid	Unit	Ground				
+LOF_133	Purge Trooper		Unit	Ground				
+LOF_134	Heavy Missile Gunship		Unit	Space				
+LOF_135	Scythe	Intimidating Silhouette	Unit	Space				
+LOF_136	Thralls of the Coven		Unit	Ground				
+LOF_137	Savage Opress	Imbued With Hate	Unit	Ground				
+LOF_138	Sith Holocron		Upgrade					
+LOF_139	Battle Fury		Upgrade					
+LOF_140	Darth Maul's Lightsaber		Upgrade					
+LOF_141	Death Field		Event					
+LOF_142	Adi Gallia	Stern and Focused	Unit	Ground				
+LOF_143	Attuned Fyrnock		Unit	Ground				
+LOF_144	Jedi Starfighter		Unit	Space				
+LOF_145	Jedi Knight		Unit	Ground				
+LOF_146	Ki-Adi-Mundi	We Must Push On	Unit	Ground				
+LOF_147	Kit Fisto's Aethersprite	Good Hunting	Unit	Space				
+LOF_148	Rey	With Palpatine's Power	Unit	Ground				
+LOF_149	Mace Windu	Leaping into Action	Unit	Ground				
+LOF_150	Cin Drallig	Esteemed Blademaster	Unit	Ground				
+LOF_151	Knight's Saber		Upgrade					
+LOF_152	Focus Determines Reality		Event					
+LOF_153	Paz Vizsla	Unyielding Warrior	Unit	Ground				
+LOF_154	Witch of the Mist		Unit	Ground				
+LOF_155	DRK-1 Probe Droid		Unit	Ground				
+LOF_156	Infused Brawler		Unit	Ground				
+LOF_157	Cartel Interceptor		Unit	Space				
+LOF_158	Hyena Bomber		Unit	Space				
+LOF_159	Jedi In Hiding		Unit	Ground				
+LOF_160	Merrin	Alone with the Dead	Unit	Ground				
+LOF_161	Tuk'ata		Unit	Ground				
+LOF_162	Hunting Nexu		Unit	Ground				
+LOF_163	Quinlan Vos	Dark Disciple	Unit	Ground				
+LOF_164	Wampa		Unit	Ground				
+LOF_165	Asajj Ventress	Harden Your Heart	Unit	Ground				
+LOF_166	Blockade Runner		Unit	Space				
+LOF_167	Saesee Tiin	Courageous Warrior	Unit	Ground				
+LOF_168	Ravenous Rathtar		Unit	Ground				
+LOF_169	Invasion Control Ship		Unit	Space				
+LOF_170	Bendu	Do You Fear the Storm?	Unit	Ground				
+LOF_171	Heavy Blaster Cannon		Upgrade					
+LOF_172	Sorcerous Blast		Event					
+LOF_173	Unleash Rage		Event					
+LOF_174	Ataru Onslaught		Event					
+LOF_175	Do or Do Not		Event					
+LOF_176	Lightsaber Throw		Event					
+LOF_177	Time of Crisis		Event					
+LOF_178	Adept of Anger		Unit	Ground				
+LOF_179	Aurra Sing	Patient and Deadly	Unit	Ground				
+LOF_180	Deceptive Shade		Unit	Ground				
+LOF_181	Banking Clan Shuttle		Unit	Space				
+LOF_182	Nihil Marauder		Unit	Ground				
+LOF_183	Shin Hati	Overeager Apprentice	Unit	Ground				
+LOF_184	Second Sister	Seeking the Holocron	Unit	Ground				
+LOF_185	Baylan Skoll	Enigmatic Master	Unit	Ground				
+LOF_186	Marchion Ro	Eye of the Nihil	Unit	Ground				
+LOF_187	Corrupted Saber		Upgrade					
+LOF_188	As I Have Foreseen		Event					
+LOF_189	Liberated by Darkness		Event					
+LOF_190	Anakin Skywalker	Force Prodigy	Unit	Ground				
+LOF_191	BD-1	Beep Boo Boo Bweep	Unit	Ground				
+LOF_192	N-1 Starfighter		Unit	Space				
+LOF_193	Youngling Padawan		Unit	Ground				
+LOF_194	J-Type Nubian Starship		Unit	Space				
+LOF_195	Vernestra Rwoh	Precocious Knight	Unit	Ground				
+LOF_196	Jedi Sentinel		Unit	Ground				
+LOF_197	Qui-Gon Jinn's Aethersprite	Guided by the Force	Unit	Space				
+LOF_198	Stinger Mantis	Where Are We Going?	Unit	Space				
+LOF_199	Depa Billaba	A Higher Purpose	Unit	Ground				
+LOF_200	Qui-Gon Jinn	The Negotiations will be Short	Unit	Ground				
+LOF_201	Qui-Gon Jinn's Lightsaber		Upgrade					
+LOF_202	Mind Trick		Event					
+LOF_203	Premonition of Doom		Event					
+LOF_204	Zuckuss	The Findsman	Unit	Ground				
+LOF_205	Force Speed		Event					
+LOF_206	Babu Frik	Heyyy!	Unit	Ground				
+LOF_207	Loth-Cat		Unit	Ground				
+LOF_208	Mysterious Hermit		Unit	Ground				
+LOF_209	Tusken Tracker		Unit	Ground				
+LOF_210	Charging Phillak		Unit	Ground				
+LOF_211	Dooku	It is Too Late	Unit	Ground				
+LOF_212	Life Wind Sage		Unit	Ground				
+LOF_213	The Legacy Run	Doomed Debris	Unit	Space				
+LOF_214	Sorcerers of Tund		Unit	Ground				
+LOF_215	Ascension Cable		Upgrade					
+LOF_216	Disturbance in the Force		Event					
+LOF_217	Force Slow		Event					
+LOF_218	Impossible Escape		Event					
+LOF_219	Psychometry		Event					
+LOF_220	Shien Flurry		Event					
+LOF_221	Trust Your Instincts		Event					
+LOF_222	A Precarious Predicament		Event					
+LOF_223	Force Illusion		Event					
+LOF_224	Pounce		Event					
+LOF_225	Three Lessons		Event					
+LOF_226	Tip the Scale		Event					
+LOF_227	The Will of the Force		Event					
+LOF_228	Forged Starfighter		Unit	Space				
+LOF_229	Kylo Ren	I Know Your Story	Unit	Ground				
+LOF_230	Fallen Jedi		Unit	Ground				
+LOF_231	Darth Tyranus	Servant of Sidious	Unit	Ground				
+LOF_232	Sandtrooper Cavalry		Unit	Ground				
+LOF_233	Scimitar	Sith Infiltrator	Unit	Space				
+LOF_234	Darth Malak	Covetous Apprentice	Unit	Ground				
+LOF_235	HK-87 Assassin Droid		Unit	Ground				
+LOF_236	Army of the Dead		Unit	Ground				
+LOF_237	The Son	Embodiment of Darkness	Unit	Ground				
+LOF_238	Darth Revan's Lightsabers		Upgrade					
+LOF_239	Consumed by the Dark Side		Event					
+LOF_240	Flight of the Inquisitor		Event					
+LOF_241	In the Shadows		Event					
+LOF_242	Refugee of The Path		Unit	Ground				
+LOF_243	Caretaker Matron		Unit	Ground				
+LOF_244	Jedi Vector		Unit	Space				
+LOF_245	Vulptex		Unit	Ground				
+LOF_246	Grogu	Mysterious Child	Unit	Ground				
+LOF_247	Gungan Warrior		Unit	Ground				
+LOF_248	Jocasta Nu	The Gift of Knowledge	Unit	Ground				
+LOF_249	Luke Skywalker	A Hero's Beginning	Unit	Ground				
+LOF_250	Medical Frigate		Unit	Space				
+LOF_251	Blue Squadron Assault Wing		Unit	Space				
+LOF_252	The Daughter	Embodiment of Light	Unit	Ground				
+LOF_253	Longbeam Cruiser		Unit	Space				
+LOF_254	Porg		Unit	Ground				
+LOF_255	Curious Flock		Unit	Ground				
+LOF_256	Gifted Urchin		Unit	Ground				
+LOF_257	Kowakian Monkey-Lizard		Unit	Ground				
+LOF_258	Peli Motto	I Should Charge You More	Unit	Ground				
+LOF_259	Ravening Gundark		Unit	Ground				
+LOF_260	The Father	Maintaining Balance	Unit	Ground				
+LOF_261	Constructed Lightsaber		Upgrade					
+LOF_262	Go Into Hiding		Event					
+LOF_263	Last Words		Event					
+LOF_264	It's Worse		Event					
+LOF_265	Kylo Ren	We're Not Done Yet	Leader	Ground	L	Hyperspace		=
+LOF_266	Mother Talzin	Power Through Magick	Leader	Ground	L	Hyperspace		=
+LOF_267	Ahsoka Tano	Fighting For Peace	Leader	Ground	L	Hyperspace		=
+LOF_268	Kanan Jarrus	Help Us Survive	Leader	Ground	L	Hyperspace		=
+LOF_269	Morgan Elsbeth	Following the Call	Leader	Ground	L	Hyperspace		=
+LOF_270	Supreme Leader Snoke	In the Seat of Power	Leader	Ground	L	Hyperspace		=
+LOF_271	Avar Kriss	Marshal of Starlight	Leader	Ground	L	Hyperspace		=
+LOF_272	Obi-Wan Kenobi	Courage Makes Heroes	Leader	Ground	L	Hyperspace		=
+LOF_273	Darth Maul	Sith Revealed	Leader	Ground	L	Hyperspace		=
+LOF_274	Third Sister	Seething With Ambition	Leader	Ground	L	Hyperspace		=
+LOF_275	Kit Fisto	Focused Jedi Master	Leader	Ground	L	Hyperspace		=
+LOF_276	Rey	Nobody	Leader	Ground	L	Hyperspace		=
+LOF_277	Barriss Offee	We Have Become Villains	Leader	Ground	L	Hyperspace		=
+LOF_278	Grand Inquisitor	Stories Travel Quickly	Leader	Ground	L	Hyperspace		=
+LOF_279	Cal Kestis	I Can't Keep Hiding	Leader	Ground	L	Hyperspace		=
+LOF_280	Qui-Gon Jinn	Student of the Living Force	Leader	Ground	L	Hyperspace		=
+LOF_281	Darth Revan	Scourge of the Old Republic	Leader	Ground	L	Hyperspace		=
+LOF_282	Anakin Skywalker	Tempted by the Dark Side	Leader	Ground	L	Hyperspace		=
+LOF_283	Vergence Temple	Lothal	Base		L	Hyperspace		
+LOF_284	Nightsister Lair	Dathomir	Base		L	Hyperspace		
+LOF_285	Shadowed Undercity	Coruscant	Base		L	Hyperspace		
+LOF_286	Mystic Monastery	Mortis	Base		L	Hyperspace		
+LOF_287	Jedi Temple	Coruscant	Base		L	Hyperspace		
+LOF_288	Starlight Temple	Starlight Beacon	Base		L	Hyperspace		
+LOF_289	Temple of Destruction	Malachor	Base		L	Hyperspace		
+LOF_290	Fortress Vader	Mustafar	Base		L	Hyperspace		
+LOF_291	Strangled Cliffs	Dathomir	Base		L	Hyperspace		
+LOF_292	Tomb of Eilram	Zeffo	Base		L	Hyperspace		
+LOF_293	Crystal Caves	Ilum	Base		L	Hyperspace		
+LOF_294	The Holy City	Jedha	Base		L	Hyperspace		
+LOF_295	Karis	We Don't Like Strangers	Unit	Ground		Hyperspace		
+LOF_296	Magistrate's Scout		Unit	Ground		Hyperspace		
+LOF_297	Nameless Terror		Unit	Ground		Hyperspace		
+LOF_298	Supremacy TIE/sf		Unit	Space		Hyperspace		
+LOF_299	Talzin's Assassin		Unit	Ground		Hyperspace		
+LOF_300	Old Daka	Oldest and Wisest	Unit	Ground		Hyperspace		
+LOF_301	Darth Vader	Twilight of the Apprentice	Unit	Ground		Hyperspace		
+LOF_302	Pong Krell	It's Treason, Then	Unit	Ground		Hyperspace		
+LOF_303	Darth Sidious	The Phantom Menace	Unit	Ground		Hyperspace		
+LOF_304	Kylo Ren's Lightsaber		Upgrade			Hyperspace		
+LOF_305	Drain Essence		Event			Hyperspace		
+LOF_306	Always Two		Event			Hyperspace		
+LOF_307	The Tragedy of Plagueis		Event			Hyperspace		
+LOF_308	Loth-Wolf		Unit	Ground		Hyperspace		
+LOF_309	Yaddle	A Chance to Make Things Right	Unit	Ground		Hyperspace		
+LOF_310	Ezra Bridger	Attuned With Life	Unit	Ground		Hyperspace		
+LOF_311	T-6 Shuttle 1974	Stay Close	Unit	Space		Hyperspace		
+LOF_312	Itinerant Warrior		Unit	Ground		Hyperspace		
+LOF_313	Jedi Guardian		Unit	Ground		Hyperspace		
+LOF_314	Plo Koon	I Don't Believe in Chance	Unit	Ground		Hyperspace		
+LOF_315	Jedi Holocron		Upgrade			Hyperspace		
+LOF_316	Jedi Trials		Upgrade			Hyperspace		
+LOF_317	Heirloom Lightsaber		Upgrade			Hyperspace		
+LOF_318	Calm in the Storm		Event			Hyperspace		
+LOF_319	Dume	Redeem the Future	Unit	Ground		Hyperspace		
+LOF_320	Size Matters Not		Upgrade			Hyperspace		
+LOF_321	Owen Lars	Devoted Uncle	Unit	Ground		Hyperspace		
+LOF_322	Guardian of the Whills		Unit	Ground		Hyperspace		
+LOF_323	Nightsister Warrior		Unit	Ground		Hyperspace		
+LOF_324	Padawan Starfighter		Unit	Space		Hyperspace		
+LOF_325	Secretive Sage		Unit	Ground		Hyperspace		
+LOF_326	Axe Woves	Accomplished Warrior	Unit	Ground		Hyperspace		
+LOF_327	Oggdo Bogdo	Bogano Brute	Unit	Ground		Hyperspace		
+LOF_328	Tauntaun		Unit	Ground		Hyperspace		
+LOF_329	Watto		Unit	Ground		Hyperspace		
+LOF_330	Awakened Specters		Unit	Ground		Hyperspace		
+LOF_331	Chirrut Îmwe	Blind, but not Deaf	Unit	Ground		Hyperspace		
+LOF_332	Luthen Rael	Masquerading Antiquarian	Unit	Ground		Hyperspace		
+LOF_333	Graceful Purrgil		Unit	Space		Hyperspace		
+LOF_334	Anakin Skywalker	Champion of Mortis	Unit	Ground		Hyperspace		
+LOF_335	Grappling Guardian		Unit	Space		Hyperspace		
+LOF_336	Priestesses of the Force	Eternal	Unit	Ground		Hyperspace		
+LOF_337	Mythosaur	Folklore Awakened	Unit	Ground		Hyperspace		
+LOF_338	Bolstered Endurance		Upgrade			Hyperspace		
+LOF_339	Cure Wounds		Event			Hyperspace		
+LOF_340	Soresu Stance		Event			Hyperspace		
+LOF_341	Crushing Blow		Event			Hyperspace		
+LOF_342	Whirlwind of Power		Event			Hyperspace		
+LOF_343	Shatterpoint		Event			Hyperspace		
+LOF_344	Exegol Patroller		Unit	Space		Hyperspace		
+LOF_345	Sith Legionnaire		Unit	Ground		Hyperspace		
+LOF_346	Vaneé	I Live to Serve	Unit	Ground		Hyperspace		
+LOF_347	Captain Enoch	Captain of the Guard	Unit	Ground		Hyperspace		
+LOF_348	Knight of Ren		Unit	Ground		Hyperspace		
+LOF_349	Praetorian Guard		Unit	Ground		Hyperspace		
+LOF_350	Drengir Spawn		Unit	Ground		Hyperspace		
+LOF_351	Eighth Brother	Hunt Together	Unit	Ground		Hyperspace		
+LOF_352	Eye of Sion	To Peridea	Unit	Space		Hyperspace		
+LOF_353	Supremacy	Of Unimaginable Size	Unit	Space		Hyperspace		
+LOF_354	Inquisitor's Lightsaber		Upgrade			Hyperspace		
+LOF_355	Craving Power		Upgrade			Hyperspace		
+LOF_356	Point Rain Reclaimer		Unit	Ground		Hyperspace		
+LOF_357	Gungi	Finding Himself	Unit	Ground		Hyperspace		
+LOF_358	Jedi Consular		Unit	Ground		Hyperspace		
+LOF_359	Lor San Tekka	Secret Keeper	Unit	Ground		Hyperspace		
+LOF_360	Obi-Wan Kenobi	Protective Padawan	Unit	Ground		Hyperspace		
+LOF_361	Eeth Koth	Spiritual Warrior	Unit	Ground		Hyperspace		
+LOF_362	Leia Organa	Extraordinary	Unit	Space		Hyperspace		
+LOF_363	Paladin Training Corvette		Unit	Space		Hyperspace		
+LOF_364	Kelleran Beq	The Sabered Hand	Unit	Ground		Hyperspace		
+LOF_365	Yoda	My Ally is the Force	Unit	Ground		Hyperspace		
+LOF_366	Yoda's Lightsaber		Upgrade			Hyperspace		
+LOF_367	Following the Path		Event			Hyperspace		
+LOF_368	Luminous Beings		Event			Hyperspace		
+LOF_369	Oppo Rancisis	Ancient Councilor	Unit	Ground		Hyperspace		
+LOF_370	Acclamator Assault Ship		Unit	Space		Hyperspace		
+LOF_371	Village Tender		Unit	Ground		Hyperspace		
+LOF_372	Malakili	Loving Rancor Keeper	Unit	Ground		Hyperspace		
+LOF_373	Mynock		Unit	Space		Hyperspace		
+LOF_374	Hive Defense Wing		Unit	Space		Hyperspace		
+LOF_375	Maz Kanata	The Light Guides	Unit	Ground		Hyperspace		
+LOF_376	Outer Rim Mystic		Unit	Ground		Hyperspace		
+LOF_377	Jedi Temple Guards		Unit	Ground		Hyperspace		
+LOF_378	Kaadu		Unit	Ground		Hyperspace		
+LOF_379	Dagoyan Master		Unit	Ground		Hyperspace		
+LOF_380	Relic Scavenger		Unit	Ground		Hyperspace		
+LOF_381	Sifo-Dyas		Unit	Ground		Hyperspace		
+LOF_382	Terentatek		Unit	Ground		Hyperspace		
+LOF_383	Hyperspace Wayfarer		Unit	Space		Hyperspace		
+LOF_384	Trident Assault Ship		Unit	Space		Hyperspace		
+LOF_385	The Purrgil King	Leading the Journey	Unit	Space		Hyperspace		
+LOF_386	Pillio Star Compass		Upgrade			Hyperspace		
+LOF_387	Directed by the Force		Event			Hyperspace		
+LOF_388	Niman Strike		Event			Hyperspace		
+LOF_389	The Burden of Masters		Event			Hyperspace		
+LOF_390	Overpower		Event			Hyperspace		
+LOF_391	Rampage		Event			Hyperspace		
+LOF_392	Protect the Pod		Event			Hyperspace		
+LOF_393	Acolyte of the Beyond		Unit	Ground		Hyperspace		
+LOF_394	HK-47	Exclamation: Die, Meatbag!	Unit	Ground		Hyperspace		
+LOF_395	Strikeship		Unit	Space		Hyperspace		
+LOF_396	Grand Inquisitor	You're Right to Be Afraid	Unit	Ground		Hyperspace		
+LOF_397	Purge Trooper		Unit	Ground		Hyperspace		
+LOF_398	Heavy Missile Gunship		Unit	Space		Hyperspace		
+LOF_399	Scythe	Intimidating Silhouette	Unit	Space		Hyperspace		
+LOF_400	Thralls of the Coven		Unit	Ground		Hyperspace		
+LOF_401	Savage Opress	Imbued With Hate	Unit	Ground		Hyperspace		
+LOF_402	Sith Holocron		Upgrade			Hyperspace		
+LOF_403	Battle Fury		Upgrade			Hyperspace		
+LOF_404	Darth Maul's Lightsaber		Upgrade			Hyperspace		
+LOF_405	Death Field		Event			Hyperspace		
+LOF_406	Adi Gallia	Stern and Focused	Unit	Ground		Hyperspace		
+LOF_407	Attuned Fyrnock		Unit	Ground		Hyperspace		
+LOF_408	Jedi Starfighter		Unit	Space		Hyperspace		
+LOF_409	Jedi Knight		Unit	Ground		Hyperspace		
+LOF_410	Ki-Adi-Mundi	We Must Push On	Unit	Ground		Hyperspace		
+LOF_411	Kit Fisto's Aethersprite	Good Hunting	Unit	Space		Hyperspace		
+LOF_412	Rey	With Palpatine's Power	Unit	Ground		Hyperspace		
+LOF_413	Mace Windu	Leaping into Action	Unit	Ground		Hyperspace		
+LOF_414	Cin Drallig	Esteemed Blademaster	Unit	Ground		Hyperspace		
+LOF_415	Knight's Saber		Upgrade			Hyperspace		
+LOF_416	Focus Determines Reality		Event			Hyperspace		
+LOF_417	Paz Vizsla	Unyielding Warrior	Unit	Ground		Hyperspace		
+LOF_418	Witch of the Mist		Unit	Ground		Hyperspace		
+LOF_419	DRK-1 Probe Droid		Unit	Ground		Hyperspace		
+LOF_420	Infused Brawler		Unit	Ground		Hyperspace		
+LOF_421	Cartel Interceptor		Unit	Space		Hyperspace		
+LOF_422	Hyena Bomber		Unit	Space		Hyperspace		
+LOF_423	Jedi In Hiding		Unit	Ground		Hyperspace		
+LOF_424	Merrin	Alone with the Dead	Unit	Ground		Hyperspace		
+LOF_425	Tuk'ata		Unit	Ground		Hyperspace		
+LOF_426	Hunting Nexu		Unit	Ground		Hyperspace		
+LOF_427	Quinlan Vos	Dark Disciple	Unit	Ground		Hyperspace		
+LOF_428	Wampa		Unit	Ground		Hyperspace		
+LOF_429	Asajj Ventress	Harden Your Heart	Unit	Ground		Hyperspace		
+LOF_430	Blockade Runner		Unit	Space		Hyperspace		
+LOF_431	Saesee Tiin	Courageous Warrior	Unit	Ground		Hyperspace		
+LOF_432	Ravenous Rathtar		Unit	Ground		Hyperspace		
+LOF_433	Invasion Control Ship		Unit	Space		Hyperspace		
+LOF_434	Bendu	Do You Fear the Storm?	Unit	Ground		Hyperspace		
+LOF_435	Heavy Blaster Cannon		Upgrade			Hyperspace		
+LOF_436	Sorcerous Blast		Event			Hyperspace		
+LOF_437	Unleash Rage		Event			Hyperspace		
+LOF_438	Ataru Onslaught		Event			Hyperspace		
+LOF_439	Do or Do Not		Event			Hyperspace		
+LOF_440	Lightsaber Throw		Event			Hyperspace		
+LOF_441	Time of Crisis		Event			Hyperspace		
+LOF_442	Adept of Anger		Unit	Ground		Hyperspace		
+LOF_443	Aurra Sing	Patient and Deadly	Unit	Ground		Hyperspace		
+LOF_444	Deceptive Shade		Unit	Ground		Hyperspace		
+LOF_445	Banking Clan Shuttle		Unit	Space		Hyperspace		
+LOF_446	Nihil Marauder		Unit	Ground		Hyperspace		
+LOF_447	Shin Hati	Overeager Apprentice	Unit	Ground		Hyperspace		
+LOF_448	Second Sister	Seeking the Holocron	Unit	Ground		Hyperspace		
+LOF_449	Baylan Skoll	Enigmatic Master	Unit	Ground		Hyperspace		
+LOF_450	Marchion Ro	Eye of the Nihil	Unit	Ground		Hyperspace		
+LOF_451	Corrupted Saber		Upgrade			Hyperspace		
+LOF_452	As I Have Foreseen		Event			Hyperspace		
+LOF_453	Liberated by Darkness		Event			Hyperspace		
+LOF_454	Anakin Skywalker	Force Prodigy	Unit	Ground		Hyperspace		
+LOF_455	BD-1	Beep Boo Boo Bweep	Unit	Ground		Hyperspace		
+LOF_456	N-1 Starfighter		Unit	Space		Hyperspace		
+LOF_457	Youngling Padawan		Unit	Ground		Hyperspace		
+LOF_458	J-Type Nubian Starship		Unit	Space		Hyperspace		
+LOF_459	Vernestra Rwoh	Precocious Knight	Unit	Ground		Hyperspace		
+LOF_460	Jedi Sentinel		Unit	Ground		Hyperspace		
+LOF_461	Qui-Gon Jinn's Aethersprite	Guided by the Force	Unit	Space		Hyperspace		
+LOF_462	Stinger Mantis	Where Are We Going?	Unit	Space		Hyperspace		
+LOF_463	Depa Billaba	A Higher Purpose	Unit	Ground		Hyperspace		
+LOF_464	Qui-Gon Jinn	The Negotiations will be Short	Unit	Ground		Hyperspace		
+LOF_465	Qui-Gon Jinn's Lightsaber		Upgrade			Hyperspace		
+LOF_466	Mind Trick		Event			Hyperspace		
+LOF_467	Premonition of Doom		Event			Hyperspace		
+LOF_468	Zuckuss	The Findsman	Unit	Ground		Hyperspace		
+LOF_469	Force Speed		Event			Hyperspace		
+LOF_470	Babu Frik	Heyyy!	Unit	Ground		Hyperspace		
+LOF_471	Loth-Cat		Unit	Ground		Hyperspace		
+LOF_472	Mysterious Hermit		Unit	Ground		Hyperspace		
+LOF_473	Tusken Tracker		Unit	Ground		Hyperspace		
+LOF_474	Charging Phillak		Unit	Ground		Hyperspace		
+LOF_475	Dooku	It is Too Late	Unit	Ground		Hyperspace		
+LOF_476	Life Wind Sage		Unit	Ground		Hyperspace		
+LOF_477	The Legacy Run	Doomed Debris	Unit	Space		Hyperspace		
+LOF_478	Sorcerers of Tund		Unit	Ground		Hyperspace		
+LOF_479	Ascension Cable		Upgrade			Hyperspace		
+LOF_480	Disturbance in the Force		Event			Hyperspace		
+LOF_481	Force Slow		Event			Hyperspace		
+LOF_482	Impossible Escape		Event			Hyperspace		
+LOF_483	Psychometry		Event			Hyperspace		
+LOF_484	Shien Flurry		Event			Hyperspace		
+LOF_485	Trust Your Instincts		Event			Hyperspace		
+LOF_486	A Precarious Predicament		Event			Hyperspace		
+LOF_487	Force Illusion		Event			Hyperspace		
+LOF_488	Pounce		Event			Hyperspace		
+LOF_489	Three Lessons		Event			Hyperspace		
+LOF_490	Tip the Scale		Event			Hyperspace		
+LOF_491	The Will of the Force		Event			Hyperspace		
+LOF_492	Forged Starfighter		Unit	Space		Hyperspace		
+LOF_493	Kylo Ren	I Know Your Story	Unit	Ground		Hyperspace		
+LOF_494	Fallen Jedi		Unit	Ground		Hyperspace		
+LOF_495	Darth Tyranus	Servant of Sidious	Unit	Ground		Hyperspace		
+LOF_496	Sandtrooper Cavalry		Unit	Ground		Hyperspace		
+LOF_497	Scimitar	Sith Infiltrator	Unit	Space		Hyperspace		
+LOF_498	Darth Malak	Covetous Apprentice	Unit	Ground		Hyperspace		
+LOF_499	HK-87 Assassin Droid		Unit	Ground		Hyperspace		
+LOF_500	Army of the Dead		Unit	Ground		Hyperspace		
+LOF_501	The Son	Embodiment of Darkness	Unit	Ground		Hyperspace		
+LOF_502	Darth Revan's Lightsabers		Upgrade			Hyperspace		
+LOF_503	Consumed by the Dark Side		Event			Hyperspace		
+LOF_504	Flight of the Inquisitor		Event			Hyperspace		
+LOF_505	In the Shadows		Event			Hyperspace		
+LOF_506	Refugee of The Path		Unit	Ground		Hyperspace		
+LOF_507	Caretaker Matron		Unit	Ground		Hyperspace		
+LOF_508	Jedi Vector		Unit	Space		Hyperspace		
+LOF_509	Vulptex		Unit	Ground		Hyperspace		
+LOF_510	Grogu	Mysterious Child	Unit	Ground		Hyperspace		
+LOF_511	Gungan Warrior		Unit	Ground		Hyperspace		
+LOF_512	Jocasta Nu	The Gift of Knowledge	Unit	Ground		Hyperspace		
+LOF_513	Luke Skywalker	A Hero's Beginning	Unit	Ground		Hyperspace		
+LOF_514	Medical Frigate		Unit	Space		Hyperspace		
+LOF_515	Blue Squadron Assault Wing		Unit	Space		Hyperspace		
+LOF_516	The Daughter	Embodiment of Light	Unit	Ground		Hyperspace		
+LOF_517	Longbeam Cruiser		Unit	Space		Hyperspace		
+LOF_518	Porg		Unit	Ground		Hyperspace		
+LOF_519	Curious Flock		Unit	Ground		Hyperspace		
+LOF_520	Gifted Urchin		Unit	Ground		Hyperspace		
+LOF_521	Kowakian Monkey-Lizard		Unit	Ground		Hyperspace		
+LOF_522	Peli Motto	I Should Charge You More	Unit	Ground		Hyperspace		
+LOF_523	Ravening Gundark		Unit	Ground		Hyperspace		
+LOF_524	The Father	Maintaining Balance	Unit	Ground		Hyperspace		
+LOF_525	Constructed Lightsaber		Upgrade			Hyperspace		
+LOF_526	Go Into Hiding		Event			Hyperspace		
+LOF_527	Last Words		Event			Hyperspace		
+LOF_528	It's Worse		Event			Hyperspace		
+LOF_T01	Experience		Token Upgrade					
+LOF_T02	Shield		Token Upgrade					
+LOF_T03	The Force		Force Token					
+LOF_T04	Experience		Token Upgrade			Hyperspace		
+LOF_T05	Shield		Token Upgrade			Hyperspace		
+LOF_T06	The Force		Force Token			Hyperspace		

@@ -1,0 +1,515 @@
+#id	name	sub	type	arena	flags	variant	front	back
+SOR_001	Director Krennic	Aspiring to Authority	Leader	Ground	L			=
+SOR_002	Iden Versio	Infero Squad Commander	Leader	Ground	L			=
+SOR_003	Chewbacca	Walking Carpet	Leader	Ground	L			=
+SOR_004	Chirrut Îmwe	One With the Force	Leader	Ground	L			=
+SOR_005	Luke Skywalker	Faithful Friend	Leader	Ground	L			=
+SOR_006	Emperor Palpatine	Galactic Ruler	Leader	Ground	L			=
+SOR_007	Grand Moff Tarkin	Oversector Governor	Leader	Ground	L			=
+SOR_008	Hera Syndulla	Spectre Two	Leader	Ground	L			=
+SOR_009	Leia Organa	Alliance General	Leader	Ground	L			=
+SOR_010	Darth Vader	Dark Lord of the Sith	Leader	Ground	L			=
+SOR_011	Grand Inquisitor	Hunting The Jedi	Leader	Ground	L			=
+SOR_012	IG-88	Ruthless Bounty Hunter	Leader	Ground	L			=
+SOR_013	Cassian Andor	Dedicated to the Rebellion	Leader	Ground	L			=
+SOR_014	Sabine Wren	Galvanized Revolutionary	Leader	Ground	L			=
+SOR_015	Boba Fett	Collecting the Bounty	Leader	Ground	L			=
+SOR_016	Grand Admiral Thrawn	Patient and Insightful	Leader	Ground	L			=
+SOR_017	Han Solo	Audacious Smuggler	Leader	Ground	L			=
+SOR_018	Jyn Erso	Resisting Oppression	Leader	Ground	L			=
+SOR_019	Security Complex	Scarif	Base		L			
+SOR_020	Capital City	Lothal	Base		L			
+SOR_021	Dagobah Swamp	Dagobah	Base		L			
+SOR_022	Energy Conversion Lab	Eadu	Base		L			
+SOR_023	Command Center	Death Star	Base		L			
+SOR_024	Echo Base	Hoth	Base		L			
+SOR_025	Tarkintown	Lothal	Base		L			
+SOR_026	Catacombs of Cadera	Jedha	Base		L			
+SOR_027	Kestro City	Vardos	Base		L			
+SOR_028	Jedha City	Jedha	Base		L			
+SOR_029	Administrator's Tower	Cloud City	Base		L			
+SOR_030	Chopper Base	Atollon	Base		L			
+SOR_031	Inferno Four	Unforgetting	Unit	Space				
+SOR_032	Scout Bike Pursuer		Unit	Ground				
+SOR_033	Death Trooper		Unit	Ground				
+SOR_034	Del Meeko	Providing Overwatch	Unit	Ground				
+SOR_035	Lieutenant Childsen	Death Star Prison Warden	Unit	Ground				
+SOR_036	Gideon Hask	Ruthless Loyalist	Unit	Ground				
+SOR_037	Academy Defense Walker		Unit	Ground				
+SOR_038	Count Dooku	Darth Tyrannus	Unit	Ground				
+SOR_039	AT-AT Suppressor		Unit	Ground				
+SOR_040	Avenger	Hunting Star Destroyer	Unit	Space				
+SOR_041	Power of the Dark Side		Event					
+SOR_042	Search Your Feelings		Event					
+SOR_043	Superlaser Blast		Event					
+SOR_044	Restored ARC-170		Unit	Space				
+SOR_045	Yoda	Old Master	Unit	Ground				
+SOR_046	Consular Security Force		Unit	Ground				
+SOR_047	Kanan Jarrus	Revealed Jedi	Unit	Ground				
+SOR_048	Vigilant Honor Guards		Unit	Ground				
+SOR_049	Obi-Wan Kenobi	Following Fate	Unit	Ground				
+SOR_050	The Ghost	Spectre Home Base	Unit	Space				
+SOR_051	Luke Skywalker	Jedi Knight	Unit	Ground				
+SOR_052	Redemption	Medical Frigate	Unit	Space				
+SOR_053	Luke's Lightsaber		Upgrade					
+SOR_054	Jedi Lightsaber		Upgrade					
+SOR_055	The Force Is With Me		Event					
+SOR_056	Bendu	The One in the Middle	Unit	Ground				
+SOR_057	Protector		Upgrade					
+SOR_058	Vigilance		Event					
+SOR_059	2-1B Surgical Droid		Unit	Ground				
+SOR_060	Distant Patroller		Unit	Space				
+SOR_061	Guardian of the Whills		Unit	Ground				
+SOR_062	Regional Governor		Unit	Ground				
+SOR_063	Cloud City Wing Guard		Unit	Ground				
+SOR_064	Wilderness Fighter		Unit	Ground				
+SOR_065	Baze Malbus	Temple Guardian	Unit	Ground				
+SOR_066	System Patrol Craft		Unit	Space				
+SOR_067	Rugged Survivors		Unit	Ground				
+SOR_068	Cargo Juggernaut		Unit	Ground				
+SOR_069	Resilient		Upgrade					
+SOR_070	Devotion		Upgrade					
+SOR_071	Electrostaff		Upgrade					
+SOR_072	Entrenched		Upgrade					
+SOR_073	Moment of Peace		Event					
+SOR_074	Repair		Event					
+SOR_075	It Binds All Things		Event					
+SOR_076	Make an Opening		Event					
+SOR_077	Takedown		Event					
+SOR_078	Vanquish		Event					
+SOR_079	Admiral Piett	Captain of the Executor	Unit	Ground				
+SOR_080	General Tagge	Concerned Commander	Unit	Ground				
+SOR_081	Seasoned Shoretrooper		Unit	Ground				
+SOR_082	Emperor's Royal Guard		Unit	Ground				
+SOR_083	Superlaser Technician		Unit	Ground				
+SOR_084	Grand Moff Tarkin	Death Star Overseer	Unit	Ground				
+SOR_085	Rukh	Thrawn's Assassin	Unit	Ground				
+SOR_086	Gladiator Star Destroyer		Unit	Space				
+SOR_087	Darth Vader	Commanding the First Legion	Unit	Ground				
+SOR_088	Blizzard Assault AT-AT		Unit	Ground				
+SOR_089	Relentless	Konstantine's Folly	Unit	Space				
+SOR_090	Devastator	Inescapable	Unit	Space				
+SOR_091	The Emperor's Legion		Event					
+SOR_092	Overwhelming Barrage		Event					
+SOR_093	Alliance Dispatcher		Unit	Ground				
+SOR_094	Bail Organa	Rebel Councilor	Unit	Ground				
+SOR_095	Battlefield Marine		Unit	Ground				
+SOR_096	Mon Mothma	Voice of the Rebellion	Unit	Ground				
+SOR_097	Admiral Ackbar	Brilliant Strategist	Unit	Ground				
+SOR_098	Echo Base Defender		Unit	Ground				
+SOR_099	Bright Hope	The Last Transport	Unit	Space				
+SOR_100	Wedge Antilles	Star of the Rebellion	Unit	Ground				
+SOR_101	Rogue Squadron Skirmisher		Unit	Ground				
+SOR_102	Home One	Alliance Flagship	Unit	Space				
+SOR_103	Rebel Assault		Event					
+SOR_104	U-Wing Reinforcement		Event					
+SOR_105	General Krell	Heartless Tactician	Unit	Ground				
+SOR_106	Attack Pattern Delta		Event					
+SOR_107	Command		Event					
+SOR_108	Vanguard Infantry		Unit	Ground				
+SOR_109	Colonel Yularen	ISB Director	Unit	Ground				
+SOR_110	Frontline Shuttle		Unit	Space				
+SOR_111	Patrolling V-Wing		Unit	Space				
+SOR_112	Consortium StarViper		Unit	Space				
+SOR_113	Homestead Militia		Unit	Ground				
+SOR_114	Escort Skiff		Unit	Ground				
+SOR_115	Agent Kallus	Seeking the Rebels	Unit	Ground				
+SOR_116	Steadfast Battalion		Unit	Ground				
+SOR_117	Mercenary Company		Unit	Ground				
+SOR_118	97th Legion	Keeping the Peace on Sullust	Unit	Ground				
+SOR_119	Reinforcement Walker		Unit	Ground				
+SOR_120	Academy Training		Upgrade					
+SOR_121	Hardpoint Heavy Blaster		Upgrade					
+SOR_122	Traitorous		Upgrade					
+SOR_123	Recruit		Event					
+SOR_124	Tactical Advantage		Event					
+SOR_125	Prepare For Takeoff		Event					
+SOR_126	Resupply		Event					
+SOR_127	Strike True		Event					
+SOR_128	Death Star Stormtrooper		Unit	Ground				
+SOR_129	Admiral Ozzel	Overconfident	Unit	Ground				
+SOR_130	First Legion Snowtrooper		Unit	Ground				
+SOR_131	Fifth Brother	Fear Hunter	Unit	Ground				
+SOR_132	Imperial Interceptor		Unit	Space				
+SOR_133	Seventh Sister	Implacable Inquisitor	Unit	Ground				
+SOR_134	Ruthless Raider		Unit	Space				
+SOR_135	Emperor Palpatine	Master of the Dark Side	Unit	Ground				
+SOR_136	Vader's Lightsaber		Upgrade					
+SOR_137	Fallen Lightsaber		Upgrade					
+SOR_138	Force Lightning		Event					
+SOR_139	Force Choke		Event					
+SOR_140	SpecForce Soldier		Unit	Ground				
+SOR_141	Green Squadron A-Wing		Unit	Space				
+SOR_142	Sabine Wren	Explosives Artist	Unit	Ground				
+SOR_143	Fighters For Freedom		Unit	Ground				
+SOR_144	Red Three	Unstoppable	Unit	Space				
+SOR_145	K-2SO	Cassian's Counterpart	Unit	Ground				
+SOR_146	Zeb Orrelios	Headstrong Warrior	Unit	Ground				
+SOR_147	Black One	Scourge of Starkiller Base	Unit	Space				
+SOR_148	Guerilla Attack Pod		Unit	Ground				
+SOR_149	Mace Windu	Party Crasher	Unit	Ground				
+SOR_150	Heroic Sacrifice		Event					
+SOR_151	Karabast		Event					
+SOR_152	For a Cause I Believe In		Event					
+SOR_153	Saw Gerrera	Extremist	Unit	Ground				
+SOR_154	Rallying Cry		Event					
+SOR_155	Aggression		Event					
+SOR_156	Benthic "Two Tubes"	Partisan Lieutenant	Unit	Ground				
+SOR_157	Cantina Braggart		Unit	Ground				
+SOR_158	Jedha Agitator		Unit	Ground				
+SOR_159	Partisan Insurgent		Unit	Ground				
+SOR_160	Wolffe	Suspicious Veteran	Unit	Ground				
+SOR_161	Ardent Sympathizer		Unit	Ground				
+SOR_162	Disabling Fang Fighter		Unit	Space				
+SOR_163	Star Wing Scout		Unit	Space				
+SOR_164	Wampa		Unit	Ground				
+SOR_165	Occupier Siege Tank		Unit	Ground				
+SOR_166	Infiltrator's Skill		Upgrade					
+SOR_167	Force Throw		Event					
+SOR_168	Precision Fire		Event					
+SOR_169	Keep Fighting		Event					
+SOR_170	Power Failure		Event					
+SOR_171	Mission Briefing		Event					
+SOR_172	Open Fire		Event					
+SOR_173	Bombing Run		Event					
+SOR_174	Smoke and Cinders		Event					
+SOR_175	Forced Surrender		Event					
+SOR_176	ISB Agent		Unit	Ground				
+SOR_177	Bib Fortuna	Jabba's Majordomo	Unit	Ground				
+SOR_178	Cartel Spacer		Unit	Space				
+SOR_179	Boba Fett	Disintegrator	Unit	Ground				
+SOR_180	Seventh Fleet Defender		Unit	Space				
+SOR_181	Jabba the Hutt	Cunning Daimyo	Unit	Ground				
+SOR_182	Bossk	Deadly Stalker	Unit	Ground				
+SOR_183	Bounty Hunter Crew		Unit	Ground				
+SOR_184	Fett's Firespray	Pursuing the Bounty	Unit	Space				
+SOR_185	Chimaera	Flagship of the Seventh Fleet	Unit	Space				
+SOR_186	No Good to Me Dead		Event					
+SOR_187	I Had No Choice		Event					
+SOR_188	Chopper	Metal Menace	Unit	Ground				
+SOR_189	Leia Organa	Defiant Princess	Unit	Ground				
+SOR_190	Lothal Insurgent		Unit	Ground				
+SOR_191	Vanguard Ace		Unit	Space				
+SOR_192	Ezra Bridger	Resourceful Troublemaker	Unit	Ground				
+SOR_193	Millennium Falcon	Piece Of Junk	Unit	Space				
+SOR_194	Rogue Operative		Unit	Ground				
+SOR_195	Auzituck Liberator Gunship		Unit	Space				
+SOR_196	Chewbacca	Loyal Companion	Unit	Ground				
+SOR_197	Lando Calrissian	Responsible Businessman	Unit	Ground				
+SOR_198	Han Solo	Reluctant Hero	Unit	Ground				
+SOR_199	Bamboozle		Event					
+SOR_200	Spark of Rebellion		Event					
+SOR_201	Bodhi Rook	Imperial Defector	Unit	Ground				
+SOR_202	Cantina Bouncer		Unit	Ground				
+SOR_203	Cunning		Event					
+SOR_204	Greedo	Slow on the Draw	Unit	Ground				
+SOR_205	Jawa Scavenger		Unit	Ground				
+SOR_206	Mining Guild TIE Fighter		Unit	Space				
+SOR_207	Crafty Smuggler		Unit	Ground				
+SOR_208	Outer Rim Headhunter		Unit	Space				
+SOR_209	Pirated Starfighter		Unit	Space				
+SOR_210	Swoop Racer		Unit	Ground				
+SOR_211	Gamorrean Guards		Unit	Ground				
+SOR_212	Strafing Gunship		Unit	Space				
+SOR_213	Syndicate Lackeys		Unit	Ground				
+SOR_214	Smuggling Compartment		Upgrade					
+SOR_215	Snapshot Reflexes		Event					
+SOR_216	Disarm		Event					
+SOR_217	Shoot First		Event					
+SOR_218	Asteroid Sanctuary		Event					
+SOR_219	Sneak Attack		Event					
+SOR_220	Surprise Strike		Event					
+SOR_221	Outmaneuver		Event					
+SOR_222	Waylay		Event					
+SOR_223	Don't Get Cocky		Event					
+SOR_224	Change of Heart		Event					
+SOR_225	TIE/ln Fighter		Unit	Space				
+SOR_226	Admiral Motti	Brazen and Scornful	Unit	Ground				
+SOR_227	Snowtrooper Lieutenant		Unit	Ground				
+SOR_228	Viper Probe Droid		Unit	Ground				
+SOR_229	Cell Block Guard		Unit	Ground				
+SOR_230	General Veers	Blizzard Force Commander	Unit	Ground				
+SOR_231	TIE Advanced		Unit	Space				
+SOR_232	AT-ST		Unit	Ground				
+SOR_233	I Am Your Father		Event					
+SOR_234	Maximum Firepower		Event					
+SOR_235	Galactic Ambition		Event					
+SOR_236	R2-D2	Ignoring Protocol	Unit	Ground				
+SOR_237	Alliance X-Wing		Unit	Space				
+SOR_238	C-3P0	Protocol Droid	Unit	Ground				
+SOR_239	Rebel Pathfinder		Unit	Ground				
+SOR_240	Fleet Lieutenant		Unit	Ground				
+SOR_241	Wing Leader		Unit	Space				
+SOR_242	General Dodonna	Massassi Group Commander	Unit	Ground				
+SOR_243	Regional Sympathizers		Unit	Ground				
+SOR_244	Snowspeeder		Unit	Ground				
+SOR_245	Medal Ceremony		Event					
+SOR_246	You're My Only Hope		Event					
+SOR_247	Underworld Thug		Unit	Ground				
+SOR_248	Volunteer Soldier		Unit	Ground				
+SOR_249	Frontier AT-RT		Unit	Ground				
+SOR_250	Corellian Freighter		Unit	Space				
+SOR_251	Confiscate		Event					
+SOR_252	Restock		Event					
+SOR_253	Director Krennic	Aspiring to Authority	Leader	Ground	L	Showcase		=
+SOR_254	Iden Versio	Infero Squad Commander	Leader	Ground	L	Showcase		=
+SOR_255	Chewbacca	Walking Carpet	Leader	Ground	L	Showcase		=
+SOR_256	Chirrut Îmwe	One With the Force	Leader	Ground	L	Showcase		=
+SOR_257	Emperor Palpatine	Galactic Ruler	Leader	Ground	L	Showcase		=
+SOR_258	Grand Moff Tarkin	Oversector Governor	Leader	Ground	L	Showcase		=
+SOR_259	Hera Syndulla	Spectre Two	Leader	Ground	L	Showcase		=
+SOR_260	Leia Organa	Alliance General	Leader	Ground	L	Showcase		=
+SOR_261	Grand Inquisitor	Hunting The Jedi	Leader	Ground	L	Showcase		=
+SOR_262	IG-88	Ruthless Bounty Hunter	Leader	Ground	L	Showcase		=
+SOR_263	Cassian Andor	Dedicated to the Rebellion	Leader	Ground	L	Showcase		=
+SOR_264	Sabine Wren	Galvanized Revolutionary	Leader	Ground	L	Showcase		=
+SOR_265	Boba Fett	Collecting the Bounty	Leader	Ground	L	Showcase		=
+SOR_266	Grand Admiral Thrawn	Patient and Insightful	Leader	Ground	L	Showcase		=
+SOR_267	Han Solo	Audacious Smuggler	Leader	Ground	L	Showcase		=
+SOR_268	Jyn Erso	Resisting Oppression	Leader	Ground	L	Showcase		=
+SOR_269	Director Krennic	Aspiring to Authority	Leader	Ground	L	Hyperspace		=
+SOR_270	Iden Versio	Infero Squad Commander	Leader	Ground	L	Hyperspace		=
+SOR_271	Chewbacca	Walking Carpet	Leader	Ground	L	Hyperspace		=
+SOR_272	Chirrut Îmwe	One With the Force	Leader	Ground	L	Hyperspace		=
+SOR_273	Emperor Palpatine	Galactic Ruler	Leader	Ground	L	Hyperspace		=
+SOR_274	Grand Moff Tarkin	Oversector Governor	Leader	Ground	L	Hyperspace		=
+SOR_275	Hera Syndulla	Spectre Two	Leader	Ground	L	Hyperspace		=
+SOR_276	Leia Organa	Alliance General	Leader	Ground	L	Hyperspace		=
+SOR_277	Grand Inquisitor	Hunting The Jedi	Leader	Ground	L	Hyperspace		=
+SOR_278	IG-88	Ruthless Bounty Hunter	Leader	Ground	L	Hyperspace		=
+SOR_279	Cassian Andor	Dedicated to the Rebellion	Leader	Ground	L	Hyperspace		=
+SOR_280	Sabine Wren	Galvanized Revolutionary	Leader	Ground	L	Hyperspace		=
+SOR_281	Boba Fett	Collecting the Bounty	Leader	Ground	L	Hyperspace		=
+SOR_282	Grand Admiral Thrawn	Patient and Insightful	Leader	Ground	L	Hyperspace		=
+SOR_283	Han Solo	Audacious Smuggler	Leader	Ground	L	Hyperspace		=
+SOR_284	Jyn Erso	Resisting Oppression	Leader	Ground	L	Hyperspace		=
+SOR_285	Security Complex	Scarif	Base		L	Hyperspace		
+SOR_286	Capital City	Lothal	Base		L	Hyperspace		
+SOR_287	Dagobah Swamp	Dagobah	Base		L	Hyperspace		
+SOR_288	Energy Conversion Lab	Eadu	Base		L	Hyperspace		
+SOR_289	Command Center	Death Star	Base		L	Hyperspace		
+SOR_290	Echo Base	Hoth	Base		L	Hyperspace		
+SOR_291	Tarkintown	Lothal	Base		L	Hyperspace		
+SOR_292	Catacombs of Cadera	Jedha	Base		L	Hyperspace		
+SOR_293	Kestro City	Vardos	Base		L	Hyperspace		
+SOR_294	Jedha City	Jedha	Base		L	Hyperspace		
+SOR_295	Administrator's Tower	Cloud City	Base		L	Hyperspace		
+SOR_296	Chopper Base	Atollon	Base		L	Hyperspace		
+SOR_297	Inferno Four	Unforgetting	Unit	Space		Hyperspace		
+SOR_298	Scout Bike Pursuer		Unit	Ground		Hyperspace		
+SOR_299	Death Trooper		Unit	Ground		Hyperspace		
+SOR_300	Del Meeko	Providing Overwatch	Unit	Ground		Hyperspace		
+SOR_301	Lieutenant Childsen	Death Star Prison Warden	Unit	Ground		Hyperspace		
+SOR_302	Gideon Hask	Ruthless Loyalist	Unit	Ground		Hyperspace		
+SOR_303	Academy Defense Walker		Unit	Ground		Hyperspace		
+SOR_304	Count Dooku	Darth Tyrannus	Unit	Ground		Hyperspace		
+SOR_305	AT-AT Suppressor		Unit	Ground		Hyperspace		
+SOR_306	Avenger	Hunting Star Destroyer	Unit	Space		Hyperspace		
+SOR_307	Power of the Dark Side		Event			Hyperspace		
+SOR_308	Search Your Feelings		Event			Hyperspace		
+SOR_309	Superlaser Blast		Event			Hyperspace		
+SOR_310	Restored ARC-170		Unit	Space		Hyperspace		
+SOR_311	Yoda	Old Master	Unit	Ground		Hyperspace		
+SOR_312	Consular Security Force		Unit	Ground		Hyperspace		
+SOR_313	Kanan Jarrus	Revealed Jedi	Unit	Ground		Hyperspace		
+SOR_314	Vigilant Honor Guards		Unit	Ground		Hyperspace		
+SOR_315	Obi-Wan Kenobi	Following Fate	Unit	Ground		Hyperspace		
+SOR_316	The Ghost	Spectre Home Base	Unit	Space		Hyperspace		
+SOR_317	Luke Skywalker	Jedi Knight	Unit	Ground		Hyperspace		
+SOR_318	Redemption	Medical Frigate	Unit	Space		Hyperspace		
+SOR_319	Jedi Lightsaber		Upgrade			Hyperspace		
+SOR_320	The Force Is With Me		Event			Hyperspace		
+SOR_321	Bendu	The One in the Middle	Unit	Ground		Hyperspace		
+SOR_322	Protector		Upgrade			Hyperspace		
+SOR_323	Vigilance		Event			Hyperspace		
+SOR_324	2-1B Surgical Droid		Unit	Ground		Hyperspace		
+SOR_325	Distant Patroller		Unit	Space		Hyperspace		
+SOR_326	Guardian of the Whills		Unit	Ground		Hyperspace		
+SOR_327	Regional Governor		Unit	Ground		Hyperspace		
+SOR_328	Cloud City Wing Guard		Unit	Ground		Hyperspace		
+SOR_329	Wilderness Fighter		Unit	Ground		Hyperspace		
+SOR_330	Baze Malbus	Temple Guardian	Unit	Ground		Hyperspace		
+SOR_331	System Patrol Craft		Unit	Space		Hyperspace		
+SOR_332	Rugged Survivors		Unit	Ground		Hyperspace		
+SOR_333	Cargo Juggernaut		Unit	Ground		Hyperspace		
+SOR_334	Resilient		Upgrade			Hyperspace		
+SOR_335	Devotion		Upgrade			Hyperspace		
+SOR_336	Electrostaff		Upgrade			Hyperspace		
+SOR_337	Entrenched		Upgrade			Hyperspace		
+SOR_338	Moment of Peace		Event			Hyperspace		
+SOR_339	Repair		Event			Hyperspace		
+SOR_340	It Binds All Things		Event			Hyperspace		
+SOR_341	Make an Opening		Event			Hyperspace		
+SOR_342	Takedown		Event			Hyperspace		
+SOR_343	Vanquish		Event			Hyperspace		
+SOR_344	Admiral Piett	Captain of the Executor	Unit	Ground		Hyperspace		
+SOR_345	General Tagge	Concerned Commander	Unit	Ground		Hyperspace		
+SOR_346	Seasoned Shoretrooper		Unit	Ground		Hyperspace		
+SOR_347	Emperor's Royal Guard		Unit	Ground		Hyperspace		
+SOR_348	Superlaser Technician		Unit	Ground		Hyperspace		
+SOR_349	Rukh	Thrawn's Assassin	Unit	Ground		Hyperspace		
+SOR_350	Gladiator Star Destroyer		Unit	Space		Hyperspace		
+SOR_351	Darth Vader	Commanding the First Legion	Unit	Ground		Hyperspace		
+SOR_352	Blizzard Assault AT-AT		Unit	Ground		Hyperspace		
+SOR_353	Relentless	Konstantine's Folly	Unit	Space		Hyperspace		
+SOR_354	Devastator	Inescapable	Unit	Space		Hyperspace		
+SOR_355	The Emperor's Legion		Event			Hyperspace		
+SOR_356	Overwhelming Barrage		Event			Hyperspace		
+SOR_357	Alliance Dispatcher		Unit	Ground		Hyperspace		
+SOR_358	Bail Organa	Rebel Councilor	Unit	Ground		Hyperspace		
+SOR_359	Battlefield Marine		Unit	Ground		Hyperspace		
+SOR_360	Mon Mothma	Voice of the Rebellion	Unit	Ground		Hyperspace		
+SOR_361	Admiral Ackbar	Brilliant Strategist	Unit	Ground		Hyperspace		
+SOR_362	Echo Base Defender		Unit	Ground		Hyperspace		
+SOR_363	Bright Hope	The Last Transport	Unit	Space		Hyperspace		
+SOR_364	Wedge Antilles	Star of the Rebellion	Unit	Ground		Hyperspace		
+SOR_365	Rogue Squadron Skirmisher		Unit	Ground		Hyperspace		
+SOR_366	Home One	Alliance Flagship	Unit	Space		Hyperspace		
+SOR_367	Rebel Assault		Event			Hyperspace		
+SOR_368	U-Wing Reinforcement		Event			Hyperspace		
+SOR_369	General Krell	Heartless Tactician	Unit	Ground		Hyperspace		
+SOR_370	Attack Pattern Delta		Event			Hyperspace		
+SOR_371	Command		Event			Hyperspace		
+SOR_372	Vanguard Infantry		Unit	Ground		Hyperspace		
+SOR_373	Colonel Yularen	ISB Director	Unit	Ground		Hyperspace		
+SOR_374	Frontline Shuttle		Unit	Space		Hyperspace		
+SOR_375	Patrolling V-Wing		Unit	Space		Hyperspace		
+SOR_376	Consortium StarViper		Unit	Space		Hyperspace		
+SOR_377	Homestead Militia		Unit	Ground		Hyperspace		
+SOR_378	Escort Skiff		Unit	Ground		Hyperspace		
+SOR_379	Agent Kallus	Seeking the Rebels	Unit	Ground		Hyperspace		
+SOR_380	Steadfast Battalion		Unit	Ground		Hyperspace		
+SOR_381	Mercenary Company		Unit	Ground		Hyperspace		
+SOR_382	97th Legion	Keeping the Peace on Sullust	Unit	Ground		Hyperspace		
+SOR_383	Reinforcement Walker		Unit	Ground		Hyperspace		
+SOR_384	Academy Training		Upgrade			Hyperspace		
+SOR_385	Hardpoint Heavy Blaster		Upgrade			Hyperspace		
+SOR_386	Traitorous		Upgrade			Hyperspace		
+SOR_387	Recruit		Event			Hyperspace		
+SOR_388	Tactical Advantage		Event			Hyperspace		
+SOR_389	Prepare For Takeoff		Event			Hyperspace		
+SOR_390	Resupply		Event			Hyperspace		
+SOR_391	Strike True		Event			Hyperspace		
+SOR_392	Death Star Stormtrooper		Unit	Ground		Hyperspace		
+SOR_393	Admiral Ozzel	Overconfident	Unit	Ground		Hyperspace		
+SOR_394	First Legion Snowtrooper		Unit	Ground		Hyperspace		
+SOR_395	Fifth Brother	Fear Hunter	Unit	Ground		Hyperspace		
+SOR_396	Imperial Interceptor		Unit	Space		Hyperspace		
+SOR_397	Seventh Sister	Implacable Inquisitor	Unit	Ground		Hyperspace		
+SOR_398	Ruthless Raider		Unit	Space		Hyperspace		
+SOR_399	Emperor Palpatine	Master of the Dark Side	Unit	Ground		Hyperspace		
+SOR_400	Fallen Lightsaber		Upgrade			Hyperspace		
+SOR_401	Force Lightning		Event			Hyperspace		
+SOR_402	Force Choke		Event			Hyperspace		
+SOR_403	SpecForce Soldier		Unit	Ground		Hyperspace		
+SOR_404	Green Squadron A-Wing		Unit	Space		Hyperspace		
+SOR_405	Sabine Wren	Explosives Artist	Unit	Ground		Hyperspace		
+SOR_406	Fighters For Freedom		Unit	Ground		Hyperspace		
+SOR_407	Red Three	Unstoppable	Unit	Space		Hyperspace		
+SOR_408	K-2SO	Cassian's Counterpart	Unit	Ground		Hyperspace		
+SOR_409	Zeb Orrelios	Headstrong Warrior	Unit	Ground		Hyperspace		
+SOR_410	Black One	Scourge of Starkiller Base	Unit	Space		Hyperspace		
+SOR_411	Guerilla Attack Pod		Unit	Ground		Hyperspace		
+SOR_412	Mace Windu	Party Crasher	Unit	Ground		Hyperspace		
+SOR_413	Heroic Sacrifice		Event			Hyperspace		
+SOR_414	Karabast		Event			Hyperspace		
+SOR_415	For a Cause I Believe In		Event			Hyperspace		
+SOR_416	Saw Gerrera	Extremist	Unit	Ground		Hyperspace		
+SOR_417	Rallying Cry		Event			Hyperspace		
+SOR_418	Aggression		Event			Hyperspace		
+SOR_419	Benthic "Two Tubes"	Partisan Lieutenant	Unit	Ground		Hyperspace		
+SOR_420	Cantina Braggart		Unit	Ground		Hyperspace		
+SOR_421	Jedha Agitator		Unit	Ground		Hyperspace		
+SOR_422	Partisan Insurgent		Unit	Ground		Hyperspace		
+SOR_423	Wolffe	Suspicious Veteran	Unit	Ground		Hyperspace		
+SOR_424	Ardent Sympathizer		Unit	Ground		Hyperspace		
+SOR_425	Disabling Fang Fighter		Unit	Space		Hyperspace		
+SOR_426	Star Wing Scout		Unit	Space		Hyperspace		
+SOR_427	Wampa		Unit	Ground		Hyperspace		
+SOR_428	Occupier Siege Tank		Unit	Ground		Hyperspace		
+SOR_429	Infiltrator's Skill		Upgrade			Hyperspace		
+SOR_430	Force Throw		Event			Hyperspace		
+SOR_431	Precision Fire		Event			Hyperspace		
+SOR_432	Keep Fighting		Event			Hyperspace		
+SOR_433	Power Failure		Event			Hyperspace		
+SOR_434	Mission Briefing		Event			Hyperspace		
+SOR_435	Open Fire		Event			Hyperspace		
+SOR_436	Bombing Run		Event			Hyperspace		
+SOR_437	Smoke and Cinders		Event			Hyperspace		
+SOR_438	Forced Surrender		Event			Hyperspace		
+SOR_439	ISB Agent		Unit	Ground		Hyperspace		
+SOR_440	Bib Fortuna	Jabba's Majordomo	Unit	Ground		Hyperspace		
+SOR_441	Cartel Spacer		Unit	Space		Hyperspace		
+SOR_442	Boba Fett	Disintegrator	Unit	Ground		Hyperspace		
+SOR_443	Seventh Fleet Defender		Unit	Space		Hyperspace		
+SOR_444	Jabba the Hutt	Cunning Daimyo	Unit	Ground		Hyperspace		
+SOR_445	Bossk	Deadly Stalker	Unit	Ground		Hyperspace		
+SOR_446	Bounty Hunter Crew		Unit	Ground		Hyperspace		
+SOR_447	Fett's Firespray	Pursuing the Bounty	Unit	Space		Hyperspace		
+SOR_448	Chimaera	Flagship of the Seventh Fleet	Unit	Space		Hyperspace		
+SOR_449	No Good to Me Dead		Event			Hyperspace		
+SOR_450	I Had No Choice		Event			Hyperspace		
+SOR_451	Chopper	Metal Menace	Unit	Ground		Hyperspace		
+SOR_452	Lothal Insurgent		Unit	Ground		Hyperspace		
+SOR_453	Vanguard Ace		Unit	Space		Hyperspace		
+SOR_454	Ezra Bridger	Resourceful Troublemaker	Unit	Ground		Hyperspace		
+SOR_455	Millennium Falcon	Piece Of Junk	Unit	Space		Hyperspace		
+SOR_456	Rogue Operative		Unit	Ground		Hyperspace		
+SOR_457	Auzituck Liberator Gunship		Unit	Space		Hyperspace		
+SOR_458	Chewbacca	Loyal Companion	Unit	Ground		Hyperspace		
+SOR_459	Lando Calrissian	Responsible Businessman	Unit	Ground		Hyperspace		
+SOR_460	Han Solo	Reluctant Hero	Unit	Ground		Hyperspace		
+SOR_461	Bamboozle		Event			Hyperspace		
+SOR_462	Spark of Rebellion		Event			Hyperspace		
+SOR_463	Bodhi Rook	Imperial Defector	Unit	Ground		Hyperspace		
+SOR_464	Cantina Bouncer		Unit	Ground		Hyperspace		
+SOR_465	Cunning		Event			Hyperspace		
+SOR_466	Greedo	Slow on the Draw	Unit	Ground		Hyperspace		
+SOR_467	Jawa Scavenger		Unit	Ground		Hyperspace		
+SOR_468	Mining Guild TIE Fighter		Unit	Space		Hyperspace		
+SOR_469	Crafty Smuggler		Unit	Ground		Hyperspace		
+SOR_470	Outer Rim Headhunter		Unit	Space		Hyperspace		
+SOR_471	Pirated Starfighter		Unit	Space		Hyperspace		
+SOR_472	Swoop Racer		Unit	Ground		Hyperspace		
+SOR_473	Gamorrean Guards		Unit	Ground		Hyperspace		
+SOR_474	Strafing Gunship		Unit	Space		Hyperspace		
+SOR_475	Syndicate Lackeys		Unit	Ground		Hyperspace		
+SOR_476	Smuggling Compartment		Upgrade			Hyperspace		
+SOR_477	Snapshot Reflexes		Event			Hyperspace		
+SOR_478	Disarm		Event			Hyperspace		
+SOR_479	Shoot First		Event			Hyperspace		
+SOR_480	Asteroid Sanctuary		Event			Hyperspace		
+SOR_481	Sneak Attack		Event			Hyperspace		
+SOR_482	Surprise Strike		Event			Hyperspace		
+SOR_483	Outmaneuver		Event			Hyperspace		
+SOR_484	Waylay		Event			Hyperspace		
+SOR_485	Don't Get Cocky		Event			Hyperspace		
+SOR_486	Change of Heart		Event			Hyperspace		
+SOR_487	TIE/ln Fighter		Unit	Space		Hyperspace		
+SOR_488	Snowtrooper Lieutenant		Unit	Ground		Hyperspace		
+SOR_489	Viper Probe Droid		Unit	Ground		Hyperspace		
+SOR_490	Cell Block Guard		Unit	Ground		Hyperspace		
+SOR_491	General Veers	Blizzard Force Commander	Unit	Ground		Hyperspace		
+SOR_492	TIE Advanced		Unit	Space		Hyperspace		
+SOR_493	AT-ST		Unit	Ground		Hyperspace		
+SOR_494	Maximum Firepower		Event			Hyperspace		
+SOR_495	Galactic Ambition		Event			Hyperspace		
+SOR_496	Alliance X-Wing		Unit	Space		Hyperspace		
+SOR_497	Rebel Pathfinder		Unit	Ground		Hyperspace		
+SOR_498	Fleet Lieutenant		Unit	Ground		Hyperspace		
+SOR_499	Wing Leader		Unit	Space		Hyperspace		
+SOR_500	General Dodonna	Massassi Group Commander	Unit	Ground		Hyperspace		
+SOR_501	Regional Sympathizers		Unit	Ground		Hyperspace		
+SOR_502	Snowspeeder		Unit	Ground		Hyperspace		
+SOR_503	Medal Ceremony		Event			Hyperspace		
+SOR_504	You're My Only Hope		Event			Hyperspace		
+SOR_505	Underworld Thug		Unit	Ground		Hyperspace		
+SOR_506	Volunteer Soldier		Unit	Ground		Hyperspace		
+SOR_507	Frontier AT-RT		Unit	Ground		Hyperspace		
+SOR_508	Corellian Freighter		Unit	Space		Hyperspace		
+SOR_509	Confiscate		Event			Hyperspace		
+SOR_510	Restock		Event			Hyperspace		
+SOR_T01	Experience		Token Upgrade					
+SOR_T02	Shield		Token Upgrade					
+SOR_T03	Experience		Token Upgrade			Hyperspace		
+SOR_T04	Shield		Token Upgrade			Hyperspace		

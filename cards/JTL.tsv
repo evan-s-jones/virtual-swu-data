@@ -1,0 +1,623 @@
+#id	name	sub	type	arena	flags	variant	front	back
+JTL_001	Asajj Ventress	I Work Alone	Leader	Ground	L			=
+JTL_002	Grand Admiral Thrawn	...How Unfortunate	Leader	Ground	L			=
+JTL_003	Lando Calrissian	Buying Time	Leader	Ground	L			=
+JTL_004	Rose Tico	Saving What We Love	Leader	Ground	L			=
+JTL_005	Admiral Piett	Commanding the Armada	Leader	Ground	L			=
+JTL_006	Darth Vader	Victor Squadron Leader	Leader	Ground	L			=
+JTL_007	Admiral Holdo	We're Not Alone	Leader	Ground	L			=
+JTL_008	Wedge Antilles	Leader of Red Squadron	Leader	Ground	L			=
+JTL_009	Boba Fett	Any Methods Necessary	Leader	Ground	L			=
+JTL_010	Captain Phasma	Chrome Dome	Leader	Ground	L			=
+JTL_011	Major Vonreg	Red Baron	Leader	Ground	L			=
+JTL_012	Luke Skywalker	Hero of Yavin	Leader	Ground	L			=
+JTL_013	Poe Dameron	I Can Fly Anything	Leader	Ground	L			=
+JTL_014	Admiral Trench	chk-chk-chk-chk	Leader	Ground	L			=
+JTL_015	Rio Durant	Wisecracking Wheelman	Leader	Ground	L			=
+JTL_016	Admiral Ackbar	It's A Trap!	Leader	Ground	L			=
+JTL_017	Han Solo	Never Tell Me the Odds	Leader	Ground	L			=
+JTL_018	Kazuda Xiono	Best Pilot in the Galaxy	Leader	Ground	L			=
+JTL_019	City in the Clouds	Cloud City	Base		L			
+JTL_020	Shield Generator Complex	Endor	Base		L			
+JTL_021	Colossus	Castilon	Base		L			
+JTL_022	Resistance Headquarters	D'Qar	Base		L			
+JTL_023	Theed Palace	Naboo	Base		L			
+JTL_024	Data Vault	Scarif	Base		L			
+JTL_025	Thermal Oscillator	Starkiller Base	Base		L			
+JTL_026	Massassi Temple	Yavin 4	Base		L			
+JTL_027	Nadiri Dockyards	Nadiri	Base		L			
+JTL_028	Nabat Village	Ryloth	Base		L			
+JTL_029	Chopper Base	Atollon	Base		L			
+JTL_030	Mos Eisley	Tatooine	Base		L			
+JTL_031	Lake Country	Naboo	Base		L			
+JTL_032	Director Krennic	On the Verge Of Greatness	Unit	Ground				
+JTL_033	Onyx Squadron Brute		Unit	Space				
+JTL_034	Interceptor Ace		Unit	Ground				
+JTL_035	Tam Ryvora		Unit	Ground				
+JTL_036	Iden Versio	Adapt or Die	Unit	Ground				
+JTL_037	Banshee	Crippling Command	Unit	Space				
+JTL_038	Corvus	Inferno Squadron Raider	Unit	Space				
+JTL_039	Chimaera	Reinforcing the Center	Unit	Space				
+JTL_040	Fleet Interdictor		Unit	Space				
+JTL_041	Annihilator	Tagge's Flagship	Unit	Space				
+JTL_042	Power from Pain		Event					
+JTL_043	No Glory, Only Results		Event					
+JTL_044	Echo Base Engineer		Unit	Ground				
+JTL_045	Hera Syndulla	We've Lost Enough	Unit	Ground				
+JTL_046	Paige Tico	Dropping the Hammer	Unit	Ground				
+JTL_047	Admiral Yularen	Fleet Coordinator	Unit	Ground				
+JTL_048	Cassian Andor	Threading the Eye	Unit	Ground				
+JTL_049	L3-37	Get Out of My Seat	Unit	Ground				
+JTL_050	Phantom II	Modified to Dock	Unit	Space				
+JTL_051	Red Squadron X-Wing		Unit	Space				
+JTL_052	D'Qar Cargo Frigate		Unit	Space				
+JTL_053	The Ghost	Heart of the Family	Unit	Space				
+JTL_054	Gold Leader	Fastest Ship in the Fleet	Unit	Space				
+JTL_055	You're All Clear, Kid		Event					
+JTL_056	Hondo Ohnaka	Superfluous Swindler	Unit	Ground				
+JTL_057	Astromech Pilot		Unit	Ground				
+JTL_058	Academy Graduate		Unit	Ground				
+JTL_059	Corporate Defense Shuttle		Unit	Space				
+JTL_060	Desperate Commando		Unit	Ground				
+JTL_061	Royal Security Fighter		Unit	Space				
+JTL_062	Silver Angel	Trace's Hope	Unit	Space				
+JTL_063	Landing Shuttle		Unit	Space				
+JTL_064	Omicron Strike Craft		Unit	Space				
+JTL_065	Outer Rim Outlaws		Unit	Ground				
+JTL_066	Trace Martez	Trusting Sister	Unit	Ground				
+JTL_067	Cloaked StarViper		Unit	Space				
+JTL_068	Perimeter AT-RT		Unit	Ground				
+JTL_069	Munificent Frigate		Unit	Space				
+JTL_070	U-Wing Lander		Unit	Space				
+JTL_071	CR90 Relief Runner		Unit	Space				
+JTL_072	Wing Guard Security Team		Unit	Ground				
+JTL_073	Grim Valor		Upgrade					
+JTL_074	Close the Shield Gate		Event					
+JTL_075	Repair		Event					
+JTL_076	Covering the Wing		Event					
+JTL_077	In the Heat of Battle		Event					
+JTL_078	Direct Hit		Event					
+JTL_079	Out the Airlock		Event					
+JTL_080	Nebula Ignition		Event					
+JTL_081	First Order TIE Fighter		Unit	Space				
+JTL_082	Kijimi Patrollers		Unit	Space				
+JTL_083	Pantoran Starship Thief		Unit	Ground				
+JTL_084	Wingman Victor Two	Mauler Mithel	Unit	Ground				
+JTL_085	Victor Leader	Leading From the Front	Unit	Space				
+JTL_086	Wingman Victor Three	Backstabber	Unit	Ground				
+JTL_087	TIE Ambush Squadron		Unit	Space				
+JTL_088	Captain Phasma	On My Command	Unit	Ground				
+JTL_089	The Invisible Hand	Crawling With Vultures	Unit	Space				
+JTL_090	Executor	Might of the Empire	Unit	Space				
+JTL_091	Apology Accepted		Event					
+JTL_092	Scramble Fighters		Event					
+JTL_093	Nien Nunb	Loyal Co-Pilot	Unit	Ground				
+JTL_094	Luke Skywalker	You Still With Me?	Unit	Ground				
+JTL_095	Phoenix Squadron A-Wing		Unit	Space				
+JTL_096	Blue Leader	Scarif Air Support	Unit	Space				
+JTL_097	Leia Organa	Pilots, To Your Stations	Unit	Ground				
+JTL_098	Snap Wexley	Resistance Recon Flier	Unit	Ground				
+JTL_099	Veteran Fleet Officer		Unit	Ground				
+JTL_100	Poe Dameron	One Hell of a a Pilot	Unit	Ground				
+JTL_1000	Rose Tico	Saving What We Love	Leader	Ground	L	Showcase		=
+JTL_1001	Admiral Piett	Commanding the Armada	Leader	Ground	L	Showcase		=
+JTL_1002	Darth Vader	Victor Squadron Leader	Leader	Ground	L	Showcase		=
+JTL_1003	Admiral Holdo	We're Not Alone	Leader	Ground	L	Showcase		=
+JTL_1004	Wedge Antilles	Leader of Red Squadron	Leader	Ground	L	Showcase		=
+JTL_1005	Boba Fett	Any Methods Necessary	Leader	Ground	L	Showcase		=
+JTL_1006	Captain Phasma	Chrome Dome	Leader	Ground	L	Showcase		=
+JTL_1007	Major Vonreg	Red Baron	Leader	Ground	L	Showcase		=
+JTL_1008	Luke Skywalker	Hero of Yavin	Leader	Ground	L	Showcase		=
+JTL_1009	Poe Dameron	I Can Fly Anything	Leader	Ground	L	Showcase		=
+JTL_101	Red Leader	Form Up	Unit	Space				
+JTL_1010	Admiral Trench	chk-chk-chk-chk	Leader	Ground	L	Showcase		=
+JTL_1011	Rio Durant	Wisecracking Wheelman	Leader	Ground	L	Showcase		=
+JTL_1012	Admiral Ackbar	It's A Trap!	Leader	Ground	L	Showcase		=
+JTL_1013	Han Solo	Never Tell Me the Odds	Leader	Ground	L	Showcase		=
+JTL_1014	Kazuda Xiono	Best Pilot in the Galaxy	Leader	Ground	L	Showcase		=
+JTL_1015	Banshee	Crippling Command	Unit	Space		Prestige		
+JTL_1016	Corvus	Inferno Squadron Raider	Unit	Space		Prestige		
+JTL_1017	Chimaera	Reinforcing the Center	Unit	Space		Prestige		
+JTL_1018	Annihilator	Tagge's Flagship	Unit	Space		Prestige		
+JTL_1019	Phantom II	Modified to Dock	Unit	Space		Prestige		
+JTL_102	Resistance Blue Squadron		Unit	Space				
+JTL_1020	The Ghost	Heart of the Family	Unit	Space		Prestige		
+JTL_1021	Gold Leader	Fastest Ship in the Fleet	Unit	Space		Prestige		
+JTL_1022	Silver Angel	Trace's Hope	Unit	Space		Prestige		
+JTL_1023	Victor Leader	Leading From the Front	Unit	Space		Prestige		
+JTL_1024	The Invisible Hand	Crawling With Vultures	Unit	Space		Prestige		
+JTL_1025	Executor	Might of the Empire	Unit	Space		Prestige		
+JTL_1026	Blue Leader	Scarif Air Support	Unit	Space		Prestige		
+JTL_1027	Red Leader	Form Up	Unit	Space		Prestige		
+JTL_1028	Raddus	Holdo's Final Command	Unit	Space		Prestige		
+JTL_1029	The Starhawk	Prototype Battleship	Unit	Space		Prestige		
+JTL_103	Chewbacca	Faithful First Mate	Unit	Ground				
+JTL_1030	Vonreg's TIE Interceptor	Ace of the First Order	Unit	Space		Prestige		
+JTL_1031	IG-2000	Assassin's Aggressor	Unit	Space		Prestige		
+JTL_1032	Devastator	Hunting the Rebellion	Unit	Space		Prestige		
+JTL_1033	Black One	Straight At Them	Unit	Space		Prestige		
+JTL_1034	Red Five	Running the Trench	Unit	Space		Prestige		
+JTL_1035	Profundity	We Fight!	Unit	Space		Prestige		
+JTL_1036	Shadow Caster	Just Business	Unit	Space		Prestige		
+JTL_1037	Rampart	Enjoy the Exit	Unit	Space		Prestige		
+JTL_1038	Hound's Tooth	Reliable and Deadly	Unit	Space		Prestige		
+JTL_1039	Mist Hunter	The Findsman's Pursuit	Unit	Space		Prestige		
+JTL_104	Raddus	Holdo's Final Command	Unit	Space				
+JTL_1040	Invincible	Naval Adversary	Unit	Space		Prestige		
+JTL_1041	Fireball	An Explosion With Wings	Unit	Space		Prestige		
+JTL_1042	Shuttle Tydirium	Fly Casual	Unit	Space		Prestige		
+JTL_1043	Home One	On My Mark	Unit	Space		Prestige		
+JTL_1044	Razor Crest	Ride For Hire	Unit	Space		Prestige		
+JTL_1045	Radiant VII	Ambassadors' Arrival	Unit	Space		Prestige		
+JTL_1046	Fett's Firespray	Feared Silhouette	Unit	Space		Prestige		
+JTL_1047	Shuttle ST-149	Under Krennic's Authority	Unit	Space		Prestige		
+JTL_1048	Millennium Falcon	Get Out And Push	Unit	Space		Prestige		
+JTL_1049	Sabine's Masterpiece	Crazy Colorful	Unit	Space		Prestige		
+JTL_105	The Starhawk	Prototype Battleship	Unit	Space				
+JTL_1050	Tantive IV	Fleeing the Empire	Unit	Space		Prestige		
+JTL_106	Unity of Purpose		Event					
+JTL_107	Bunker Defender		Unit	Ground				
+JTL_108	Clone Pilot		Unit	Ground				
+JTL_1087	Banshee	Crippling Command	Unit	Space		Prestige Serialized		
+JTL_1088	Corvus	Inferno Squadron Raider	Unit	Space		Prestige Serialized		
+JTL_1089	Chimaera	Reinforcing the Center	Unit	Space		Prestige Serialized		
+JTL_109	Jarek Yeager	Coordinating With The Resistance	Unit	Ground				
+JTL_1090	Annihilator	Tagge's Flagship	Unit	Space		Prestige Serialized		
+JTL_1091	Phantom II	Modified to Dock	Unit	Space		Prestige Serialized		
+JTL_1092	The Ghost	Heart of the Family	Unit	Space		Prestige Serialized		
+JTL_1093	Gold Leader	Fastest Ship in the Fleet	Unit	Space		Prestige Serialized		
+JTL_1094	Silver Angel	Trace's Hope	Unit	Space		Prestige Serialized		
+JTL_1095	Victor Leader	Leading From the Front	Unit	Space		Prestige Serialized		
+JTL_1096	The Invisible Hand	Crawling With Vultures	Unit	Space		Prestige Serialized		
+JTL_1097	Executor	Might of the Empire	Unit	Space		Prestige Serialized		
+JTL_1098	Blue Leader	Scarif Air Support	Unit	Space		Prestige Serialized		
+JTL_1099	Red Leader	Form Up	Unit	Space		Prestige Serialized		
+JTL_110	Scouting Headhunter		Unit	Space				
+JTL_1100	Raddus	Holdo's Final Command	Unit	Space		Prestige Serialized		
+JTL_1101	The Starhawk	Prototype Battleship	Unit	Space		Prestige Serialized		
+JTL_1102	Vonreg's TIE Interceptor	Ace of the First Order	Unit	Space		Prestige Serialized		
+JTL_1103	IG-2000	Assassin's Aggressor	Unit	Space		Prestige Serialized		
+JTL_1104	Devastator	Hunting the Rebellion	Unit	Space		Prestige Serialized		
+JTL_1105	Black One	Straight At Them	Unit	Space		Prestige Serialized		
+JTL_1106	Red Five	Running the Trench	Unit	Space		Prestige Serialized		
+JTL_1107	Profundity	We Fight!	Unit	Space		Prestige Serialized		
+JTL_1108	Shadow Caster	Just Business	Unit	Space		Prestige Serialized		
+JTL_1109	Rampart	Enjoy the Exit	Unit	Space		Prestige Serialized		
+JTL_111	Seasoned Fleet Admiral		Unit	Ground				
+JTL_1110	Hound's Tooth	Reliable and Deadly	Unit	Space		Prestige Serialized		
+JTL_1111	Mist Hunter	The Findsman's Pursuit	Unit	Space		Prestige Serialized		
+JTL_1112	Invincible	Naval Adversary	Unit	Space		Prestige Serialized		
+JTL_1113	Fireball	An Explosion With Wings	Unit	Space		Prestige Serialized		
+JTL_1114	Shuttle Tydirium	Fly Casual	Unit	Space		Prestige Serialized		
+JTL_1115	Home One	On My Mark	Unit	Space		Prestige Serialized		
+JTL_1116	Razor Crest	Ride For Hire	Unit	Space		Prestige Serialized		
+JTL_1117	Radiant VII	Ambassadors' Arrival	Unit	Space		Prestige Serialized		
+JTL_1118	Fett's Firespray	Feared Silhouette	Unit	Space		Prestige Serialized		
+JTL_1119	Shuttle ST-149	Under Krennic's Authority	Unit	Space		Prestige Serialized		
+JTL_112	Eager Escort Fighter		Unit	Space				
+JTL_1120	Millennium Falcon	Get Out And Push	Unit	Space		Prestige Serialized		
+JTL_1121	Sabine's Masterpiece	Crazy Colorful	Unit	Space		Prestige Serialized		
+JTL_1122	Tantive IV	Fleeing the Empire	Unit	Space		Prestige Serialized		
+JTL_113	Homestead Militia		Unit	Ground				
+JTL_114	Adept ARC-170		Unit	Space				
+JTL_115	Clone Combat Squadron		Unit	Space				
+JTL_116	Dornean Gunship		Unit	Space				
+JTL_117	General Draven	Doing What Must Be Done	Unit	Ground				
+JTL_118	MC30 Assault Frigate		Unit	Space				
+JTL_119	Resupply Carrier		Unit	Space				
+JTL_120	Dorsal Turret		Upgrade					
+JTL_121	Salvage		Event					
+JTL_122	All Wings Report In		Event					
+JTL_123	Dogfight		Event					
+JTL_124	Tandem Assault		Event					
+JTL_125	Air Superiority		Event					
+JTL_126	Eject		Event					
+JTL_127	Lightspeed Assault		Event					
+JTL_128	Prepare For Takeoff		Event					
+JTL_129	Focus Fire		Event					
+JTL_130	Timely Reinforcements		Event					
+JTL_131	Turbolaser Salvo		Event					
+JTL_132	First Order Stormtrooper		Unit	Ground				
+JTL_133	Allegiant General Pryde	Ruthless and Loyal	Unit	Ground				
+JTL_134	General Hux	No Terms, No Surrender	Unit	Ground				
+JTL_135	Special Forces TIE Fighter		Unit	Space				
+JTL_136	Prototype TIE Advanced		Unit	Space				
+JTL_137	Vonreg's TIE Interceptor	Ace of the First Order	Unit	Space				
+JTL_138	Decimator of Dissidents		Unit	Space				
+JTL_139	Dengar	Crude and Slovenly	Unit	Ground				
+JTL_140	IG-2000	Assassin's Aggressor	Unit	Space				
+JTL_141	IG-88	Murderous Phlutdroid	Unit	Ground				
+JTL_142	Darth Vader	Scourge of Squadrons	Unit	Ground				
+JTL_143	Devastator	Hunting the Rebellion	Unit	Space				
+JTL_144	No Disintegrations		Event					
+JTL_145	BB-8	Happy Beeps	Unit	Ground				
+JTL_146	Massassi Tactical Officer		Unit	Ground				
+JTL_147	Black One	Straight At Them	Unit	Space				
+JTL_148	Frisk	Vanguard Loudmouth	Unit	Ground				
+JTL_149	Red Squadron Y-Wing		Unit	Space				
+JTL_150	Biggs Darklighter	They'll Never Stop Us	Unit	Ground				
+JTL_151	Red Five	Running the Trench	Unit	Space				
+JTL_152	Tactical Heavy Bomber		Unit	Space				
+JTL_153	Rebellious Hammerhead		Unit	Space				
+JTL_154	Profundity	We Fight!	Unit	Space				
+JTL_155	They Hate That Ship		Event					
+JTL_156	Trench Run		Event					
+JTL_157	Relentless Firespray		Unit	Space				
+JTL_158	Crackshot V-Wing		Unit	Space				
+JTL_159	Determined Recruit		Unit	Ground				
+JTL_160	Supporting Eta-2		Unit	Space				
+JTL_161	Captain Tarkin	Full Forward Assault	Unit	Ground				
+JTL_162	Droid Missile Platform		Unit	Space				
+JTL_163	AT-DP Occupier		Unit	Ground				
+JTL_164	Cham Syndulla	Rallying Ryloth	Unit	Ground				
+JTL_165	Hunting Aggressor		Unit	Space				
+JTL_166	Orbiting K-Wing		Unit	Space				
+JTL_167	Occupier Siege Tank		Unit	Ground				
+JTL_168	Insurgent Saboteurs		Unit	Ground				
+JTL_169	Shadow Caster	Just Business	Unit	Space				
+JTL_170	War Juggernaut		Unit	Ground				
+JTL_171	Targeting Computer		Upgrade					
+JTL_172	Twin Laser Turret		Upgrade					
+JTL_173	Fight Fire With Fire		Event					
+JTL_174	Hotshot Maneuver		Event					
+JTL_175	System Shock		Event					
+JTL_176	Shoot Down		Event					
+JTL_177	Stay on Target		Event					
+JTL_178	Face Off		Event					
+JTL_179	Koiogran Turn		Event					
+JTL_180	Piercing Shot		Event					
+JTL_181	Planetary Bombardment		Event					
+JTL_182	Rampart	Enjoy the Exit	Unit	Space				
+JTL_183	Zygerrian Starhopper		Unit	Space				
+JTL_184	Contracted Jumpmaster		Unit	Space				
+JTL_185	Hound's Tooth	Reliable and Deadly	Unit	Space				
+JTL_186	Mist Hunter	The Findsman's Pursuit	Unit	Space				
+JTL_187	Bossk	Hunt By Instinct	Unit	Ground				
+JTL_188	Moff Gideon	I Know Everything	Unit	Ground				
+JTL_189	Boba Fett	Feared Bounty Hunter	Unit	Ground				
+JTL_190	Techno Union Transport		Unit	Space				
+JTL_191	Invincible	Naval Adversary	Unit	Space				
+JTL_192	In Debt to Crimson Dawn		Upgrade					
+JTL_193	I Have You Now		Event					
+JTL_194	Heartless Tactics		Event					
+JTL_195	Cat and Mouse		Event					
+JTL_196	Dagger Squadron Pilot		Unit	Ground				
+JTL_197	Anakin Skywalker	I'll Try Spinning	Unit	Ground				
+JTL_198	Fireball	An Explosion With Wings	Unit	Space				
+JTL_199	Blade Squadron B-Wing		Unit	Space				
+JTL_200	Shuttle Tydirium	Fly Casual	Unit	Space				
+JTL_201	Ahsoka Tano	Chasing Whispers	Unit	Ground				
+JTL_202	Black Squadron Scout Wing		Unit	Space				
+JTL_203	Han Solo	Has His Moments	Unit	Ground				
+JTL_204	Home One	On My Mark	Unit	Space				
+JTL_205	Commence Patrol		Event					
+JTL_206	Fly Casual		Event					
+JTL_207	Jam Communications		Event					
+JTL_208	Never Tell Me the Odds		Event					
+JTL_209	It's a Trap		Event					
+JTL_210	The Mandalorian	Weathered Pilot	Unit	Ground				
+JTL_211	Independent Smuggler		Unit	Ground				
+JTL_212	Republic Y-Wing		Unit	Space				
+JTL_213	Sidon Ithano	The Crimson Corsair	Unit	Ground				
+JTL_214	X-34 Landspeeder		Unit	Ground				
+JTL_215	BoShek	Charismatic Smuggler	Unit	Ground				
+JTL_216	Contracted Hunter		Unit	Ground				
+JTL_217	Death Space Skirmisher		Unit	Space				
+JTL_218	Guerilla Soldier		Unit	Ground				
+JTL_219	Rafa Martez	Shrewd Sister	Unit	Ground				
+JTL_220	Skyway Cloud Car		Unit	Ground				
+JTL_221	Stolen AT-Hauler		Unit	Space				
+JTL_222	Kimoglia Heavy Fighter		Unit	Ground				
+JTL_223	Razor Crest	Ride For Hire	Unit	Space				
+JTL_224	Shadowed Hover Tank		Unit	Ground				
+JTL_225	Corporate Light Cruiser		Unit	Space				
+JTL_226	Radiant VII	Ambassadors' Arrival	Unit	Space				
+JTL_227	Superheavy Ion Cannon		Upgrade					
+JTL_228	Barrel Roll		Event					
+JTL_229	Diversion		Event					
+JTL_230	Electromagnetic Pulse		Event					
+JTL_231	Punch It		Event					
+JTL_232	Jump to Lightspeed		Event					
+JTL_233	Sweep the Area		Event					
+JTL_234	Torpedo Barrage		Event					
+JTL_235	Commandeer		Event					
+JTL_236	indoctrinated Conscript		Unit	Ground				
+JTL_237	TIE Bomber		Unit	Space				
+JTL_238	Sith Trooper		Unit	Ground				
+JTL_239	TIE Dagger Vanguard		Unit	Space				
+JTL_240	Fett's Firespray	Feared Silhouette	Unit	Space				
+JTL_241	Rogue-class Starfighter		Unit	Space				
+JTL_242	Shuttle ST-149	Under Krennic's Authority	Unit	Space				
+JTL_243	Quasar TIE Carrier		Unit	Space				
+JTL_244	There Is No Escape		Event					
+JTL_245	R2-D2	Artooooooooo!	Unit	Ground				
+JTL_246	Hopeful Volunteer		Unit	Ground				
+JTL_247	Resistance X-Wing		Unit	Space				
+JTL_248	Dilapidated Ski Speeder		Unit	Ground				
+JTL_249	Millennium Falcon	Get Out And Push	Unit	Space				
+JTL_250	Sabine's Masterpiece	Crazy Colorful	Unit	Space				
+JTL_251	Jedi Light Cruiser		Unit	Space				
+JTL_252	Tantive IV	Fleeing the Empire	Unit	Space				
+JTL_253	Coordinated Front		Event					
+JTL_254	Dedicated Wingmen		Event					
+JTL_255	Sullustan Spacer		Unit	Ground				
+JTL_256	Swarming Vulture Droid		Unit	Space				
+JTL_257	Flanking Fang Fighter		Unit	Space				
+JTL_258	Corellian Freighter		Unit	Space				
+JTL_259	Retrofitted Airspeeder		Unit	Space				
+JTL_260	Death Star Plans		Upgrade					
+JTL_261	Attack Run		Event					
+JTL_262	Evasive Maneuver		Event					
+JTL_263	Asajj Ventress	I Work Alone	Leader	Ground	L	Hyperspace		=
+JTL_264	Grand Admiral Thrawn	...How Unfortunate	Leader	Ground	L	Hyperspace		=
+JTL_265	Lando Calrissian	Buying Time	Leader	Ground	L	Hyperspace		=
+JTL_266	Rose Tico	Saving What We Love	Leader	Ground	L	Hyperspace		=
+JTL_267	Admiral Piett	Commanding the Armada	Leader	Ground	L	Hyperspace		=
+JTL_268	Darth Vader	Victor Squadron Leader	Leader	Ground	L	Hyperspace		=
+JTL_269	Admiral Holdo	We're Not Alone	Leader	Ground	L	Hyperspace		=
+JTL_270	Wedge Antilles	Leader of Red Squadron	Leader	Ground	L	Hyperspace		=
+JTL_271	Boba Fett	Any Methods Necessary	Leader	Ground	L	Hyperspace		=
+JTL_272	Captain Phasma	Chrome Dome	Leader	Ground	L	Hyperspace		=
+JTL_273	Major Vonreg	Red Baron	Leader	Ground	L	Hyperspace		=
+JTL_274	Luke Skywalker	Hero of Yavin	Leader	Ground	L	Hyperspace		=
+JTL_275	Poe Dameron	I Can Fly Anything	Leader	Ground	L	Hyperspace		=
+JTL_276	Admiral Trench	chk-chk-chk-chk	Leader	Ground	L	Hyperspace		=
+JTL_277	Rio Durant	Wisecracking Wheelman	Leader	Ground	L	Hyperspace		=
+JTL_278	Admiral Ackbar	It's A Trap!	Leader	Ground	L	Hyperspace		=
+JTL_279	Han Solo	Never Tell Me the Odds	Leader	Ground	L	Hyperspace		=
+JTL_280	Kazuda Xiono	Best Pilot in the Galaxy	Leader	Ground	L	Hyperspace		=
+JTL_281	City in the Clouds	Cloud City	Base		L	Hyperspace		
+JTL_282	Shield Generator Complex	Endor	Base		L	Hyperspace		
+JTL_283	Colossus	Castilon	Base		L	Hyperspace		
+JTL_284	Resistance Headquarters	D'Qar	Base		L	Hyperspace		
+JTL_285	Theed Palace	Naboo	Base		L	Hyperspace		
+JTL_286	Data Vault	Scarif	Base		L	Hyperspace		
+JTL_287	Thermal Oscillator	Starkiller Base	Base		L	Hyperspace		
+JTL_288	Massassi Temple	Yavin 4	Base		L	Hyperspace		
+JTL_289	Nadiri Dockyards	Nadiri	Base		L	Hyperspace		
+JTL_290	Nabat Village	Ryloth	Base		L	Hyperspace		
+JTL_291	Chopper Base	Atollon	Base		L	Hyperspace		
+JTL_292	Mos Eisley	Tatooine	Base		L	Hyperspace		
+JTL_293	Lake Country	Naboo	Base		L	Hyperspace		
+JTL_294	Director Krennic	On the Verge Of Greatness	Unit	Ground		Hyperspace		
+JTL_295	Onyx Squadron Brute		Unit	Space		Hyperspace		
+JTL_296	Interceptor Ace		Unit	Ground		Hyperspace		
+JTL_297	Tam Ryvora		Unit	Ground		Hyperspace		
+JTL_298	Iden Versio	Adapt or Die	Unit	Ground		Hyperspace		
+JTL_299	Banshee	Crippling Command	Unit	Space		Hyperspace		
+JTL_300	Corvus	Inferno Squadron Raider	Unit	Space		Hyperspace		
+JTL_301	Chimaera	Reinforcing the Center	Unit	Space		Hyperspace		
+JTL_302	Fleet Interdictor		Unit	Space		Hyperspace		
+JTL_303	Annihilator	Tagge's Flagship	Unit	Space		Hyperspace		
+JTL_304	Power from Pain		Event			Hyperspace		
+JTL_305	No Glory, Only Results		Event			Hyperspace		
+JTL_306	Echo Base Engineer		Unit	Ground		Hyperspace		
+JTL_307	Hera Syndulla	We've Lost Enough	Unit	Ground		Hyperspace		
+JTL_308	Paige Tico	Dropping the Hammer	Unit	Ground		Hyperspace		
+JTL_309	Admiral Yularen	Fleet Coordinator	Unit	Ground		Hyperspace		
+JTL_310	Cassian Andor	Threading the Eye	Unit	Ground		Hyperspace		
+JTL_311	L3-37	Get Out of My Seat	Unit	Ground		Hyperspace		
+JTL_312	Phantom II	Modified to Dock	Unit	Space		Hyperspace		
+JTL_313	Red Squadron X-Wing		Unit	Space		Hyperspace		
+JTL_314	D'Qar Cargo Frigate		Unit	Space		Hyperspace		
+JTL_315	The Ghost	Heart of the Family	Unit	Space		Hyperspace		
+JTL_316	Gold Leader	Fastest Ship in the Fleet	Unit	Space		Hyperspace		
+JTL_317	You're All Clear, Kid		Event			Hyperspace		
+JTL_318	Hondo Ohnaka	Superfluous Swindler	Unit	Ground		Hyperspace		
+JTL_319	Astromech Pilot		Unit	Ground		Hyperspace		
+JTL_320	Academy Graduate		Unit	Ground		Hyperspace		
+JTL_321	Corporate Defense Shuttle		Unit	Space		Hyperspace		
+JTL_322	Desperate Commando		Unit	Ground		Hyperspace		
+JTL_323	Royal Security Fighter		Unit	Space		Hyperspace		
+JTL_324	Silver Angel	Trace's Hope	Unit	Space		Hyperspace		
+JTL_325	Landing Shuttle		Unit	Space		Hyperspace		
+JTL_326	Omicron Strike Craft		Unit	Space		Hyperspace		
+JTL_327	Outer Rim Outlaws		Unit	Ground		Hyperspace		
+JTL_328	Trace Martez	Trusting Sister	Unit	Ground		Hyperspace		
+JTL_329	Cloaked StarViper		Unit	Space		Hyperspace		
+JTL_330	Perimeter AT-RT		Unit	Ground		Hyperspace		
+JTL_331	Munificent Frigate		Unit	Space		Hyperspace		
+JTL_332	U-Wing Lander		Unit	Space		Hyperspace		
+JTL_333	CR90 Relief Runner		Unit	Space		Hyperspace		
+JTL_334	Wing Guard Security Team		Unit	Ground		Hyperspace		
+JTL_335	Grim Valor		Upgrade			Hyperspace		
+JTL_336	Close the Shield Gate		Event			Hyperspace		
+JTL_337	Repair		Event			Hyperspace		
+JTL_338	Covering the Wing		Event			Hyperspace		
+JTL_339	In the Heat of Battle		Event			Hyperspace		
+JTL_340	Direct Hit		Event			Hyperspace		
+JTL_341	Out the Airlock		Event			Hyperspace		
+JTL_342	Nebula Ignition		Event			Hyperspace		
+JTL_343	First Order TIE Fighter		Unit	Space		Hyperspace		
+JTL_344	Kijimi Patrollers		Unit	Space		Hyperspace		
+JTL_345	Pantoran Starship Thief		Unit	Ground		Hyperspace		
+JTL_346	Wingman Victor Two	Mauler Mithel	Unit	Ground		Hyperspace		
+JTL_347	Victor Leader	Leading From the Front	Unit	Space		Hyperspace		
+JTL_348	Wingman Victor Three	Backstabber	Unit	Ground		Hyperspace		
+JTL_349	TIE Ambush Squadron		Unit	Space		Hyperspace		
+JTL_350	Captain Phasma	On My Command	Unit	Ground		Hyperspace		
+JTL_351	The Invisible Hand	Crawling With Vultures	Unit	Space		Hyperspace		
+JTL_352	Executor	Might of the Empire	Unit	Space		Hyperspace		
+JTL_353	Apology Accepted		Event			Hyperspace		
+JTL_354	Scramble Fighters		Event			Hyperspace		
+JTL_355	Nien Nunb	Loyal Co-Pilot	Unit	Ground		Hyperspace		
+JTL_356	Luke Skywalker	You Still With Me?	Unit	Ground		Hyperspace		
+JTL_357	Phoenix Squadron A-Wing		Unit	Space		Hyperspace		
+JTL_358	Blue Leader	Scarif Air Support	Unit	Space		Hyperspace		
+JTL_359	Leia Organa	Pilots, To Your Stations	Unit	Ground		Hyperspace		
+JTL_360	Snap Wexley	Resistance Recon Flier	Unit	Ground		Hyperspace		
+JTL_361	Veteran Fleet Officer		Unit	Ground		Hyperspace		
+JTL_362	Poe Dameron	One Hell of a a Pilot	Unit	Ground		Hyperspace		
+JTL_363	Red Leader	Form Up	Unit	Space		Hyperspace		
+JTL_364	Resistance Blue Squadron		Unit	Space		Hyperspace		
+JTL_365	Chewbacca	Faithful First Mate	Unit	Ground		Hyperspace		
+JTL_366	Raddus	Holdo's Final Command	Unit	Space		Hyperspace		
+JTL_367	The Starhawk	Prototype Battleship	Unit	Space		Hyperspace		
+JTL_368	Unity of Purpose		Event			Hyperspace		
+JTL_369	Bunker Defender		Unit	Ground		Hyperspace		
+JTL_370	Clone Pilot		Unit	Ground		Hyperspace		
+JTL_371	Jarek Yeager	Coordinating With The Resistance	Unit	Ground		Hyperspace		
+JTL_372	Scouting Headhunter		Unit	Space		Hyperspace		
+JTL_373	Seasoned Fleet Admiral		Unit	Ground		Hyperspace		
+JTL_374	Eager Escort Fighter		Unit	Space		Hyperspace		
+JTL_375	Homestead Militia		Unit	Ground		Hyperspace		
+JTL_376	Adept ARC-170		Unit	Space		Hyperspace		
+JTL_377	Clone Combat Squadron		Unit	Space		Hyperspace		
+JTL_378	Dornean Gunship		Unit	Space		Hyperspace		
+JTL_379	General Draven	Doing What Must Be Done	Unit	Ground		Hyperspace		
+JTL_380	MC30 Assault Frigate		Unit	Space		Hyperspace		
+JTL_381	Resupply Carrier		Unit	Space		Hyperspace		
+JTL_382	Dorsal Turret		Upgrade			Hyperspace		
+JTL_383	Salvage		Event			Hyperspace		
+JTL_384	All Wings Report In		Event			Hyperspace		
+JTL_385	Dogfight		Event			Hyperspace		
+JTL_386	Tandem Assault		Event			Hyperspace		
+JTL_387	Air Superiority		Event			Hyperspace		
+JTL_388	Eject		Event			Hyperspace		
+JTL_389	Lightspeed Assault		Event			Hyperspace		
+JTL_390	Prepare For Takeoff		Event			Hyperspace		
+JTL_391	Focus Fire		Event			Hyperspace		
+JTL_392	Timely Reinforcements		Event			Hyperspace		
+JTL_393	Turbolaser Salvo		Event			Hyperspace		
+JTL_394	First Order Stormtrooper		Unit	Ground		Hyperspace		
+JTL_395	Allegiant General Pryde	Ruthless and Loyal	Unit	Ground		Hyperspace		
+JTL_396	General Hux	No Terms, No Surrender	Unit	Ground		Hyperspace		
+JTL_397	Special Forces TIE Fighter		Unit	Space		Hyperspace		
+JTL_398	Prototype TIE Advanced		Unit	Space		Hyperspace		
+JTL_399	Vonreg's TIE Interceptor	Ace of the First Order	Unit	Space		Hyperspace		
+JTL_400	Decimator of Dissidents		Unit	Space		Hyperspace		
+JTL_401	Dengar	Crude and Slovenly	Unit	Ground		Hyperspace		
+JTL_402	IG-2000	Assassin's Aggressor	Unit	Space		Hyperspace		
+JTL_403	IG-88	Murderous Phlutdroid	Unit	Ground		Hyperspace		
+JTL_404	Darth Vader	Scourge of Squadrons	Unit	Ground		Hyperspace		
+JTL_405	Devastator	Hunting the Rebellion	Unit	Space		Hyperspace		
+JTL_406	No Disintegrations		Event			Hyperspace		
+JTL_407	BB-8	Happy Beeps	Unit	Ground		Hyperspace		
+JTL_408	Massassi Tactical Officer		Unit	Ground		Hyperspace		
+JTL_409	Black One	Straight At Them	Unit	Space		Hyperspace		
+JTL_410	Frisk	Vanguard Loudmouth	Unit	Ground		Hyperspace		
+JTL_411	Red Squadron Y-Wing		Unit	Space		Hyperspace		
+JTL_412	Biggs Darklighter	They'll Never Stop Us	Unit	Ground		Hyperspace		
+JTL_413	Red Five	Running the Trench	Unit	Space		Hyperspace		
+JTL_414	Tactical Heavy Bomber		Unit	Space		Hyperspace		
+JTL_415	Rebellious Hammerhead		Unit	Space		Hyperspace		
+JTL_416	Profundity	We Fight!	Unit	Space		Hyperspace		
+JTL_417	They Hate That Ship		Event			Hyperspace		
+JTL_418	Trench Run		Event			Hyperspace		
+JTL_419	Relentless Firespray		Unit	Space		Hyperspace		
+JTL_420	Crackshot V-Wing		Unit	Space		Hyperspace		
+JTL_421	Determined Recruit		Unit	Ground		Hyperspace		
+JTL_422	Supporting Eta-2		Unit	Space		Hyperspace		
+JTL_423	Captain Tarkin	Full Forward Assault	Unit	Ground		Hyperspace		
+JTL_424	Droid Missile Platform		Unit	Space		Hyperspace		
+JTL_425	AT-DP Occupier		Unit	Ground		Hyperspace		
+JTL_426	Cham Syndulla	Rallying Ryloth	Unit	Ground		Hyperspace		
+JTL_427	Hunting Aggressor		Unit	Space		Hyperspace		
+JTL_428	Orbiting K-Wing		Unit	Space		Hyperspace		
+JTL_429	Occupier Siege Tank		Unit	Ground		Hyperspace		
+JTL_430	Insurgent Saboteurs		Unit	Ground		Hyperspace		
+JTL_431	Shadow Caster	Just Business	Unit	Space		Hyperspace		
+JTL_432	War Juggernaut		Unit	Ground		Hyperspace		
+JTL_433	Targeting Computer		Upgrade			Hyperspace		
+JTL_434	Twin Laser Turret		Upgrade			Hyperspace		
+JTL_435	Fight Fire With Fire		Event			Hyperspace		
+JTL_436	Hotshot Maneuver		Event			Hyperspace		
+JTL_437	System Shock		Event			Hyperspace		
+JTL_438	Shoot Down		Event			Hyperspace		
+JTL_439	Stay on Target		Event			Hyperspace		
+JTL_440	Face Off		Event			Hyperspace		
+JTL_441	Koiogran Turn		Event			Hyperspace		
+JTL_442	Piercing Shot		Event			Hyperspace		
+JTL_443	Planetary Bombardment		Event			Hyperspace		
+JTL_444	Rampart	Enjoy the Exit	Unit	Space		Hyperspace		
+JTL_445	Zygerrian Starhopper		Unit	Space		Hyperspace		
+JTL_446	Contracted Jumpmaster		Unit	Space		Hyperspace		
+JTL_447	Hound's Tooth	Reliable and Deadly	Unit	Space		Hyperspace		
+JTL_448	Mist Hunter	The Findsman's Pursuit	Unit	Space		Hyperspace		
+JTL_449	Bossk	Hunt By Instinct	Unit	Ground		Hyperspace		
+JTL_450	Moff Gideon	I Know Everything	Unit	Ground		Hyperspace		
+JTL_451	Boba Fett	Feared Bounty Hunter	Unit	Ground		Hyperspace		
+JTL_452	Techno Union Transport		Unit	Space		Hyperspace		
+JTL_453	Invincible	Naval Adversary	Unit	Space		Hyperspace		
+JTL_454	In Debt to Crimson Dawn		Upgrade			Hyperspace		
+JTL_455	I Have You Now		Event			Hyperspace		
+JTL_456	Heartless Tactics		Event			Hyperspace		
+JTL_457	Cat and Mouse		Event			Hyperspace		
+JTL_458	Dagger Squadron Pilot		Unit	Ground		Hyperspace		
+JTL_459	Anakin Skywalker	I'll Try Spinning	Unit	Ground		Hyperspace		
+JTL_460	Fireball	An Explosion With Wings	Unit	Space		Hyperspace		
+JTL_461	Blade Squadron B-Wing		Unit	Space		Hyperspace		
+JTL_462	Shuttle Tydirium	Fly Casual	Unit	Space		Hyperspace		
+JTL_463	Ahsoka Tano	Chasing Whispers	Unit	Ground		Hyperspace		
+JTL_464	Black Squadron Scout Wing		Unit	Space		Hyperspace		
+JTL_465	Han Solo	Has His Moments	Unit	Ground		Hyperspace		
+JTL_466	Home One	On My Mark	Unit	Space		Hyperspace		
+JTL_467	Commence Patrol		Event			Hyperspace		
+JTL_468	Fly Casual		Event			Hyperspace		
+JTL_469	Jam Communications		Event			Hyperspace		
+JTL_470	Never Tell Me the Odds		Event			Hyperspace		
+JTL_471	It's a Trap		Event			Hyperspace		
+JTL_472	The Mandalorian	Weathered Pilot	Unit	Ground		Hyperspace		
+JTL_473	Independent Smuggler		Unit	Ground		Hyperspace		
+JTL_474	Republic Y-Wing		Unit	Space		Hyperspace		
+JTL_475	Sidon Ithano	The Crimson Corsair	Unit	Ground		Hyperspace		
+JTL_476	X-34 Landspeeder		Unit	Ground		Hyperspace		
+JTL_477	BoShek	Charismatic Smuggler	Unit	Ground		Hyperspace		
+JTL_478	Contracted Hunter		Unit	Ground		Hyperspace		
+JTL_479	Death Space Skirmisher		Unit	Space		Hyperspace		
+JTL_480	Guerilla Soldier		Unit	Ground		Hyperspace		
+JTL_481	Rafa Martez	Shrewd Sister	Unit	Ground		Hyperspace		
+JTL_482	Skyway Cloud Car		Unit	Ground		Hyperspace		
+JTL_483	Stolen AT-Hauler		Unit	Space		Hyperspace		
+JTL_484	Kimoglia Heavy Fighter		Unit	Ground		Hyperspace		
+JTL_485	Razor Crest	Ride For Hire	Unit	Space		Hyperspace		
+JTL_486	Shadowed Hover Tank		Unit	Ground		Hyperspace		
+JTL_487	Corporate Light Cruiser		Unit	Space		Hyperspace		
+JTL_488	Radiant VII	Ambassadors' Arrival	Unit	Space		Hyperspace		
+JTL_489	Superheavy Ion Cannon		Upgrade			Hyperspace		
+JTL_490	Barrel Roll		Event			Hyperspace		
+JTL_491	Diversion		Event			Hyperspace		
+JTL_492	Electromagnetic Pulse		Event			Hyperspace		
+JTL_493	Punch It		Event			Hyperspace		
+JTL_494	Jump to Lightspeed		Event			Hyperspace		
+JTL_495	Sweep the Area		Event			Hyperspace		
+JTL_496	Torpedo Barrage		Event			Hyperspace		
+JTL_497	Commandeer		Event			Hyperspace		
+JTL_498	indoctrinated Conscript		Unit	Ground		Hyperspace		
+JTL_499	TIE Bomber		Unit	Space		Hyperspace		
+JTL_500	Sith Trooper		Unit	Ground		Hyperspace		
+JTL_501	TIE Dagger Vanguard		Unit	Space		Hyperspace		
+JTL_502	Fett's Firespray	Feared Silhouette	Unit	Space		Hyperspace		
+JTL_503	Rogue-class Starfighter		Unit	Space		Hyperspace		
+JTL_504	Shuttle ST-149	Under Krennic's Authority	Unit	Space		Hyperspace		
+JTL_505	Quasar TIE Carrier		Unit	Space		Hyperspace		
+JTL_506	There Is No Escape		Event			Hyperspace		
+JTL_507	R2-D2	Artooooooooo!	Unit	Ground		Hyperspace		
+JTL_508	Hopeful Volunteer		Unit	Ground		Hyperspace		
+JTL_509	Resistance X-Wing		Unit	Space		Hyperspace		
+JTL_510	Dilapidated Ski Speeder		Unit	Ground		Hyperspace		
+JTL_511	Millennium Falcon	Get Out And Push	Unit	Space		Hyperspace		
+JTL_512	Sabine's Masterpiece	Crazy Colorful	Unit	Space		Hyperspace		
+JTL_513	Jedi Light Cruiser		Unit	Space		Hyperspace		
+JTL_514	Tantive IV	Fleeing the Empire	Unit	Space		Hyperspace		
+JTL_515	Coordinated Front		Event			Hyperspace		
+JTL_516	Dedicated Wingmen		Event			Hyperspace		
+JTL_517	Sullustan Spacer		Unit	Ground		Hyperspace		
+JTL_518	Swarming Vulture Droid		Unit	Space		Hyperspace		
+JTL_519	Flanking Fang Fighter		Unit	Space		Hyperspace		
+JTL_520	Corellian Freighter		Unit	Space		Hyperspace		
+JTL_521	Retrofitted Airspeeder		Unit	Space		Hyperspace		
+JTL_522	Death Star Plans		Upgrade			Hyperspace		
+JTL_523	Attack Run		Event			Hyperspace		
+JTL_524	Evasive Maneuver		Event			Hyperspace		
+JTL_997	Asajj Ventress	I Work Alone	Leader	Ground	L	Showcase		=
+JTL_998	Grand Admiral Thrawn	...How Unfortunate	Leader	Ground	L	Showcase		=
+JTL_999	Lando Calrissian	Buying Time	Leader	Ground	L	Showcase		=
+JTL_T01	TIE Fighter		Token Unit	Space				
+JTL_T02	X-Wing		Token Unit	Space				
+JTL_T03	Experience		Token Upgrade					
+JTL_T04	Shield		Token Upgrade					
+JTL_T05	TIE Fighter		Token Unit	Space		Hyperspace		
+JTL_T06	X-Wing		Token Unit	Space		Hyperspace		
+JTL_T07	Experience		Token Upgrade			Hyperspace		
+JTL_T08	Shield		Token Upgrade			Hyperspace		

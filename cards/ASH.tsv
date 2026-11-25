@@ -1,0 +1,647 @@
+#id	name	sub	type	arena	flags	variant	front	back
+ASH_001	The Armorer	Steel Shapes Us	Leader	Ground	L			=
+ASH_002	Fennec Shand	Ready for War	Leader	Ground	L			=
+ASH_003	Baylan Skoll	Power Beyond Dream	Leader	Ground	L			=
+ASH_004	Grand Admiral Thrawn	Victory is Mine	Leader	Ground	L			=
+ASH_005	Luke Skywalker	I Can Save Him	Leader	Ground	L			=
+ASH_006	Sabine Wren	Bargaining on Belief	Leader	Ground	L			=
+ASH_007	Grand Admiral Sloane	Holding the Empire Together	Leader	Ground	L			=
+ASH_008	Moff Gideon	Indomitable Warlord	Leader	Ground	L			=
+ASH_009	Ahsoka Tano	Trust in the Force	Leader	Ground	L			=
+ASH_010	Bo-Katan Kryze	Reclaiming Mandalore	Leader	Ground	L			=
+ASH_011	Cad Bane	Still Faster Than You	Leader	Ground	L			=
+ASH_012	Vane	Quarrelsome Pirate	Leader	Ground	L			=
+ASH_013	Ezra Bridger	It's Now or Never	Leader	Ground	L			=
+ASH_014	The Mandalorian	We Can't Keep Running	Leader	Ground	L			=
+ASH_015	Emperor Palpatine	According to My Design	Leader	Ground	L			=
+ASH_016	Shin Hati	Eager Adversary	Leader	Ground	L			=
+ASH_017	Greef Karga	Gracious Magistrate	Leader	Ground	L			=
+ASH_018	Grogu	Charming Companion	Leader	Ground	L			=
+ASH_019	Fortress of the Great Mothers	Peridea	Base		L			
+ASH_020	Nevarro City, Restored	Nevarro	Base		L			
+ASH_021	Emperor's Throne Room	Death Star	Base		L			
+ASH_022	Kryze Castle	Kalevala	Base		L			
+ASH_023	Ancient Henge	Seatos	Base		L			
+ASH_024	Dragonsnake Bog	Dagobah	Base		L			
+ASH_025	Emperor's Observatory	Pillio	Base		L			
+ASH_026	Freetown	Tatooine	Base		L			
+ASH_027	Enoch	Solemn Servant	Unit	Ground				
+ASH_028	Paz Vizsla	For a Brighter Future	Unit	Ground				
+ASH_029	Scorpenek Annihilator Droid		Unit	Ground				
+ASH_030	Marrok	Mysterious Warrior	Unit	Ground				
+ASH_031	Hera Syndulla	Renegade General	Unit	Ground				
+ASH_032	Rancor Keeper		Unit	Ground				
+ASH_033	Grand Admiral Thrawn	Orchestrating His Return	Unit	Ground				
+ASH_034	Wicket	Yub Nub!	Unit	Ground				
+ASH_035	Tatooine Repulsor Train		Unit	Ground				
+ASH_036	Rukh	From the Shadows	Unit	Ground				
+ASH_037	Red Leader	Strike the Reactor	Unit	Space				
+ASH_038	Purrgil Ultra		Unit	Space				
+ASH_039	Baylan Skoll	Fallen Jedi	Unit	Ground				
+ASH_040	Poe Dameron	I'll Come Back For You	Unit	Ground				
+ASH_041	Outcast	Mercenary Starship	Unit	Space				
+ASH_042	Jabba the Hutt	Eminence of Tatooine	Unit	Ground				
+ASH_043	Corona Four	Justice for Alderaan	Unit	Space				
+ASH_044	Barriss Offee	Redeeming Herself	Unit	Ground				
+ASH_045	Reanimated Night Trooper		Unit	Ground				
+ASH_046	Scion Shuttle	At Morgan's Bidding	Unit	Space				
+ASH_047	Gar Saxon	Coveting Power	Unit	Ground				
+ASH_048	Imperial Armored Commando		Unit	Ground				
+ASH_049	Shin Hati	Going Somewhere?	Unit	Ground				
+ASH_050	Morgan Elsbeth	Life Abandoned	Unit	Ground				
+ASH_051	Reinforcing Light Cruiser		Unit	Space				
+ASH_052	Chimaera	A Frightening Reality	Unit	Space				
+ASH_053	Pre Vizsla	Strong-Willed Ruler	Unit	Ground				
+ASH_054	Pointless to Resist		Upgrade					
+ASH_055	Blade of Talzin	A Gift of Shadows	Upgrade					
+ASH_056	Huyang	Your Aptitude Falls Short	Unit	Ground				
+ASH_057	Lothal E-Wing		Unit	Space				
+ASH_058	Duchess's Protector		Unit	Ground				
+ASH_059	Leia Organa	Vigilant for Danger	Unit	Ground				
+ASH_060	Cobb Vanth	Let Me Handle This	Unit	Ground				
+ASH_061	Strike Team Vanguard		Unit	Ground				
+ASH_062	The Mandalorian	Devoted Rescuer	Unit	Ground				
+ASH_063	Bo-Katan's Gauntlet	Reinforce from Above	Unit	Space				
+ASH_064	The Armorer	Secrecy is Our Survival	Unit	Ground				
+ASH_065	Home One	Heart of the Fleet	Unit	Space				
+ASH_066	Luke's Jedi Lightsaber	Constructed by Hand	Upgrade					
+ASH_067	Get Lost		Event					
+ASH_068	Domesticated Loth-Cat		Unit	Ground				
+ASH_069	Noti Nomad		Unit	Ground				
+ASH_070	At Attin Safety Droid		Unit	Ground				
+ASH_071	Battered Haulcraft		Unit	Space				
+ASH_072	Doctor Pershing	Dedicated to Research	Unit	Ground				
+ASH_073	Palace Chef Droid		Unit	Ground				
+ASH_074	Mos Eisley Modifier		Unit	Ground				
+ASH_075	Pit Droid Team		Unit	Ground				
+ASH_076	Remnant Official		Unit	Ground				
+ASH_077	Ryder Azadi	Restored Governor	Unit	Ground				
+ASH_078	B-Wing Rearguard		Unit	Space				
+ASH_079	Koska Reeves	Warrior of Mandalore	Unit	Ground				
+ASH_080	Covert Believers		Unit	Ground				
+ASH_081	Nebulon-C Frigate		Unit	Ground				
+ASH_082	Trexler Armored Marauder		Unit	Ground				
+ASH_083	Summa-verminoth		Unit	Space				
+ASH_084	Arcana Star Map	Path to Peridea	Upgrade					
+ASH_085	Grav Charge		Upgrade					
+ASH_086	Durasteel Plating		Upgrade					
+ASH_087	Cybernetic Enhancements		Upgrade					
+ASH_088	The Conflict Within		Upgrade					
+ASH_089	Perserverance		Event					
+ASH_090	Reforge		Event					
+ASH_091	Buy Time		Event					
+ASH_092	Foundling Rescue		Event					
+ASH_093	Captain Pellaeon	Plotting from the Shadows	Unit	Ground				
+ASH_094	Moff Jerjerrod	We Shall Redouble Our Efforts	Unit	Ground				
+ASH_095	Remnant Interceptor		Unit	Space				
+ASH_096	Forest Patroller		Unit	Ground				
+ASH_097	Moff Gideon	Remnant Commander	Unit	Ground				
+ASH_098	AT-ST Raider		Unit	Ground				
+ASH_099	Gozanti Assault Carrier		Unit	Space				
+ASH_100	Gallius Rax	Counselor to the Empire	Unit	Ground				
+ASH_101	The Great Mothers	With Strange Magicks	Unit	Ground				
+ASH_102	Ravager	Final Imperial Command	Unit	Space				
+ASH_103	Long Live the Empire		Event					
+ASH_104	Dathomiri Magicks		Event					
+ASH_105	Bo-Katan Kryze	For All of Mandalore	Unit	Ground				
+ASH_106	Pathfinder Sergeant		Unit	Ground				
+ASH_107	Clan Wren Loyalist		Unit	Ground				
+ASH_108	Crix Madine	Strike Team Strategist	Unit	Ground				
+ASH_109	T-6 Shuttle 1974	With a Mentor's Dedication	Unit	Space				
+ASH_110	Admiral Ackbar	Assume Attack Coordinates	Unit	Ground				
+ASH_111	Children of the Watch		Unit	Ground				
+ASH_112	Luke Skywalker	Answering the Call	Unit	Ground				
+ASH_113	Mandalorian Flagship	Captured from the Empire	Unit	Space				
+ASH_114	Sabine's Lightsaber	Not Alone	Upgrade					
+ASH_115	The Student Guides the Master		Event					
+ASH_116	Ant Droid		Unit	Ground				
+ASH_117	Outland Protector		Unit	Space				
+ASH_118	8D8	Daimyo's Majordomo	Unit	Ground				
+ASH_119	Greef Karga	Introductions are in Order	Unit	Ground				
+ASH_120	Warrior of Clan Kryze		Unit	Ground				
+ASH_121	Blurrg		Unit	Ground				
+ASH_122	Consortium StarViper		Unit	Space				
+ASH_123	Lang	Arrogant Mercenary	Unit	Ground				
+ASH_124	Protectorate Fighter		Unit	Space				
+ASH_125	Stolen Eta Shuttle		Unit	Space				
+ASH_126	Survivors' Langskib		Unit	Ground				
+ASH_127	The Twins	We Don't Want War	Unit	Ground				
+ASH_128	Bothan-5	New Republic Prison Ship	Unit	Space				
+ASH_129	Defenders of the Forest		Unit	Ground				
+ASH_130	Fang Fighter Squadron		Unit	Space				
+ASH_131	Dinosaur Turtle		Unit	Ground				
+ASH_132	Queen Soruna	Willing to Fight	Unit	Ground				
+ASH_133	Trask Walker		Unit	Ground				
+ASH_134	Warrior's Legacy		Upgrade					
+ASH_135	The Darksaber	Icon of Leadership	Upgrade					
+ASH_136	Display of Strength		Event					
+ASH_137	Wipe Them Out		Event					
+ASH_138	Turning the Tide		Event					
+ASH_139	Hold Them Off		Event					
+ASH_140	Stronger Together		Event					
+ASH_141	TIE Striker		Unit	Space				
+ASH_142	Mortar Trooper		Unit	Ground				
+ASH_143	Tempest Lieutenant		Unit	Ground				
+ASH_144	Vane's Snub Fighter	Brash and Proud	Unit	Space				
+ASH_145	Praetorian Elite		Unit	Ground				
+ASH_146	Justifier	Relentless	Unit	Space				
+ASH_147	The Cyborg Mech	Mysterious Threat	Unit	Ground				
+ASH_148	Ninth Sister	Hulking Inquisitor	Unit	Ground				
+ASH_149	Eviscerator	Burn Them Away	Unit	Space				
+ASH_150	Deadly Vulnerability		Upgrade					
+ASH_151	Operation Cinder		Event					
+ASH_152	Inspired Recruit		Unit	Ground				
+ASH_153	Green Leader	Crynyd's Sacrifice	Unit	Space				
+ASH_154	Honorable Nite Owl		Unit	Ground				
+ASH_155	Grogu	Yes. Yes. Yes.	Unit	Ground				
+ASH_156	R5-D4	Built for Adventure	Unit	Ground				
+ASH_157	Danger Squadron Wingmen		Unit	Space				
+ASH_158	Han Solo	It'll Work	Unit	Ground				
+ASH_159	Alphabet Squadron U-Wing	Quiet Devotion	Unit	Space				
+ASH_160	Kachirho Militia		Unit	Ground				
+ASH_161	Zeb Orrelios	Fists Work Every Time	Unit	Ground				
+ASH_162	Rash Action		Event					
+ASH_163	Reckless Sacrifice		Event					
+ASH_164	Alamite Hunter		Unit	Ground				
+ASH_165	Clan Vizsla Soldier		Unit	Ground				
+ASH_166	Ewok Warrior		Unit	Ground				
+ASH_167	Flarestar Attack Shuttle		Unit	Space				
+ASH_168	Migs Mayfeld	How About a Toast?	Unit	Ground				
+ASH_169	Axe Woves	Undaunted	Unit	Ground				
+ASH_170	Desert Sharpshooter		Unit	Ground				
+ASH_171	Pegasus Tri-Wing		Unit	Space				
+ASH_172	Razor Crest	Outfitted Armament	Unit	Space				
+ASH_173	Shydopp Pirate Skiff		Unit	Ground				
+ASH_174	StarFortress Heavy Bomber		Unit	Space				
+ASH_175	Wookiee Chieftain		Unit	Ground				
+ASH_176	Imposing Scout Walker		Unit	Ground				
+ASH_177	Onyx Cinder		Unit	Space				
+ASH_178	Knobby White Ice Spider		Unit	Ground				
+ASH_179	Boba Fett's Rancor	Emotionally Complex Creature	Unit	Ground				
+ASH_180	Bokken Saber		Upgrade					
+ASH_181	Mark My Words		Upgrade					
+ASH_182	Unfettered Ambition		Upgrade					
+ASH_183	Whistling Birds		Upgrade					
+ASH_184	Follow Me		Event					
+ASH_185	Intimidation		Event					
+ASH_186	Treacherous Minefield		Event					
+ASH_187	Reckoning		Event					
+ASH_188	Galvanized Leap		Event					
+ASH_189	Emperor's Messenger		Unit	Ground				
+ASH_190	Peridea Bandit		Unit	Ground				
+ASH_191	Shin Hati's Fiend Fighter	Compact and Agile	Unit	Space				
+ASH_192	Fennec Shand	The Galaxy is Dangerous	Unit	Ground				
+ASH_193	Emperor's Champion		Unit	Ground				
+ASH_194	Snub Fighter Squadron		Unit	Space				
+ASH_195	Helgait	Dooku was a Visionary	Unit	Ground				
+ASH_196	Gorian Shard's Corsair	Pirate Warship	Unit	Space				
+ASH_197	Executor	Final Destruction of the Alliance	Unit	Space				
+ASH_198	Nowhere to Hide		Upgrade					
+ASH_199	There Is No Conflict		Upgrade					
+ASH_200	Rehabilitation		Event					
+ASH_201	Open Circle Ace		Unit	Space				
+ASH_202	Carson Teva	There's Something Going On	Unit	Ground				
+ASH_203	Mando's N-1 Starfighter	Faster than a Fathier	Unit	Space				
+ASH_204	Blade Three	Bane of the Devastator	Unit	Space				
+ASH_205	Inspiring Veteran		Unit	Ground				
+ASH_206	Kelleran Beq	Where are the Others?	Unit	Ground				
+ASH_207	Heroic Purrgil		Unit	Space				
+ASH_208	Sabine Wren	I Learned the Hard Way	Unit	Ground				
+ASH_209	Ezra Bridger	The Force is All I Need	Unit	Ground				
+ASH_210	DDC Defender		Upgrade					
+ASH_211	Fateful Goodbye		Event					
+ASH_212	Peli Motto	You Bring the Cash?	Unit	Ground				
+ASH_213	Womp Rat		Unit	Ground				
+ASH_214	Amnesty Officer		Unit	Ground				
+ASH_215	Flanking TIE Interceptor		Unit	Space				
+ASH_216	Mandalorian Scout		Unit	Ground				
+ASH_217	Mayor's Majordomo	No Problem Groveling	Unit	Ground				
+ASH_218	Ferry Droid		Unit	Ground				
+ASH_219	Jod Na Nawood	We Don't Want War	Unit	Ground				
+ASH_220	Remnant Lookouts		Unit	Ground				
+ASH_221	Helix Starfighter		Unit	Space				
+ASH_222	Unsanctioned Patrol		Unit	Space				
+ASH_223	Halo	Not According to Plan	Unit	Space				
+ASH_224	Elzar Mann	Haunted by a Vision	Unit	Ground				
+ASH_225	Tatooine Sand Beast		Unit	Ground				
+ASH_226	Qi'ra	Master of Teräs Käsi	Unit	Ground				
+ASH_227	Heightened Awareness		Upgrade					
+ASH_228	Preparation		Upgrade					
+ASH_229	Camtono		Upgrade					
+ASH_230	Improvised Identity		Upgrade					
+ASH_231	Diplomatic Pageantry		Event					
+ASH_232	Full of Surprises		Event					
+ASH_233	Keep Them Talking		Event					
+ASH_234	Masterstroke		Event					
+ASH_235	Sense Through the Force		Event					
+ASH_236	Far Far Away		Event					
+ASH_237	Mouse Droid		Unit	Ground				
+ASH_238	Attendant Navigator		Unit	Ground				
+ASH_239	Imperial Loyalist		Unit	Ground				
+ASH_240	Mandalorian Super Commandos		Unit	Ground				
+ASH_241	Marrok's Fiend Fighter	Formidable Pursuer	Unit	Space				
+ASH_242	Death Trooper Squad		Unit	Ground				
+ASH_243	Darth Vader	Meet Your Destiny	Unit	Ground				
+ASH_244	Remnant Trooper Corps		Unit	Ground				
+ASH_245	Eye of Sion	Delivered from Exile	Unit	Space				
+ASH_246	Exploit Advantage		Event					
+ASH_247	One Must Destroy to Create		Event					
+ASH_248	Neel	The Cutest Boy	Unit	Ground				
+ASH_249	Covert Veteran		Unit	Ground				
+ASH_250	Imperial Defector		Unit	Ground				
+ASH_251	Zealous Soldier		Unit	Ground				
+ASH_252	N5 Sentry Droid		Unit	Ground				
+ASH_253	Yellow Aces Bomber		Unit	Space				
+ASH_254	Gallofree Transport		Unit	Space				
+ASH_255	Anakin Skywalker	You Were Right About Me	Unit	Ground				
+ASH_256	Rebel Infiltrators		Unit	Ground				
+ASH_257	Choose Your Path		Event					
+ASH_258	Grassroots Resistance		Event					
+ASH_259	LEP Ratcatcher		Unit	Ground				
+ASH_260	Mos Espa Watermonger		Unit	Ground				
+ASH_261	Noti Mobile Pod		Unit	Ground				
+ASH_262	Faith in the Empire		Upgrade					
+ASH_263	The Way of the Mand'alor		Upgrade					
+ASH_264	A New Order		Event					
+ASH_265	The Armorer	Steel Shapes Us	Leader	Ground	L	Hyperspace		=
+ASH_266	Fennec Shand	Ready for War	Leader	Ground	L	Hyperspace		=
+ASH_267	Baylan Skoll	Power Beyond Dream	Leader	Ground	L	Hyperspace		=
+ASH_268	Grand Admiral Thrawn	Victory is Mine	Leader	Ground	L	Hyperspace		=
+ASH_269	Luke Skywalker	I Can Save Him	Leader	Ground	L	Hyperspace		=
+ASH_270	Sabine Wren	Bargaining on Belief	Leader	Ground	L	Hyperspace		=
+ASH_271	Grand Admiral Sloane	Holding the Empire Together	Leader	Ground	L	Hyperspace		=
+ASH_272	Moff Gideon	Indomitable Warlord	Leader	Ground	L	Hyperspace		=
+ASH_273	Ahsoka Tano	Trust in the Force	Leader	Ground	L	Hyperspace		=
+ASH_274	Bo-Katan Kryze	Reclaiming Mandalore	Leader	Ground	L	Hyperspace		=
+ASH_275	Cad Bane	Still Faster Than You	Leader	Ground	L	Hyperspace		=
+ASH_276	Vane	Quarrelsome Pirate	Leader	Ground	L	Hyperspace		=
+ASH_277	Ezra Bridger	It's Now or Never	Leader	Ground	L	Hyperspace		=
+ASH_278	The Mandalorian	We Can't Keep Running	Leader	Ground	L	Hyperspace		=
+ASH_279	Emperor Palpatine	According to My Design	Leader	Ground	L	Hyperspace		=
+ASH_280	Shin Hati	Eager Adversary	Leader	Ground	L	Hyperspace		=
+ASH_281	Greef Karga	Gracious Magistrate	Leader	Ground	L	Hyperspace		=
+ASH_282	Grogu	Charming Companion	Leader	Ground	L	Hyperspace		=
+ASH_283	Fortress of the Great Mothers	Peridea	Base		L	Hyperspace		
+ASH_284	Nevarro City, Restored	Nevarro	Base		L	Hyperspace		
+ASH_285	Emperor's Throne Room	Death Star	Base		L	Hyperspace		
+ASH_286	Kryze Castle	Kalevala	Base		L	Hyperspace		
+ASH_287	Ancient Henge	Seatos	Base		L	Hyperspace		
+ASH_288	Dragonsnake Bog	Dagobah	Base		L	Hyperspace		
+ASH_289	Emperor's Observatory	Pillio	Base		L	Hyperspace		
+ASH_290	Freetown	Tatooine	Base		L	Hyperspace		
+ASH_291	Enoch	Solemn Servant	Unit	Ground		Hyperspace		
+ASH_292	Paz Vizsla	For a Brighter Future	Unit	Ground		Hyperspace		
+ASH_293	Scorpenek Annihilator Droid		Unit	Ground		Hyperspace		
+ASH_294	Marrok	Mysterious Warrior	Unit	Ground		Hyperspace		
+ASH_295	Hera Syndulla	Renegade General	Unit	Ground		Hyperspace		
+ASH_296	Rancor Keeper		Unit	Ground		Hyperspace		
+ASH_297	Grand Admiral Thrawn	Orchestrating His Return	Unit	Ground		Hyperspace		
+ASH_298	Wicket	Yub Nub!	Unit	Ground		Hyperspace		
+ASH_299	Tatooine Repulsor Train		Unit	Ground		Hyperspace		
+ASH_300	Rukh	From the Shadows	Unit	Ground		Hyperspace		
+ASH_301	Red Leader	Strike the Reactor	Unit	Space		Hyperspace		
+ASH_302	Purrgil Ultra		Unit	Space		Hyperspace		
+ASH_303	Baylan Skoll	Fallen Jedi	Unit	Ground		Hyperspace		
+ASH_304	Poe Dameron	I'll Come Back For You	Unit	Ground		Hyperspace		
+ASH_305	Outcast	Mercenary Starship	Unit	Space		Hyperspace		
+ASH_306	Jabba the Hutt	Eminence of Tatooine	Unit	Ground		Hyperspace		
+ASH_307	Corona Four	Justice for Alderaan	Unit	Space		Hyperspace		
+ASH_308	Barriss Offee	Redeeming Herself	Unit	Ground		Hyperspace		
+ASH_309	Reanimated Night Trooper		Unit	Ground		Hyperspace		
+ASH_310	Scion Shuttle	At Morgan's Bidding	Unit	Space		Hyperspace		
+ASH_311	Gar Saxon	Coveting Power	Unit	Ground		Hyperspace		
+ASH_312	Imperial Armored Commando		Unit	Ground		Hyperspace		
+ASH_313	Shin Hati	Going Somewhere?	Unit	Ground		Hyperspace		
+ASH_314	Morgan Elsbeth	Life Abandoned	Unit	Ground		Hyperspace		
+ASH_315	Reinforcing Light Cruiser		Unit	Space		Hyperspace		
+ASH_316	Chimaera	A Frightening Reality	Unit	Space		Hyperspace		
+ASH_317	Pre Vizsla	Strong-Willed Ruler	Unit	Ground		Hyperspace		
+ASH_318	Pointless to Resist		Upgrade			Hyperspace		
+ASH_319	Blade of Talzin	A Gift of Shadows	Upgrade			Hyperspace		
+ASH_320	Huyang	Your Aptitude Falls Short	Unit	Ground		Hyperspace		
+ASH_321	Lothal E-Wing		Unit	Space		Hyperspace		
+ASH_322	Duchess's Protector		Unit	Ground		Hyperspace		
+ASH_323	Leia Organa	Vigilant for Danger	Unit	Ground		Hyperspace		
+ASH_324	Cobb Vanth	Let Me Handle This	Unit	Ground		Hyperspace		
+ASH_325	Strike Team Vanguard		Unit	Ground		Hyperspace		
+ASH_326	The Mandalorian	Devoted Rescuer	Unit	Ground		Hyperspace		
+ASH_327	Bo-Katan's Gauntlet	Reinforce from Above	Unit	Space		Hyperspace		
+ASH_328	The Armorer	Secrecy is Our Survival	Unit	Ground		Hyperspace		
+ASH_329	Home One	Heart of the Fleet	Unit	Space		Hyperspace		
+ASH_330	Luke's Jedi Lightsaber	Constructed by Hand	Upgrade			Hyperspace		
+ASH_331	Get Lost		Event			Hyperspace		
+ASH_332	Domesticated Loth-Cat		Unit	Ground		Hyperspace		
+ASH_333	Noti Nomad		Unit	Ground		Hyperspace		
+ASH_334	At Attin Safety Droid		Unit	Ground		Hyperspace		
+ASH_335	Battered Haulcraft		Unit	Space		Hyperspace		
+ASH_336	Doctor Pershing	Dedicated to Research	Unit	Ground		Hyperspace		
+ASH_337	Palace Chef Droid		Unit	Ground		Hyperspace		
+ASH_338	Mos Eisley Modifier		Unit	Ground		Hyperspace		
+ASH_339	Pit Droid Team		Unit	Ground		Hyperspace		
+ASH_340	Remnant Official		Unit	Ground		Hyperspace		
+ASH_341	Ryder Azadi	Restored Governor	Unit	Ground		Hyperspace		
+ASH_342	B-Wing Rearguard		Unit	Space		Hyperspace		
+ASH_343	Koska Reeves	Warrior of Mandalore	Unit	Ground		Hyperspace		
+ASH_344	Covert Believers		Unit	Ground		Hyperspace		
+ASH_345	Nebulon-C Frigate		Unit	Ground		Hyperspace		
+ASH_346	Trexler Armored Marauder		Unit	Ground		Hyperspace		
+ASH_347	Summa-verminoth		Unit	Space		Hyperspace		
+ASH_348	Arcana Star Map	Path to Peridea	Upgrade			Hyperspace		
+ASH_349	Grav Charge		Upgrade			Hyperspace		
+ASH_350	Durasteel Plating		Upgrade			Hyperspace		
+ASH_351	Cybernetic Enhancements		Upgrade			Hyperspace		
+ASH_352	The Conflict Within		Upgrade			Hyperspace		
+ASH_353	Perserverance		Event			Hyperspace		
+ASH_354	Reforge		Event			Hyperspace		
+ASH_355	Buy Time		Event			Hyperspace		
+ASH_356	Foundling Rescue		Event			Hyperspace		
+ASH_357	Captain Pellaeon	Plotting from the Shadows	Unit	Ground		Hyperspace		
+ASH_358	Moff Jerjerrod	We Shall Redouble Our Efforts	Unit	Ground		Hyperspace		
+ASH_359	Remnant Interceptor		Unit	Space		Hyperspace		
+ASH_360	Forest Patroller		Unit	Ground		Hyperspace		
+ASH_361	Moff Gideon	Remnant Commander	Unit	Ground		Hyperspace		
+ASH_362	AT-ST Raider		Unit	Ground		Hyperspace		
+ASH_363	Gozanti Assault Carrier		Unit	Space		Hyperspace		
+ASH_364	Gallius Rax	Counselor to the Empire	Unit	Ground		Hyperspace		
+ASH_365	The Great Mothers	With Strange Magicks	Unit	Ground		Hyperspace		
+ASH_366	Ravager	Final Imperial Command	Unit	Space		Hyperspace		
+ASH_367	Long Live the Empire		Event			Hyperspace		
+ASH_368	Dathomiri Magicks		Event			Hyperspace		
+ASH_369	Bo-Katan Kryze	For All of Mandalore	Unit	Ground		Hyperspace		
+ASH_370	Pathfinder Sergeant		Unit	Ground		Hyperspace		
+ASH_371	Clan Wren Loyalist		Unit	Ground		Hyperspace		
+ASH_372	Crix Madine	Strike Team Strategist	Unit	Ground		Hyperspace		
+ASH_373	T-6 Shuttle 1974	With a Mentor's Dedication	Unit	Space		Hyperspace		
+ASH_374	Admiral Ackbar	Assume Attack Coordinates	Unit	Ground		Hyperspace		
+ASH_375	Children of the Watch		Unit	Ground		Hyperspace		
+ASH_376	Luke Skywalker	Answering the Call	Unit	Ground		Hyperspace		
+ASH_377	Mandalorian Flagship	Captured from the Empire	Unit	Space		Hyperspace		
+ASH_378	Sabine's Lightsaber	Not Alone	Upgrade			Hyperspace		
+ASH_379	The Student Guides the Master		Event			Hyperspace		
+ASH_380	Ant Droid		Unit	Ground		Hyperspace		
+ASH_381	Outland Protector		Unit	Space		Hyperspace		
+ASH_382	8D8	Daimyo's Majordomo	Unit	Ground		Hyperspace		
+ASH_383	Greef Karga	Introductions are in Order	Unit	Ground		Hyperspace		
+ASH_384	Warrior of Clan Kryze		Unit	Ground		Hyperspace		
+ASH_385	Blurrg		Unit	Ground		Hyperspace		
+ASH_386	Consortium StarViper		Unit	Space		Hyperspace		
+ASH_387	Lang	Arrogant Mercenary	Unit	Ground		Hyperspace		
+ASH_388	Protectorate Fighter		Unit	Space		Hyperspace		
+ASH_389	Stolen Eta Shuttle		Unit	Space		Hyperspace		
+ASH_390	Survivors' Langskib		Unit	Ground		Hyperspace		
+ASH_391	The Twins	We Don't Want War	Unit	Ground		Hyperspace		
+ASH_392	Bothan-5	New Republic Prison Ship	Unit	Space		Hyperspace		
+ASH_393	Defenders of the Forest		Unit	Ground		Hyperspace		
+ASH_394	Fang Fighter Squadron		Unit	Space		Hyperspace		
+ASH_395	Dinosaur Turtle		Unit	Ground		Hyperspace		
+ASH_396	Queen Soruna	Willing to Fight	Unit	Ground		Hyperspace		
+ASH_397	Trask Walker		Unit	Ground		Hyperspace		
+ASH_398	Warrior's Legacy		Upgrade			Hyperspace		
+ASH_399	The Darksaber	Icon of Leadership	Upgrade			Hyperspace		
+ASH_400	Display of Strength		Event			Hyperspace		
+ASH_401	Wipe Them Out		Event			Hyperspace		
+ASH_402	Turning the Tide		Event			Hyperspace		
+ASH_403	Hold Them Off		Event			Hyperspace		
+ASH_404	Stronger Together		Event			Hyperspace		
+ASH_405	TIE Striker		Unit	Space		Hyperspace		
+ASH_406	Mortar Trooper		Unit	Ground		Hyperspace		
+ASH_407	Tempest Lieutenant		Unit	Ground		Hyperspace		
+ASH_408	Vane's Snub Fighter	Brash and Proud	Unit	Space		Hyperspace		
+ASH_409	Praetorian Elite		Unit	Ground		Hyperspace		
+ASH_410	Justifier	Relentless	Unit	Space		Hyperspace		
+ASH_411	The Cyborg Mech	Mysterious Threat	Unit	Ground		Hyperspace		
+ASH_412	Ninth Sister	Hulking Inquisitor	Unit	Ground		Hyperspace		
+ASH_413	Eviscerator	Burn Them Away	Unit	Space		Hyperspace		
+ASH_414	Deadly Vulnerability		Upgrade			Hyperspace		
+ASH_415	Operation Cinder		Event			Hyperspace		
+ASH_416	Inspired Recruit		Unit	Ground		Hyperspace		
+ASH_417	Green Leader	Crynyd's Sacrifice	Unit	Space		Hyperspace		
+ASH_418	Honorable Nite Owl		Unit	Ground		Hyperspace		
+ASH_419	Grogu	Yes. Yes. Yes.	Unit	Ground		Hyperspace		
+ASH_420	R5-D4	Built for Adventure	Unit	Ground		Hyperspace		
+ASH_421	Danger Squadron Wingmen		Unit	Space		Hyperspace		
+ASH_422	Han Solo	It'll Work	Unit	Ground		Hyperspace		
+ASH_423	Alphabet Squadron U-Wing	Quiet Devotion	Unit	Space		Hyperspace		
+ASH_424	Kachirho Militia		Unit	Ground		Hyperspace		
+ASH_425	Zeb Orrelios	Fists Work Every Time	Unit	Ground		Hyperspace		
+ASH_426	Rash Action		Event			Hyperspace		
+ASH_427	Reckless Sacrifice		Event			Hyperspace		
+ASH_428	Alamite Hunter		Unit	Ground		Hyperspace		
+ASH_429	Clan Vizsla Soldier		Unit	Ground		Hyperspace		
+ASH_430	Ewok Warrior		Unit	Ground		Hyperspace		
+ASH_431	Flarestar Attack Shuttle		Unit	Space		Hyperspace		
+ASH_432	Migs Mayfeld	How About a Toast?	Unit	Ground		Hyperspace		
+ASH_433	Axe Woves	Undaunted	Unit	Ground		Hyperspace		
+ASH_434	Desert Sharpshooter		Unit	Ground		Hyperspace		
+ASH_435	Pegasus Tri-Wing		Unit	Space		Hyperspace		
+ASH_436	Razor Crest	Outfitted Armament	Unit	Space		Hyperspace		
+ASH_437	Shydopp Pirate Skiff		Unit	Ground		Hyperspace		
+ASH_438	StarFortress Heavy Bomber		Unit	Space		Hyperspace		
+ASH_439	Wookiee Chieftain		Unit	Ground		Hyperspace		
+ASH_440	Imposing Scout Walker		Unit	Ground		Hyperspace		
+ASH_441	Onyx Cinder		Unit	Space		Hyperspace		
+ASH_442	Knobby White Ice Spider		Unit	Ground		Hyperspace		
+ASH_443	Boba Fett's Rancor	Emotionally Complex Creature	Unit	Ground		Hyperspace		
+ASH_444	Bokken Saber		Upgrade			Hyperspace		
+ASH_445	Mark My Words		Upgrade			Hyperspace		
+ASH_446	Unfettered Ambition		Upgrade			Hyperspace		
+ASH_447	Whistling Birds		Upgrade			Hyperspace		
+ASH_448	Follow Me		Event			Hyperspace		
+ASH_449	Intimidation		Event			Hyperspace		
+ASH_450	Treacherous Minefield		Event			Hyperspace		
+ASH_451	Reckoning		Event			Hyperspace		
+ASH_452	Galvanized Leap		Event			Hyperspace		
+ASH_453	Emperor's Messenger		Unit	Ground		Hyperspace		
+ASH_454	Peridea Bandit		Unit	Ground		Hyperspace		
+ASH_455	Shin Hati's Fiend Fighter	Compact and Agile	Unit	Space		Hyperspace		
+ASH_456	Fennec Shand	The Galaxy is Dangerous	Unit	Ground		Hyperspace		
+ASH_457	Emperor's Champion		Unit	Ground		Hyperspace		
+ASH_458	Snub Fighter Squadron		Unit	Space		Hyperspace		
+ASH_459	Helgait	Dooku was a Visionary	Unit	Ground		Hyperspace		
+ASH_460	Gorian Shard's Corsair	Pirate Warship	Unit	Space		Hyperspace		
+ASH_461	Executor	Final Destruction of the Alliance	Unit	Space		Hyperspace		
+ASH_462	Nowhere to Hide		Upgrade			Hyperspace		
+ASH_463	There Is No Conflict		Upgrade			Hyperspace		
+ASH_464	Rehabilitation		Event			Hyperspace		
+ASH_465	Open Circle Ace		Unit	Space		Hyperspace		
+ASH_466	Carson Teva	There's Something Going On	Unit	Ground		Hyperspace		
+ASH_467	Mando's N-1 Starfighter	Faster than a Fathier	Unit	Space		Hyperspace		
+ASH_468	Blade Three	Bane of the Devastator	Unit	Space		Hyperspace		
+ASH_469	Inspiring Veteran		Unit	Ground		Hyperspace		
+ASH_470	Kelleran Beq	Where are the Others?	Unit	Ground		Hyperspace		
+ASH_471	Heroic Purrgil		Unit	Space		Hyperspace		
+ASH_472	Sabine Wren	I Learned the Hard Way	Unit	Ground		Hyperspace		
+ASH_473	Ezra Bridger	The Force is All I Need	Unit	Ground		Hyperspace		
+ASH_474	DDC Defender		Upgrade			Hyperspace		
+ASH_475	Fateful Goodbye		Event			Hyperspace		
+ASH_476	Peli Motto	You Bring the Cash?	Unit	Ground		Hyperspace		
+ASH_477	Womp Rat		Unit	Ground		Hyperspace		
+ASH_478	Amnesty Officer		Unit	Ground		Hyperspace		
+ASH_479	Flanking TIE Interceptor		Unit	Space		Hyperspace		
+ASH_480	Mandalorian Scout		Unit	Ground		Hyperspace		
+ASH_481	Mayor's Majordomo	No Problem Groveling	Unit	Ground		Hyperspace		
+ASH_482	Ferry Droid		Unit	Ground		Hyperspace		
+ASH_483	Jod Na Nawood	We Don't Want War	Unit	Ground		Hyperspace		
+ASH_484	Remnant Lookouts		Unit	Ground		Hyperspace		
+ASH_485	Helix Starfighter		Unit	Space		Hyperspace		
+ASH_486	Unsanctioned Patrol		Unit	Space		Hyperspace		
+ASH_487	Halo	Not According to Plan	Unit	Space		Hyperspace		
+ASH_488	Elzar Mann	Haunted by a Vision	Unit	Ground		Hyperspace		
+ASH_489	Tatooine Sand Beast		Unit	Ground		Hyperspace		
+ASH_490	Qi'ra	Master of Teräs Käsi	Unit	Ground		Hyperspace		
+ASH_491	Heightened Awareness		Upgrade			Hyperspace		
+ASH_492	Preparation		Upgrade			Hyperspace		
+ASH_493	Camtono		Upgrade			Hyperspace		
+ASH_494	Improvised Identity		Upgrade			Hyperspace		
+ASH_495	Diplomatic Pageantry		Event			Hyperspace		
+ASH_496	Full of Surprises		Event			Hyperspace		
+ASH_497	Keep Them Talking		Event			Hyperspace		
+ASH_498	Masterstroke		Event			Hyperspace		
+ASH_499	Sense Through the Force		Event			Hyperspace		
+ASH_500	Far Far Away		Event			Hyperspace		
+ASH_501	Mouse Droid		Unit	Ground		Hyperspace		
+ASH_502	Attendant Navigator		Unit	Ground		Hyperspace		
+ASH_503	Imperial Loyalist		Unit	Ground		Hyperspace		
+ASH_504	Mandalorian Super Commandos		Unit	Ground		Hyperspace		
+ASH_505	Marrok's Fiend Fighter	Formidable Pursuer	Unit	Space		Hyperspace		
+ASH_506	Death Trooper Squad		Unit	Ground		Hyperspace		
+ASH_507	Darth Vader	Meet Your Destiny	Unit	Ground		Hyperspace		
+ASH_508	Remnant Trooper Corps		Unit	Ground		Hyperspace		
+ASH_509	Eye of Sion	Delivered from Exile	Unit	Space		Hyperspace		
+ASH_510	Exploit Advantage		Event			Hyperspace		
+ASH_511	One Must Destroy to Create		Event			Hyperspace		
+ASH_512	Neel	The Cutest Boy	Unit	Ground		Hyperspace		
+ASH_513	Covert Veteran		Unit	Ground		Hyperspace		
+ASH_514	Imperial Defector		Unit	Ground		Hyperspace		
+ASH_515	Zealous Soldier		Unit	Ground		Hyperspace		
+ASH_516	N5 Sentry Droid		Unit	Ground		Hyperspace		
+ASH_517	Yellow Aces Bomber		Unit	Space		Hyperspace		
+ASH_518	Gallofree Transport		Unit	Space		Hyperspace		
+ASH_519	Anakin Skywalker	You Were Right About Me	Unit	Ground		Hyperspace		
+ASH_520	Rebel Infiltrators		Unit	Ground		Hyperspace		
+ASH_521	Choose Your Path		Event			Hyperspace		
+ASH_522	Grassroots Resistance		Event			Hyperspace		
+ASH_523	LEP Ratcatcher		Unit	Ground		Hyperspace		
+ASH_524	Mos Espa Watermonger		Unit	Ground		Hyperspace		
+ASH_525	Noti Mobile Pod		Unit	Ground		Hyperspace		
+ASH_526	Faith in the Empire		Upgrade			Hyperspace		
+ASH_527	The Way of the Mand'alor		Upgrade			Hyperspace		
+ASH_528	A New Order		Event			Hyperspace		
+ASH_767	The Armorer	Steel Shapes Us	Leader	Ground	L	Showcase		=
+ASH_768	Fennec Shand	Ready for War	Leader	Ground	L	Showcase		=
+ASH_769	Baylan Skoll	Power Beyond Dream	Leader	Ground	L	Showcase		=
+ASH_770	Grand Admiral Thrawn	Victory is Mine	Leader	Ground	L	Showcase		=
+ASH_771	Luke Skywalker	I Can Save Him	Leader	Ground	L	Showcase		=
+ASH_772	Sabine Wren	Bargaining on Belief	Leader	Ground	L	Showcase		=
+ASH_773	Grand Admiral Sloane	Holding the Empire Together	Leader	Ground	L	Showcase		=
+ASH_774	Moff Gideon	Indomitable Warlord	Leader	Ground	L	Showcase		=
+ASH_775	Ahsoka Tano	Trust in the Force	Leader	Ground	L	Showcase		=
+ASH_776	Bo-Katan Kryze	Reclaiming Mandalore	Leader	Ground	L	Showcase		=
+ASH_777	Cad Bane	Still Faster Than You	Leader	Ground	L	Showcase		=
+ASH_778	Vane	Quarrelsome Pirate	Leader	Ground	L	Showcase		=
+ASH_779	Ezra Bridger	It's Now or Never	Leader	Ground	L	Showcase		=
+ASH_780	The Mandalorian	We Can't Keep Running	Leader	Ground	L	Showcase		=
+ASH_781	Emperor Palpatine	According to My Design	Leader	Ground	L	Showcase		=
+ASH_782	Shin Hati	Eager Adversary	Leader	Ground	L	Showcase		=
+ASH_783	Greef Karga	Gracious Magistrate	Leader	Ground	L	Showcase		=
+ASH_784	Grogu	Charming Companion	Leader	Ground	L	Showcase		=
+ASH_785	Paz Vizsla	For a Brighter Future	Unit	Ground		Prestige		
+ASH_786	Marrok	Mysterious Warrior	Unit	Ground		Prestige		
+ASH_787	Hera Syndulla	Renegade General	Unit	Ground		Prestige		
+ASH_788	Grand Admiral Thrawn	Orchestrating His Return	Unit	Ground		Prestige		
+ASH_789	Purrgil Ultra		Unit	Space		Prestige		
+ASH_790	Baylan Skoll	Fallen Jedi	Unit	Ground		Prestige		
+ASH_791	Shin Hati	Going Somewhere?	Unit	Ground		Prestige		
+ASH_792	Morgan Elsbeth	Life Abandoned	Unit	Ground		Prestige		
+ASH_793	Blade of Talzin	A Gift of Shadows	Upgrade			Prestige		
+ASH_794	Cobb Vanth	Let Me Handle This	Unit	Ground		Prestige		
+ASH_795	The Mandalorian	Devoted Rescuer	Unit	Ground		Prestige		
+ASH_796	Bo-Katan's Gauntlet	Reinforce from Above	Unit	Space		Prestige		
+ASH_797	The Armorer	Secrecy is Our Survival	Unit	Ground		Prestige		
+ASH_798	Arcana Star Map	Path to Peridea	Upgrade			Prestige		
+ASH_799	Moff Gideon	Remnant Commander	Unit	Ground		Prestige		
+ASH_800	T-6 Shuttle 1974	With a Mentor's Dedication	Unit	Space		Prestige		
+ASH_801	Luke Skywalker	Answering the Call	Unit	Ground		Prestige		
+ASH_802	Greef Karga	Introductions are in Order	Unit	Ground		Prestige		
+ASH_803	The Darksaber	Icon of Leadership	Upgrade			Prestige		
+ASH_804	Grogu	Yes. Yes. Yes.	Unit	Ground		Prestige		
+ASH_805	Razor Crest	Outfitted Armament	Unit	Space		Prestige		
+ASH_806	Boba Fett's Rancor	Emotionally Complex Creature	Unit	Ground		Prestige		
+ASH_807	Whistling Birds		Upgrade			Prestige		
+ASH_808	Gorian Shard's Corsair	Pirate Warship	Unit	Space		Prestige		
+ASH_809	Carson Teva	There's Something Going On	Unit	Ground		Prestige		
+ASH_810	Mando's N-1 Starfighter	Faster than a Fathier	Unit	Space		Prestige		
+ASH_811	Sabine Wren	I Learned the Hard Way	Unit	Ground		Prestige		
+ASH_812	Ezra Bridger	The Force is All I Need	Unit	Ground		Prestige		
+ASH_813	Sense Through the Force		Event			Prestige		
+ASH_814	Far Far Away		Event			Prestige		
+ASH_815	Eye of Sion	Delivered from Exile	Unit	Space		Prestige		
+ASH_816	One Must Destroy to Create		Event			Prestige		
+ASH_817	Choose Your Path		Event			Prestige		
+ASH_818	Red Leader	Strike the Reactor	Unit	Space		Prestige		
+ASH_819	Leia Organa	Vigilant for Danger	Unit	Ground		Prestige		
+ASH_820	Home One	Heart of the Fleet	Unit	Space		Prestige		
+ASH_821	Crix Madine	Strike Team Strategist	Unit	Ground		Prestige		
+ASH_822	Admiral Ackbar	Assume Attack Coordinates	Unit	Ground		Prestige		
+ASH_823	Han Solo	It'll Work	Unit	Ground		Prestige		
+ASH_824	Zeb Orrelios	Fists Work Every Time	Unit	Ground		Prestige		
+ASH_825	Blade Three	Bane of the Devastator	Unit	Space		Prestige		
+ASH_826	Wicket	Yub Nub!	Unit	Ground		Prestige		
+ASH_827	Summa-verminoth		Unit	Space		Prestige		
+ASH_828	Fennec Shand	The Galaxy is Dangerous	Unit	Ground		Prestige		
+ASH_829	Elzar Mann	Haunted by a Vision	Unit	Ground		Prestige		
+ASH_830	Darth Vader	Meet Your Destiny	Unit	Ground		Prestige		
+ASH_831	Anakin Skywalker	You Were Right About Me	Unit	Ground		Prestige		
+ASH_879	Paz Vizsla	For a Brighter Future	Unit	Ground		Prestige Serialized		
+ASH_880	Marrok	Mysterious Warrior	Unit	Ground		Prestige Serialized		
+ASH_881	Hera Syndulla	Renegade General	Unit	Ground		Prestige Serialized		
+ASH_882	Grand Admiral Thrawn	Orchestrating His Return	Unit	Ground		Prestige Serialized		
+ASH_883	Purrgil Ultra		Unit	Space		Prestige Serialized		
+ASH_884	Baylan Skoll	Fallen Jedi	Unit	Ground		Prestige Serialized		
+ASH_885	Shin Hati	Going Somewhere?	Unit	Ground		Prestige Serialized		
+ASH_886	Morgan Elsbeth	Life Abandoned	Unit	Ground		Prestige Serialized		
+ASH_887	Blade of Talzin	A Gift of Shadows	Upgrade			Prestige Serialized		
+ASH_888	Cobb Vanth	Let Me Handle This	Unit	Ground		Prestige Serialized		
+ASH_889	The Mandalorian	Devoted Rescuer	Unit	Ground		Prestige Serialized		
+ASH_890	Bo-Katan's Gauntlet	Reinforce from Above	Unit	Space		Prestige Serialized		
+ASH_891	The Armorer	Secrecy is Our Survival	Unit	Ground		Prestige Serialized		
+ASH_892	Arcana Star Map	Path to Peridea	Upgrade			Prestige Serialized		
+ASH_893	Moff Gideon	Remnant Commander	Unit	Ground		Prestige Serialized		
+ASH_894	T-6 Shuttle 1974	With a Mentor's Dedication	Unit	Space		Prestige Serialized		
+ASH_895	Luke Skywalker	Answering the Call	Unit	Ground		Prestige Serialized		
+ASH_896	Greef Karga	Introductions are in Order	Unit	Ground		Prestige Serialized		
+ASH_897	The Darksaber	Icon of Leadership	Upgrade			Prestige Serialized		
+ASH_898	Grogu	Yes. Yes. Yes.	Unit	Ground		Prestige Serialized		
+ASH_899	Razor Crest	Outfitted Armament	Unit	Space		Prestige Serialized		
+ASH_900	Boba Fett's Rancor	Emotionally Complex Creature	Unit	Ground		Prestige Serialized		
+ASH_901	Whistling Birds		Upgrade			Prestige Serialized		
+ASH_902	Gorian Shard's Corsair	Pirate Warship	Unit	Space		Prestige Serialized		
+ASH_903	Carson Teva	There's Something Going On	Unit	Ground		Prestige Serialized		
+ASH_904	Mando's N-1 Starfighter	Faster than a Fathier	Unit	Space		Prestige Serialized		
+ASH_905	Sabine Wren	I Learned the Hard Way	Unit	Ground		Prestige Serialized		
+ASH_906	Ezra Bridger	The Force is All I Need	Unit	Ground		Prestige Serialized		
+ASH_907	Sense Through the Force		Event			Prestige Serialized		
+ASH_908	Far Far Away		Event			Prestige Serialized		
+ASH_909	Eye of Sion	Delivered from Exile	Unit	Space		Prestige Serialized		
+ASH_910	One Must Destroy to Create		Event			Prestige Serialized		
+ASH_911	Choose Your Path		Event			Prestige Serialized		
+ASH_912	Red Leader	Strike the Reactor	Unit	Space		Prestige Serialized		
+ASH_913	Leia Organa	Vigilant for Danger	Unit	Ground		Prestige Serialized		
+ASH_914	Home One	Heart of the Fleet	Unit	Space		Prestige Serialized		
+ASH_915	Crix Madine	Strike Team Strategist	Unit	Ground		Prestige Serialized		
+ASH_916	Admiral Ackbar	Assume Attack Coordinates	Unit	Ground		Prestige Serialized		
+ASH_917	Han Solo	It'll Work	Unit	Ground		Prestige Serialized		
+ASH_918	Zeb Orrelios	Fists Work Every Time	Unit	Ground		Prestige Serialized		
+ASH_919	Blade Three	Bane of the Devastator	Unit	Space		Prestige Serialized		
+ASH_920	Wicket	Yub Nub!	Unit	Ground		Prestige Serialized		
+ASH_921	Summa-verminoth		Unit	Space		Prestige Serialized		
+ASH_922	Fennec Shand	The Galaxy is Dangerous	Unit	Ground		Prestige Serialized		
+ASH_923	Elzar Mann	Haunted by a Vision	Unit	Ground		Prestige Serialized		
+ASH_924	Darth Vader	Meet Your Destiny	Unit	Ground		Prestige Serialized		
+ASH_925	Anakin Skywalker	You Were Right About Me	Unit	Ground		Prestige Serialized		
+ASH_T01	Mandalorian		Token Unit					
+ASH_T02	Advantage		Token Upgrade					
+ASH_T03	Shield		Token Upgrade					
+ASH_T04	Mandalorian		Token Unit			Hyperspace		
+ASH_T05	Advantage		Token Upgrade			Hyperspace		
+ASH_T06	Shield		Token Upgrade			Hyperspace		

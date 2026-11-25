@@ -1,0 +1,89 @@
+#id	name	sub	type	arena	flags	variant	front	back
+TS26_001	Count Dooku	Offering Aid	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/1.png	https://cdn.swu-db.com/images/cards/TS26/1-b.png
+TS26_002	Anakin Skywalker	Protect Her At All Costs	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/2.png	https://cdn.swu-db.com/images/cards/TS26/2-b.png
+TS26_003	Maul	Collective Ambition	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/3.png	https://cdn.swu-db.com/images/cards/TS26/3-b.png
+TS26_004	Padmé Amidala	Follow My Lead	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/4.png	https://cdn.swu-db.com/images/cards/TS26/4-b.png
+TS26_005	Savage Opress	You Must Have Your Revenge	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/5.png	https://cdn.swu-db.com/images/cards/TS26/5-b.png
+TS26_006	Rex	No Other Option	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/6.png	https://cdn.swu-db.com/images/cards/TS26/6-b.png
+TS26_007	Asajj Ventress	Ambitious Apprentice	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/7.png	https://cdn.swu-db.com/images/cards/TS26/7-b.png
+TS26_008	Ahsoka Tano	I Have an Idea	Leader	Ground	L		https://cdn.swu-db.com/images/cards/TS26/8.png	https://cdn.swu-db.com/images/cards/TS26/8-b.png
+TS26_009	First Battle Memorial	Coruscant	Base		L		https://cdn.swu-db.com/images/cards/TS26/9.png	
+TS26_010	Dooku's Palace	Serenno	Base		L		https://cdn.swu-db.com/images/cards/TS26/10.png	
+TS26_011	Executioner's Arena	Geonosis	Base		L		https://cdn.swu-db.com/images/cards/TS26/11.png	
+TS26_012	Sundari Palace	Mandalore	Base		L		https://cdn.swu-db.com/images/cards/TS26/12.png	
+TS26_013	Darth Sidious	Under a Cloak of Darkness	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/13.png	
+TS26_014	Yoda	Begun, the Clone War Has	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/14.png	
+TS26_015	C-3P0	Die, Jedi Dogs!	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/15.png	
+TS26_016	King Katuunko	Great King of Toydaria	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/16.png	
+TS26_017	Rush Clovis	Trapped by Authority	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/17.png	
+TS26_018	Jendirian Valley	Refugee Freighter	Unit	Space			https://cdn.swu-db.com/images/cards/TS26/18.png	
+TS26_019	Coleman Trebor	Jedi Rescuer	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/19.png	
+TS26_020	501st Veteran		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/20.png	
+TS26_021	Gar Saxon	Sundari Pillager	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/21.png	
+TS26_022	The Darksaber	Only the Strongest Shall Rule	Upgrade				https://cdn.swu-db.com/images/cards/TS26/22.png	
+TS26_023	Assault Lander LAAT		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/23.png	
+TS26_024	Sundari Gauntlet		Unit	Space			https://cdn.swu-db.com/images/cards/TS26/24.png	
+TS26_025	Fiery Alliance		Upgrade				https://cdn.swu-db.com/images/cards/TS26/25.png	
+TS26_026	Mother Talzin	Stealing the Spirit	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/26.png	
+TS26_027	Fortune and Glory	Hondo's Luxury Yacht	Unit	Space			https://cdn.swu-db.com/images/cards/TS26/27.png	
+TS26_028	Prime Minister Almec	Scheming Populist	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/28.png	
+TS26_029	Ziton Moj	Sowing Chaos	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/29.png	
+TS26_030	Maul	One Last Lesson	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/30.png	
+TS26_031	Chaotic Diversion		Event				https://cdn.swu-db.com/images/cards/TS26/31.png	
+TS26_032	Reckless Landing		Event				https://cdn.swu-db.com/images/cards/TS26/32.png	
+TS26_033	Kouhun Assassination		Event				https://cdn.swu-db.com/images/cards/TS26/33.png	
+TS26_034	Fives	I Have Proof!	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/34.png	
+TS26_035	Ahsoka's Lightsabers		Upgrade				https://cdn.swu-db.com/images/cards/TS26/35.png	
+TS26_036	Tribunal	Grave of the 332nd	Unit	Space			https://cdn.swu-db.com/images/cards/TS26/36.png	
+TS26_037	Abandoned the Order		Upgrade				https://cdn.swu-db.com/images/cards/TS26/37.png	
+TS26_038	Dooku's Solar Sailer	Beautiful and Expensive	Unit	Space			https://cdn.swu-db.com/images/cards/TS26/38.png	
+TS26_039	Captain Vaughn	Search the Tunnels	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/39.png	
+TS26_040	Obi-Wan Kenobi	Steadfast Knight	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/40.png	
+TS26_041	Twilight	Escaping Malevolence	Unit	Space			https://cdn.swu-db.com/images/cards/TS26/41.png	
+TS26_042	Relief Frigate		Unit	Space			https://cdn.swu-db.com/images/cards/TS26/42.png	
+TS26_043	Wartime Refugee		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/43.png	
+TS26_044	Arena Reek		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/44.png	
+TS26_045	Champion		Upgrade				https://cdn.swu-db.com/images/cards/TS26/45.png	
+TS26_046	Secret Marriage		Event				https://cdn.swu-db.com/images/cards/TS26/46.png	
+TS26_047	Take Cover		Event				https://cdn.swu-db.com/images/cards/TS26/47.png	
+TS26_048	Vanquish the Legion		Event				https://cdn.swu-db.com/images/cards/TS26/48.png	
+TS26_049	Separatist Council	Quarrelsome Holdouts	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/49.png	
+TS26_050	General Grievous	Crush Them!	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/50.png	
+TS26_051	Lom Pyke	Making a Withdrawal	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/51.png	
+TS26_052	Sith Traditions		Upgrade				https://cdn.swu-db.com/images/cards/TS26/52.png	
+TS26_053	Coruscanti Spy		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/53.png	
+TS26_054	Wartime Mercenaries		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/54.png	
+TS26_055	Jedi General		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/55.png	
+TS26_056	Galactic Escalation		Event				https://cdn.swu-db.com/images/cards/TS26/56.png	
+TS26_057	Mechanize		Event				https://cdn.swu-db.com/images/cards/TS26/57.png	
+TS26_058	Backed by the Pykes		Event				https://cdn.swu-db.com/images/cards/TS26/58.png	
+TS26_059	Brothers		Event				https://cdn.swu-db.com/images/cards/TS26/59.png	
+TS26_060	Take Charge		Event				https://cdn.swu-db.com/images/cards/TS26/60.png	
+TS26_061	Encircle		Event				https://cdn.swu-db.com/images/cards/TS26/61.png	
+TS26_062	R2-D2	Getting His Chance	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/62.png	
+TS26_063	Rex's DC-17s		Upgrade				https://cdn.swu-db.com/images/cards/TS26/63.png	
+TS26_064	Urgent Mission		Event				https://cdn.swu-db.com/images/cards/TS26/64.png	
+TS26_065	Bo-Katan Kryze	The Lawless	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/65.png	
+TS26_066	Wartime Pirate		Unit	Space			https://cdn.swu-db.com/images/cards/TS26/66.png	
+TS26_067	Ruping Rider		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/67.png	
+TS26_068	Arms Deal		Event				https://cdn.swu-db.com/images/cards/TS26/68.png	
+TS26_069	Remove the Chip		Event				https://cdn.swu-db.com/images/cards/TS26/69.png	
+TS26_070	Backed by Black Sun		Event				https://cdn.swu-db.com/images/cards/TS26/70.png	
+TS26_071	Take Action		Event				https://cdn.swu-db.com/images/cards/TS26/71.png	
+TS26_072	Fervor		Event				https://cdn.swu-db.com/images/cards/TS26/72.png	
+TS26_073	Moralo Eval	Infamous Murderer	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/73.png	
+TS26_074	Pre Vizsla	For Mandalore!	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/74.png	
+TS26_075	Jango Fett	Guarding the Count	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/75.png	
+TS26_076	Wartime Profiteer		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/76.png	
+TS26_077	Deployed Droideka		Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/77.png	
+TS26_078	Barriss Offee	It's Only a Matter of Time	Unit	Ground			https://cdn.swu-db.com/images/cards/TS26/78.png	
+TS26_079	Underestimated		Upgrade				https://cdn.swu-db.com/images/cards/TS26/79.png	
+TS26_080	Reveal Intentions		Event				https://cdn.swu-db.com/images/cards/TS26/80.png	
+TS26_081	Mislead		Event				https://cdn.swu-db.com/images/cards/TS26/81.png	
+TS26_082	Evade Arrest		Event				https://cdn.swu-db.com/images/cards/TS26/82.png	
+TS26_083	Take Aim		Event				https://cdn.swu-db.com/images/cards/TS26/83.png	
+TS26_084	Fearless Attack		Event				https://cdn.swu-db.com/images/cards/TS26/84.png	
+TS26_T01	Battle Droid		Token Unit	Ground				
+TS26_T02	Clone Trooper		Token Unit	Ground				
+TS26_T03	Experience		Token Upgrade					
+TS26_T04	Shield		Token Upgrade					

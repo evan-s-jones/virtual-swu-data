@@ -1,0 +1,522 @@
+#id	name	sub	type	arena	flags	variant	front	back
+TWI_001	Nala Se	Clone Engineer	Leader	Ground	L			=
+TWI_002	Nute Gunray	Vindictive Viceroy	Leader	Ground	L			=
+TWI_003	Obi-Wan Kenobi	Patient Mentor	Leader	Ground	L			=
+TWI_004	Yoda	Sensing Darkness	Leader	Ground	L			=
+TWI_005	Count Dooku	Face of the Confederacy	Leader	Ground	L			=
+TWI_006	Wat Tambor	Techno Union Foreman	Leader	Ground	L			=
+TWI_007	Captain Rex	Fighting For His Brothers	Leader	Ground	L			=
+TWI_008	Padmé Amidala	Serving the Republic	Leader	Ground	L			=
+TWI_009	Maul	A Rival in Darkness	Leader	Ground	L			=
+TWI_010	Pre Vizsla	Pursuing the Throne	Leader	Ground	L			=
+TWI_011	Ahsoka Tano	Snips	Leader	Ground	L			=
+TWI_012	Anakin Skywalker	What it Takes to Win	Leader	Ground	L			=
+TWI_013	Mace Windu	Vaapad Form Master	Leader	Ground	L			=
+TWI_014	Asajj Ventress	Unparalleled Adversary	Leader	Ground	L			=
+TWI_015	General Grievous	General of the Droid Armies	Leader	Ground	L			=
+TWI_016	Jango Fett	Concealing the Conspiracy	Leader	Ground	L			=
+TWI_017	Chancellor Palpatine // Darth Sidious	Playing Both Sides	Leader	Ground	L			=
+TWI_018	Quinlan Vos	Sticking the Landing	Leader	Ground	L			=
+TWI_019	Pau City	Utapau	Base		L			
+TWI_020	Sundari	Mandalore	Base		L			
+TWI_021	The Crystal City	Christophsis	Base		L			
+TWI_022	Droid Manufactory	Geonosis	Base		L			
+TWI_023	Lair of Grievous	Vassek	Base		L			
+TWI_024	Tipoca City	Kamino	Base		L			
+TWI_025	Shadow Collective Camp	Zanbar	Base		L			
+TWI_026	KCM Mining Facility	Mustafar	Base		L			
+TWI_027	The Nest	Onderon	Base		L			
+TWI_028	Petranaki Arena	Geonosis	Base		L			
+TWI_029	Level 1313	Coruscant	Base		L			
+TWI_030	Pyke Palace	Oba Diah	Base		L			
+TWI_031	Rune Haako	Scheming Second	Unit	Ground				
+TWI_032	Wartime Trade Official		Unit	Ground				
+TWI_033	Calculating MagnaGuard		Unit	Ground				
+TWI_034	General Grievous	Trophy Collector	Unit	Ground				
+TWI_035	Morgan Elsbeth	Keeper of Many Secrets	Unit	Ground				
+TWI_036	Devastating Gunship		Unit	Space				
+TWI_037	Droideka Security		Unit	Ground				
+TWI_038	Providence Destroyer		Unit	Space				
+TWI_039	Malevolence	Grievous's Secret Weapon	Unit	Space				
+TWI_040	A Fine Addition		Event					
+TWI_041	Lethal Crackdown		Event					
+TWI_042	Barriss Offee	Unassuming Apprentice	Unit	Ground				
+TWI_043	Outspoken Representative		Unit	Ground				
+TWI_044	Kashyyyk Defender		Unit	Ground				
+TWI_045	41st Elite Corps		Unit	Space				
+TWI_046	Captain Typho	Protecting the Senator	Unit	Ground				
+TWI_047	Satine Kryze	Committed to Peace	Unit	Ground				
+TWI_048	Obi-Wan's Aethersprite	This is Why I Hate Flying	Unit	Space				
+TWI_049	Knight of the Republic		Unit	Ground				
+TWI_050	Luminara Unduli	Soft-Spoken Master	Unit	Ground				
+TWI_051	For The Republic		Upgrade					
+TWI_052	Hello There		Event					
+TWI_053	Finn	On the Run	Unit	Ground				
+TWI_054	Duchess's Champion		Unit	Ground				
+TWI_055	Equalize		Event					
+TWI_056	Compassionate Senator		Unit	Ground				
+TWI_057	Warrior Drone		Unit	Ground				
+TWI_058	Padawan Starfighter		Unit	Space				
+TWI_059	Royal Guard Attaché		Unit	Ground				
+TWI_060	Trade Federation Shuttle		Unit	Space				
+TWI_061	Infantry of the 212th		Unit	Ground				
+TWI_062	Daughter of Dathomir		Unit	Ground				
+TWI_063	Vulture Interceptor Wing		Unit	Space				
+TWI_064	Ki-Adi-Mundi	Composed and Confident	Unit	Ground				
+TWI_065	Falchion Ion Tank		Unit	Ground				
+TWI_066	Multi-Troop Transport		Unit	Ground				
+TWI_067	The Zillo Beast	Awoken From The Depths	Unit	Ground				
+TWI_068	Foresight		Upgrade					
+TWI_069	Roger Roger		Upgrade					
+TWI_070	Perilous Position		Upgrade					
+TWI_071	Unshakeable Will		Upgrade					
+TWI_072	I Have the High Ground		Event					
+TWI_073	Grievous Reassembly		Event					
+TWI_074	Guarding the Way		Event					
+TWI_075	Disruptive Burst		Event					
+TWI_076	Death by Droids		Event					
+TWI_077	Vanquish		Event					
+TWI_078	The Invasion of Christophsis		Event					
+TWI_079	Confederate Courier		Unit	Space				
+TWI_080	Poggle the Lesser	Archduke of the Stalgasin Hive	Unit	Ground				
+TWI_081	Droid Commando		Unit	Ground				
+TWI_082	MagnaGuard Wing Leader		Unit	Space				
+TWI_083	General's Guardian		Unit	Ground				
+TWI_084	Kraken	Confederate Tactician	Unit	Ground				
+TWI_085	Kalani	Analytical General	Unit	Ground				
+TWI_086	Admiral Trench	Holding the Line	Unit	Ground				
+TWI_087	Separatist Super Tank		Unit	Ground				
+TWI_088	Reprocess		Event					
+TWI_089	Consolidation of Power		Event					
+TWI_090	Echo	Valiant ARC Trooper	Unit	Ground				
+TWI_091	Republic Tactical Officer		Unit	Ground				
+TWI_092	Admiral Yularen	Advising Caution	Unit	Ground				
+TWI_093	Advanced Recon Commando		Unit	Ground				
+TWI_094	Shaak Ti	Unity Wins Wars	Unit	Ground				
+TWI_095	Pelta Supply Frigate		Unit	Space				
+TWI_096	Aayla Secura	Master of the Blade	Unit	Ground				
+TWI_097	Captain Rex	Lead by Example	Unit	Ground				
+TWI_098	Republic Defense Carrier		Unit	Space				
+TWI_099	Synchronized Strike		Event					
+TWI_100	Petition the Senate		Event					
+TWI_101	Mas Amedda	Vice Chair	Unit	Ground				
+TWI_102	Manufactured Soldiers		Event					
+TWI_103	Pyrrhic Assault		Event					
+TWI_104	Obedient Vanguard		Unit	Ground				
+TWI_105	Steadfast Senator		Unit	Ground				
+TWI_106	Coruscant Guard		Unit	Ground				
+TWI_107	Patrolling V-Wing		Unit	Space				
+TWI_108	Ryloth Militia		Unit	Ground				
+TWI_109	501st Liberator		Unit	Ground				
+TWI_110	Huyang	Enduring Instructor	Unit	Ground				
+TWI_111	Republic ARC-170		Unit	Space				
+TWI_112	Subjugating Starfighter		Unit	Space				
+TWI_113	B2 Legionnaires		Unit	Ground				
+TWI_114	Clone Commander Cody	Commanding the 212th	Unit	Ground				
+TWI_115	Osi Sobeck	Warden of the Citadel	Unit	Ground				
+TWI_116	Clone		Unit	Ground				
+TWI_117	Baktoid Spider Droid		Unit	Ground				
+TWI_118	Gor	Grievous's Pet	Unit	Ground				
+TWI_119	Nameless Valor		Upgrade					
+TWI_120	Strategic Acumen		Upgrade					
+TWI_121	General's Blade		Upgrade					
+TWI_122	Squad Support		Upgrade					
+TWI_123	Outflank		Event					
+TWI_124	Tactical Advantage		Event					
+TWI_125	The Clone Wars		Event					
+TWI_126	Encouraging Leadership		Event					
+TWI_127	Resupply		Event					
+TWI_128	Take Captive		Event					
+TWI_129	In Defense of Kamino		Event					
+TWI_130	Bo-Katan Kryze	Death Watch Lieutenant	Unit	Ground				
+TWI_131	OOM-Series Officer		Unit	Ground				
+TWI_132	Confederate Tri-Fighter		Unit	Space				
+TWI_133	B1 Attack Platform		Unit	Ground				
+TWI_134	Asajj Ventress	Count Dooku's Assassin	Unit	Ground				
+TWI_135	Darth Maul	Revenge At Last	Unit	Ground				
+TWI_136	Squadron of Vultures		Unit	Space				
+TWI_137	Savage Opress	Monster	Unit	Ground				
+TWI_138	Count Dooku	Fallen Jedi	Unit	Ground				
+TWI_139	Corner the Prey		Event					
+TWI_140	Self-Destruct		Event					
+TWI_141	Soldier of the 501st		Unit	Ground				
+TWI_142	Anakin's Interceptor	Where the Fun Begins	Unit	Space				
+TWI_143	Jyn Erso	Stardust	Unit	Ground				
+TWI_144	Batch Brothers		Unit	Ground				
+TWI_145	Jesse	Hard-Fighting Patriot	Unit	Ground				
+TWI_146	Steela Gerrera	Beloved Tactician	Unit	Ground				
+TWI_147	Anakin Skywalker	Maverick Mentor	Unit	Ground				
+TWI_148	Senatorial Corvette		Unit	Space				
+TWI_149	Low Altitude Gunship		Unit	Ground				
+TWI_150	Saw Gerrera	Resistance is Not Terrorism	Unit	Ground				
+TWI_151	Resolute	Under Anakin's Command	Unit	Space				
+TWI_152	Mace Windu's Lightsaber		Upgrade					
+TWI_153	Bold Resistance		Event					
+TWI_154	Mister Bones	I Performed Violence	Unit	Ground				
+TWI_155	Twice the Pride		Upgrade					
+TWI_156	Unlimited Power		Event					
+TWI_157	Disaffected Senator		Unit	Ground				
+TWI_158	Clone Heavy Gunner		Unit	Ground				
+TWI_159	Dendup's Loyalist		Unit	Ground				
+TWI_160	Vanguard Droid Bomber		Unit	Space				
+TWI_161	Bold Recon Commando		Unit	Ground				
+TWI_162	Reckless Torrent		Unit	Space				
+TWI_163	Relentless Rocket Droid		Unit	Ground				
+TWI_164	Hevy	Staunch Martyr	Unit	Ground				
+TWI_165	Kit Fisto	The Smiling Jedi	Unit	Ground				
+TWI_166	Aurra Sing	Crackshot Sniper	Unit	Ground				
+TWI_167	Heavy Persuader Tank		Unit	Ground				
+TWI_168	Old Access Codes		Upgrade					
+TWI_169	Clone Cohort		Upgrade					
+TWI_170	Daring Raid		Event					
+TWI_171	Grenade Strike		Event					
+TWI_172	Grim Resolve		Event					
+TWI_173	Blood Sport		Event					
+TWI_174	Open Fire		Event					
+TWI_175	Strategic Analysis		Event					
+TWI_176	Caught in the Crossfire		Event					
+TWI_177	Guerilla Insurgency		Event					
+TWI_178	Planetary Invasion		Event					
+TWI_179	Soulless One	Customized for Grievous	Unit	Space				
+TWI_180	Separatist Commando		Unit	Ground				
+TWI_181	Elite P-38 Starfighter		Unit	Space				
+TWI_182	Infiltrating Demolisher		Unit	Ground				
+TWI_183	Rush Clovis	Banking Clan Scion	Unit	Ground				
+TWI_184	Tactical Droid Commander		Unit	Ground				
+TWI_185	Ziro the Hutt	Colorful Schemer	Unit	Ground				
+TWI_186	San Hill	Chairman of the Banking Clan	Unit	Ground				
+TWI_187	Cad Bane	Hostage Taker	Unit	Ground				
+TWI_188	Wartime Profiteering		Event					
+TWI_189	Unnatural Life		Event					
+TWI_190	On the Doorstep		Event					
+TWI_191	Wolf Pack Escort		Unit	Space				
+TWI_192	Padmé Amidala	Pursuing Peace	Unit	Ground				
+TWI_193	R2-D2	Full of Solutions	Unit	Ground				
+TWI_194	Ahsoka Tano	Always Ready For Trouble	Unit	Ground				
+TWI_195	Sabine Wren	You Can Count On Me	Unit	Ground				
+TWI_196	Plo Koon	Koh-to-yah!	Unit	Ground				
+TWI_197	Republic Attack Pod		Unit	Ground				
+TWI_198	Enfys Nest	Champion of Justice	Unit	Ground				
+TWI_199	Clear the Field		Event					
+TWI_200	Creative Thinking		Event					
+TWI_201	Aid from the Innocent		Event					
+TWI_202	Jar Jar Binks	Foolish Gungan	Unit	Ground				
+TWI_203	Chancellor Palpatine	Wartime Chancellor	Unit	Ground				
+TWI_204	Impropriety Among Thieves		Event					
+TWI_205	Clone Dive Trooper		Unit	Ground				
+TWI_206	Independent Senator		Unit	Ground				
+TWI_207	B1 Security Team		Unit	Ground				
+TWI_208	Favorable Delegate		Unit	Ground				
+TWI_209	Hotshot V-Wing		Unit	Space				
+TWI_210	Lux Bonteri	Renegade Separatist	Unit	Ground				
+TWI_211	Sly Moore	Secretive Advisor	Unit	Ground				
+TWI_212	Freelance Assassin		Unit	Ground				
+TWI_213	Sanctioner's Shuttle		Unit	Space				
+TWI_214	Hidden Sharpshooter		Unit	Ground				
+TWI_215	Geonosis Patrol Fighter		Unit	Space				
+TWI_216	Fives	In Search of Truth	Unit	Ground				
+TWI_217	Tri-Droid Suppressor		Unit	Ground				
+TWI_218	Droid Cohort		Upgrade					
+TWI_219	On Top of Things		Upgrade					
+TWI_220	Shadowed Intentions		Upgrade					
+TWI_221	In Pursuit		Event					
+TWI_222	Political Pressure		Event					
+TWI_223	Unmasking the Conspiracy		Event					
+TWI_224	Breaking In		Event					
+TWI_225	Now There Are Two of Them		Event					
+TWI_226	Waylay		Event					
+TWI_227	Prisoner of War		Event					
+TWI_228	Droid Starfighter		Unit	Space				
+TWI_229	Battle Droid Escort		Unit	Ground				
+TWI_230	Super Battle Droid		Unit	Ground				
+TWI_231	Dwarf Spider Droid		Unit	Ground				
+TWI_232	Patrolling AAT		Unit	Ground				
+TWI_233	Hailfire Tank		Unit	Ground				
+TWI_234	The Invisible Hand	Imposing Flagship	Unit	Space				
+TWI_235	Battle Droid Legion		Unit	Ground				
+TWI_236	Grievous's Wheel Bike		Upgrade					
+TWI_237	Droid Deployment		Event					
+TWI_238	Merciless Contest		Event					
+TWI_239	Execute Order 66		Event					
+TWI_240	332nd Stalwart		Unit	Ground				
+TWI_241	Phase I Clone Trooper		Unit	Ground				
+TWI_242	Phase II Clone Trooper		Unit	Ground				
+TWI_243	Republic Commando		Unit	Ground				
+TWI_244	Eta-2 Light Interceptor		Unit	Space				
+TWI_245	Armored Saber Tank		Unit	Ground				
+TWI_246	Tranquility	Inspiring Flagship	Unit	Space				
+TWI_247	AT-TE Vanguard		Unit	Ground				
+TWI_248	Ahsoka's Padawan Lightsaber		Upgrade					
+TWI_249	Heroes on Both Sides		Event					
+TWI_250	Sword and Shield Maneuver		Event					
+TWI_251	Drop In		Event					
+TWI_252	Aggrieved Parliamentarian		Unit	Ground				
+TWI_253	Headhunter Squadron		Unit	Space				
+TWI_254	Volunteer Soldier		Unit	Ground				
+TWI_255	Brain Invaders		Unit	Ground				
+TWI_256	Hold-Out Blaster		Upgrade					
+TWI_257	Private Manufacturing		Event					
+TWI_258	Nala Se	Clone Engineer	Leader	Ground	L	Showcase		=
+TWI_259	Nute Gunray	Vindictive Viceroy	Leader	Ground	L	Showcase		=
+TWI_260	Obi-Wan Kenobi	Patient Mentor	Leader	Ground	L	Showcase		=
+TWI_261	Yoda	Sensing Darkness	Leader	Ground	L	Showcase		=
+TWI_262	Count Dooku	Face of the Confederacy	Leader	Ground	L	Showcase		=
+TWI_263	Wat Tambor	Techno Union Foreman	Leader	Ground	L	Showcase		=
+TWI_264	Captain Rex	Fighting For His Brothers	Leader	Ground	L	Showcase		=
+TWI_265	Padmé Amidala	Serving the Republic	Leader	Ground	L	Showcase		=
+TWI_266	Maul	A Rival in Darkness	Leader	Ground	L	Showcase		=
+TWI_267	Pre Vizsla	Pursuing the Throne	Leader	Ground	L	Showcase		=
+TWI_268	Ahsoka Tano	Snips	Leader	Ground	L	Showcase		=
+TWI_269	Anakin Skywalker	What it Takes to Win	Leader	Ground	L	Showcase		=
+TWI_270	Mace Windu	Vaapad Form Master	Leader	Ground	L	Showcase		=
+TWI_271	Asajj Ventress	Unparalleled Adversary	Leader	Ground	L	Showcase		=
+TWI_272	General Grievous	General of the Droid Armies	Leader	Ground	L	Showcase		=
+TWI_273	Jango Fett	Concealing the Conspiracy	Leader	Ground	L	Showcase		=
+TWI_274	Chancellor Palpatine // Darth Sidious	Playing Both Sides	Leader	Ground	L	Showcase		=
+TWI_275	Quinlan Vos	Sticking the Landing	Leader	Ground	L	Showcase		=
+TWI_276	Nala Se	Clone Engineer	Leader	Ground	L	Hyperspace		=
+TWI_277	Nute Gunray	Vindictive Viceroy	Leader	Ground	L	Hyperspace		=
+TWI_278	Obi-Wan Kenobi	Patient Mentor	Leader	Ground	L	Hyperspace		=
+TWI_279	Yoda	Sensing Darkness	Leader	Ground	L	Hyperspace		=
+TWI_280	Count Dooku	Face of the Confederacy	Leader	Ground	L	Hyperspace		=
+TWI_281	Wat Tambor	Techno Union Foreman	Leader	Ground	L	Hyperspace		=
+TWI_282	Captain Rex	Fighting For His Brothers	Leader	Ground	L	Hyperspace		=
+TWI_283	Padmé Amidala	Serving the Republic	Leader	Ground	L	Hyperspace		=
+TWI_284	Maul	A Rival in Darkness	Leader	Ground	L	Hyperspace		=
+TWI_285	Pre Vizsla	Pursuing the Throne	Leader	Ground	L	Hyperspace		=
+TWI_287	Anakin Skywalker	What it Takes to Win	Leader	Ground	L	Hyperspace		=
+TWI_288	Mace Windu	Vaapad Form Master	Leader	Ground	L	Hyperspace		=
+TWI_289	Asajj Ventress	Unparalleled Adversary	Leader	Ground	L	Hyperspace		=
+TWI_291	Jango Fett	Concealing the Conspiracy	Leader	Ground	L	Hyperspace		=
+TWI_292	Chancellor Palpatine // Darth Sidious	Playing Both Sides	Leader	Ground	L	Hyperspace		=
+TWI_293	Quinlan Vos	Sticking the Landing	Leader	Ground	L	Hyperspace		=
+TWI_294	Pau City	Utapau	Base		L	Hyperspace		
+TWI_295	Sundari	Mandalore	Base		L	Hyperspace		
+TWI_296	The Crystal City	Christophsis	Base		L	Hyperspace		
+TWI_297	Droid Manufactory	Geonosis	Base		L	Hyperspace		
+TWI_298	Lair of Grievous	Vassek	Base		L	Hyperspace		
+TWI_299	Tipoca City	Kamino	Base		L	Hyperspace		
+TWI_300	Shadow Collective Camp	Zanbar	Base		L	Hyperspace		
+TWI_301	KCM Mining Facility	Mustafar	Base		L	Hyperspace		
+TWI_302	The Nest	Onderon	Base		L	Hyperspace		
+TWI_303	Petranaki Arena	Geonosis	Base		L	Hyperspace		
+TWI_304	Rune Haako	Scheming Second	Unit	Ground		Hyperspace		
+TWI_305	Wartime Trade Official		Unit	Ground		Hyperspace		
+TWI_306	Calculating MagnaGuard		Unit	Ground		Hyperspace		
+TWI_307	General Grievous	Trophy Collector	Unit	Ground		Hyperspace		
+TWI_308	Morgan Elsbeth	Keeper of Many Secrets	Unit	Ground		Hyperspace		
+TWI_309	Devastating Gunship		Unit	Space		Hyperspace		
+TWI_310	Droideka Security		Unit	Ground		Hyperspace		
+TWI_311	Providence Destroyer		Unit	Space		Hyperspace		
+TWI_312	Malevolence	Grievous's Secret Weapon	Unit	Space		Hyperspace		
+TWI_313	A Fine Addition		Event			Hyperspace		
+TWI_314	Lethal Crackdown		Event			Hyperspace		
+TWI_315	Barriss Offee	Unassuming Apprentice	Unit	Ground		Hyperspace		
+TWI_316	Outspoken Representative		Unit	Ground		Hyperspace		
+TWI_317	Kashyyyk Defender		Unit	Ground		Hyperspace		
+TWI_318	41st Elite Corps		Unit	Space		Hyperspace		
+TWI_319	Captain Typho	Protecting the Senator	Unit	Ground		Hyperspace		
+TWI_320	Satine Kryze	Committed to Peace	Unit	Ground		Hyperspace		
+TWI_321	Obi-Wan's Aethersprite	This is Why I Hate Flying	Unit	Space		Hyperspace		
+TWI_322	Knight of the Republic		Unit	Ground		Hyperspace		
+TWI_323	Luminara Unduli	Soft-Spoken Master	Unit	Ground		Hyperspace		
+TWI_324	For The Republic		Upgrade			Hyperspace		
+TWI_325	Hello There		Event			Hyperspace		
+TWI_326	Finn	On the Run	Unit	Ground		Hyperspace		
+TWI_327	Duchess's Champion		Unit	Ground		Hyperspace		
+TWI_328	Equalize		Event			Hyperspace		
+TWI_329	Compassionate Senator		Unit	Ground		Hyperspace		
+TWI_330	Warrior Drone		Unit	Ground		Hyperspace		
+TWI_331	Padawan Starfighter		Unit	Space		Hyperspace		
+TWI_332	Royal Guard Attaché		Unit	Ground		Hyperspace		
+TWI_333	Trade Federation Shuttle		Unit	Space		Hyperspace		
+TWI_334	Infantry of the 212th		Unit	Ground		Hyperspace		
+TWI_335	Daughter of Dathomir		Unit	Ground		Hyperspace		
+TWI_336	Vulture Interceptor Wing		Unit	Space		Hyperspace		
+TWI_337	Ki-Adi-Mundi	Composed and Confident	Unit	Ground		Hyperspace		
+TWI_338	Falchion Ion Tank		Unit	Ground		Hyperspace		
+TWI_339	Multi-Troop Transport		Unit	Ground		Hyperspace		
+TWI_340	The Zillo Beast	Awoken From The Depths	Unit	Ground		Hyperspace		
+TWI_341	Foresight		Upgrade			Hyperspace		
+TWI_342	Roger Roger		Upgrade			Hyperspace		
+TWI_343	Perilous Position		Upgrade			Hyperspace		
+TWI_344	Unshakeable Will		Upgrade			Hyperspace		
+TWI_345	I Have the High Ground		Event			Hyperspace		
+TWI_346	Grievous Reassembly		Event			Hyperspace		
+TWI_347	Guarding the Way		Event			Hyperspace		
+TWI_348	Disruptive Burst		Event			Hyperspace		
+TWI_349	Death by Droids		Event			Hyperspace		
+TWI_350	Vanquish		Event			Hyperspace		
+TWI_351	The Invasion of Christophsis		Event			Hyperspace		
+TWI_352	Confederate Courier		Unit	Space		Hyperspace		
+TWI_353	Poggle the Lesser	Archduke of the Stalgasin Hive	Unit	Ground		Hyperspace		
+TWI_354	Droid Commando		Unit	Ground		Hyperspace		
+TWI_355	MagnaGuard Wing Leader		Unit	Space		Hyperspace		
+TWI_356	Kraken	Confederate Tactician	Unit	Ground		Hyperspace		
+TWI_357	Kalani	Analytical General	Unit	Ground		Hyperspace		
+TWI_358	Admiral Trench	Holding the Line	Unit	Ground		Hyperspace		
+TWI_359	Separatist Super Tank		Unit	Ground		Hyperspace		
+TWI_360	Reprocess		Event			Hyperspace		
+TWI_361	Consolidation of Power		Event			Hyperspace		
+TWI_362	Echo	Valiant ARC Trooper	Unit	Ground		Hyperspace		
+TWI_363	Republic Tactical Officer		Unit	Ground		Hyperspace		
+TWI_364	Admiral Yularen	Advising Caution	Unit	Ground		Hyperspace		
+TWI_365	Advanced Recon Commando		Unit	Ground		Hyperspace		
+TWI_366	Shaak Ti	Unity Wins Wars	Unit	Ground		Hyperspace		
+TWI_367	Pelta Supply Frigate		Unit	Space		Hyperspace		
+TWI_368	Aayla Secura	Master of the Blade	Unit	Ground		Hyperspace		
+TWI_369	Republic Defense Carrier		Unit	Space		Hyperspace		
+TWI_370	Synchronized Strike		Event			Hyperspace		
+TWI_371	Petition the Senate		Event			Hyperspace		
+TWI_372	Mas Amedda	Vice Chair	Unit	Ground		Hyperspace		
+TWI_373	Manufactured Soldiers		Event			Hyperspace		
+TWI_374	Pyrrhic Assault		Event			Hyperspace		
+TWI_375	Obedient Vanguard		Unit	Ground		Hyperspace		
+TWI_376	Steadfast Senator		Unit	Ground		Hyperspace		
+TWI_377	Coruscant Guard		Unit	Ground		Hyperspace		
+TWI_378	Ryloth Militia		Unit	Ground		Hyperspace		
+TWI_379	501st Liberator		Unit	Ground		Hyperspace		
+TWI_380	Huyang	Enduring Instructor	Unit	Ground		Hyperspace		
+TWI_381	Republic ARC-170		Unit	Space		Hyperspace		
+TWI_382	Subjugating Starfighter		Unit	Space		Hyperspace		
+TWI_383	B2 Legionnaires		Unit	Ground		Hyperspace		
+TWI_384	Clone Commander Cody	Commanding the 212th	Unit	Ground		Hyperspace		
+TWI_385	Osi Sobeck	Warden of the Citadel	Unit	Ground		Hyperspace		
+TWI_386	Clone		Unit	Ground		Hyperspace		
+TWI_387	Baktoid Spider Droid		Unit	Ground		Hyperspace		
+TWI_388	Gor	Grievous's Pet	Unit	Ground		Hyperspace		
+TWI_389	Nameless Valor		Upgrade			Hyperspace		
+TWI_390	Strategic Acumen		Upgrade			Hyperspace		
+TWI_391	General's Blade		Upgrade			Hyperspace		
+TWI_392	Squad Support		Upgrade			Hyperspace		
+TWI_393	The Clone Wars		Event			Hyperspace		
+TWI_394	Encouraging Leadership		Event			Hyperspace		
+TWI_395	Resupply		Event			Hyperspace		
+TWI_396	Take Captive		Event			Hyperspace		
+TWI_397	In Defense of Kamino		Event			Hyperspace		
+TWI_398	Bo-Katan Kryze	Death Watch Lieutenant	Unit	Ground		Hyperspace		
+TWI_399	OOM-Series Officer		Unit	Ground		Hyperspace		
+TWI_400	Confederate Tri-Fighter		Unit	Space		Hyperspace		
+TWI_401	B1 Attack Platform		Unit	Ground		Hyperspace		
+TWI_402	Asajj Ventress	Count Dooku's Assassin	Unit	Ground		Hyperspace		
+TWI_403	Darth Maul	Revenge At Last	Unit	Ground		Hyperspace		
+TWI_404	Squadron of Vultures		Unit	Space		Hyperspace		
+TWI_405	Savage Opress	Monster	Unit	Ground		Hyperspace		
+TWI_406	Count Dooku	Fallen Jedi	Unit	Ground		Hyperspace		
+TWI_407	Corner the Prey		Event			Hyperspace		
+TWI_408	Self-Destruct		Event			Hyperspace		
+TWI_409	Soldier of the 501st		Unit	Ground		Hyperspace		
+TWI_410	Anakin's Interceptor	Where the Fun Begins	Unit	Space		Hyperspace		
+TWI_411	Jyn Erso	Stardust	Unit	Ground		Hyperspace		
+TWI_412	Batch Brothers		Unit	Ground		Hyperspace		
+TWI_413	Jesse	Hard-Fighting Patriot	Unit	Ground		Hyperspace		
+TWI_414	Steela Gerrera	Beloved Tactician	Unit	Ground		Hyperspace		
+TWI_415	Senatorial Corvette		Unit	Space		Hyperspace		
+TWI_416	Low Altitude Gunship		Unit	Ground		Hyperspace		
+TWI_417	Saw Gerrera	Resistance is Not Terrorism	Unit	Ground		Hyperspace		
+TWI_418	Resolute	Under Anakin's Command	Unit	Space		Hyperspace		
+TWI_419	Mace Windu's Lightsaber		Upgrade			Hyperspace		
+TWI_420	Bold Resistance		Event			Hyperspace		
+TWI_421	Mister Bones	I Performed Violence	Unit	Ground		Hyperspace		
+TWI_422	Twice the Pride		Upgrade			Hyperspace		
+TWI_423	Unlimited Power		Event			Hyperspace		
+TWI_424	Disaffected Senator		Unit	Ground		Hyperspace		
+TWI_425	Clone Heavy Gunner		Unit	Ground		Hyperspace		
+TWI_426	Dendup's Loyalist		Unit	Ground		Hyperspace		
+TWI_427	Vanguard Droid Bomber		Unit	Space		Hyperspace		
+TWI_428	Bold Recon Commando		Unit	Ground		Hyperspace		
+TWI_429	Reckless Torrent		Unit	Space		Hyperspace		
+TWI_430	Relentless Rocket Droid		Unit	Ground		Hyperspace		
+TWI_431	Hevy	Staunch Martyr	Unit	Ground		Hyperspace		
+TWI_432	Kit Fisto	The Smiling Jedi	Unit	Ground		Hyperspace		
+TWI_433	Aurra Sing	Crackshot Sniper	Unit	Ground		Hyperspace		
+TWI_434	Heavy Persuader Tank		Unit	Ground		Hyperspace		
+TWI_435	Old Access Codes		Upgrade			Hyperspace		
+TWI_436	Clone Cohort		Upgrade			Hyperspace		
+TWI_437	Daring Raid		Event			Hyperspace		
+TWI_438	Grenade Strike		Event			Hyperspace		
+TWI_439	Grim Resolve		Event			Hyperspace		
+TWI_440	Blood Sport		Event			Hyperspace		
+TWI_441	Strategic Analysis		Event			Hyperspace		
+TWI_442	Caught in the Crossfire		Event			Hyperspace		
+TWI_443	Guerilla Insurgency		Event			Hyperspace		
+TWI_444	Planetary Invasion		Event			Hyperspace		
+TWI_445	Soulless One	Customized for Grievous	Unit	Space		Hyperspace		
+TWI_446	Elite P-38 Starfighter		Unit	Space		Hyperspace		
+TWI_447	Infiltrating Demolisher		Unit	Ground		Hyperspace		
+TWI_448	Rush Clovis	Banking Clan Scion	Unit	Ground		Hyperspace		
+TWI_449	Tactical Droid Commander		Unit	Ground		Hyperspace		
+TWI_450	Ziro the Hutt	Colorful Schemer	Unit	Ground		Hyperspace		
+TWI_451	San Hill	Chairman of the Banking Clan	Unit	Ground		Hyperspace		
+TWI_452	Cad Bane	Hostage Taker	Unit	Ground		Hyperspace		
+TWI_453	Wartime Profiteering		Event			Hyperspace		
+TWI_454	Unnatural Life		Event			Hyperspace		
+TWI_455	On the Doorstep		Event			Hyperspace		
+TWI_456	Wolf Pack Escort		Unit	Space		Hyperspace		
+TWI_457	Padmé Amidala	Pursuing Peace	Unit	Ground		Hyperspace		
+TWI_458	R2-D2	Full of Solutions	Unit	Ground		Hyperspace		
+TWI_459	Ahsoka Tano	Always Ready For Trouble	Unit	Ground		Hyperspace		
+TWI_460	Sabine Wren	You Can Count On Me	Unit	Ground		Hyperspace		
+TWI_461	Plo Koon	Koh-to-yah!	Unit	Ground		Hyperspace		
+TWI_462	Republic Attack Pod		Unit	Ground		Hyperspace		
+TWI_463	Enfys Nest	Champion of Justice	Unit	Ground		Hyperspace		
+TWI_464	Clear the Field		Event			Hyperspace		
+TWI_465	Creative Thinking		Event			Hyperspace		
+TWI_466	Aid from the Innocent		Event			Hyperspace		
+TWI_467	Jar Jar Binks	Foolish Gungan	Unit	Ground		Hyperspace		
+TWI_468	Chancellor Palpatine	Wartime Chancellor	Unit	Ground		Hyperspace		
+TWI_469	Impropriety Among Thieves		Event			Hyperspace		
+TWI_470	Clone Dive Trooper		Unit	Ground		Hyperspace		
+TWI_471	Independent Senator		Unit	Ground		Hyperspace		
+TWI_472	B1 Security Team		Unit	Ground		Hyperspace		
+TWI_473	Favorable Delegate		Unit	Ground		Hyperspace		
+TWI_474	Hotshot V-Wing		Unit	Space		Hyperspace		
+TWI_475	Lux Bonteri	Renegade Separatist	Unit	Ground		Hyperspace		
+TWI_476	Sly Moore	Secretive Advisor	Unit	Ground		Hyperspace		
+TWI_477	Freelance Assassin		Unit	Ground		Hyperspace		
+TWI_478	Sanctioner's Shuttle		Unit	Space		Hyperspace		
+TWI_479	Hidden Sharpshooter		Unit	Ground		Hyperspace		
+TWI_480	Geonosis Patrol Fighter		Unit	Space		Hyperspace		
+TWI_481	Fives	In Search of Truth	Unit	Ground		Hyperspace		
+TWI_482	Tri-Droid Suppressor		Unit	Ground		Hyperspace		
+TWI_483	Droid Cohort		Upgrade			Hyperspace		
+TWI_484	On Top of Things		Upgrade			Hyperspace		
+TWI_485	Shadowed Intentions		Upgrade			Hyperspace		
+TWI_486	In Pursuit		Event			Hyperspace		
+TWI_487	Political Pressure		Event			Hyperspace		
+TWI_488	Unmasking the Conspiracy		Event			Hyperspace		
+TWI_489	Breaking In		Event			Hyperspace		
+TWI_490	Now There Are Two of Them		Event			Hyperspace		
+TWI_491	Prisoner of War		Event			Hyperspace		
+TWI_492	Droid Starfighter		Unit	Space		Hyperspace		
+TWI_493	Super Battle Droid		Unit	Ground		Hyperspace		
+TWI_494	Dwarf Spider Droid		Unit	Ground		Hyperspace		
+TWI_495	Patrolling AAT		Unit	Ground		Hyperspace		
+TWI_496	Hailfire Tank		Unit	Ground		Hyperspace		
+TWI_497	The Invisible Hand	Imposing Flagship	Unit	Space		Hyperspace		
+TWI_498	Battle Droid Legion		Unit	Ground		Hyperspace		
+TWI_499	Droid Deployment		Event			Hyperspace		
+TWI_500	Merciless Contest		Event			Hyperspace		
+TWI_501	Execute Order 66		Event			Hyperspace		
+TWI_502	Phase I Clone Trooper		Unit	Ground		Hyperspace		
+TWI_503	Phase II Clone Trooper		Unit	Ground		Hyperspace		
+TWI_504	Republic Commando		Unit	Ground		Hyperspace		
+TWI_505	Eta-2 Light Interceptor		Unit	Space		Hyperspace		
+TWI_506	Armored Saber Tank		Unit	Ground		Hyperspace		
+TWI_507	Tranquility	Inspiring Flagship	Unit	Space		Hyperspace		
+TWI_508	AT-TE Vanguard		Unit	Ground		Hyperspace		
+TWI_509	Heroes on Both Sides		Event			Hyperspace		
+TWI_510	Sword and Shield Maneuver		Event			Hyperspace		
+TWI_511	Drop In		Event			Hyperspace		
+TWI_512	Aggrieved Parliamentarian		Unit	Ground		Hyperspace		
+TWI_513	Headhunter Squadron		Unit	Space		Hyperspace		
+TWI_514	Volunteer Soldier		Unit	Ground		Hyperspace		
+TWI_515	Brain Invaders		Unit	Ground		Hyperspace		
+TWI_516	Hold-Out Blaster		Upgrade			Hyperspace		
+TWI_517	Private Manufacturing		Event			Hyperspace		
+TWI_518	Level 1313	Coruscant	Base		L	Hyperspace		
+TWI_519	Pyke Palace	Oba Diah	Base		L	Hyperspace		
+TWI_T01	Battle Droid		Token Unit	Ground				
+TWI_T02	Clone Trooper		Token Unit	Ground				
+TWI_T03	Battle Droid		Token Unit	Ground		Hyperspace		
+TWI_T04	Clone Trooper		Token Unit	Ground		Hyperspace		
