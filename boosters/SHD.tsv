@@ -1,0 +1,265 @@
+#set	SHD	block	0
+#rarity C/U/R/L/S; slot leader/base/main; aspects B=Vigilance G=Command R=Aggression Y=Cunning H=Heroism K=Villainy; flags F=has a foil printing; hs/showcase/prestige = card ids
+#id	rarity	slot	aspects	cost	flags	hs	showcase	prestige
+SHD_001	C	leader	BK	6		SHD_281	SHD_263	
+SHD_002	R	leader	BK	5		SHD_282	SHD_264	
+SHD_003	R	leader	BH	5		SHD_283	SHD_265	
+SHD_004	C	leader	BH	6		SHD_284	SHD_266	
+SHD_005	C	leader	GK	6		SHD_285	SHD_267	
+SHD_006	R	leader	GK	7		SHD_286	SHD_268	
+SHD_007	S	leader	GK	5			SHD_269	
+SHD_008	C	leader	GH	6		SHD_287	SHD_270	
+SHD_009	R	leader	GH	7		SHD_288	SHD_271	
+SHD_010	C	leader	RK	5		SHD_289	SHD_272	
+SHD_011	R	leader	RK	4		SHD_290	SHD_273	
+SHD_012	R	leader	RH	6		SHD_291	SHD_274	
+SHD_013	C	leader	RH	5		SHD_292	SHD_275	
+SHD_014	C	leader	YK	6		SHD_293	SHD_276	
+SHD_015	R	leader	YK	5		SHD_294	SHD_277	
+SHD_016	C	leader	YH	5		SHD_295	SHD_278	
+SHD_017	R	leader	YH	4		SHD_296	SHD_279	
+SHD_018	S	leader	YH	6			SHD_280	
+SHD_019	C	base	B			SHD_297		
+SHD_020	C	base	B			SHD_298		
+SHD_021	C	base	G			SHD_299		
+SHD_022	C	base	G			SHD_300		
+SHD_023	C	base	R			SHD_301		
+SHD_024	C	base	R			SHD_302		
+SHD_025	C	base	Y			SHD_303		
+SHD_026	C	base	Y			SHD_304		
+SHD_027	C	main	BK	1	F	SHD_305		
+SHD_028	R	main	BK	2	F	SHD_306		
+SHD_029	C	main	BK	2	F	SHD_307		
+SHD_030	S	main	BK	3				
+SHD_031	U	main	BK	3	F	SHD_308		
+SHD_032	R	main	BK	4	F	SHD_309		
+SHD_033	U	main	BK	4	F	SHD_310		
+SHD_034	C	main	BK	5	F	SHD_311		
+SHD_035	U	main	BK	6	F	SHD_312		
+SHD_036	R	main	BK	7	F	SHD_313		
+SHD_037	L	main	BK	8	F	SHD_314		
+SHD_038	U	main	BK	2	F	SHD_315		
+SHD_039	S	main	BK	4				
+SHD_040	C	main	BH	2	F	SHD_316		
+SHD_041	U	main	BH	2	F	SHD_317		
+SHD_042	U	main	BH	3	F	SHD_318		
+SHD_043	C	main	BH	3	F	SHD_319		
+SHD_044	S	main	BH	4				
+SHD_045	U	main	BH	4	F	SHD_320		
+SHD_046	L	main	BH	5	F	SHD_321		
+SHD_047	U	main	BH	5	F	SHD_322		
+SHD_048	C	main	BH	6	F	SHD_323		
+SHD_049	L	main	BH	6	F	SHD_324		
+SHD_050	R	main	BH	8	F	SHD_325		
+SHD_051	R	main	BH	1	F	SHD_326		
+SHD_052	R	main	BB	4	F	SHD_327		
+SHD_053	L	main	BB	4	F	SHD_328		
+SHD_054	U	main	BB	2	F	SHD_329		
+SHD_055	C	main	B	1	F	SHD_330		
+SHD_056	C	main	B	2	F	SHD_331		
+SHD_057	C	main	B	2	F	SHD_332		
+SHD_058	R	main	B	2	F	SHD_333		
+SHD_059	U	main	B	3	F	SHD_334		
+SHD_060	C	main	B	3	F	SHD_335		
+SHD_061	C	main	B	3	F	SHD_336		
+SHD_062	C	main	B	4	F	SHD_337		
+SHD_063	S	main	B	4				
+SHD_064	R	main	B	5	F	SHD_338		
+SHD_065	C	main	B	5	F	SHD_339		
+SHD_066	C	main	B	6	F	SHD_340		
+SHD_067	U	main	B	6	F	SHD_341		
+SHD_068	C	main	B	0	F	SHD_342		
+SHD_069	C	main	B	1	F	SHD_343		
+SHD_070	S	main	B	1				
+SHD_071	U	main	B	1	F	SHD_344		
+SHD_072	R	main	B	2	F	SHD_345		
+SHD_073	R	main	B	2	F	SHD_346		
+SHD_074	C	main	B	2	F	SHD_347		
+SHD_075	C	main	B	1	F	SHD_348		
+SHD_076	U	main	B	1	F	SHD_349		
+SHD_077	R	main	B	3	F	SHD_350		
+SHD_078	U	main	B	4	F	SHD_351		
+SHD_079	C	main	B	6	F	SHD_352		
+SHD_080	U	main	GK	1	F	SHD_353		
+SHD_081	S	main	GK	2				
+SHD_082	C	main	GK	2	F	SHD_354		
+SHD_083	S	main	GK	2				
+SHD_084	S	main	GK	3				
+SHD_085	S	main	GK	3				
+SHD_086	C	main	GK	3	F	SHD_355		
+SHD_087	U	main	GK	4	F	SHD_356		
+SHD_088	R	main	GK	5	F	SHD_357		
+SHD_089	C	main	GK	6	F	SHD_358		
+SHD_090	R	main	GK	7	F	SHD_359		
+SHD_091	U	main	GK	8	F	SHD_360		
+SHD_092	L	main	GK	11	F	SHD_361		
+SHD_093	U	main	GK	4	F	SHD_362		
+SHD_094	R	main	GK	6	F	SHD_363		
+SHD_095	C	main	GH	1	F	SHD_364		
+SHD_096	R	main	GH	1	F	SHD_365		
+SHD_097	U	main	GH	2	F	SHD_366		
+SHD_098	U	main	GH	3	F	SHD_367		
+SHD_099	U	main	GH	4	F	SHD_368		
+SHD_100	C	main	GH	4	F	SHD_369		
+SHD_101	C	main	GH	5	F	SHD_370		
+SHD_102	R	main	GH	5	F	SHD_371		
+SHD_103	R	main	GH	6	F	SHD_372		
+SHD_104	R	main	GH	2	F	SHD_373		
+SHD_105	U	main	GH	2	F	SHD_374		
+SHD_106	L	main	GH	4	F	SHD_375		
+SHD_107	R	main	GG	4	F	SHD_376		
+SHD_108	U	main	GG	2	F	SHD_377		
+SHD_109	L	main	GG	14	F	SHD_378		
+SHD_110	C	main	G	1	F	SHD_379		
+SHD_111	C	main	G	2	F	SHD_380		
+SHD_112	C	main	G	2	F	SHD_381		
+SHD_113	U	main	G	2	F	SHD_382		
+SHD_114	U	main	G	2	F	SHD_383		
+SHD_115	R	main	G	3	F	SHD_384		
+SHD_116	C	main	G	3	F	SHD_385		
+SHD_117	C	main	G	3	F	SHD_386		
+SHD_118	U	main	G	4	F	SHD_387		
+SHD_119	C	main	G	4	F	SHD_388		
+SHD_120	C	main	G	5	F	SHD_389		
+SHD_121	C	main	G	6	F	SHD_390		
+SHD_122	R	main	G	8	F	SHD_391		
+SHD_123	U	main	G	1	F	SHD_392		
+SHD_124	R	main	G	2	F	SHD_393		
+SHD_125	C	main	G	2	F	SHD_394		
+SHD_126	L	main	G	4	F	SHD_395		
+SHD_127	U	main	G	1	F	SHD_396		
+SHD_128	C	main	G	1	F	SHD_397		
+SHD_129	C	main	G	1	F	SHD_398		
+SHD_130	C	main	G	3	F	SHD_399		
+SHD_131	C	main	G	3	F	SHD_400		
+SHD_132	R	main	G	7	F	SHD_401		
+SHD_133	U	main	RK	1	F	SHD_402		
+SHD_134	C	main	RK	1	F	SHD_403		
+SHD_135	L	main	RK	2	F	SHD_404		
+SHD_136	C	main	RK	3	F	SHD_405		
+SHD_137	U	main	RK	3	F	SHD_406		
+SHD_138	R	main	RK	4	F	SHD_407		
+SHD_139	U	main	RK	5	F	SHD_408		
+SHD_140	C	main	RK	5	F	SHD_409		
+SHD_141	L	main	RK	6	F	SHD_410		
+SHD_142	R	main	RK	7	F	SHD_411		
+SHD_143	R	main	RK	1	F	SHD_412		
+SHD_144	R	main	RK	1	F	SHD_413		
+SHD_145	U	main	RK	2	F	SHD_414		
+SHD_146	C	main	RH	2	F	SHD_415		
+SHD_147	U	main	RH	2	F	SHD_416		
+SHD_148	U	main	RH	3	F	SHD_417		
+SHD_149	C	main	RH	3	F	SHD_418		
+SHD_150	R	main	RH	4	F	SHD_419		
+SHD_151	U	main	RH	4	F	SHD_420		
+SHD_152	C	main	RH	5	F	SHD_421		
+SHD_153	L	main	RH	5	F	SHD_422		
+SHD_154	R	main	RH	6	F	SHD_423		
+SHD_155	R	main	RH	1	F	SHD_424		
+SHD_156	U	main	RH	2	F	SHD_425		
+SHD_157	U	main	RR	2	F	SHD_426		
+SHD_158	R	main	RR	6	F	SHD_427		
+SHD_159	R	main	RR	3	F	SHD_428		
+SHD_160	C	main	R	1	F	SHD_429		
+SHD_161	R	main	R	1	F	SHD_430		
+SHD_162	C	main	R	2	F	SHD_431		
+SHD_163	R	main	R	2	F	SHD_432		
+SHD_164	C	main	R	2	F	SHD_433		
+SHD_165	U	main	R	3	F	SHD_434		
+SHD_166	C	main	R	3	F	SHD_435		
+SHD_167	C	main	R	3	F	SHD_436		
+SHD_168	C	main	R	4	F	SHD_437		
+SHD_169	C	main	R	5	F	SHD_438		
+SHD_170	U	main	R	5	F	SHD_439		
+SHD_171	C	main	R	6	F	SHD_440		
+SHD_172	L	main	R	9	F	SHD_441		
+SHD_173	U	main	R	0	F	SHD_442		
+SHD_174	R	main	R	1	F	SHD_443		
+SHD_175	U	main	R	2	F	SHD_444		
+SHD_176	C	main	R	2	F	SHD_445		
+SHD_177	R	main	R	3	F	SHD_446		
+SHD_178	C	main	R	1	F	SHD_447		
+SHD_179	C	main	R	1	F	SHD_448		
+SHD_180	C	main	R	3	F	SHD_449		
+SHD_181	C	main	R	4	F	SHD_450		
+SHD_182	U	main	R	5	F	SHD_451		
+SHD_183	C	main	YK	1	F	SHD_452		
+SHD_184	R	main	YK	2	F	SHD_453		
+SHD_185	R	main	YK	2	F	SHD_454		
+SHD_186	C	main	YK	3	F	SHD_455		
+SHD_187	U	main	YK	3	F	SHD_456		
+SHD_188	U	main	YK	4	F	SHD_457		
+SHD_189	C	main	YK	5	F	SHD_458		
+SHD_190	U	main	YK	5	F	SHD_459		
+SHD_191	R	main	YK	6	F	SHD_460		
+SHD_192	L	main	YK	7	F	SHD_461		
+SHD_193	U	main	YK	3	F	SHD_462		
+SHD_194	R	main	YK	3	F	SHD_463		
+SHD_195	C	main	YH	1	F	SHD_464		
+SHD_196	S	main	YH	2				
+SHD_197	U	main	YH	2	F	SHD_465		
+SHD_198	R	main	YH	2	F	SHD_466		
+SHD_199	U	main	YH	3	F	SHD_467		
+SHD_200	C	main	YH	3	F	SHD_468		
+SHD_201	C	main	YH	4	F	SHD_469		
+SHD_202	R	main	YH	4	F	SHD_470		
+SHD_203	R	main	YH	5	F	SHD_471		
+SHD_204	U	main	YH	6	F	SHD_472		
+SHD_205	R	main	YH	2	F	SHD_473		
+SHD_206	U	main	YH	3	F	SHD_474		
+SHD_207	U	main	YY	2	F	SHD_475		
+SHD_208	L	main	YY	6	F	SHD_476		
+SHD_209	C	main	Y	1	F	SHD_477		
+SHD_210	C	main	Y	2	F	SHD_478		
+SHD_211	C	main	Y	2	F	SHD_479		
+SHD_212	C	main	Y	2	F	SHD_480		
+SHD_213	L	main	Y	3	F	SHD_481		
+SHD_214	C	main	Y	3	F	SHD_482		
+SHD_215	C	main	Y	3	F	SHD_483		
+SHD_216	C	main	Y	4	F	SHD_484		
+SHD_217	R	main	Y	4	F	SHD_485		
+SHD_218	C	main	Y	5	F	SHD_486		
+SHD_219	U	main	Y	6	F	SHD_487		
+SHD_220	U	main	Y	7	F	SHD_488		
+SHD_221	C	main	Y	0	F	SHD_489		
+SHD_222	U	main	Y	1	F	SHD_490		
+SHD_223	S	main	Y	1				
+SHD_224	R	main	Y	2	F	SHD_491		
+SHD_225	U	main	Y	2	F	SHD_492		
+SHD_226	R	main	Y	2	F	SHD_493		
+SHD_227	C	main	Y	0	F	SHD_494		
+SHD_228	U	main	Y	1	F	SHD_495		
+SHD_229	C	main	Y	1	F	SHD_496		
+SHD_230	R	main	Y	1	F	SHD_497		
+SHD_231	C	main	Y	2	F	SHD_498		
+SHD_232	C	main	Y	3	F	SHD_499		
+SHD_233	L	main	Y	6	F	SHD_500		
+SHD_234	S	main	K	2				
+SHD_235	C	main	K	2	F	SHD_501		
+SHD_236	S	main	K	2				
+SHD_237	C	main	K	3	F	SHD_502		
+SHD_238	S	main	K	3				
+SHD_239	U	main	K	3	F	SHD_503		
+SHD_240	C	main	K	4	F	SHD_504		
+SHD_241	R	main	K	6	F	SHD_505		
+SHD_242	S	main	K	8				
+SHD_243	R	main	K	1	F	SHD_506		
+SHD_244	C	main	K	3	F	SHD_507		
+SHD_245	S	main	H	2				
+SHD_246	C	main	H	2	F	SHD_508		
+SHD_247	C	main	H	3	F	SHD_509		
+SHD_248	R	main	H	3	F	SHD_510		
+SHD_249	C	main	H	4	F	SHD_511		
+SHD_250	R	main	H	7	F	SHD_512		
+SHD_251	S	main	H	3				
+SHD_252	C	main	H	1	F	SHD_513		
+SHD_253	U	main	H	2	F	SHD_514		
+SHD_254	C	main		1	F	SHD_515		
+SHD_255	U	main		1	F	SHD_516		
+SHD_256	U	main		2	F	SHD_517		
+SHD_257	C	main		2	F	SHD_518		
+SHD_258	C	main		3	F	SHD_519		
+SHD_259	C	main		3	F	SHD_520		
+SHD_260	C	main		5	F	SHD_521		
+SHD_261	C	main		1	F	SHD_522		
+SHD_262	S	main		1				

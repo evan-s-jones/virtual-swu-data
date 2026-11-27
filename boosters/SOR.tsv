@@ -1,0 +1,255 @@
+#set	SOR	block	0
+#rarity C/U/R/L/S; slot leader/base/main; aspects B=Vigilance G=Command R=Aggression Y=Cunning H=Heroism K=Villainy; flags F=has a foil printing; hs/showcase/prestige = card ids
+#id	rarity	slot	aspects	cost	flags	hs	showcase	prestige
+SOR_001	C	leader	BK	5		SOR_269	SOR_253	
+SOR_002	R	leader	BK	6		SOR_270	SOR_254	
+SOR_003	C	leader	BH	7		SOR_271	SOR_255	
+SOR_004	R	leader	BH	5		SOR_272	SOR_256	
+SOR_005	S	leader	BH	6				
+SOR_006	R	leader	GK	8		SOR_273	SOR_257	
+SOR_007	C	leader	GK	5		SOR_274	SOR_258	
+SOR_008	R	leader	GH	6		SOR_275	SOR_259	
+SOR_009	C	leader	GH	5		SOR_276	SOR_260	
+SOR_010	S	leader	RK	7				
+SOR_011	R	leader	RK	6		SOR_277	SOR_261	
+SOR_012	C	leader	RK	5		SOR_278	SOR_262	
+SOR_013	R	leader	RH	6		SOR_279	SOR_263	
+SOR_014	C	leader	RH	4		SOR_280	SOR_264	
+SOR_015	C	leader	YK	5		SOR_281	SOR_265	
+SOR_016	R	leader	YK	6		SOR_282	SOR_266	
+SOR_017	R	leader	YH	6		SOR_283	SOR_267	
+SOR_018	C	leader	YH	6		SOR_284	SOR_268	
+SOR_019	R	base	B		F	SOR_285		
+SOR_020	C	base	B			SOR_286		
+SOR_021	C	base	B			SOR_287		
+SOR_022	R	base	G		F	SOR_288		
+SOR_023	C	base	G			SOR_289		
+SOR_024	C	base	G			SOR_290		
+SOR_025	R	base	R		F	SOR_291		
+SOR_026	C	base	R			SOR_292		
+SOR_027	C	base	R			SOR_293		
+SOR_028	R	base	Y		F	SOR_294		
+SOR_029	C	base	Y			SOR_295		
+SOR_030	C	base	Y			SOR_296		
+SOR_031	U	main	BK	2	F	SOR_297		
+SOR_032	C	main	BK	2	F	SOR_298		
+SOR_033	C	main	BK	3	F	SOR_299		
+SOR_034	R	main	BK	3	F	SOR_300		
+SOR_035	U	main	BK	4	F	SOR_301		
+SOR_036	R	main	BK	5	F	SOR_302		
+SOR_037	C	main	BK	6	F	SOR_303		
+SOR_038	R	main	BK	7	F	SOR_304		
+SOR_039	U	main	BK	8	F	SOR_305		
+SOR_040	L	main	BK	9	F	SOR_306		
+SOR_041	U	main	BK	3	F	SOR_307		
+SOR_042	R	main	BK	4	F	SOR_308		
+SOR_043	L	main	BK	8	F	SOR_309		
+SOR_044	C	main	BH	2	F	SOR_310		
+SOR_045	U	main	BH	3	F	SOR_311		
+SOR_046	C	main	BH	4	F	SOR_312		
+SOR_047	U	main	BH	4	F	SOR_313		
+SOR_048	C	main	BH	5	F	SOR_314		
+SOR_049	R	main	BH	6	F	SOR_315		
+SOR_050	U	main	BH	6	F	SOR_316		
+SOR_051	L	main	BH	7	F	SOR_317		
+SOR_052	R	main	BH	8	F	SOR_318		
+SOR_053	S	main	BH	2				
+SOR_054	R	main	BH	3	F	SOR_319		
+SOR_055	U	main	BH	4	F	SOR_320		
+SOR_056	R	main	BB	6	F	SOR_321		
+SOR_057	U	main	BB	1	F	SOR_322		
+SOR_058	L	main	BB	4	F	SOR_323		
+SOR_059	C	main	B	1	F	SOR_324		
+SOR_060	U	main	B	2	F	SOR_325		
+SOR_061	C	main	B	2	F	SOR_326		
+SOR_062	R	main	B	2	F	SOR_327		
+SOR_063	C	main	B	3	F	SOR_328		
+SOR_064	C	main	B	3	F	SOR_329		
+SOR_065	U	main	B	4	F	SOR_330		
+SOR_066	C	main	B	4	F	SOR_331		
+SOR_067	C	main	B	5	F	SOR_332		
+SOR_068	C	main	B	6	F	SOR_333		
+SOR_069	C	main	B	1	F	SOR_334		
+SOR_070	U	main	B	2	F	SOR_335		
+SOR_071	R	main	B	2	F	SOR_336		
+SOR_072	U	main	B	2	F	SOR_337		
+SOR_073	C	main	B	1	F	SOR_338		
+SOR_074	C	main	B	1	F	SOR_339		
+SOR_075	R	main	B	2	F	SOR_340		
+SOR_076	C	main	B	3	F	SOR_341		
+SOR_077	U	main	B	4	F	SOR_342		
+SOR_078	C	main	B	5	F	SOR_343		
+SOR_079	U	main	GK	2	F	SOR_344		
+SOR_080	U	main	GK	2	F	SOR_345		
+SOR_081	C	main	GK	2	F	SOR_346		
+SOR_082	R	main	GK	3	F	SOR_347		
+SOR_083	C	main	GK	3	F	SOR_348		
+SOR_084	S	main	GK	4				
+SOR_085	R	main	GK	5	F	SOR_349		
+SOR_086	C	main	GK	6	F	SOR_350		
+SOR_087	L	main	GK	7	F	SOR_351		
+SOR_088	U	main	GK	8	F	SOR_352		
+SOR_089	R	main	GK	9	F	SOR_353		
+SOR_090	L	main	GK	10	F	SOR_354		
+SOR_091	R	main	GK	2	F	SOR_355		
+SOR_092	U	main	GK	5	F	SOR_356		
+SOR_093	C	main	GH	1	F	SOR_357		
+SOR_094	R	main	GH	1	F	SOR_358		
+SOR_095	C	main	GH	2	F	SOR_359		
+SOR_096	U	main	GH	2	F	SOR_360		
+SOR_097	R	main	GH	3	F	SOR_361		
+SOR_098	C	main	GH	3	F	SOR_362		
+SOR_099	U	main	GH	4	F	SOR_363		
+SOR_100	R	main	GH	5	F	SOR_364		
+SOR_101	U	main	GH	6	F	SOR_365		
+SOR_102	L	main	GH	8	F	SOR_366		
+SOR_103	U	main	GH	1	F	SOR_367		
+SOR_104	R	main	GH	7	F	SOR_368		
+SOR_105	R	main	GG	5	F	SOR_369		
+SOR_106	U	main	GG	3	F	SOR_370		
+SOR_107	L	main	GG	4	F	SOR_371		
+SOR_108	C	main	G	1	F	SOR_372		
+SOR_109	U	main	G	2	F	SOR_373		
+SOR_110	R	main	G	2	F	SOR_374		
+SOR_111	C	main	G	2	F	SOR_375		
+SOR_112	C	main	G	3	F	SOR_376		
+SOR_113	C	main	G	3	F	SOR_377		
+SOR_114	C	main	G	4	F	SOR_378		
+SOR_115	R	main	G	5	F	SOR_379		
+SOR_116	C	main	G	5	F	SOR_380		
+SOR_117	C	main	G	6	F	SOR_381		
+SOR_118	U	main	G	7	F	SOR_382		
+SOR_119	U	main	G	8	F	SOR_383		
+SOR_120	C	main	G	2	F	SOR_384		
+SOR_121	U	main	G	2	F	SOR_385		
+SOR_122	R	main	G	5	F	SOR_386		
+SOR_123	C	main	G	1	F	SOR_387		
+SOR_124	C	main	G	1	F	SOR_388		
+SOR_125	U	main	G	2	F	SOR_389		
+SOR_126	C	main	G	3	F	SOR_390		
+SOR_127	C	main	G	3	F	SOR_391		
+SOR_128	C	main	RK	1	F	SOR_392		
+SOR_129	U	main	RK	2	F	SOR_393		
+SOR_130	C	main	RK	2	F	SOR_394		
+SOR_131	U	main	RK	3	F	SOR_395		
+SOR_132	C	main	RK	4	F	SOR_396		
+SOR_133	R	main	RK	5	F	SOR_397		
+SOR_134	U	main	RK	6	F	SOR_398		
+SOR_135	R	main	RK	8	F	SOR_399		
+SOR_136	S	main	RK	2				
+SOR_137	R	main	RK	3	F	SOR_400		
+SOR_138	L	main	RK	1	F	SOR_401		
+SOR_139	U	main	RK	2	F	SOR_402		
+SOR_140	C	main	RH	1	F	SOR_403		
+SOR_141	C	main	RH	2	F	SOR_404		
+SOR_142	U	main	RH	2	F	SOR_405		
+SOR_143	U	main	RH	3	F	SOR_406		
+SOR_144	R	main	RH	3	F	SOR_407		
+SOR_145	R	main	RH	4	F	SOR_408		
+SOR_146	U	main	RH	5	F	SOR_409		
+SOR_147	L	main	RH	6	F	SOR_410		
+SOR_148	C	main	RH	6	F	SOR_411		
+SOR_149	L	main	RH	7	F	SOR_412		
+SOR_150	R	main	RH	1	F	SOR_413		
+SOR_151	U	main	RH	2	F	SOR_414		
+SOR_152	R	main	RH	3	F	SOR_415		
+SOR_153	R	main	RR	4	F	SOR_416		
+SOR_154	U	main	RR	3	F	SOR_417		
+SOR_155	L	main	RR	4	F	SOR_418		
+SOR_156	U	main	R	1	F	SOR_419		
+SOR_157	C	main	R	1	F	SOR_420		
+SOR_158	C	main	R	2	F	SOR_421		
+SOR_159	C	main	R	2	F	SOR_422		
+SOR_160	R	main	R	2	F	SOR_423		
+SOR_161	C	main	R	3	F	SOR_424		
+SOR_162	C	main	R	3	F	SOR_425		
+SOR_163	U	main	R	3	F	SOR_426		
+SOR_164	C	main	R	4	F	SOR_427		
+SOR_165	C	main	R	5	F	SOR_428		
+SOR_166	C	main	R	1	F	SOR_429		
+SOR_167	U	main	R	1	F	SOR_430		
+SOR_168	C	main	R	1	F	SOR_431		
+SOR_169	C	main	R	2	F	SOR_432		
+SOR_170	U	main	R	2	F	SOR_433		
+SOR_171	C	main	R	3	F	SOR_434		
+SOR_172	C	main	R	3	F	SOR_435		
+SOR_173	R	main	R	5	F	SOR_436		
+SOR_174	R	main	R	5	F	SOR_437		
+SOR_175	U	main	R	6	F	SOR_438		
+SOR_176	C	main	YK	1	F	SOR_439		
+SOR_177	U	main	YK	2	F	SOR_440		
+SOR_178	U	main	YK	2	F	SOR_441		
+SOR_179	L	main	YK	3	F	SOR_442		
+SOR_180	C	main	YK	3	F	SOR_443		
+SOR_181	R	main	YK	4	F	SOR_444		
+SOR_182	U	main	YK	5	F	SOR_445		
+SOR_183	C	main	YK	6	F	SOR_446		
+SOR_184	R	main	YK	6	F	SOR_447		
+SOR_185	R	main	YK	8	F	SOR_448		
+SOR_186	U	main	YK	2	F	SOR_449		
+SOR_187	R	main	YK	7	F	SOR_450		
+SOR_188	R	main	YH	1	F	SOR_451		
+SOR_189	S	main	YH	2				
+SOR_190	C	main	YH	2	F	SOR_452		
+SOR_191	U	main	YH	2	F	SOR_453		
+SOR_192	U	main	YH	3	F	SOR_454		
+SOR_193	L	main	YH	3	F	SOR_455		
+SOR_194	C	main	YH	3	F	SOR_456		
+SOR_195	C	main	YH	4	F	SOR_457		
+SOR_196	U	main	YH	5	F	SOR_458		
+SOR_197	R	main	YH	6	F	SOR_459		
+SOR_198	R	main	YH	7	F	SOR_460		
+SOR_199	U	main	YH	2	F	SOR_461		
+SOR_200	R	main	YH	2	F	SOR_462		
+SOR_201	R	main	YY	3	F	SOR_463		
+SOR_202	U	main	YY	5	F	SOR_464		
+SOR_203	L	main	YY	4	F	SOR_465		
+SOR_204	U	main	Y	1	F	SOR_466		
+SOR_205	C	main	Y	1	F	SOR_467		
+SOR_206	C	main	Y	1	F	SOR_468		
+SOR_207	C	main	Y	2	F	SOR_469		
+SOR_208	C	main	Y	2	F	SOR_470		
+SOR_209	U	main	Y	2	F	SOR_471		
+SOR_210	C	main	Y	3	F	SOR_472		
+SOR_211	C	main	Y	4	F	SOR_473		
+SOR_212	R	main	Y	4	F	SOR_474		
+SOR_213	C	main	Y	5	F	SOR_475		
+SOR_214	U	main	Y	1	F	SOR_476		
+SOR_215	C	main	Y	1	F	SOR_477		
+SOR_216	C	main	Y	1	F	SOR_478		
+SOR_217	U	main	Y	1	F	SOR_479		
+SOR_218	C	main	Y	2	F	SOR_480		
+SOR_219	R	main	Y	2	F	SOR_481		
+SOR_220	C	main	Y	2	F	SOR_482		
+SOR_221	U	main	Y	3	F	SOR_483		
+SOR_222	C	main	Y	3	F	SOR_484		
+SOR_223	R	main	Y	4	F	SOR_485		
+SOR_224	L	main	Y	6	F	SOR_486		
+SOR_225	C	main	K	1	F	SOR_487		
+SOR_226	S	main	K	2				
+SOR_227	C	main	K	2	F	SOR_488		
+SOR_228	C	main	K	2	F	SOR_489		
+SOR_229	C	main	K	3	F	SOR_490		
+SOR_230	U	main	K	3	F	SOR_491		
+SOR_231	U	main	K	4	F	SOR_492		
+SOR_232	C	main	K	6	F	SOR_493		
+SOR_233	S	main	K	3				
+SOR_234	C	main	K	4	F	SOR_494		
+SOR_235	R	main	K	7	F	SOR_495		
+SOR_236	S	main	H	1				
+SOR_237	C	main	H	2	F	SOR_496		
+SOR_238	S	main	H	2				
+SOR_239	C	main	H	2	F	SOR_497		
+SOR_240	C	main	H	3	F	SOR_498		
+SOR_241	U	main	H	3	F	SOR_499		
+SOR_242	U	main	H	4	F	SOR_500		
+SOR_243	C	main	H	4	F	SOR_501		
+SOR_244	C	main	H	5	F	SOR_502		
+SOR_245	C	main	H	0	F	SOR_503		
+SOR_246	R	main	H	3	F	SOR_504		
+SOR_247	C	main		2	F	SOR_505		
+SOR_248	C	main		3	F	SOR_506		
+SOR_249	C	main		4	F	SOR_507		
+SOR_250	C	main		5	F	SOR_508		
+SOR_251	C	main		1	F	SOR_509		
+SOR_252	C	main		1	F	SOR_510		

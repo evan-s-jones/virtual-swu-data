@@ -1,0 +1,260 @@
+#set	TWI	block	0
+#rarity C/U/R/L/S; slot leader/base/main; aspects B=Vigilance G=Command R=Aggression Y=Cunning H=Heroism K=Villainy; flags F=has a foil printing; hs/showcase/prestige = card ids
+#id	rarity	slot	aspects	cost	flags	hs	showcase	prestige
+TWI_001	R	leader	BK	4		TWI_276	TWI_258	
+TWI_002	C	leader	BK	6		TWI_277	TWI_259	
+TWI_003	C	leader	BH	6		TWI_278	TWI_260	
+TWI_004	R	leader	BH	7		TWI_279	TWI_261	
+TWI_005	C	leader	GK	7		TWI_280	TWI_262	
+TWI_006	R	leader	GK	5		TWI_281	TWI_263	
+TWI_007	R	leader	GH	5		TWI_282	TWI_264	
+TWI_008	C	leader	GH	5		TWI_283	TWI_265	
+TWI_009	C	leader	RK	6		TWI_284	TWI_266	
+TWI_010	R	leader	RK	5		TWI_285	TWI_267	
+TWI_011	S	leader	RH	5			TWI_268	
+TWI_012	C	leader	RH	6		TWI_287	TWI_269	
+TWI_013	R	leader	RH	7		TWI_288	TWI_270	
+TWI_014	R	leader	YK	4		TWI_289	TWI_271	
+TWI_015	S	leader	YK	6			TWI_272	
+TWI_016	C	leader	YK	5		TWI_291	TWI_273	
+TWI_017	R	leader	YHK	0		TWI_292	TWI_274	
+TWI_018	C	leader	YH	5		TWI_293	TWI_275	
+TWI_019	R	base	B		F	TWI_294		
+TWI_020	C	base	B			TWI_295		
+TWI_021	C	base	B			TWI_296		
+TWI_022	R	base	G		F	TWI_297		
+TWI_023	C	base	G			TWI_298		
+TWI_024	C	base	G			TWI_299		
+TWI_025	R	base	R		F	TWI_300		
+TWI_026	C	base	R			TWI_301		
+TWI_027	C	base	R			TWI_302		
+TWI_028	R	base	Y		F	TWI_303		
+TWI_029	C	base	Y			TWI_518		
+TWI_030	C	base	Y			TWI_519		
+TWI_031	U	main	BK	2	F	TWI_304		
+TWI_032	C	main	BK	2	F	TWI_305		
+TWI_033	U	main	BK	3	F	TWI_306		
+TWI_034	L	main	BK	3	F	TWI_307		
+TWI_035	R	main	BK	4	F	TWI_308		
+TWI_036	C	main	BK	5	F	TWI_309		
+TWI_037	C	main	BK	6	F	TWI_310		
+TWI_038	U	main	BK	8	F	TWI_311		
+TWI_039	R	main	BK	9	F	TWI_312		
+TWI_040	R	main	BK	0	F	TWI_313		
+TWI_041	U	main	BK	4	F	TWI_314		
+TWI_042	R	main	BH	1	F	TWI_315		
+TWI_043	C	main	BH	2	F	TWI_316		
+TWI_044	U	main	BH	2	F	TWI_317		
+TWI_045	C	main	BH	3	F	TWI_318		
+TWI_046	U	main	BH	3	F	TWI_319		
+TWI_047	L	main	BH	4	F	TWI_320		
+TWI_048	U	main	BH	5	F	TWI_321		
+TWI_049	C	main	BH	6	F	TWI_322		
+TWI_050	R	main	BH	7	F	TWI_323		
+TWI_051	R	main	BH	3	F	TWI_324		
+TWI_052	U	main	BH	3	F	TWI_325		
+TWI_053	R	main	BB	3	F	TWI_326		
+TWI_054	U	main	BB	3	F	TWI_327		
+TWI_055	R	main	BB	3	F	TWI_328		
+TWI_056	U	main	B	1	F	TWI_329		
+TWI_057	C	main	B	1	F	TWI_330		
+TWI_058	C	main	B	2	F	TWI_331		
+TWI_059	C	main	B	2	F	TWI_332		
+TWI_060	C	main	B	3	F	TWI_333		
+TWI_061	C	main	B	3	F	TWI_334		
+TWI_062	C	main	B	4	F	TWI_335		
+TWI_063	U	main	B	4	F	TWI_336		
+TWI_064	L	main	B	5	F	TWI_337		
+TWI_065	C	main	B	6	F	TWI_338		
+TWI_066	C	main	B	7	F	TWI_339		
+TWI_067	R	main	B	9	F	TWI_340		
+TWI_068	R	main	B	1	F	TWI_341		
+TWI_069	R	main	B	1	F	TWI_342		
+TWI_070	C	main	B	3	F	TWI_343		
+TWI_071	U	main	B	4	F	TWI_344		
+TWI_072	R	main	B	1	F	TWI_345		
+TWI_073	C	main	B	2	F	TWI_346		
+TWI_074	C	main	B	2	F	TWI_347		
+TWI_075	U	main	B	3	F	TWI_348		
+TWI_076	U	main	B	5	F	TWI_349		
+TWI_077	C	main	B	5	F	TWI_350		
+TWI_078	L	main	B	15	F	TWI_351		
+TWI_079	C	main	GK	2	F	TWI_352		
+TWI_080	R	main	GK	2	F	TWI_353		
+TWI_081	C	main	GK	3	F	TWI_354		
+TWI_082	U	main	GK	3	F	TWI_355		
+TWI_083	S	main	GK	4				
+TWI_084	U	main	GK	5	F	TWI_356		
+TWI_085	R	main	GK	6	F	TWI_357		
+TWI_086	U	main	GK	7	F	TWI_358		
+TWI_087	C	main	GK	9	F	TWI_359		
+TWI_088	U	main	GK	3	F	TWI_360		
+TWI_089	R	main	GK	6	F	TWI_361		
+TWI_090	U	main	GH	2	F	TWI_362		
+TWI_091	C	main	GH	2	F	TWI_363		
+TWI_092	R	main	GH	3	F	TWI_364		
+TWI_093	C	main	GH	3	F	TWI_365		
+TWI_094	U	main	GH	4	F	TWI_366		
+TWI_095	C	main	GH	5	F	TWI_367		
+TWI_096	L	main	GH	5	F	TWI_368		
+TWI_097	S	main	GH	6				
+TWI_098	U	main	GH	11	F	TWI_369		
+TWI_099	U	main	GH	2	F	TWI_370		
+TWI_100	R	main	GH	3	F	TWI_371		
+TWI_101	R	main	GG	2	F	TWI_372		
+TWI_102	U	main	GG	3	F	TWI_373		
+TWI_103	L	main	GG	3	F	TWI_374		
+TWI_104	C	main	G	1	F	TWI_375		
+TWI_105	U	main	G	1	F	TWI_376		
+TWI_106	C	main	G	2	F	TWI_377		
+TWI_107	S	main	G	2				
+TWI_108	C	main	G	2	F	TWI_378		
+TWI_109	C	main	G	3	F	TWI_379		
+TWI_110	R	main	G	3	F	TWI_380		
+TWI_111	C	main	G	3	F	TWI_381		
+TWI_112	C	main	G	4	F	TWI_382		
+TWI_113	C	main	G	5	F	TWI_383		
+TWI_114	U	main	G	5	F	TWI_384		
+TWI_115	U	main	G	6	F	TWI_385		
+TWI_116	L	main	G	7	F	TWI_386		
+TWI_117	C	main	G	8	F	TWI_387		
+TWI_118	L	main	G	12	F	TWI_388		
+TWI_119	U	main	G	1	F	TWI_389		
+TWI_120	C	main	G	1	F	TWI_390		
+TWI_121	R	main	G	3	F	TWI_391		
+TWI_122	U	main	G	3	F	TWI_392		
+TWI_123	S	main	G	1				
+TWI_124	S	main	G	1				
+TWI_125	R	main	G	2	F	TWI_393		
+TWI_126	C	main	G	3	F	TWI_394		
+TWI_127	C	main	G	3	F	TWI_395		
+TWI_128	C	main	G	3	F	TWI_396		
+TWI_129	R	main	G	4	F	TWI_397		
+TWI_130	R	main	RK	2	F	TWI_398		
+TWI_131	C	main	RK	2	F	TWI_399		
+TWI_132	U	main	RK	3	F	TWI_400		
+TWI_133	C	main	RK	3	F	TWI_401		
+TWI_134	U	main	RK	4	F	TWI_402		
+TWI_135	L	main	RK	5	F	TWI_403		
+TWI_136	C	main	RK	6	F	TWI_404		
+TWI_137	U	main	RK	7	F	TWI_405		
+TWI_138	R	main	RK	8	F	TWI_406		
+TWI_139	R	main	RK	1	F	TWI_407		
+TWI_140	U	main	RK	2	F	TWI_408		
+TWI_141	C	main	RH	1	F	TWI_409		
+TWI_142	U	main	RH	2	F	TWI_410		
+TWI_143	R	main	RH	2	F	TWI_411		
+TWI_144	C	main	RH	3	F	TWI_412		
+TWI_145	U	main	RH	3	F	TWI_413		
+TWI_146	R	main	RH	4	F	TWI_414		
+TWI_147	S	main	RH	5				
+TWI_148	C	main	RH	5	F	TWI_415		
+TWI_149	U	main	RH	6	F	TWI_416		
+TWI_150	R	main	RH	6	F	TWI_417		
+TWI_151	L	main	RH	10	F	TWI_418		
+TWI_152	R	main	RH	2	F	TWI_419		
+TWI_153	U	main	RH	3	F	TWI_420		
+TWI_154	R	main	RR	1	F	TWI_421		
+TWI_155	U	main	RR	2	F	TWI_422		
+TWI_156	L	main	RR	6	F	TWI_423		
+TWI_157	U	main	R	1	F	TWI_424		
+TWI_158	C	main	R	2	F	TWI_425		
+TWI_159	C	main	R	2	F	TWI_426		
+TWI_160	C	main	R	2	F	TWI_427		
+TWI_161	C	main	R	3	F	TWI_428		
+TWI_162	C	main	R	3	F	TWI_429		
+TWI_163	C	main	R	4	F	TWI_430		
+TWI_164	U	main	R	4	F	TWI_431		
+TWI_165	R	main	R	6	F	TWI_432		
+TWI_166	U	main	R	7	F	TWI_433		
+TWI_167	C	main	R	7	F	TWI_434		
+TWI_168	C	main	R	1	F	TWI_435		
+TWI_169	U	main	R	2	F	TWI_436		
+TWI_170	C	main	R	1	F	TWI_437		
+TWI_171	C	main	R	2	F	TWI_438		
+TWI_172	C	main	R	2	F	TWI_439		
+TWI_173	U	main	R	3	F	TWI_440		
+TWI_174	S	main	R	3				
+TWI_175	C	main	R	5	F	TWI_441		
+TWI_176	R	main	R	6	F	TWI_442		
+TWI_177	R	main	R	8	F	TWI_443		
+TWI_178	L	main	R	12	F	TWI_444		
+TWI_179	U	main	YK	1	F	TWI_445		
+TWI_180	S	main	YK	2				
+TWI_181	C	main	YK	3	F	TWI_446		
+TWI_182	C	main	YK	4	F	TWI_447		
+TWI_183	R	main	YK	4	F	TWI_448		
+TWI_184	U	main	YK	5	F	TWI_449		
+TWI_185	U	main	YK	5	F	TWI_450		
+TWI_186	R	main	YK	6	F	TWI_451		
+TWI_187	L	main	YK	7	F	TWI_452		
+TWI_188	U	main	YK	1	F	TWI_453		
+TWI_189	R	main	YK	3	F	TWI_454		
+TWI_190	C	main	YK	4	F	TWI_455		
+TWI_191	C	main	YH	1	F	TWI_456		
+TWI_192	U	main	YH	2	F	TWI_457		
+TWI_193	U	main	YH	2	F	TWI_458		
+TWI_194	L	main	YH	3	F	TWI_459		
+TWI_195	R	main	YH	4	F	TWI_460		
+TWI_196	U	main	YH	5	F	TWI_461		
+TWI_197	C	main	YH	6	F	TWI_462		
+TWI_198	R	main	YH	7	F	TWI_463		
+TWI_199	U	main	YH	2	F	TWI_464		
+TWI_200	C	main	YH	2	F	TWI_465		
+TWI_201	R	main	YH	5	F	TWI_466		
+TWI_202	U	main	YY	2	F	TWI_467		
+TWI_203	L	main	YY	4	F	TWI_468		
+TWI_204	R	main	YY	4	F	TWI_469		
+TWI_205	C	main	Y	1	F	TWI_470		
+TWI_206	U	main	Y	1	F	TWI_471		
+TWI_207	C	main	Y	2	F	TWI_472		
+TWI_208	C	main	Y	2	F	TWI_473		
+TWI_209	C	main	Y	2	F	TWI_474		
+TWI_210	U	main	Y	2	F	TWI_475		
+TWI_211	R	main	Y	3	F	TWI_476		
+TWI_212	C	main	Y	3	F	TWI_477		
+TWI_213	U	main	Y	3	F	TWI_478		
+TWI_214	C	main	Y	4	F	TWI_479		
+TWI_215	C	main	Y	5	F	TWI_480		
+TWI_216	R	main	Y	5	F	TWI_481		
+TWI_217	C	main	Y	7	F	TWI_482		
+TWI_218	C	main	Y	1	F	TWI_483		
+TWI_219	U	main	Y	2	F	TWI_484		
+TWI_220	R	main	Y	3	F	TWI_485		
+TWI_221	C	main	Y	0	F	TWI_486		
+TWI_222	C	main	Y	1	F	TWI_487		
+TWI_223	R	main	Y	1	F	TWI_488		
+TWI_224	C	main	Y	2	F	TWI_489		
+TWI_225	L	main	Y	3	F	TWI_490		
+TWI_226	S	main	Y	3				
+TWI_227	U	main	Y	4	F	TWI_491		
+TWI_228	C	main	K	1	F	TWI_492		
+TWI_229	S	main	K	3				
+TWI_230	C	main	K	3	F	TWI_493		
+TWI_231	C	main	K	4	F	TWI_494		
+TWI_232	C	main	K	5	F	TWI_495		
+TWI_233	C	main	K	8	F	TWI_496		
+TWI_234	R	main	K	8	F	TWI_497		
+TWI_235	U	main	K	9	F	TWI_498		
+TWI_236	S	main	K	4				
+TWI_237	C	main	K	2	F	TWI_499		
+TWI_238	C	main	K	3	F	TWI_500		
+TWI_239	R	main	K	4	F	TWI_501		
+TWI_240	S	main	H	1				
+TWI_241	C	main	H	2	F	TWI_502		
+TWI_242	C	main	H	3	F	TWI_503		
+TWI_243	C	main	H	3	F	TWI_504		
+TWI_244	C	main	H	5	F	TWI_505		
+TWI_245	C	main	H	6	F	TWI_506		
+TWI_246	R	main	H	7	F	TWI_507		
+TWI_247	U	main	H	8	F	TWI_508		
+TWI_248	S	main	H	1				
+TWI_249	C	main	H	2	F	TWI_509		
+TWI_250	U	main	H	2	F	TWI_510		
+TWI_251	C	main	H	4	F	TWI_511		
+TWI_252	C	main		2	F	TWI_512		
+TWI_253	C	main		2	F	TWI_513		
+TWI_254	C	main		3	F	TWI_514		
+TWI_255	R	main		4	F	TWI_515		
+TWI_256	C	main		1	F	TWI_516		
+TWI_257	U	main		2	F	TWI_517		
